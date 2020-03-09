@@ -66,7 +66,7 @@
          <div type="commentary">
             <p>
               The text follows the edition of J. Ramayya Pantulu in <bibl rend="omitname"><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">337</citedRange><citedRange unit="item">621</citedRange></bibl> in absence of a picture.
-              In regard to the date given in lines 6-7 J. Ramayya Pantulu notes that <cit><bibl><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">342</citedRange></bibl><quote>After the figure ౮ in line 6 there is a curved line. It is presumed to be an accidental stroke not intended to represent any figure.</quote></cit>
+              In regard to the date given in lines 6-7 J. Ramayya Pantulu notes that <cit><quote>After the figure ౮ in line 6 there is a curved line. It is presumed to be an accidental stroke not intended to represent any figure.</quote><bibl><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">342</citedRange></bibl></cit>
             </p>
          </div>
         <div type="bibliography">

@@ -89,7 +89,7 @@
         <div type="bibliography">
 	<p>
               The inscription was noted in A. R. No. 307 of 1922 <!-- has to be adjusted to the @target --> and first published by J. Ramayya Pantulu in <bibl rend="omitname"><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">339</citedRange><citedRange unit="item">627</citedRange></bibl> with few metadata and without translation.
-              K. M. Sastry, while relying on J. Ramayya Pantulu's edition, provides a partial translation and and a short note: <cit><bibl rend="omitname"><ptr target="bib:Sastri1969_01"/><citedRange unit="page">339</citedRange><citedRange unit="item">81</citedRange></bibl><quote>Refers to a certain Pōrirāju and the grant of a pannasa.</quote></cit>.
+              K. M. Sastry, while relying on J. Ramayya Pantulu's edition, provides a partial translation and and a short note: <cit><quote>Refers to a certain Pōrirāju and the grant of a pannasa.</quote><bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">339</citedRange><citedRange unit="item">81</citedRange></bibl></cit>.
 	</p>
            <listBibl type="secondary">
               <bibl>A. R. No. 307 of 1922 <!-- has to be adjusted to the @target --></bibl>
