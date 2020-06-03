@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -40,7 +40,7 @@
          </sourceDesc>
       </fileDesc>
      <revisionDesc>
-        <change who="part:jeth" when="2020-05-27" status="draft">Creation of the file</change>
+        <change who="part:jeth" when="2020-05-27" status="draft">Creation of the file and some changes</change>
      </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
@@ -59,7 +59,7 @@
             <p>
               <milestone type="pagelike" unit="faces" n="B"/>
               <lb n="8"/>Ēḻe<unclear cert="low">ri</unclear>
-              <lb n="9"/>pāṟaku
+              <lb n="9"/>pāṟak<supplied reason="undefined">u</supplied>
               <lb n="10"/>Irupa<lb 
                   n="11" break="no"/>diyadi
               <lb n="12"/>Ēnu ma<lb 
@@ -79,7 +79,7 @@
                      <rdg source="bib:RamayyaPantulu1948_01"><gap reason="undefined" unit="character" quantity="1" precision="low"/>nna<gap reason="undefined" unit="character" quantity="1" precision="low"/></rdg>
                   </app>
                   <app loc="9">
-                     <lem>pāṟaku</lem>
+                     <lem>pāṟak<supplied reason="undefined">u</supplied></lem>
                      <rdg source="bib:RamayyaPantulu1948_01">pāṟaka</rdg>
                   </app>
                   <app loc="14">
