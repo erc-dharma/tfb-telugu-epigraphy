@@ -80,7 +80,7 @@
                   n="3" break="no"/>ju</lem>
               <rdg source="bib:RamayyaPantulu1948_01"><gap reason="undefined" unit="character" quantity="4" precision="low"/><unclear>harā</unclear><lb 
                   n="3" break="no"/>ju</rdg>
-              <rdg source="bib:NilakantaSastri+Venkataramanayya1956_01"><gap reason="undefined" unit="line" quantity="1"/><lb 
+              <rdg source="bib:NilakantaSastri+Venkataramayya1956_01"><gap reason="undefined" unit="line" quantity="1"/><lb 
                   n="2" break="no"/>kalmu<unclear>tu</unclear>rā<lb 
                   n="3" break="no"/>ju</rdg>
             </app>
@@ -89,7 +89,7 @@
                   n="4" break="no"/>yu<supplied reason="lost">n</supplied>ṟu</lem>
               <rdg source="bib:RamayyaPantulu1948_01">dhana<unclear>ṁ</unclear>ja<lb 
                   n="5" break="no"/>yu<unclear>nṟu</unclear></rdg>
-              <rdg source="bib:NilakantaSastri+Venkataramanayya1956_01">dhanaṁja<lb 
+              <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">dhanaṁja<lb 
                   n="4" break="no"/>yuṟu</rdg>
             </app>
             <app loc="5">
@@ -101,7 +101,7 @@
                   n="8" break="no"/>pu cēnūru kāj<unclear>u</unclear></lem>
               <rdg source="bib:RamayyaPantulu1948_01"><gap reason="undefined" unit="character" quantity="1"/>
                  <lb n="8"/>praṟṟanūrukā<gap reason="undefined" unit="character" quantity="1"/></rdg>
-              <rdg source="bib:NilakantaSastri+Venkataramanayya1956_01"><unclear>paṁ</unclear><lb 
+              <rdg source="bib:NilakantaSastri+Venkataramayya1956_01"><unclear>paṁ</unclear><lb 
                   n="8" break="no"/>pu cenūrukāju</rdg>
             </app>
             <app loc="9">
@@ -109,13 +109,13 @@
                   n="10" break="no"/><unclear cert="low">ṇa</unclear>vāru U<unclear>ḷi</unclear></lem>
               <rdg source="bib:RamayyaPantulu1948_01">Adhikadhā<gap reason="undefined" unit="character" quantity="3" precision="low"/><lb 
                   n="10" break="no"/><gap reason="undefined" unit="character" quantity="1"/><unclear>vā</unclear>ru<gap reason="undefined" unit="character" quantity="4" precision="low"/></rdg>
-              <rdg source="bib:NilakantaSastri+Venkataramanayya1956_01">Aḻikaḷā <unclear>Ū</unclear>ri<lb 
+              <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">Aḻikaḷā <unclear>Ū</unclear>ri<lb 
                   n="10" break="no"/>ṇḍa vāru <unclear>Ūri</unclear><gap reason="undefined" unit="character" quantity="2" precision="low"/></rdg>
             </app>
             <app loc="16">
               <lem>pātaka<unclear>sa</unclear><lb 
                   n="17" break="no"/><unclear>ka</unclear><gap reason="illegible" unit="character" quantity="1"/></lem>
-              <rdg source="bib:NilakantaSastri+Venkataramanayya1956_01">pātakasa<lb n="16" break="no"/><unclear>ku</unclear></rdg>
+              <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">pātakasa<lb n="16" break="no"/><unclear>ku</unclear></rdg>
             </app>
            </listApp>  
          </div>
@@ -131,13 +131,13 @@
         <div type="bibliography">
           <p>
            The inscription was noted in A. R. No. 380 of 1904 <!-- has to be adjusted to the @target --> and first published by by J. Ramayya Pantulu in <bibl rend="omitname"><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">333</citedRange><citedRange unit="item">607</citedRange></bibl> with few metadata and without translation.
-           It was edited anew by K. A. Nilakanta Sastri and M. Venkataramayya (<bibl rend="omitname"><ptr target="bib:NilakantaSastri+Venkataramanayya1956_01"/><citedRange unit="page">221-225</citedRange><citedRange unit="item">42 A</citedRange></bibl>) with annotations and a picture of face A.
+           It was edited anew by K. A. Nilakanta Sastri and M. Venkataramayya (<bibl rend="omitname"><ptr target="bib:NilakantaSastri+Venkataramayya1956_01"/><citedRange unit="page">221-225</citedRange><citedRange unit="item">42 A</citedRange></bibl>) with annotations and a picture of face A.
            K. M. Sastri, while relying on the edition in EI, provides a summary of the content: <cit><quote>The inscription seems to record a grant by a certain Cenūrukāju and the people of the village of Aḻikaḷā at the instance of Rēvaṇakālu of Ciṟumbūru when Erikal-Muturāju Dhanaṁjaya was ruling Rēnāṇḍu.</quote><bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">282</citedRange></bibl></cit>
           </p>
            <listBibl type="secondary">
              <bibl>A. R. No. 380 of 1904 <!-- has to be adjusted to the @target --></bibl>
              <bibl><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">333</citedRange><citedRange unit="item">607</citedRange></bibl>
-             <bibl><ptr target="bib:NilakantaSastri+Venkataramanayya1956_01"/><citedRange unit="page">221-225</citedRange><citedRange unit="item">42 A</citedRange></bibl>
+             <bibl><ptr target="bib:NilakantaSastri+Venkataramayya1956_01"/><citedRange unit="page">221-225</citedRange><citedRange unit="item">42 A</citedRange></bibl>
              <bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">282</citedRange><citedRange unit="item">1</citedRange></bibl>
            </listBibl>
         </div>
