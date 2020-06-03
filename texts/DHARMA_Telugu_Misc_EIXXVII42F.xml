@@ -5,7 +5,7 @@
   <teiHeader xml:lang="eng">
       <fileDesc>
          <titleStmt>
-            <title><!-- ADD TITEL HERE --></title>
+            <title>Grant of Cāmaṇakālu under Erikalla Muturāju Puṇyakumārunṟu</title>
             <respStmt>
                <resp>Creation of file</resp>
                <persName ref="part:jeth">
@@ -48,36 +48,102 @@
          <div type="edition" xml:lang="tel-Latn">
             <p>
                <lb n="1"/>svasti śrī Erikalla mut<unclear>u</unclear><lb 
-                      n="2" break="no"/><unclear>rā</unclear>ju puṇyakumārunṟu gaṇ<unclear>ya</unclear><lb 
-                      n="3" break="no"/>mānunṟu maṟu<unclear>n</unclear>ṟa piḍuku madamu<lb 
-                      n="4" break="no"/><unclear>d</unclear>itunṟ uttamōttamunṟ ayina <unclear>vā</unclear><lb 
-                      n="5" break="no"/><unclear>nṟu</unclear> ce<!-- unclear akṣara part -->liya paṭukānū r<supplied reason="lost">ē</supplied>nāṇṭa
+                   n="2" break="no"/><unclear>rā</unclear>ju puṇyakumārunṟu gaṇ<unclear>ya</unclear><lb 
+                   n="3" break="no"/>mānunṟu maṟu<unclear>n</unclear>ṟa piḍuku madamu<lb 
+                   n="4" break="no"/><unclear>d</unclear>itunṟ uttamōttamunṟ ayina <unclear>vā</unclear><lb 
+                   n="5" break="no"/><unclear>nṟu</unclear> cē<unclear>pa</unclear>liya paṭukānū r<supplied reason="lost">ē</supplied>nāṇṭa Ē<lb 
+                   n="6" break="no"/>ḷucu tarkkapuḻola h<unclear>ā</unclear>rad<unclear>ā</unclear>ya
+               <lb n="7"/>kiḻevuru kattiśarmmaku tir<unclear>pa</unclear>l<unclear>ū</unclear><lb 
+                   n="8" break="no"/>r<supplied reason="lost">i</supplied> panāśa koṇḍa kāttiya cīk<supplied reason="lost">u</supplied><lb 
+                   n="9" break="no"/><unclear>na</unclear> bidiya sōmavāraṁbu puṇaru
+               <lb n="10"/>puṣyaṁbu brahaspatihōra kā<lb 
+                   n="11" break="no"/>nu Ēmbadiye cāmaṇakāla <abbr>dha</abbr>
             </p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- Update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+               <listApp>
+                  <app loc="1">
+                     <lem>mut<unclear>u</unclear><lb 
+                   n="2" break="no"/><unclear>rā</unclear>ju</lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">mutu<lb 
+                   n="2" break="no"/><unclear>rā</unclear>ju</rdg>
+                  </app>
+                  <app loc="2">
+                     <lem>gaṇ<unclear>ya</unclear><lb 
+                   n="3" break="no"/>mānunṟu maṟu<unclear>n</unclear>ṟa</lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">gaṇya<lb 
+                   n="3" break="no"/>mānunṟu maṟunṟa</rdg>
+                  </app>
+                  <app loc="3">
+                     <lem>madamu<lb 
+                   n="4" break="no"/><unclear>d</unclear>itunṟ uttamōttamunṟ ayina <unclear>vā</unclear><lb 
+                   n="5" break="no"/><unclear>nṟu</unclear></lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">madamu<lb 
+                   n="4" break="no"/>ditunṟ uttamōttamunṟ ayinavā<lb 
+                   n="5" break="no"/>nṟu</rdg>
+                  </app>
+                  <app loc="5">
+                     <lem>cē<unclear>pa</unclear>liya</lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">cirpaliya</rdg>
+                  </app>
+                  <app loc="5">
+                     <lem>r<supplied reason="lost">ē</supplied>nāṇṭa Ē<lb 
+                   n="6" break="no"/>ḷucu</lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">rēnāṇḍē<lb 
+                   n="6" break="no"/>ḷucu</rdg>
+                  </app>
+                  <app loc="6">
+                     <lem>h<unclear>ā</unclear>rad<unclear>ā</unclear>ya</lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">pāradāya</rdg>
+                  </app>
+                  <app loc="7">
+                     <lem>tir<unclear>pa</unclear>l<unclear>ū</unclear><lb 
+                   n="8" break="no"/>r<supplied reason="lost">i</supplied></lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">tirpalū<lb 
+                   n="8" break="no"/>ra</rdg>
+                  </app>
+                  <app loc="8">
+                     <lem>kāttiya cīk<supplied reason="lost">u</supplied><lb 
+                   n="9" break="no"/><unclear>na</unclear></lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">kā<unclear>rtt</unclear>iya cīku<lb 
+                   n="9" break="no"/>na</rdg>
                   </app>
                </listApp>         
          </div>
+         <div type="translation" xml:lang="eng" source="NilakantaSastri+Venkataramayya1956_01">
+            <p>
+              Hail! prosperity! While <hi rend="bold">Puṇyakumāra</hi>, the <hi rend="bold">Erikalla-Mutturāju</hi>, who was held in high esteem, was the thunderbolt to hostile kings, was happy in his pride and the noblest of the noble, was ruling (<hi rend="italic">the</hi>) Rēnāṇḍu (<hi rend="italic">country</hi>)
+              with <hi rend="bold">Chirpaliya</hi> as his capital (<hi rend="italic">paṭu</hi>), a <hi rend="italic">panāśa</hi> at Tirpalūru given to Kiḻevuru or Ḻēvuru Kattiśarmmā, the <hi rend="italic">pāradāya</hi> of Tarkkapuḻōlu, on the second day of the dark fortnight of Koṇḍa-Kārttika, Monday, Puṇaru-pushyaṁbu and (<hi rend="italic">at the time of</hi>) Bṛihaspati-hōra, (<hi rend="italic">is</hi>) fifty (<hi rend="italic">mattars</hi> ?). (<hi rend="italic">This is</hi>) the charity of Chāmaṇakāla.
+            </p>
+         </div>
+         <div type="translation" xml:lang="eng" source="Sastri1969_01">
+            <p>
+              Hail! Prosperity! While Puṇyakumāra, the Erikalla Mutturāju, who was held in high esteem, was the thunderbolt to hostile kings, was happy 
+              in his pride and the noblest of the noble was ruling (the) Rēnāṇḍu (country) with Cirpaliya as his capital (<hi rend="italic">paṭu</hi>), a <hi rend="italic">pannasa</hi> at Tirpalūru given to Kiḻēvuru Kattiśarmma of Bhāradvāja gotra 
+              (<hi rend="italic">pāradāya</hi>) ofTarkkapuḻōlu, on the second day of the dark fortnight of koṇḍa-kārttika, monday, Puṇaru-puṣyambu, and (at the time of) Brihaspati-hōra, (is) fifty (<hi rend="italic">mattars</hi> ?). (This is) the charity of Cāmaṇakālu.
+            </p>
+         </div>
          <div type="translation" xml:lang="eng" resp="part:jeth">
- 	<!--Yet to be provided -->
+             <p>
+              Svasti! While the Erikalla Muturāja Puṇyakumāra, who was (highly) respected, the thunderbolt of the enemies, rejoycing in delight, and the best among the best, was ruling in Rēnāṇḍu with Cēpali as residence, 
+             </p>
          </div>
          <div type="commentary">
             <p>
-               
+             Nilakanta Sastri and Venkataramayya note that <cit><quote>Lines 6-7 may be read alternatively as 'Tarkkapuḻōla pāradāya Kiḻevūru Kattiśarmmaku' and 
+             rendered as 'Kattiśarmmā of Kiḻevūru, a pāradāya (<hi rend="italic">i.e.</hi>, Bhāradvāja) of or at Tarkkapuḻōlu'.</quote><bibl rend="omitname"><ptr target="bib:NilakantaSastri+Venkataramayya1956_01"/><citedRange unit="page">234</citedRange><citedRange unit="note">1</citedRange></bibl></cit>.  
+             In line 5 the initial ‹Ē› is written below the line. In line 6 slight traces of a horizontal stroke can be seen on the akṣara ‹ha›. On the other hand, the reading ‹pā› is also possible since there are some cases where the long ‹°ā› is attached on the right brim.
             </p>
          </div>
         <div type="bibliography">
           <p>
-           	   
-          </p>
-           <listBibl type="secondary">
-              <bibl></bibl>
-              <bibl></bibl>
+           The inscription was noted in A. R. No. 283 of 1937-1938 <!-- has to be adjusted to the @target --> and first published by K. A. Nilakanta Sastri and M. Venkataramayya in <bibl rend="omitname"><ptr target="bib:NilakantaSastri+Venkataramayya1956_01"/><citedRange unit="page">231-234</citedRange><citedRange unit="item">42 F</citedRange></bibl> with picture, translation and annotations.
+           K. M. Sastri re-edited the text and provided another translation in <bibl rend="omitname"><ptr target="bib:Sastri1969_01"/><citedRange unit="page">288-289</citedRange><citedRange unit="item">12</citedRange></bibl>.
+          </p> 
+             <listBibl type="secondary">
+              <bibl>A. R. No. 283 of 1937-1938 <!-- has to be adjusted to the @target --></bibl>
+              <bibl><ptr target="bib:NilakantaSastri+Venkataramayya1956_01"/><citedRange unit="page">231-234</citedRange><citedRange unit="item">42 F</citedRange></bibl>
+              <bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">288-289</citedRange><citedRange unit="item">12</citedRange></bibl>
            </listBibl>
         </div>
       </body>
