@@ -54,7 +54,7 @@
                    n="5" break="no"/><unclear>nṟu</unclear> cē<unclear>pa</unclear>liya paṭukānū r<supplied reason="lost">ē</supplied>nāṇṭa Ē<lb 
                    n="6" break="no"/>ḷucu tarkkapuḻola h<unclear>ā</unclear>rad<unclear>ā</unclear>ya
                <lb n="7"/>kiḻevuru kattiśarmmaku tir<unclear>pa</unclear>l<unclear>ū</unclear><lb 
-                   n="8" break="no"/>r<supplied reason="lost">i</supplied> panāśa koṇḍa kāttiya cīk<supplied reason="lost">u</supplied><lb 
+                   n="8" break="no"/>ra panāśa koṇḍa kāttiya cīk<supplied reason="lost">u</supplied><lb 
                    n="9" break="no"/><unclear>na</unclear> bidiya sōmavāraṁbu puṇaru
                <lb n="10"/>puṣyaṁbu brahaspatihōra kā<lb 
                    n="11" break="no"/>nu Ēmbadiye cāmaṇakāla <abbr>dha</abbr>
@@ -96,12 +96,6 @@
                      <lem>h<unclear>ā</unclear>rad<unclear>ā</unclear>ya</lem>
                      <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">pāradāya</rdg>
                   </app>
-                  <app loc="7">
-                     <lem>tir<unclear>pa</unclear>l<unclear>ū</unclear><lb 
-                   n="8" break="no"/>r<supplied reason="lost">i</supplied></lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">tirpalū<lb 
-                   n="8" break="no"/>ra</rdg>
-                  </app>
                   <app loc="8">
                      <lem>kāttiya cīk<supplied reason="lost">u</supplied><lb 
                    n="9" break="no"/><unclear>na</unclear></lem>
@@ -120,12 +114,14 @@
             <p>
               Hail! Prosperity! While Puṇyakumāra, the Erikalla Mutturāju, who was held in high esteem, was the thunderbolt to hostile kings, was happy 
               in his pride and the noblest of the noble was ruling (the) Rēnāṇḍu (country) with Cirpaliya as his capital (<hi rend="italic">paṭu</hi>), a <hi rend="italic">pannasa</hi> at Tirpalūru given to Kiḻēvuru Kattiśarmma of Bhāradvāja gotra 
-              (<hi rend="italic">pāradāya</hi>) ofTarkkapuḻōlu, on the second day of the dark fortnight of koṇḍa-kārttika, monday, Puṇaru-puṣyambu, and (at the time of) Brihaspati-hōra, (is) fifty (<hi rend="italic">mattars</hi> ?). (This is) the charity of Cāmaṇakālu.
+              (<hi rend="italic">pāradāya</hi>) of Tarkkapuḻōlu, on the second day of the dark fortnight of koṇḍa-kārttika, monday, Puṇaru-puṣyambu, and (at the time of) Brihaspati-hōra, (is) fifty (<hi rend="italic">mattars</hi> ?). (This is) the charity of Cāmaṇakālu.
             </p>
          </div>
          <div type="translation" xml:lang="eng" resp="part:jeth">
              <p>
-              Svasti! While the Erikalla Muturāja Puṇyakumāra, who was (highly) respected, the thunderbolt of the enemies, rejoycing in delight, and the best among the best, was ruling in Rēnāṇḍu with Cēpali as residence, 
+              Svasti! While the Erikalla Muturāja Puṇyakumāra, who was (highly) respected, the thunderbolt of the enemies, rejoycing in delight, and the best among the best, was ruling in Rēnāṇḍu with Cēpali as residence, a pannasa (was given) 
+              at Tirpalūru to Kiḻevuru Kattiśarmma of the Bhāradvāja (gotra) at Tarkkapuḻolu, while being (<hi rend="italic">kānu</hi>) Monday, the second (day) of the dark fortnight of koṇḍa<!-- does this simply mean "peak" as the date is in the midst of K.? -->-Kārtikā (and) 
+              the horā of Bṛhaspati of (the transition between) Punarvasu and Puṣya. A meritorious deed (<hi rend="italic">dha</hi>(rmuvu)) of Embadi Cāmaṇakālu.
              </p>
          </div>
          <div type="commentary">
@@ -133,6 +129,9 @@
              Nilakanta Sastri and Venkataramayya note that <cit><quote>Lines 6-7 may be read alternatively as 'Tarkkapuḻōla pāradāya Kiḻevūru Kattiśarmmaku' and 
              rendered as 'Kattiśarmmā of Kiḻevūru, a pāradāya (<hi rend="italic">i.e.</hi>, Bhāradvāja) of or at Tarkkapuḻōlu'.</quote><bibl rend="omitname"><ptr target="bib:NilakantaSastri+Venkataramayya1956_01"/><citedRange unit="page">234</citedRange><citedRange unit="note">1</citedRange></bibl></cit>.  
              In line 5 the initial ‹Ē› is written below the line. In line 6 slight traces of a horizontal stroke can be seen on the akṣara ‹ha›. On the other hand, the reading ‹pā› is also possible since there are some cases where the long ‹°ā› is attached on the right brim.
+             The word <foreign>Ēmbadiye</foreign> or perhaps <foreign>Embadiye</foreign> in line 11 looks like the word for 'fifty' with -e possibly being a variant of the emphatic particle -a (<bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">355-356</citedRange></bibl>). The position of the word after the date before the donor's name without quantified unit (like <foreign>maṟuturu</foreign>), however, is a little bit odd. 
+             Since it is not easy to tell ‹da›, ‹ḍa›, and ‹ḷa› apart in a lot of cases the intended spelling might have been different and might have referred to a village name on -i with the genitive in -ya. Although this is far from certain this option has been followed in the translation. 
+             There are some modern villages that <hi rend="italic">could</hi> be offshoots of such an old spelling.
             </p>
          </div>
         <div type="bibliography">
