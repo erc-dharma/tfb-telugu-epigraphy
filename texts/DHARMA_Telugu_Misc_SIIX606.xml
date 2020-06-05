@@ -5,7 +5,7 @@
   <teiHeader xml:lang="eng">
       <fileDesc>
          <titleStmt>
-            <title>Donation of 25 mattars under the rule of Erikalmuturāju</title>
+            <title>Donation of 25 maṟuntuḍlu under the rule of Erikalmuturāju</title>
             <respStmt>
                <resp>Creation of file</resp>
                <persName ref="part:jeth">
@@ -41,6 +41,7 @@
       </fileDesc>
      <revisionDesc>
         <change who="part:jeth" when="2020-05-27" status="draft">Creation of the file</change>
+        <change who="part:jeth" when="2020-06-05" status="draft">Changing the title</change>
      </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
