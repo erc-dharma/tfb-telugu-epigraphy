@@ -48,7 +48,7 @@
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-              <milestone type="pagelike" unit="faces" n="A"/><!--DB: is "faces" correct here? Not "face"?-->
+              <milestone type="pagelike" unit="face" n="A"/>
               <lb n="1"/>svasti
               <lb n="2"/>śrī <unclear>E</unclear>ri<lb 
                   n="3" break="no"/>kalmu<unclear cert="low">tu</unclear><lb 
@@ -58,7 +58,7 @@
               <lb n="7"/><supplied reason="undefined">pa</supplied>nna<supplied reason="undefined">sa</supplied>
             </p>
             <p>
-              <milestone type="pagelike" unit="faces" n="B"/>
+              <milestone type="pagelike" unit="face" n="B"/>
               <lb n="8"/>Ēḻe<unclear cert="low">ri</unclear>
               <lb n="9"/>pāṟak<supplied reason="undefined">u</supplied>
               <lb n="10"/>Irupa<lb 
