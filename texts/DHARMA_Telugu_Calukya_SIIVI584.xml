@@ -60,7 +60,7 @@
                   n="9" break="no"/>raṁbu icciri pāṟa paḍuvāraṁbu mlāvi<unclear>ṁ</unclear>ḍīśvaraṁbuna kaḷā<lb 
                   n="10" break="no"/>kaṇḍugum icci kuḍucuvāru yiṟla kānu Ē-veṟuguvā<lb 
                   n="11" break="no"/>ru vitpaṟti gāṇaṁbu<unclear>n dho</unclear>lgoṭṭu<unclear>na</unclear>ṁ gāṇaṁbu cuvvuṭūru gāṇaṁbu
-              <lb n="12"/><gap reason="undefined" unit="character" quantity="10" precision="low"/><unclear>vra</unclear>ccinavāru bārāṇasi vēvru<!-- Here and in the following lines the missing words have to be added -->
+              <lb n="12"/><gap reason="undefined" unit="character" quantity="10" precision="low"/><unclear>vra</unclear>ccinavāru bārāṇasi vēvru<!-- Here and in the following lines the missing words have to be added. If this is done delete app @12 -->
               <lb n="13"/><gap reason="undefined" unit="character" quantity="10" precision="low"/>līḍisa <unclear>sa</unclear>mudraṁbu malā
               <lb n="14"/><gap reason="undefined" unit="character" quantity="11" precision="low"/>ḍisenavadiki
               <lb n="15"/><gap reason="undefined" unit="character" quantity="8" precision="low"/>ramañci
@@ -146,6 +146,10 @@
                      <lem><unclear>dho</unclear>lgoṭṭu<unclear>na</unclear>ṁ</lem>
                      <rdg source="bib:Sastri1969_01"><unclear>tho</unclear>lgoṭṭu<unclear>na</unclear>ṁ</rdg>
                   </app>
+                  <app loc="12">
+                     <lem><gap reason="undefined" unit="character" quantity="10" precision="low"/><unclear>vra</unclear>ccinavāru</lem>
+                     <note>The verb <foreign>vraccu</foreign> 'to destroy' often occurs in the imprecation of inscriptions, its object being a holy location. What is edited as <foreign>bārāṇasi vēvru</foreign> can to a certain degree of certainty be restored as <foreign>bārāṇasi vēvru pāṟa campinavāru</foreign> (or something similar). This sentence forms a common apodosis of the condition the protasis of which must read somewhat like "who does impede it" the usual phrase being <foreign>dēniki vakraṁbu vaccinavāru</foreign>. Since <foreign>vraccu</foreign> also occurs in the apodosis I would tend to emend parts of the missing <foreign>akṣaras</foreign> in lines 12-13 into <foreign>dēniki vakraṁbu vaccinavāru bārāṇasi vēvru pāṟa campinavāru</foreign>.</note>
+                  </app>
                   <app loc="17">
                      <lem>ya<supplied reason="undefined">sya ya</supplied></lem>
                      <rdg source="bib:SubrahmanyaAiyer1928_01">ya<gap reason="undefined" unit="character" quantity="3" precision="low"/><lb 
@@ -193,11 +197,28 @@
  	   of the tank in the field north of Vitpaṟṟu, of a field of eight <foreign>paṭṭu</foreign>s of fertile soil on the western bank, and of the beleric myrabalan (tree) gardens of the eastern bank. 
  	   Having given the <foreign>paḍuvāraṁbu</foreign> for the brahmins and sixteen <foreign>khaṇḍukas</foreign> (i. e. a grain measure) at Mlāviṁḍīśvaraṁbu (i. e. probably a temple) 
  	   they may enjoy (the remaining income). Those who know that these (terms) are like this are the communities of Vitpaṟṟu, Dholgoṭṭu and Cuvvuṭūru.
- 	  [...] <!-- if the lines can be reconstructed a translation should be possible -->
- 	  By many (kings) land was given /
- 	  And by many it was protected /
- 	  While somebody owns the land /
- 	  He will always have the profit //1//
+ 	  
+ 	  (Who so ever) impedes (it has quasi killed) thousand (brahmins at) Varāṇasi. [...] <!-- if the lines can be reconstructed a translation should be possible -->
+ 	  
+ 	  Many kings bestowed a grant /
+ 	  And many had it well protected /
+ 	  Who so ever owns the land /
+ 	  Will have profit get extracted //1//
+ 	  
+ 	  What he gave or someone else /
+ 	  Who acts to its detriment /
+ 	  For sixty thousand years as worm /
+ 	  Will be born in excrement //2//
+ 	  
+ 	  The grant of land, a gift that grand /
+ 	  Neither was nor will there be /
+ 	  And viler deed as to impede /
+ 	  Neither was nor will there be //3//
+ 	  
+ 	  Brahmins' posessions of poisonous essence /
+ 	  Who confiscates, oh king o'the world /
+ 	  [...] /
+ 	  [...] //4//
  	  
  	  <!-- more  -->
  	   </p>
