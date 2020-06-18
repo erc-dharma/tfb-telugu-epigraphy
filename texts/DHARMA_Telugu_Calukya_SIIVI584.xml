@@ -48,7 +48,7 @@
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-               <milestone type="pagelike" unit="faces" n="A"/>
+               <milestone type="pagelike" unit="face" n="A"/>
               <lb n="1"/>svasti śrimaT sakalalōkāśrayajayasiṁgha<lb 
                   n="2" break="no"/>vallabhamahārājulākuN pravarddhamānavijayarā<lb 
                   n="3" break="no"/>jyasaṁvatsaraṁbuḶ Eṇuṁbodi Ann-ēṇṭi Armmapūṇṇa<lb 
@@ -65,7 +65,7 @@
               <lb n="14"/><gap reason="undefined" unit="character" quantity="11" precision="low"/>ḍisenavadiki
               <lb n="15"/><gap reason="undefined" unit="character" quantity="8" precision="low"/>ramañci
                
-               <milestone type="pagelike" unit="faces" n="B"/>
+               <milestone type="pagelike" unit="face" n="B"/>
               <lb n="16"/><gap reason="undefined" unit="character" quantity="2" precision="low"/></p>
                          <p xml:lang="san">
                             <lg n="1" met="anuṣṭubh">
@@ -98,7 +98,7 @@
                                <l n="d"><gap reason="undefined" unit="character" quantity="3" precision="low"/>mēdhya<gap reason="undefined" unit="character" quantity="4" precision="low"/></l></lg>
               <lb n="25"/><gap reason="undefined" extent="unknown" unit="line"/></p>
                
-               <p xml:lang="tel"><milestone type="pagelike" unit="faces" n="C"/>
+               <p xml:lang="tel"><milestone type="pagelike" unit="face" n="C"/>
               <lb n="26"/>maḷavivisva<lb 
                   n="27" break="no"/>ṁbu sadāmavī<lb 
                   n="28" break="no"/>sainyamākaḷi
