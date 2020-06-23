@@ -26,7 +26,7 @@
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
             </authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_telugu_Cola_EIXXVII42C</idno>
+            <idno type="filename">DHARMA_Telugu_Cola_EIXXVII42C</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -41,6 +41,7 @@
       </fileDesc>
      <revisionDesc>
         <change who="part:jeth" when="2020-06-22" status="draft">Creation of the file</change>
+        <change who="part:jeth" when="2020-06-23" status="draft">Minor changes in the apparatus</change>
      </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
@@ -49,7 +50,7 @@
             <p>
               <lb n="1"/><supplied reason="lost" cert="low">śrī</supplied> <supplied reason="lost">c</supplied>ōḻamahār<choice><orig>a</orig><reg>ā</reg></choice>j<unclear>u</unclear>l<unclear>la</unclear><lb 
                   n="2" break="no"/><supplied reason="lost">Ē</supplied><unclear>ḷa</unclear> E<unclear>r</unclear>igal tugu<lb 
-                  n="3" break="no"/><supplied reason="lost">rāju</supplied>ṟla Iccina pannāsa
+                  n="3" break="no"/><supplied reason="lost">rāju</supplied>lla Iccina pannāsa
               <lb n="4"/>rācamānaṁbuna Ēṁba<unclear>d</unclear><supplied reason="lost">i</supplied>
               <lb n="5"/>tirumu<unclear>ḷa</unclear> pāṟaku Iccina
               <lb n="6"/>pannāsa <add place="below">dē</add>niki va<choice><orig>kru</orig><reg>kraṁ</reg></choice>bu
@@ -62,7 +63,7 @@
                   <app loc="1">
                      <lem><supplied reason="lost" cert="low">śrī</supplied> <supplied reason="lost">c</supplied>ōḻamahār<choice><orig>a</orig><reg>ā</reg></choice>j<unclear>u</unclear>l<unclear>la</unclear></lem>
                      <rdg source="bib:NilakantaSastri+Venkataramayya1956_01"><supplied reason="lost">c</supplied>ōḻa-mahārāju<unclear>ṟla</unclear></rdg>
-                     <note>I can not see a 〈ṟ〉 but only have the picture of the estampage of the edition at my disposal. Other inscriptions show 〈la〉 or 〈lla〉, and there is no etymological justification for /ṟla/ at this place. However, 〈ṟla〉 seems to have been written in line 3.</note>
+                     <note>I can not see a 〈ṟ〉 but only have the picture of the estampage of the edition at my disposal. Other inscriptions show 〈la〉 or 〈lla〉, and there is no etymological justification for /ṟla/ at this place. Confer infra.</note>
                   </app>
                   <app loc="2">
                      <lem><supplied reason="lost">Ē</supplied><unclear>ḷa</unclear></lem>
@@ -71,14 +72,14 @@
                   </app>
                   <app loc="2">
                      <lem>E<unclear>r</unclear>igal</lem>
-                     <note>The vowel 〈i〉 looks like the typical 〈ī〉 in that it is open to the left and a little bit curled towards the inside. But when comparing it with the other <foreign>akṣaras</foreign> containing this vowel it appears that the scribe would write other short 〈i〉's like that.</note>
+                     <note>The vowel 〈i〉 looks like the typical 〈ī〉 in that it is open to the left and a little bit curled towards the inside. But when comparing it with the other <foreign>akṣaras</foreign> containing this vowel it appears that the scribe would write other short 〈i〉s like that.</note>
                   </app>
                   <app loc="2">
                      <lem>tugu<lb 
-                  n="3" break="no"/><supplied reason="lost">rāju</supplied>ṟla</lem>
+                  n="3" break="no"/><supplied reason="lost">rāju</supplied>lla</lem>
                      <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">tuga<lb 
                   n="3" break="no"/><unclear>rā</unclear>juṟla</rdg>
-                     <note>What especially sets 〈ṟla〉 apart from reading it as the common ligature 〈lla〉 is the 90° edge on the upper right corner. This might be due to the ductus which is full of verve; but I could not find any other instance of such a 〈la〉.</note>
+                     <note>What especially sets 〈ṟla〉 apart from reading it as the common ligature 〈lla〉 is the 90° edge on the upper right corner. This might be due to the ductus which is full of verve; but I could not find any other instance of such a 〈la〉. On the other hand there is a curved line below the right angle. Prima facie it is not possible to decide what is the intended line and what a damage or slip of the chisel. In order to avoid a reading that is not attested elsewhere and that is etymological problematic I read〈lla〉.</note>
                   </app>
                   <app loc="4">
                      <lem>Ēṁba<unclear>d</unclear><supplied reason="lost">i</supplied></lem>
@@ -116,8 +117,7 @@
          </div>
          <div type="translation" xml:lang="eng" resp="part:jeth">
  	        <p>
- 	           A pannasa given by Erigal Tugurāju while Cōḻamahārāju was ruling. A pannasa given to a (or the) brahmin of Tirumuḷa of fifty (measures of land) in royal measure. 
- 	           Who attempts to reverse it will be (guilty) of the five great sins.
+ 	           A pannasa given by Erigal Tugurāju while Cōḻamahārāju was ruling. A pannasa of fifty (measures of land) in royal measure given to a (or the) brahmin of Tirumuḷa. Who (so ever) attempts to reverse it will be (guilty) of the five great sins.
  	        </p>
          </div>
          <div type="commentary">
