@@ -90,6 +90,10 @@
          </div>
          <div type="apparatus">
                <listApp>
+                  <app loc="1">
+                     <lem>śrī</lem>
+                     <note>The subscript ⟨r⟩ is written in an ornate manner and looks like the vocalic form.</note>
+                  </app>
                   <app loc="9">
                      <lem>Īto</lem>
                      <note>The editors state in a note that this word could also be read as <foreign>ratō</foreign> (<bibl><ptr target="bib:NilakantaSastri+Venkataramayya1956_01"/><citedRange unit="page">241</citedRange><citedRange unit="note">1</citedRange></bibl>).</note>
