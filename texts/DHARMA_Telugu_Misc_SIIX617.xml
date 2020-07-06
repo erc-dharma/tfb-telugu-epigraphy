@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+      <fileDesc>
+         <titleStmt>
+            <title>Donation of a field by the son of Vikramāditya, Adhirāja of the great Bāṇa</title>
+            <respStmt>
+               <resp>Creation of file</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         	<respStmt>
+         		<resp>intellectual authorship of edition</resp>
+         		<persName ref="part:jeth"><!-- OR: DELETE IF SOMBODY ELSE'S EDITION -->
+         			<forename><!-- XXXXXXX --></forename>
+         		           <surname><!-- XXXXXXX --></surname>
+         		</persName>
+         	</respStmt>
+         </titleStmt>         
+         <publicationStmt>
+            <authority>DHARMA
+               <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
+            </authority>
+            <pubPlace>Berlin</pubPlace>
+            <idno type="filename">DHARMA_Telugu_Misc_SIIX617</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p><!-- not to be filled in at this stage --></p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change who="part:jeth" when="2020-07-03" status="draft">Creation of the file</change>
+        <change who="part:jeth" when="2020-07-06" status="draft">Apparatus, bibliography and preliminary translation added.</change>
+     </revisionDesc>
+  </teiHeader>
+  <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="tel-Latn"> <!-- The edition follows the corrected version of Lakshminarayan Rao so far. -->
+            <p>
+               <lb n="1"/><gap reason="undefined" unit="character" quantity="1" precision="low"/>bu<unclear>pe</unclear>
+               <lb n="2"/><gap reason="undefined" unit="character" quantity="1" precision="low"/>vikramādi<lb 
+                   n="3" break="no"/>tya be<unclear>r</unclear>bhbhā<lb 
+                   n="4" break="no"/>ṇādhirāja<lb 
+                   n="5" break="no"/>prathamapri<lb 
+                   n="6" break="no"/>yapu<lb 
+                   n="7" break="no"/>trunṟu Icci<lb 
+                   n="8" break="no"/>na kṣētraṁbu
+               <lb n="9"/>dēniki sa<lb 
+                   n="10" break="no"/>kṣi
+               <lb n="11"/>pu<unclear>ṟa</unclear>nullu
+               <lb n="12"/>salkiraṭṭa<lb 
+                   n="13" break="no"/>kuḍiyu
+               <lb n="14"/>mukakāḷḷu
+               <lb n="15"/><unclear>pa</unclear>ṭṭeḷu<gap reason="undefined" unit="character" quantity="1" precision="low"/>
+               <lb n="16"/>vāru va<unclear>ḍa</unclear>
+               <lb n="17"/>gīyu sakṣi
+               <lb n="18"/>vakraṁbu vaccu<lb 
+                   n="19" break="no"/>vāru nāyu va<lb 
+                   n="20" break="no"/>nṟu vāraṇāsi
+               <lb n="21"/>vēvurānu
+               <lb n="22"/>vēyu dēvadrō<lb 
+                   n="23" break="no"/>guḷu vēkavila<lb 
+                   n="24" break="no"/>ḷānu ḻacci<lb 
+                   n="25" break="no"/>vanṟu pondu
+            </p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="2">
+                     <lem><gap reason="undefined" unit="character" quantity="1" precision="low"/>vikramādi</lem>
+                     <rdg source="bib:RamayyaPantulu1948_01"><unclear>vi</unclear>kramā<unclear>di</unclear></rdg>
+                  </app>
+                  <app loc="3">
+                     <lem>be<unclear>r</unclear>bhbhā<lb 
+                     n="4" break="no"/>ṇādhirāja></lem>
+                     <rdg source="bib:RamayyaPantulu1948_01"><unclear>bē</unclear><gap reason="undefined" unit="character" quantity="1" precision="low"/><lb 
+                     n="4" break="no"/>tya <gap reason="undefined" unit="character" quantity="1" precision="low"/>rāju</rdg>
+                  </app>
+                  <app loc="4">
+                     <lem>°rāja</lem>
+                     <note>Radha Krishna mistakingly prints °ju while referring to this edition.</note>
+                  </app>
+                  <app loc="9">
+                     <lem>dēniki sa<lb 
+                   n="10" break="no"/>kṣi</lem>
+                     <rdg source="bib:RamayyaPantulu1948_01"><gap reason="undefined" unit="character" quantity="2" precision="low"/>sa</rdg>
+                     <note>Line 10 of this edition is numbered 9a by N. Lakshminarayan Rao because it was omitted by J. Ramayya Pantulu. It is not clear, however, whether ⟨kṣi⟩ is the only <foreign>akṣara</foreign> in the line or not because N. Lakshminarayan Rao does not add dots.</note>
+                  </app>
+                  <app loc="11">
+                     <lem>pu<unclear>ṟa</unclear>nullu</lem>
+                     <rdg source="bib:RamayyaPantulu1948_01">pu<gap reason="undefined" unit="character" quantity="3" precision="low"/></rdg>
+                  </app>
+                  <app loc="12">
+                     <lem>salkiraṭṭa<lb 
+                     n="13" break="no"/>kuḍiyu</lem>
+                     <rdg source="bib:RamayyaPantulu1948_01">saṭiraṭṭa<lb 
+                     n="13" break="no"/>kuḍiki<gap reason="undefined" unit="character" quantity="1" precision="low"/></rdg>
+                  </app>
+                  <app loc="14">
+                     <lem>mukakāḷḷu</lem>
+                     <rdg source="bib:RamayyaPantulu1948_01">mukara<gap reason="undefined" unit="character" quantity="1" precision="low"/></rdg>
+                  </app>
+                  <app loc="16">
+                     <lem>va<unclear>ḍa</unclear></lem>
+                     <rdg source="bib:RamayyaPantulu1948_01"><unclear>vada</unclear></rdg>
+                  </app>
+                  <app loc="17">
+                     <lem>gīyu sakṣi</lem>
+                     <rdg source="bib:RamayyaPantulu1948_01">giyusa<gap reason="undefined" unit="character" quantity="1" precision="low"/></rdg>
+                  </app>
+                  <app loc="19">
+                     <lem>nāyu va<lb 
+                     n="20" break="no"/>nṟu</lem>
+                     <rdg source="bib:RamayyaPantulu1948_01">nāya<gap reason="undefined" unit="character" quantity="1" precision="low"/><lb 
+                     n="20" break="no"/>nda</rdg>
+                  </app>
+                  <app loc="22">
+                     <lem>vēyu dēvadrō<lb 
+                   n="23" break="no"/>guḷu</lem>
+                     <rdg source="bib:RamayyaPantulu1948_01"><unclear>vēyi</unclear> dēva<gap reason="undefined" unit="character" quantity="1" precision="low"/>
+               <lb n="23"/><unclear>guḷu</unclear></rdg>
+                  </app>
+                  <app loc="23">
+                     <lem>vēkavila<lb 
+                        n="24" break="no"/>ḷānu</lem>
+                     <rdg source="bib:RamayyaPantulu1948_01"><gap reason="undefined" unit="character" quantity="3" precision="low"/>
+               <lb n="24"/><gap reason="undefined" unit="character" quantity="1" precision="low"/>nu</rdg>
+                  </app>
+                  <app loc="25">
+                     <lem>pondu</lem>
+                     <rdg source="bib:RamayyaPantulu1948_01"><unclear>pendu</unclear></rdg>
+                  </app>
+               </listApp>         
+         </div>
+         <div type="translation" xml:lang="eng" resp="part:jeth">
+ 	       <p>
+ 	         <!-- The translation is preliminary -->
+ 	         A field given by the first, dear son of the Adhirāja of the great Bāṇas, (Śrī Bhūpala(?))-Vikramāditya <!-- the simple reference to Vikramāditya indicates that it was Vikramāditya I --> of which the witness(es are): Puṟanullu Salkiraṭṭakuḍi, [...] (are the) witness(es).
+ 	         <!-- It probably has to be read tāyu (for dāyu) in line 19: "those who come and impede...". As for pondu conf. SII X, 651, line 17-18: "has killed [...] and will get (the punishment of that)".
+ 	         In line 24 it has to be read ḻacci<na>. Lines 22-23 perhaps have to be read as dēvadrō|ṇuḷu; ⟨ṇu⟩ and ⟨gu⟩ can be similar enough to be confused. -->
+ 	       </p>
+         </div>
+         <div type="commentary">
+            <p>
+              Line 10 of this edition is numbered 9a by N. Lakshminarayan Rao and was omitted by J. Ramayya Pantulu. Hence, line 11 corresponds to line 10 in both editions etc.
+            </p>
+         </div>
+        <div type="bibliography">
+          <p>
+            The inscription was noted in A. R. No. 403 of 1904 <!-- has to be adjusted to the @target --> and first published by J. Ramayya Pantulu (<bibl rend="omitname"><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">336</citedRange><citedRange unit="item">617</citedRange></bibl>). His reading was improved by N. Lakshminarayan Rao (<bibl rend="omitname"><ptr target="bib:LakshminarayanRao1948_02"/><citedRange unit="page">lvii-lviii</citedRange></bibl>). K. M. Sastri reprints the unimproved reading and provides a summary: <cit><quote>Refers to a gift of land by the eldest dear son of Vikramāditya and contains an imprecation.</quote><bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">336</citedRange></bibl></cit>.   
+          </p>
+           <listBibl type="secondary">
+              <bibl>A. R. No. 403 of 1904 <!-- has to be adjusted to the @target --></bibl>
+              <bibl><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">336</citedRange><citedRange unit="item">617</citedRange></bibl>
+              <bibl><ptr target="bib:LakshminarayanRao1948_02"/><citedRange unit="page">lvii-lviii</citedRange></bibl>
+              <bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">335-336</citedRange><citedRange unit="item">74</citedRange></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
