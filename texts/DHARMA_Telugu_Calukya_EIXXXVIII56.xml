@@ -15,9 +15,9 @@
             </respStmt>
          	<respStmt>
          		<resp>intellectual authorship of edition</resp>
-         		<persName ref="part:jeth"><!-- OR: DELETE IF SOMBODY ELSE'S EDITION -->
-         			<forename><!-- XXXXXXX --></forename>
-         		           <surname><!-- XXXXXXX --></surname>
+         		<persName ref="part:jeth">
+         			<forename>Jens Christian</forename>
+         		           <surname>Thomas</surname>
          		</persName>
          	</respStmt>
          </titleStmt>         
@@ -52,16 +52,16 @@
                      n="3"/>vī-vallabha-mahārājādhirā<lb break="no" 
                      n="4"/>ja-par<unclear>ā</unclear>mēśvara-bhaṭarāḷa <unclear>v</unclear>i<lb break="no" 
                      n="5"/>jayarājya-sa<unclear>ṁ</unclear>vatsaraṁbuḶ pa<lb break="no" 
-                     n="6"/>di Agun-ēṇḍu v<unclear>ā</unclear>ṇarājul va<supplied reason="lost">ṁ</supplied>ga<lb break="no" 
-                     n="7"/>nūrnn<unclear>ā</unclear>ṇḍ ēḷaN  <!-- vapriḷeṁ/calkiḷēṁ-->ṟu-rāju<!-- name is not clear --><lb 
-                     n="8" break="no"/>L niṭūraN Erapaṁmi-pāṟa ko<lb 
-                     n="9" break="no"/>ṟuṟēniki paśc<supplied reason="lost">i</supplied>ma-diśaN pañc<choice><orig>a</orig><reg>ā</reg></choice><lb 
+                     n="6"/>di Agun-ēṇḍu v<unclear>ā</unclear>ṇarājul va<supplied reason="lost">ṁ</supplied>g<unclear>ā</unclear><lb break="no" 
+                     n="7"/>nūr nn<unclear>ā</unclear>ṇḍ ēḷaN chāḷkiḷēṁṟurāju<lb 
+                     n="8" break="no"/>L niṭūraN E<unclear>ṁ</unclear>ka<unclear>pa</unclear>ṁmi-pāṟa ko<lb 
+                     n="9" break="no"/>ṟu<!-- kōṟu means 'share, part' in Kannaḍa; in Tamil kunṟu 'short' and in case there was an anusvāra kunṟu 'hill' besides kunṟam, conf. Telugu konṟa -->ṟēniki paśc<supplied reason="lost">i</supplied>ma-diśaN pañc<choice><orig>a</orig><reg>ā</reg></choice><lb 
                      n="10" break="no"/>śat-kṣētraṁb icciri dāniki sākṣi
-               <lb n="11"/>vaḍlapāl<unclear>mu</unclear>siyya muḷugu I<lb 
-                     n="12" break="no"/>ḷu   ribōḷi vala
-               <lb n="13"/>  nṟu mahajana
-               <lb n="14"/>bu vṛddhi
-               <lb n="15"/>
+               <lb n="11"/>vaḍlapāl<unclear>mu</unclear>siyya muḷugu<!-- means 'head' in Kannaḍa--> I<lb 
+                     n="12" break="no"/>ḷū   vāri bōḷu<!-- could be bōḷi insofar as there might be the vowel °i or °u attached to the akṣara --> vala
+               <lb n="13"/>bōḷu  nṟu mah<unclear>ā</unclear>janaṁbu śu<lb 
+                     n="14" break="no"/>bu vṛddhi kō svadat<supplied reason="omitted">t</supplied>ā<supplied reason="lost">ṁ</supplied> parada<lb 
+                     n="15" break="no"/>ttāṁ vā yō harēta vas<supplied reason="lost">u</supplied>
             </p>
          </div>
          <div type="apparatus">
@@ -78,7 +78,9 @@
          </div>
          <div type="commentary">
             <p>
-               
+               The inscription is not complete. According to the estampage it seems probable that the inscription continued on another face of the stone which is not published or completely effaced.
+               The name <foreign>chāḷkiḷēṁṟurāju</foreign> consists of <foreign>chāḷki</foreign> which appears to be a contracted form of <foreign>cālukya</foreign> and <foreign>ḷēṁṟu</foreign>, an element that can also be found in the Tandivada Grant of Prithivi-Maharaja (<bibl><ptr target="bib:Panchamukhi1940_03"/><citedRange unit="page">98</citedRange><citedRange unit="line">23-24</citedRange></bibl>): <foreign>śrī rāma-leṇṟu-rājaḥ</foreign>. S. Rajaguru reads °<foreign>lindurājaḥ</foreign> and conjectures it into °<foreign>lendurājaḥ</foreign> (<bibl rend="omitname"><ptr target="bib:Rajaguru1958_01"/><citedRange unit="page">50</citedRange><citedRange unit="note">4</citedRange></bibl>). R. S. Panchamukhi's reading, however, is correct as can be seen from the picture in his edition. S. Rajaguru offers an explanation of this element and connects it with the Viṣṇukuṇḍin capital Lendulūru (ibid.). This explanation is probably wrong since the modern outcome of <foreign>leṇṟu</foreign> or <foreign>lenṟu</foreign> would be <foreign>leṇḍu</foreign>.
+               A village of the name Vaṁgānur is situated to the south of the Pennar at the Kōnavāripalli-Vaṁgānur Rd. next to Vīrāpuram and Kōnavāripalli, and at the bank of the Citrāvati river near Peddamallepalle there is the village Niṭṭūru. These <hi rend="italic">could</hi> be the villages mentioned in the inscription.
             </p>
          </div>
         <div type="bibliography">
