@@ -54,22 +54,29 @@
                      n="5"/>jayarājya-sa<unclear>ṁ</unclear>vatsaraṁbuḶ pa<lb break="no" 
                      n="6"/>di Agun-ēṇḍu v<unclear>ā</unclear>ṇarājul va<supplied reason="lost">ṁ</supplied>g<unclear>ā</unclear><lb break="no" 
                      n="7"/>nūr nn<unclear>ā</unclear>ṇḍ ēḷaN chāḷkiḷēṁṟurāju<lb 
-                     n="8" break="no"/>L niṭūraN E<unclear>ṁ</unclear>ka<unclear>pa</unclear>ṁmi-pāṟa ko<lb 
-                     n="9" break="no"/>ṟu<!-- kōṟu means 'share, part' in Kannaḍa; in Tamil kunṟu 'short' and in case there was an anusvāra kunṟu 'hill' besides kunṟam, conf. Telugu konṟa -->ṟēniki paśc<supplied reason="lost">i</supplied>ma-diśaN pañc<choice><orig>a</orig><reg>ā</reg></choice><lb 
+                     n="8" break="no"/>L niṭūraN E<unclear>ṁ</unclear>ka<unclear>pa</unclear>ṁmi-pāṟa ko<supplied reason="lost">ṁ</supplied><lb 
+                     n="9" break="no"/>ṟuṟēniki paśc<supplied reason="lost">i</supplied>ma-diś<unclear>ā</unclear>N pañc<choice><orig>a</orig><reg>ā</reg></choice><lb 
                      n="10" break="no"/>śat-kṣētraṁb icciri dāniki sākṣi
                <lb n="11"/>vaḍlapāl<unclear>mu</unclear>siyya muḷugu<!-- means 'head' in Kannaḍa--> I<lb 
-                     n="12" break="no"/>ḷū   vāri bōḷu<!-- could be bōḷi insofar as there might be the vowel °i or °u attached to the akṣara --> vala
-               <lb n="13"/>bōḷu  nṟu mah<unclear>ā</unclear>janaṁbu śu<lb 
-                     n="14" break="no"/>bu vṛddhi kō svadat<supplied reason="omitted">t</supplied>ā<supplied reason="lost">ṁ</supplied> parada<lb 
-                     n="15" break="no"/>ttāṁ vā yō harēta vas<supplied reason="lost">u</supplied>
+                     n="12" break="no"/>ḷūñca<unclear>vā</unclear>ri bōḷu val<unclear>e</unclear><!-- the akṣara here is unclear -->ṟa
+               <lb n="13"/>bōḷu n<unclear>ā</unclear>nṟu mah<unclear>ā</unclear>janaṁbu śu<supplied reason="lost">bhaṁ</supplied><lb 
+                     n="14" break="no"/>bu vṛddhi kō
+            </p> 
+            <p xml:lang="san-Latn">
+                                  <lg n="1" met="anuṣṭubh"><l 
+                                        n="a">svadat<supplied reason="omitted">t</supplied>ā<supplied reason="lost">ṁ</supplied> parada<lb 
+                     n="15" break="no"/>ttāṁ vā</l><l 
+                                        n="b"> yō harēta vas<supplied reason="lost">u</supplied><lb 
+                     n="16"  break="no"/><supplied reason="undefined">ndharāṁ</supplied></l><l n="c"><supplied reason="undefined">ṣaṣṭiṁ varṣasahasrāṇi</supplied></l><l n="c"> <supplied reason="undefined">viṣṭāyāṁ jāyatē kṛmiḥ</supplied></l>
+           </lg>
             </p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- Update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+               <listApp>
+                  <app loc="8">
+                     <lem>ko<supplied reason="lost">ṁ</supplied><lb 
+                     n="9" break="no"/>ṟu°</lem>
+                     <note>This element might be a variant of what ultimately became modern Telugu <foreign>koṇḍa</foreign>, conf. inscriptional <foreign>konṟa</foreign> and Tamil <foreign>kunṟu</foreign> 'hill'.</note>
                   </app>
                </listApp>         
          </div>
@@ -78,9 +85,10 @@
          </div>
          <div type="commentary">
             <p>
-               The inscription is not complete. According to the estampage it seems probable that the inscription continued on another face of the stone which is not published or completely effaced.
-               The name <foreign>chāḷkiḷēṁṟurāju</foreign> consists of <foreign>chāḷki</foreign> which appears to be a contracted form of <foreign>cālukya</foreign> and <foreign>ḷēṁṟu</foreign>, an element that can also be found in the Tandivada Grant of Prithivi-Maharaja (<bibl><ptr target="bib:Panchamukhi1940_03"/><citedRange unit="page">98</citedRange><citedRange unit="line">23-24</citedRange></bibl>): <foreign>śrī rāma-leṇṟu-rājaḥ</foreign>. S. Rajaguru reads °<foreign>lindurājaḥ</foreign> and conjectures it into °<foreign>lendurājaḥ</foreign> (<bibl rend="omitname"><ptr target="bib:Rajaguru1958_01"/><citedRange unit="page">50</citedRange><citedRange unit="note">4</citedRange></bibl>). R. S. Panchamukhi's reading, however, is correct as can be seen from the picture in his edition. S. Rajaguru offers an explanation of this element and connects it with the Viṣṇukuṇḍin capital Lendulūru (ibid.). This explanation is probably wrong since the modern outcome of <foreign>leṇṟu</foreign> or <foreign>lenṟu</foreign> would be <foreign>leṇḍu</foreign>.
+               The inscription is not complete. According to the estampage it seems probable that the inscription continued on another face of the stone which is not published or is completely effaced. The two missing <foreign>pādas</foreign> can be satisfactorily restored from the many parallels. It is not clear, however, how many lines are missing wherefore only one necessary hypothetical line (no. 16) has been restored.
+               The name <foreign>chāḷkiḷēṁṟurāju</foreign> consists of <foreign>chāḷki</foreign> which appears to be a contracted form of <foreign>cālukya</foreign> and <foreign>ḷēṁṟu</foreign>, an element that can also be found in the Tandivada Grant of Prithivi-Maharaja (<bibl><ptr target="bib:Panchamukhi1940_03"/><citedRange unit="page">98</citedRange><citedRange unit="line">23-24</citedRange></bibl>): <foreign>śrī rāma-leṇṟu-rājaḥ</foreign>. S. Rajaguru reads °<foreign>lindurājaḥ</foreign> and conjectures it into °<foreign>lendurājaḥ</foreign> (<bibl rend="omitname"><ptr target="bib:Rajaguru1958_01"/><citedRange unit="page">50</citedRange><citedRange unit="note">4</citedRange></bibl>). R. S. Panchamukhi's reading, however, is correct as can be seen from the picture in his edition. S. Rajaguru offers an explanation of this element and connects it with the Viṣṇukuṇḍin capital Lendulūru (ibid.). This explanation, however, is very probably wrong since the modern outcome of <foreign>leṇṟu</foreign> or <foreign>lenṟu</foreign> would be <foreign>leṇḍu</foreign>.
                A village of the name Vaṁgānur is situated to the south of the Pennar at the Kōnavāripalli-Vaṁgānur Rd. next to Vīrāpuram and Kōnavāripalli, and at the bank of the Citrāvati river near Peddamallepalle there is the village Niṭṭūru. These <hi rend="italic">could</hi> be the villages mentioned in the inscription.
+               K. V. Ramesh and S. S. Ramachandra Murthy state that the donation was done <cit><quote>by Chaḷki-Ḷēṁṟurāju to Varachāmi-pāṟa (i.e., the <hi rend="italic">brāhmaṇa</hi> named Varachāmi) of Koṁṟūru.</quote><bibl rend="omitname"><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">333</citedRange></bibl></cit>. This, however, contradicts the normal structure of names and also the meaning of the names.
             </p>
          </div>
         <div type="bibliography">
