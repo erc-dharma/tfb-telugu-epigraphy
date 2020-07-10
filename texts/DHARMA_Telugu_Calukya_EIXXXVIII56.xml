@@ -5,7 +5,7 @@
   <teiHeader xml:lang="eng">
       <fileDesc>
          <titleStmt>
-            <title><!-- ADD TITEL HERE --></title>
+            <title>Pannasa of Chāḷkiḷēṁṟurāju under Vinayāditya-Satyāśraya</title>
             <respStmt>
                <resp>Creation of file</resp>
                <persName ref="part:jeth">
@@ -26,7 +26,7 @@
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
             </authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_Telugu_Calukya_EIXXXVIII56</idno>
+            <idno type="filename">DHARMA_Telugu_Calukya_EIXXXVIII56A</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -57,10 +57,10 @@
                      n="8" break="no"/>L niṭūraN E<unclear>ṁ</unclear>ka<unclear>pa</unclear>ṁmi-pāṟa ko<supplied reason="lost">ṁ</supplied><lb 
                      n="9" break="no"/>ṟuṟēniki paśc<supplied reason="lost">i</supplied>ma-diś<unclear>ā</unclear>N pañc<unclear>ā</unclear><lb 
                      n="10" break="no"/>śat-kṣētraṁb icciri dāniki sākṣi
-               <lb n="11"/>vaḍlapāl<unclear>mu</unclear>siyya muḷugu<!-- means 'head' in Kannaḍa--> I<lb 
-                     n="12" break="no"/>ḷūñca<unclear>vā</unclear>ri bōḷu val<unclear>e</unclear><!-- the akṣara here is unclear -->ṟa<!-- has yet to be inserted into the apparatus -->
+               <lb n="11"/>vaḍlapāl<unclear>mu</unclear>siyya muḷugu I<lb 
+                     n="12" break="no"/>ḷūñca<unclear>vā</unclear>ri bōḷu val<unclear>edo</unclear>ṟa
                <lb n="13"/>bōḷu n<unclear>ā</unclear>nṟu mah<unclear>ā</unclear>janaṁbu śu<supplied reason="lost">bhaṁ</supplied><lb 
-                     n="14" break="no"/>bu vṛddhi kō<!-- has yet to be inserted into the apparatus -->
+                     n="14" break="no"/>bu vṛddhiyu <supplied reason="omitted">A</supplied>ku
             </p> 
             <p xml:lang="san-Latn">
                                   <lg n="1" met="anuṣṭubh"><l 
@@ -114,6 +114,11 @@
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04">I<lb 
                      n="12" break="no"/>ḷuñcadāri</rdg>
                   </app>
+                  <app loc="12">
+                     <lem>val<unclear>edo</unclear>ṟa</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">vaśagāṟa</rdg>
+                     <note>An element °toṟa (of which °doṟa is but a variant with the typical lenition) can be found as second member in several place names; it corresponds to Tamiḻ <foreign>tuṟai</foreign> 'place' etc.</note>
+                  </app>
                   <app loc="13">
                      <lem>n<unclear>ā</unclear>nṟu</lem>
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04">nānṟu</rdg>
@@ -123,10 +128,16 @@
                      n="14" break="no"/>bu</lem>
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04"><unclear>śubhaṁ</unclear></rdg>
                   </app>
+                  <app loc="14">
+                     <lem>vṛddhiyu <supplied reason="omitted">A</supplied>ku</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">vṛddhiyuṁkā</rdg>
+                  </app>
                </listApp>         
          </div>
          <div type="translation" xml:lang="eng" resp="part:jeth">
- 	<!--Yet to be provided -->
+ 	  <p>
+ 	   Svasti! In the tenth year in the era of the victorious reign of Śrī Vinayāditya-Satyāśraya Śrī Pṛthivī-Vallabha-Mahārājādhirāja-Paramēśvara-bhaṭarāḷu, when Bāṇarājul reigned over Vaṁgānūr-Nāṇḍu, Cālukya-Ḷēṁṟurāju gave, in Niṭūru in the western direction, a field (as a) pannasa (grant) to Koṁṟuṟēṇḍu, brahmin of Eṁkapaṁm(u). The witness(es) to that (are): the<!-- has to be clarified whether this is a title or not --> muḷugu of Vaḍlapālmusi, the bōḷu of Iḷūñcavāru, (and) the bōḷu in Valedoṟu. May there be welfare and prosperity of the country and the people!
+ 	  </p>
          </div>
          <div type="commentary">
             <p>
@@ -135,14 +146,17 @@
                A village of the name Vaṁgānur is situated to the south of the Pennar at the Kōnavāripalli-Vaṁgānur Rd. next to Vīrāpuram and Kōnavāripalli, and at the bank of the Citrāvati river near Peddamallepalle there is the village Niṭṭūru. These could be the villages mentioned in the inscription.
                K. V. Ramesh and S. S. Ramachandra Murthy state that the donation was done <cit><quote>by Chaḷki-Ḷēṁṟurāju to Varachāmi-pāṟa (i.e., the <hi rend="italic">brāhmaṇa</hi> named Varachāmi) of Koṁṟūru.</quote><bibl rend="omitname"><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">333</citedRange></bibl></cit>. This, however, contradicts the normal structure of name giving ([PLACE_NAME]-pāṟa [NAME]) and also the meaning of the names because °ṟēniki is the dative of *ṟēnṟu 'ruler' (ṟē- from <foreign>eṟe</foreign>, confer Kannaḍa <foreign>eṟe</foreign>).
             </p>
+            <p>
+               The term mahājanaṁbu can also specifically denote merchants, etc.... <!-- Sircar; furthermore ad muḷugu and bōḷu -->
+            </p>
          </div>
         <div type="bibliography">
           <p>
-           	   
+           The inscripton was noted in A. R. No. B 26 of 1958-1959 <!-- has to be adjusted to the @target --> and first published by K. V. Ramesh and S. S. Ramachandra Murthy with picture and annotations and without translation (<bibl rend="omitname"><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">333</citedRange><citedRange unit="item">56 A</citedRange></bibl>).
           </p>
            <listBibl type="secondary">
-              <bibl></bibl>
-              <bibl></bibl>
+              <bibl>A. R. No. B 26 of 1958-1959 <!-- has to be adjusted to the @target --></bibl>
+              <bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">333</citedRange><citedRange unit="item">56 A</citedRange></bibl>
            </listBibl>
         </div>
       </body>
