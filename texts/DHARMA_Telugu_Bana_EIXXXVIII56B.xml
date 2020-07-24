@@ -40,7 +40,7 @@
          </sourceDesc>
       </fileDesc>
      <revisionDesc>
-        <change who="part:jeth" when="2019-12-18" status="draft">Creation of the file</change><!-- CORRECT DATE -->
+        <change who="part:jeth" when="2020-07-24" status="draft">Creation of the file</change>
      </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
@@ -48,9 +48,9 @@
          <div type="edition" xml:lang="tel-Latn">
             <p>
                <lb n="1"/>svasti śrī vinayāditya-satyāśraya śrī pr<unclear>i</unclear>th<unclear>i</unclear>vīvallabha-mahārāja-<lb 
-                     n="2" break="no"/>paramēśvara-bhaṭāraḷa vijayarājya-saṁvatsara<unclear>ṁ</unclear>bu padunālugu A
-               <lb n="3"/>
-               <lb n="4"/>
+                     n="2" break="no"/>paramēśvara-bhaṭāraḷa vijayarājya-saṁvatsara<unclear>ṁ</unclear>bu padunālugu Abu<!-- the akṣara very probably is not gu since the vowel sign points towards the left side. It does not seem to be vu which is attested in this position in SII X 596 either. It rather looks like bu which would be strange: agu > avu ~ abu ? -->n ēṇḍu va<unclear>ṇa</unclear><lb 
+                   n="3" break="no"/>rājul va<unclear>ṁ</unclear>gan<unclear>u</unclear><!-- it clearly isn’t °nūr. The first member is attested as vaṁka as a place name (see Sītārāmācāryulu), the element -n is unclear, though, unless it is the locative -an. The word could either be 'waterway' or "eggplant tree" --> nāṇḍu Ēḷ<unclear>ā</unclear> paṇḍaḷa<!-- as for this word see also Radhakrishna No. 61, 2; should be a place name --> peṇaviyāru<!-- is it a name or a title? --> puṟan<unclear>ū</unclear>r ēḷa vāri taṁbul malla<!--unclear akṣara, is it yē as for mallayēru < *malla-ayya-varu?-->ru Iga<lb 
+                   n="4" break="no"/>r ēḷucu vā<!--or is it bhā?-->ra
                <lb n="5"/>
             </p>
          </div>
