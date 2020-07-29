@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+      <fileDesc>
+         <titleStmt>
+            <title><!-- ADD TITEL HERE --></title>
+            <respStmt>
+               <resp>Creation of file</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         	<respStmt>
+         		<resp>intellectual authorship of edition</resp>
+         		<persName ref="part:jeth"><!-- OR: DELETE IF SOMBODY ELSE'S EDITION -->
+         			<forename><!-- XXXXXXX --></forename>
+         		           <surname><!-- XXXXXXX --></surname>
+         		</persName>
+         	</respStmt>
+         </titleStmt>         
+         <publicationStmt>
+            <authority>DHARMA
+               <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
+            </authority>
+            <pubPlace>Berlin</pubPlace>
+            <idno type="filename">DHARMA_Telugu_Bana_EIXXXVIII56B</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p><!-- not to be filled in at this stage --></p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change who="part:jeth" when="2020-07-24" status="draft">Creation of the file</change>
+     </revisionDesc>
+  </teiHeader>
+  <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="tel-Latn">
+            <p>
+               <lb n="1"/>svasti śrī vinayāditya-satyāśraya śrī pṛthivī-vallabha-mahārāja-<lb 
+                     n="2" break="no"/>paramēśvara-bhaṭāraḷa vijayarājya-saṁvatsaraṁbu padunālugu A<unclear>bu</unclear><!-- the akṣara very probably is not gu since the vowel sign points towards the left side. It does not seem to be vu which is attested in this position in SII X 596 either. It rather looks like bu which would be strange: agu > avu ~ abu ? -->n ēṇḍu va<unclear>ṇa</unclear><lb 
+                   n="3" break="no"/>rājul va<unclear>ṁ</unclear>gan<unclear>u</unclear><!-- it clearly isn’t °nūr. The first member is attested as vaṁka as a place name (see Sītārāmācāryulu), the element -n is unclear, though, unless it is the locative -an. The word could either be 'waterway' or "eggplant tree" --> nāṇḍu Ēḷā paṇṭaḷa<!-- as for this word see also Radhakrishna No. 61, 2; should be a place name --> peṇaviyāru<!-- is it a name or a title? --> puṟan<unclear>ū</unclear>r<!--might be ur if the °ū cannot have the °u with a hook to the right--> ēḷa vāri taṁbul<!-- = tammuḍu--> mallaya<!--two unclear akṣaras; is it yē as for mallayēru < *malla-ayya-varu?-->ru Iga<lb 
+                   n="4" break="no"/><supplied reason="lost">ḍū</supplied><!--the akṣara can be supplied due to the name of the find spot-->r ēḷucu bhāradvā<unclear reason="eccentric_ductus">ja</unclear><!--the akṣara here does not seem to be a ja; bhā° is unusual-->sagōtra<unclear>ṁ</unclear>buna Ucca<!--prob. from Skt. ucca- since ucca means urine in Tel. But see EI XXX, 14 for the same donée whose name is probably written uñca--->pāṟa kumāraśarmmarikiN<!--it is not clear whether it is N or na because of the damage--> rācamāna<unclear>ṁ</unclear>buna Ē<lb 
+                   n="5" break="no"/>   maṟuntu[[?]] pannasa Udakapūrvva<unclear>ñ</unclear><supplied reason="lost">c</supplied><unclear>ē</unclear>si  <gap reason="lost" unit="character" quantity="10" precision="medium"/>N pa
+                   <!--see EI XXX, 14 for another instance of udakapūrvva--->
+            </p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- Update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>         
+         </div>
+         <div type="translation" xml:lang="eng" resp="part:jeth">
+ 	<!--Yet to be provided -->
+         </div>
+         <div type="commentary">
+            <p>
+               
+            </p>
+         </div>
+        <div type="bibliography">
+          <p>
+           	   
+          </p>
+           <listBibl type="secondary">
+              <bibl></bibl>
+              <bibl></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
