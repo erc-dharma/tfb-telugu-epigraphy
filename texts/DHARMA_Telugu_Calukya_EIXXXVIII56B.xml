@@ -5,7 +5,7 @@
   <teiHeader xml:lang="eng">
       <fileDesc>
          <titleStmt>
-            <title><!-- ADD TITEL HERE --></title>
+            <title>Donation of fifty maṟuntuṟlu to Uccapāṟa Kumāraśarmmāru under the rule of Vinayāditya</title>
             <respStmt>
                <resp>Creation of file</resp>
                <persName ref="part:jeth">
@@ -15,9 +15,9 @@
             </respStmt>
          	<respStmt>
          		<resp>intellectual authorship of edition</resp>
-         		<persName ref="part:jeth"><!-- OR: DELETE IF SOMBODY ELSE'S EDITION -->
-         			<forename><!-- XXXXXXX --></forename>
-         		           <surname><!-- XXXXXXX --></surname>
+         		<persName ref="part:jeth">
+         			<forename>Jens Christian</forename>
+         		           <surname>Thomas</surname>
          		</persName>
          	</respStmt>
          </titleStmt>         
@@ -41,6 +41,7 @@
       </fileDesc>
      <revisionDesc>
         <change who="part:jeth" when="2020-07-24" status="draft">Creation of the file</change>
+        <change who="part:jeth" when="2020-07-30" status="draft">Apparatus added</change>
      </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
@@ -48,19 +49,75 @@
          <div type="edition" xml:lang="tel-Latn">
             <p>
                <lb n="1"/>svasti śrī vinayāditya-satyāśraya śrī pṛthivī-vallabha-mahārāja-<lb 
-                     n="2" break="no"/>paramēśvara-bhaṭāraḷa vijayarājya-saṁvatsaraṁbu padunālugu A<unclear>bu</unclear><!-- the akṣara very probably is not gu since the vowel sign points towards the left side. It does not seem to be vu which is attested in this position in SII X 596 either. It rather looks like bu which would be strange: agu > avu ~ abu ? -->n ēṇḍu va<unclear>ṇa</unclear><lb 
-                   n="3" break="no"/>rājul va<unclear>ṁ</unclear>gan<unclear>u</unclear><!-- it clearly isn’t °nūr. The first member is attested as vaṁka as a place name (see Sītārāmācāryulu), the element -n is unclear, though, unless it is the locative -an. The word could either be 'waterway' or "eggplant tree" --> nāṇḍu Ēḷā paṇḍaḷa<!-- as for this word see also Radhakrishna No. 61, 2; should be a place name --> peṇaviyāru<!-- is it a name or a title? --> puṟan<unclear>ū</unclear>r ēḷa vāri taṁbul malla<!--unclear akṣara, is it yē as for mallayēru < *malla-ayya-varu?-->ru Iga<lb 
-                   n="4" break="no"/>r ēḷucu bhāradvā<!--the akṣara here does not seem to be a ja-->sagōtra<unclear>ṁ</unclear>buna Ucca<!--or ñca-->pāṟa kumo<!--or is it mā?-->raśarmmarikiN<!--it is not clear whether it is N or na because of the damage--> rācamāna<unclear>ṁ</unclear>buna 
-               <lb n="5"/>   pannasa
+                   n="2" break="no"/>paramēśvara-bhaṭāraḷa vijayarājya-saṁvatsaraṁbu padunālugu A<unclear>bu</unclear>n ēṇḍu va<unclear>ṇa</unclear><lb 
+                   n="3" break="no"/>rājul va<unclear>ṁ</unclear>gan<unclear>u</unclear><!-- it clearly isn’t °nūr. The first member is attested as vaṁka as a place name (see Sītārāmācāryulu), the element -n could be the locative -an. The word could either be 'waterway' or "eggplant tree" --> nāṇḍu Ēḷā paṇṭaḷa<!-- as for this word see also SII X, 600, line 2 the reading of which is unclear though --> peṇaviyāru<!-- is it a name or a title? --> puṟanur ēḷa vāri taṁbul mall<unclear>i</unclear>y<unclear>ē</unclear>ru Iga<lb 
+                   n="4" break="no"/><supplied reason="lost">ḍū</supplied><!--the akṣara can be supplied due to the name of the find spot-->r ēḷucu bhāradvā<unclear reason="eccentric_ductus">ja</unclear><!--the akṣara here does not seem to be a ja; bhā° is unusual-->sagōtra<unclear>ṁ</unclear>buna Ucca<!--prob. from Skt. ucca- since ucca means urine in Tel. But see EI XXX, 14 for the same donée whose name is probably written uñca--->pāṟa kumāraśarmmarikiN rācamāna<unclear>ṁ</unclear>buna Ē<lb 
+                   n="5" break="no"/><unclear>bha</unclear><supplied reason="lost">d</supplied><unclear>i</unclear> māṟuntuṟ<unclear>la</unclear> pannasa Udakapūrvva<unclear>ṁ</unclear> <unclear>cē</unclear>si I<unclear>ci</unclear><supplied reason="lost">r</supplied><unclear>i</unclear><gap reason="lost" unit="character" quantity="10" precision="medium"/>N <unclear>pa</unclear>
+                   <!--see EI XXX, 14 for another instance of udakapūrvva--->
             </p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- Update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+               <listApp>
+               <app loc="1">
+                     <lem>pṛthivī</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">pṛthvī</rdg>
+               </app>
+                  <app loc="2">
+                     <lem>A<unclear>bu</unclear>n</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">Agun</rdg>
+                     <note>The akṣara does not look like the ⟨gu⟩ of the same line because the vowel points towards the left side. It does not seem to be ⟨vu⟩ either, which is attested in this position in <bibl><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="item">596</citedRange></bibl>.</note>
                   </app>
+                  <app loc="2">
+                     <lem>va<unclear>ṇa</unclear><lb 
+                   n="3" break="no"/>rājul</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">vā<unclear>ṇa</unclear><lb 
+                   n="3" break="no"/>rājul</rdg>
+                  </app>
+                  <app loc="3">
+                     <lem>va<unclear>ṁ</unclear>gan<unclear>u</unclear></lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">vaṁganūr</rdg>
+                  </app>
+                  <app loc="3">
+                     <lem>Ēḷā</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">Ēḷa</rdg>
+                  </app>
+                  <app loc="3">
+                     <lem>paṇṭaḷa</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">baṇḍaḷa</rdg>
+                  </app>
+                  <app loc="3">
+                     <lem>peṇaviyāru</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">peṇaciyāru</rdg>
+                  </app>
+                  <app loc="3">
+                     <lem>puṟanur</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">puḻanūr</rdg>
+                     <note>The second akṣara is a circle with a horizontal line. The difference between ⟨ṟa⟩ and ⟨ḻa⟩ is that - in all their shapes - ⟨ṟa⟩ has a horizontal stroke and optionally a vertical one while ⟨ḻa⟩ only has a vertical one. If the vowel was ⟨°ū⟩ it would have been written via a normal ⟨°u⟩ with another stroke to the right as on ⟨ru⟩ or ⟨ku⟩.</note>
+                  </app>
+                  <app loc="3">
+                     <lem>mall<unclear>i</unclear>y<unclear>ē</unclear>ru</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">mallayaru</rdg>
+                     <note>The reading ⟨lli⟩ is very doubtful. The main akṣara looks like a halanta ⟨L⟩ but there might be traces of ⟨°i⟩. The subscript ⟨°l⟩ is also unusual in that it starts on the left lower corner instead of the right one.<!--the name may come from *malla-ayya-vāru--></note>
+                  </app>
+                  <app loc="4">
+                     <lem>bhāradvā<unclear reason="eccentric_ductus">ja</unclear></lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">bhāradvāja</rdg>
+                  </app>
+                  <app loc="4">
+                     <lem>Uccapāṟa kumāraśarmmarikiN</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">Uñcapāṟa kumāraśarmmari<supplied reason="undefined">k i</supplied>kkina</rdg>
+                     <note>Because of the damage it is not clear whether ⟨N⟩ really is <foreign>halanta</foreign>. But this is to be expected grammatically. The editors state in a note </note>
+                  </app>
+                  <app loc="4">
+                     <lem>Ē<lb 
+                   n="5" break="no"/><unclear>bha</unclear><supplied reason="lost">d</supplied><unclear>i</unclear> māṟuntuṟ<unclear>la</unclear></lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">Ē<lb 
+                   n="5" break="no"/><unclear>bhadi</unclear> maṟutuṟlu</rdg>
+                  </app>
+                  <app loc="5">
+                     <lem>Udakapūrvva<unclear>ṁ</unclear> <unclear>cē</unclear>si I<unclear>ci</unclear><supplied reason="lost">r</supplied><unclear>i</unclear><gap reason="lost" unit="character" quantity="10" precision="medium"/>N <unclear>pa</unclear></lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">Udakapūrvvaṁ cēsi Icciri</rdg>
+                  </app> 
                </listApp>         
          </div>
          <div type="translation" xml:lang="eng" resp="part:jeth">
@@ -68,16 +125,16 @@
          </div>
          <div type="commentary">
             <p>
-               
+             The word <foreign>taṁbulu</foreign> (pl.) is an early variant of later <foreign>tammuḍu</foreign> "younger brother".  
             </p>
          </div>
         <div type="bibliography">
           <p>
-           	   
+           The inscription was noted in A. R. No. 5 B of 1959-1960<!--has to be adjusted to the @target--> and first published by K. V. Ramesh and S. S. Ramachandra with annotations and a picture (<bibl rend="omitname"><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">334</citedRange><citedRange unit="item">56 B</citedRange></bibl>).
           </p>
            <listBibl type="secondary">
-              <bibl></bibl>
-              <bibl></bibl>
+              <bibl>A. R. No. 5 B of 1959-1960<!--has to be adjusted to the @target--></bibl>
+              <bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">334</citedRange><citedRange unit="item">56 B</citedRange></bibl>
            </listBibl>
         </div>
       </body>
