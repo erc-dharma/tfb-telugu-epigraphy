@@ -57,14 +57,16 @@
 	      <lb n="7"/><gap reason="undefined" unit="line" quantity="1"/>
 	      <lb n="8"/><gap reason="undefined" unit="line" quantity="1"/>
 	      <lb n="9"/><gap reason="undefined" unit="line" quantity="1"/>
-	      <lb n="10"/>svadattaṁ paradattaṁ vā
-	      <lb n="11"/>yo harēti vasundharā<unclear>ṁ</unclear>
-	      <lb n="12"/>ṣaṣṭivarṣasahasrāṇi
-	      <lb n="13"/>viṣṭāyāṁ jāyatē kṛmiḥ
-	      <lb n="14"/>bahubhir vvasudhā dattā
-	      <lb n="15"/>rājabhis sagarādibhi<unclear>ḥ</unclear>
-	      <lb n="16"/>yasya yasya yadā bhūmi<lb 
-		  n="17" break="no"/><supplied reason="undefined">s ta</supplied>sya tasya tadā phalaṁ 
+            </p>
+            <p xml:lang="san-Latn">
+	      <lb n="10"/><lg n="1" met="anuṣṭubh"><l n="a">svadattaṁ paradattaṁ vā</l>
+	      <lb n="11"/><l n="b">yo harēti vasundharā<unclear>ṁ</unclear></l>
+	      <lb n="12"/><l n="c">ṣaṣṭivarṣasahasrāṇi</l>
+	      <lb n="13"/><l n="d">viṣṭāyāṁ jāyatē kṛmiḥ</l></lg>
+	      <lb n="14"/><lg n="2" met="anuṣṭubh"><l n="a">bahubhir vvasudhā dattā</l>
+	      <lb n="15"/><l n="b">rājabhis sagarādibhi<unclear>ḥ</unclear></l>
+	      <lb n="16"/><l n="c">yasya yasya yadā bhūmi<lb 
+		  n="17" break="no"/><supplied reason="undefined">s</supplied></l> <l n="d"><supplied reason="undefined">ta</supplied>sya tasya tadā phalaṁ</l></lg> 
             </p>
          </div>
          <div type="apparatus">   
