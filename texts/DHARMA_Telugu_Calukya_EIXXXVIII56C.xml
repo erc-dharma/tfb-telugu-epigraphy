@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+      <fileDesc>
+         <titleStmt>
+            <title><!-- ADD TITEL HERE --></title>
+            <respStmt>
+               <resp>Creation of file</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         	<respStmt>
+         		<resp>intellectual authorship of edition</resp>
+         		<persName ref="part:jeth">
+         		   <forename>Jens Christian</forename>
+         		   <surname>Thomas</surname>
+         		</persName>
+         	</respStmt>
+         </titleStmt>         
+         <publicationStmt>
+            <authority>DHARMA
+               <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
+            </authority>
+            <pubPlace>Berlin</pubPlace>
+            <idno type="filename">DHARMA_Telugu_Calukya_EIXXXVIII56C</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p><!-- not to be filled in at this stage --></p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change who="part:jeth" when="2020-07-31" status="draft">Creation of the file</change>
+     </revisionDesc>
+  </teiHeader>
+  <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="tel-Latn">
+            <p>
+               <lb n="1"/>svasti śrimaN vijayāditya-sa<supplied reason="undefined">tyāśra</supplied>ya-śri-prithivi-bhallabha-mahārā<lb 
+                     n="2" break="no"/>ja-Athirāja-paramēśvara-<unclear>bha</unclear>ṭāraḷa vijayarājya-saṁva<supplied reason="omitted">tsa</supplied>raṁbu
+               <lb n="3"/>prathama-r<choice><sic>ē</sic><corr>ā</corr></choice>jya<supplied reason="lost">ṁ</supplied>buna rēṇḍ-agun ēṇḍu vaṇarājuL vaṁgaru<!-- is it vaṁganūru? but compare vaṁganu in EIXXXVII56B --><lb 
+                     n="4" break="no"/>viṣaya<supplied reason="lost">ṁ</supplied>bu Ēḷa varipaḷacalki<!-- is it lki? --> ḷēnṟurājula niṭuru paṭu
+               <lb n="5"/>gana Ēḷucu gamuṇḍalli gōtra<supplied reason="lost">ṁ</supplied>buna vēḷāla guṇḍiya pāṟa vēnayaṟagari<!-- reading unambiguous but has to be clarified! there furthermore has to be a dative suffix somewhere-->
+               <lb n="6"/>racamānaṁbuna Ēbhadi maṟuntuṟlu Iccinadi dēni<lb 
+                     n="7" break="no"/>ki sāpidhōṇaya<!-- reading unambiguous but has to be clarified! --> bōḷu kundābākaḷu<!-- has to be clarified! --> vēdaribōḷu valaya<lb 
+                     n="8" break="no"/>ṟunēduṁbālu paṭṭigā puḷ<unclear>ū</unclear>janapaṟu Ajja va pāṟu
+               <lb n="9"/>vara ? mavaṟuṭaccamuḷu dēnik<unclear>i</unclear> vakra<unclear>ṁ</unclear>bu vaccuvāru pa<supplied reason="lost">ñ</supplied>ca<lb 
+                     n="10" break="no"/>mahāpātakasa<unclear>ṁ</unclear>yuktul aguḷca<!-- ?? what is this ending? -->
+            </p>
+            <p xml:lang="san-Latn">
+               <lg n="1" met="anuṣṭubh">
+                  <l n="a">svadatt<supplied reason="omitted">ā</supplied><unclear>ṁ</unclear> paradatt<unclear>ā</unclear><supplied reason="lost">ṁ</supplied> vā</l>
+                  <l n="b">yō harēt<choice><sic>i</sic><corr>a</corr></choice> vasu<lb n="11"/>ndhar<supplied reason="omitted">āṁ</supplied></l>
+                  <l n="c">ṣaṣ<choice><sic>thi</sic><corr>ṭhi</corr></choice><supplied reason="omitted">r</supplied> va<choice><sic>ruṣa</sic><corr>rṣa</corr></choice>sa<supplied reason="omitted">hasrāṇi</supplied></l>
+                  <l n="d"><supplied reason="omitted">viṣṭhāyāṁ jāyate kṛmiḥ</supplied></l>
+               </lg>
+            </p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="1">
+                     <lem>śrimaN</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">śrīmaN</rdg>
+                  </app>
+                  <app loc="1">
+                     <lem>sa<supplied reason="undefined">tyāśra</supplied>ya</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">saṁya</rdg>
+                     <note>The scribe omitted one <foreign>akṣara</foreign> in the word <foreign>saṁvatsaraṁbu</foreign> of the same line, and he might therefore simply have forgotten two akṣaras in this word. There might be a chance, however, that it is sort of an abbreviated way of writing the <foreign>biruda</foreign>. The editors state in a footnote that <foreign>saṁya </foreign>has to be read <foreign>satyāśraya</foreign>.</note>
+                  </app>
+                  <app loc="1">
+                     <lem>śri-prithivi-bhallabha</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">śrī-<choice><sic>pri</sic><corr>pṛ</corr></choice>thivī<choice><sic>bha</sic><corr>va</corr></choice>llabha</rdg>
+                  </app>
+                  <app loc="1">
+                     <lem>mahārā<lb 
+                     n="2" break="no"/>ja-Athirāja</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04"><choice><sic>mā</sic><corr>ma</corr></choice>h<unclear>ā</unclear>rā<lb 
+                     n="2" break="no"/>ja-Adhirāja</rdg>
+                  </app>
+                  <app loc="2">
+                     <lem>saṁva<supplied reason="omitted">tsa</supplied>raṁbu</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">saṁvarabuṁ</rdg>
+                     <note>In many cases the <foreign>ansuvāra</foreign> is written on top of the <foreign>akṣara</foreign> it is supposed to be pronounced before instead of after in Telugu inscriptions. It is noteworthy, that the first <foreign>anusvāra </foreign>is written on top of the ⟨sa⟩ and the second on top of the ⟨bu⟩ in this word; but the second <foreign>akṣara</foreign> has to be read ⟨ṁbu⟩. The same occurs with ⟨ṁbu⟩ in line six. The editors state in a footnote that the word has to be read <foreign>saṁvatsaraṁbu</foreign>.</note>
+                  </app>
+                  <app loc="3">
+                     <lem>r<choice><sic>ē</sic><corr>ā</corr></choice>jya<supplied reason="lost">ṁ</supplied>buna</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">rājyabuna</rdg>
+                  </app>
+                  <app loc="3">
+                     <lem>vaṇarājuL</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04"><choice><sic>va</sic><corr>vā</corr></choice>ṇarājuL</rdg>
+                  </app>
+                  <app loc="3">
+                     <lem>vaṁgaru</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">vagaṁru</rdg>
+                     <note>The <foreign>anusvāra</foreign> is written on top of the ⟨ga⟩ as is often the case in Telugu inscriptions; the reading <foreign>vaṁga</foreign> is furthermore secured by other inscriptions (see <bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">334</citedRange><citedRange unit="item">56 B</citedRange><citedRange unit="line">3</citedRange></bibl>). The editors state in a footnote that the word has to be read as <foreign>vaṁganūru</foreign>.</note>
+                  </app>
+               </listApp>         
+         </div>
+         <div type="translation" xml:lang="eng" resp="part:jeth">
+ 	<!--Yet to be provided -->
+         </div>
+         <div type="commentary">
+            <p>
+               The scribe did not differentiate between long ⟨ī⟩ and short ⟨i⟩. Since this could reflect an actual indifference towards distinguishing vowel length in pronunctiation in this respect, the text was not "normalized". In the scribe's ductus the <foreign>akṣaras</foreign> ⟨da⟩ and ⟨ṭa⟩ look alike. He further does not differentiate between ⟨dha⟩ and ⟨tha⟩ both of which are written with a dot in the middle.
+            <!-- as for prathamarājya- see Bharati, 5, pp. 935-946 (Sastri 20) -->
+               The inscription stops after the first third of line 11 although the imprecation verse is not completed and plenty of space is still left. It is possible that the inscription originally continued in the next line but regarding the flaws that the scribe seems to be responsible for it is also possible that he simply forgot to complete his task.
+            </p>
+         </div>
+        <div type="bibliography">
+          <p>
+           	   
+          </p>
+           <listBibl type="secondary">
+              <bibl></bibl>
+              <bibl></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
