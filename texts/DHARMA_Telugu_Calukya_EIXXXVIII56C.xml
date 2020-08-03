@@ -49,9 +49,9 @@
             <p>
                <lb n="1"/>svasti śrimaN vijayāditya-sa<supplied reason="undefined">tyāśra</supplied>ya-śri-prithivi-bhallabha-mahārā<lb 
                      n="2" break="no"/>ja-Athirāja-paramēśvara-<unclear>bha</unclear>ṭāraḷa vijayarājya-saṁva<supplied reason="omitted">tsa</supplied>raṁbu
-               <lb n="3"/>prathama-r<choice><sic>ē</sic><corr>ā</corr></choice>jya<supplied reason="lost">ṁ</supplied>buna rēṇḍ-agun ēṇḍu vaṇarājuL vaṁgaru<!-- is it vaṁganūru? but compare vaṁganu in EIXXXVII56B --><lb 
-                     n="4" break="no"/>viṣaya<supplied reason="lost">ṁ</supplied>bu Ēḷa varipaḷa calki<!-- is it lki? -> "cālukya" --> ḷēnṟurājula niṭuru paṭu
-               <lb n="5"/>gana Ēḷucu gamuṇḍalli gōtra<supplied reason="lost">ṁ</supplied>buna vēḷāla guṇḍiya pāṟa vēnayaṟagari<!-- reading unambiguous but has to be clarified! there furthermore has to be a dative suffix somewhere-->
+               <lb n="3"/>prathama-r<choice><sic>ē</sic><corr>ā</corr></choice>jya<supplied reason="lost">ṁ</supplied>buna rēṇḍ-agun ēṇḍu vaṇarājuL vaṁgaru<lb 
+                     n="4" break="no"/>viṣaya<supplied reason="lost">ṁ</supplied>bu Ēḷa varipaḷa<!-- is it a place name or vāri pāḷa? --> caḷki ḷēnṟurājula niṭuru paṭu
+               <lb n="5"/>gana Ēḷucu gamuṇḍalli gōtra<supplied reason="lost">ṁ</supplied>buna vēḷāla<!-- there is a village Vellāla (Zvelebil's rule) at the Kundu river north of Kummarapalle and Paiḍēlā north of Proddatūr --> guṇḍiya pāṟa veneyaṟēgari<!-- reading unambiguous but has to be clarified! there furthermore has to be a dative suffix somewhere; that suffix was probably forgotten here since the scribe made at least three mistakes already-->
                <lb n="6"/>racamānaṁbuna Ēbhadi maṟuntuṟlu Iccinadi dēni<lb 
                      n="7" break="no"/>ki sāpidhōṇaya<!-- reading unambiguous but has to be clarified! --> bōḷu kundābākaḷu<!-- has to be clarified! --> vēdaribōḷu valaya<lb 
                      n="8" break="no"/>ṟunēduṁbālu paṭṭigā puḷ<unclear>ū</unclear>janapaṟu Ajja va pāṟu
@@ -104,7 +104,7 @@
                   <app loc="3">
                      <lem>vaṁgaru</lem>
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04">vagaṁru</rdg>
-                     <note>The <foreign>anusvāra</foreign> is written on top of the ⟨ga⟩ as is often the case in Telugu inscriptions; the reading <foreign>vaṁga</foreign> is furthermore secured by other inscriptions (see <bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">334</citedRange><citedRange unit="item">56 B</citedRange><citedRange unit="line">3</citedRange></bibl>). The editors state in a footnote that the word has to be read as <foreign>vaṁganūru</foreign>.</note>
+                     <note>The <foreign>anusvāra</foreign> is written on top of the ⟨ga⟩ as is often the case in Telugu inscriptions; the reading <foreign>vaṁga</foreign> is furthermore secured by other inscriptions (see <bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">334</citedRange><citedRange unit="item">56 B</citedRange><citedRange unit="line">3</citedRange></bibl>). The editors state in a footnote that the word has to be read as <foreign>vaṁganūru</foreign>. Regarding the slip of the pen in line 2 and line 1 (if it is not an abbreviation) a further slip at this spot is possible as well.</note>
                   </app>
                </listApp>         
          </div>
@@ -114,13 +114,14 @@
          <div type="commentary">
             <p>
                The scribe did not differentiate between long ⟨ī⟩ and short ⟨i⟩. Since this could reflect an actual indifference towards distinguishing vowel length in pronunctiation in this respect, the text was not "normalized". In the scribe's ductus the <foreign>akṣaras</foreign> ⟨da⟩ and ⟨ṭa⟩ look alike. He further does not differentiate between ⟨dha⟩ and ⟨tha⟩ both of which are written with a dot in the middle.
+                A <foreign>viṣaya</foreign> or <foreign>nāṇḍu</foreign> with the name <foreign>vaṁganūr</foreign> is mentioned (and written clearly) in <bibl rend="omitname"><ptr target="bib:Desai1953-1954_02"/><citedRange unit="item">14</citedRange><citedRange unit="line">2</citedRange></bibl> and also mentioned in <bibl rend="omitname"><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="item">604</citedRange><citedRange unit="line">2</citedRange></bibl>. The place name consists of the elements <foreign>vaṁgan(V)</foreign> and <foreign>ūru</foreign> "village"; the first element could go back to Telugu <foreign>vaṁka</foreign> "crooked", compare Kannaḍa <foreign>vaṁka</foreign> "the winding course of a stream" (<bibl><ptr target="bib:Kittel1894_01"/><citedRange unit="page">1370</citedRange></bibl>), with locative suffix. Hence, the place name could mean "village at the river curve". The modern village <foreign>Vaṁganūr</foreign> actually is situated at a curve of the Pennar river. It might hence be possible that the <foreign>viṣaya</foreign> was also simply called <foreign>vaṁgana</foreign> "at the river curve" (<bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="item">56 B</citedRange><citedRange unit="line">3</citedRange></bibl>) if it wasn't really <foreign>vaṁganūr</foreign>. The attested <foreign>vaṁgaru</foreign> on the other hand (<bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="item">56 C</citedRange><citedRange unit="line">3</citedRange></bibl>) very probably is a misspelling for <foreign>vaṁganūru</foreign> because of etymological reasons.
             <!-- as for prathamarājya- see Bharati, 5, pp. 935-946 (Sastri 20) -->
                The inscription stops after the first third of line 11 although the imprecation verse is not completed and plenty of space is still left. It is possible that the inscription originally continued in the next line but regarding the flaws that the scribe seems to be responsible for it is also possible that he simply forgot to complete his task.
             </p>
          </div>
         <div type="bibliography">
           <p>
-           	   
+             The inscription was noted in A. R. No. B 10 of 1959-1960<!-- has to be adjusted to the @target --> and first published by K. V. Ramesh and S. S. Ramachandra Murthy with annotations and a picture (<bibl rend="omitname"><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">334-335</citedRange><citedRange unit="item">56 C</citedRange></bibl>).
           </p>
            <listBibl type="secondary">
               <bibl></bibl>
