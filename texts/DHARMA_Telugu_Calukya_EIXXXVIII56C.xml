@@ -124,8 +124,8 @@
              The inscription was noted in A. R. No. B 10 of 1959-1960<!-- has to be adjusted to the @target --> and first published by K. V. Ramesh and S. S. Ramachandra Murthy with annotations and a picture (<bibl rend="omitname"><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">334-335</citedRange><citedRange unit="item">56 C</citedRange></bibl>).
           </p>
            <listBibl type="secondary">
-              <bibl></bibl>
-              <bibl></bibl>
+              <bibl>A. R. No. B 10 of 1959-1960<!-- has to be adjusted to the @target --></bibl>
+              <bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">334-335</citedRange><citedRange unit="item">56 C</citedRange></bibl>
            </listBibl>
         </div>
       </body>
