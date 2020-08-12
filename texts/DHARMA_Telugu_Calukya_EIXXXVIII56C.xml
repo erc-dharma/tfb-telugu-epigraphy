@@ -53,8 +53,8 @@
                      n="4" break="no"/>viṣaya<supplied reason="lost">ṁ</supplied>bu Ēḷa v<choice><orig>a</orig><reg>ā</reg></choice>ri p<choice><orig>a</orig><reg>ā</reg></choice>ḷa caḷki ḷēnṟurājula niṭuru paṭu
                <lb n="5"/>gana Ēḷucu gamuṇḍalli gōtra<supplied reason="lost">ṁ</supplied>buna vēḷāla-guṇḍiya pāṟa veneyaṟēgari<supplied reason="omitted">ki</supplied>
                <lb n="6"/>r<choice><orig>a</orig><reg>ā</reg></choice>camānaṁbuna Ēbhadi maṟuntuṟlu Iccinadi<!--interestingly the donor is not named, whence -di--> dēni<lb 
-                     n="7" break="no"/>ki sākṣi gōṇaya<!-- is it goṇ- or gōṇ-? -ayya; there is perhaps a family (?) name kōna in SII IV, 1161, line 4; also confer Kannaḍa kōṇa "male buffalo" (Kittel); it could not be a place then, though. --> bōḷu kundābākaḷu<!-- has to be clarified! Compare EI XXVIII, pp. 67-70, line 2-3: bā|ka-nāṁṭi; in that nāṁḍu is the city Pottepi; kunda  --> vēdari<!-- is it *vēdavār-i ? -->bōḷu v<unclear>ē</unclear>laya<lb 
-                     n="8" break="no"/>ṟuneduṁbālu paṭṭi-gāpuḷu jan<unclear>n</unclear>a-p<choice><orig>a</orig><reg>ā</reg></choice>ṟu Ājjava-pāṟu
+                     n="7" break="no"/>ki sākṣi gōṇaya<!-- is it goṇ- or gōṇ-? -ayya; there is perhaps a family (?) name kōna in SII IV, 1161, line 4; also confer Kannaḍa kōṇa "male buffalo" (Kittel); it could not be a place then, though. --> bōḷu kundābākaḷu vēdari bōḷu v<unclear>ē</unclear>laya<lb 
+                     n="8" break="no"/>ṟuneduṁbālu paṭṭi gāpuḷu jan<unclear>n</unclear>a-p<choice><orig>a</orig><reg>ā</reg></choice>ṟu Ājjava-pāṟu
                <lb n="9"/>v<unclear>ē</unclear>rasāma<choice><orig><unclear>pa</unclear></orig><reg>pā</reg></choice>ṟu ṭa<!-- this reading seems to be correct but it would be very unusual -->ccamuḷu dēnik<unclear>i</unclear> vakra<unclear>ṁ</unclear>bu vaccuvāru pa<supplied reason="lost">ñ</supplied>ca<lb 
                      n="10" break="no"/>mahāpātakasa<unclear>ṁ</unclear>yuktul agu<surplus>ḷca</surplus><!-- ?? what is this ending? -->
             </p>
@@ -136,6 +136,13 @@
                      <lem>maṟuntuṟlu</lem>
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04">maṟuttuṟlu</rdg>
                   </app>
+                  <app loc="7">
+                     <lem>v<unclear>ē</unclear>laya<lb 
+                     n="8" break="no"/>ṟuneduṁbālu</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">valaya<lb 
+                     n="8" break="no"/>ṟu neḍu-b<unclear>ō</unclear>lu</rdg>
+                     <note>The editors supply a <foreign>daṇḍa</foreign> after this name obviously to indicate the conclusion of a section. Although it would be strange to find a variant spelling of <foreign>bōḷu</foreign> in the same inscription that form is indeed attested elsewhere. The following expression <foreign>paṭṭi gāpuḷu</foreign>, however, requires a qualification since it means 'the cultivators of a paṭṭi (a certain measure of land)'. So, the question is: a paṭṭi of what? <!-- CONTINUE --></note>
+                  </app>
                </listApp>         
          </div>
          <div type="translation" xml:lang="eng" resp="part:jeth">
@@ -148,6 +155,7 @@
             <!-- as for prathamarājya- see Bharati, 5, pp. 935-946 (Sastri 20) -->
                
             <!-- there is a village Vellāla (Zvelebil's rule) at the Kundu river north of Kummarapalle and Paiḍēlā north of Proddatūr, vēla also meaning "boundary" (Sītārām.); guṇṭi "a piece of land, alloted for cultivation" (Percival);  -->
+               As for the place name <foreign>kundābākaḷu</foreign>, a <foreign>bāka-nāṇḍu</foreign> is mentioned in <bibl><ptr target="bib:Desai1958_2"/><citedRange unit="page">67-70</citedRange><citedRange unit="item">12</citedRange><citedRange unit="line">2-3</citedRange></bibl>.<!-- kunda to 'jasmine' or 'pillar'?? -->
                The inscription stops after the first third of line 11 although the imprecation verse is not completed and plenty of space is still left. It is possible that the inscription originally continued in the next line but regarding the flaws that the scribe seems to be responsible for it is also possible that he simply forgot to complete his task.
             </p>
          </div>
