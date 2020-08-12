@@ -50,9 +50,9 @@
                <lb n="1"/>svasti śrimaN vijayāditya-sa<supplied reason="undefined">tyāśra</supplied>ya-śri-prithivi-bhallabha-mahārā<lb 
                      n="2" break="no"/>ja-Athirāja-paramēśvara-<unclear>bha</unclear>ṭāraḷa vijayarājya-saṁva<supplied reason="omitted">tsa</supplied>raṁbu
                <lb n="3"/>prathama-r<choice><sic>ē</sic><corr>ā</corr></choice>jya<supplied reason="lost">ṁ</supplied>buna rēṇḍ-agun ēṇḍu vaṇarājuL vaṁga<supplied reason="omitted">nū</supplied>ru<lb 
-                     n="4" break="no"/>viṣaya<supplied reason="lost">ṁ</supplied>bu Ēḷa v<choice><orig>a</orig><reg>ā</reg></choice>ri p<choice><orig>a</orig><reg>ā</reg></choice>ḷa caḷki ḷēnṟurājula<!-- compare EI XXXVIII, 56 A --> niṭuru paṭu
-               <lb n="5"/>gana<!--"in having Niṭūru as abode"; -a could be the emphatic vowel--> Ēḷucu gamuṇḍalli gōtra<supplied reason="lost">ṁ</supplied>buna vēḷāla<!-- there is a village Vellāla (Zvelebil's rule) at the Kundu river north of Kummarapalle and Paiḍēlā north of Proddatūr, vēla also meaning "boundary" (Sītārām.); guṇṭi "a piece of land, alloted for cultivation" (Percival);  --> guṇḍiya pāṟa veneyaṟēgari<supplied reason="omitted">ki</supplied><!-- the name seems to be *vene-yya-ṟē-gāru there furthermore has to be a dative suffix somewhere; that suffix was probably forgotten here since the scribe made at least three mistakes already; as for the name compare EI XXVII, 42 G, line 21-22 (vi)ni|yaṇa (< *vini-yya-aṇa); are these names derived from vinu "sky" or related to venaka/ venn- "back"?-->
-               <lb n="6"/>racamānaṁbuna Ēbhadi maṟuntuṟlu Iccinadi<!--interestingly the donor is not named, whence -di--> dēni<lb 
+                     n="4" break="no"/>viṣaya<supplied reason="lost">ṁ</supplied>bu Ēḷa v<choice><orig>a</orig><reg>ā</reg></choice>ri p<choice><orig>a</orig><reg>ā</reg></choice>ḷa caḷki ḷēnṟurājula niṭuru paṭu
+               <lb n="5"/>gana Ēḷucu gamuṇḍalli gōtra<supplied reason="lost">ṁ</supplied>buna vēḷāla-guṇḍiya pāṟa veneyaṟēgari<supplied reason="omitted">ki</supplied>
+               <lb n="6"/>r<choice><orig>a</orig><reg>ā</reg></choice>camānaṁbuna Ēbhadi maṟuntuṟlu Iccinadi<!--interestingly the donor is not named, whence -di--> dēni<lb 
                      n="7" break="no"/>ki sākṣi gōṇaya<!-- is it goṇ- or gōṇ-? -ayya; there is perhaps a family (?) name kōna in SII IV, 1161, line 4; also confer Kannaḍa kōṇa "male buffalo" (Kittel); it could not be a place then, though. --> bōḷu kundābākaḷu<!-- has to be clarified! Compare EI XXVIII, pp. 67-70, line 2-3: bā|ka-nāṁṭi; in that nāṁḍu is the city Pottepi; kunda  --> vēdari<!-- is it *vēdavār-i ? -->bōḷu v<unclear>ē</unclear>laya<lb 
                      n="8" break="no"/>ṟuneduṁbālu paṭṭi-gāpuḷu jan<unclear>n</unclear>a-p<choice><orig>a</orig><reg>ā</reg></choice>ṟu Ājjava-pāṟu
                <lb n="9"/>v<unclear>ē</unclear>rasāma<choice><orig><unclear>pa</unclear></orig><reg>pā</reg></choice>ṟu ṭa<!-- this reading seems to be correct but it would be very unusual -->ccamuḷu dēnik<unclear>i</unclear> vakra<unclear>ṁ</unclear>bu vaccuvāru pa<supplied reason="lost">ñ</supplied>ca<lb 
@@ -104,7 +104,7 @@
                   <app loc="3">
                      <lem>vaṁga<supplied reason="omitted">nū</supplied>ru</lem>
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04">vagaṁru</rdg>
-                     <note>The <foreign>anusvāra</foreign> is written on top of the ⟨ga⟩ as is often the case in Telugu inscriptions; the reading <foreign>vaṁga</foreign> is furthermore secured by other inscriptions (see <bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">334</citedRange><citedRange unit="item">56 B</citedRange><citedRange unit="line">3</citedRange></bibl>). The editors state in a footnote that the word has to be read as <foreign>vaṁganūru</foreign>. Regarding the misspellings in line 2 and line 1 (if it is not an abbreviation) a further slip at this spot is possible as well.</note>
+                     <note>The <foreign>anusvāra</foreign> is written on top of the ⟨ga⟩ but pronounced before this <foreign>akṣara</foreign> as is often the case in Telugu inscriptions; the reading <foreign>vaṁga</foreign> is furthermore secured by other inscriptions (see <bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">334</citedRange><citedRange unit="item">56 B</citedRange><citedRange unit="line">3</citedRange></bibl>). The editors state in a footnote that the word has to be read as <foreign>vaṁganūru</foreign>. Regarding the misspellings in line 2 and line 1 (if it is not an abbreviation) a further slip at this spot is possible as well.</note>
                   </app>
                   <app loc="4">
                      <lem>p<choice><orig>a</orig><reg>ā</reg></choice>ḷa</lem>
@@ -113,7 +113,7 @@
                   <app loc="4">
                      <lem>ḷēnṟurājula</lem>
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04">ḷenṟurājula </rdg>
-                     <note>The length of the vowel is probable since the structure of the first compound member seems to be a result of the typical metathesis in Telugu, i.e. ḷē- from e.g. *eḷV plus the Telugu ending -nṟu; the cognate may be Kannaḍa <foreign>eḷa</foreign> 'tenderness, youth' (<bibl><ptr target="bib:Kittel1894_01"/><citedRange unit="page">284</citedRange></bibl>), e.g. in <foreign>eḷa-arasar</foreign> 'prince' that represents the same construction as <foreign>ḷēnṟu-rāju</foreign> (<bibl><ptr target="bib:Gai1946_01"/><citedRange unit="page">179</citedRange></bibl> referring to <bibl><ptr target="bib:Rice1905_01"/><citedRange unit="page">2</citedRange><citedRange unit="item">7</citedRange></bibl>). </note>
+                     <note>The length of the vowel is rather probable since the structure of the first compound member seems to be a result of the typical metathesis in Telugu, i.e. ḷē- from e.g. *eḷV plus the Telugu ending -nṟu; the cognate may be Kannaḍa <foreign>eḷa</foreign> 'tenderness, youth' (<bibl><ptr target="bib:Kittel1894_01"/><citedRange unit="page">284</citedRange></bibl>), e.g. in <foreign>eḷa-arasar</foreign> 'prince'  (<bibl><ptr target="bib:Gai1946_01"/><citedRange unit="page">179</citedRange></bibl> referring to <bibl><ptr target="bib:Rice1905_01"/><citedRange unit="page">2</citedRange><citedRange unit="item">7</citedRange></bibl>) that represents the same construction as <foreign>ḷēnṟu-rāju</foreign>. The title also appears in at least two other inscriptions (<bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">333</citedRange><citedRange unit="item">56 A</citedRange><citedRange unit="line">4</citedRange></bibl> and <bibl><ptr target="bib:Panchamukhi1940_03"/><citedRange unit="page">98</citedRange><citedRange unit="line">23-24</citedRange></bibl>).</note>
                   </app>
                   <app loc="4">
                      <lem>niṭuru paṭu
@@ -122,6 +122,20 @@
                <lb n="5"/><choice><orig>gana</orig><reg>gānu</reg></choice></rdg>
                      <note>The auslauting -a could be a spelling mistake but could also represent the so-called 'emphatic particle' if it was a linguistic reality (<bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">260</citedRange></bibl>), or, in this case, a variant of the locative in -nan, confer e. g. <foreign>°nimittamm<unclear>u</unclear>nan</foreign> (<bibl><ptr target="bib:Desai1949-1950_01"/><citedRange unit="item">12</citedRange><citedRange unit="page">70</citedRange><citedRange unit="line">3</citedRange></bibl>).</note>
                   </app>
+                  <app loc="5">
+                     <lem> gōtra<supplied reason="lost">ṁ</supplied>buna</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">gōtraṁbuna</rdg>
+                  </app>
+                  <app loc="5">
+                     <lem>veneyaṟēgari<supplied reason="omitted">ki</supplied></lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">venaya-ṟeṁgari<supplied reason="omitted">ki</supplied></rdg>
+                     <note>The name seems to go back to *veni-ay(y)a-ṟē-gāru (confer similar instances where *Xi-ay(y)a is realized as Xey(y)a as in <foreign>bādeyya</foreign> (<bibl><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">329</citedRange><citedRange unit="item">598</citedRange></bibl>); this realization is one of several options). The element ṟē- is the result of the Telugu metathesis and corresponds to Kannaḍa eṟe 'ruler'. As for the first element *veni- compare <foreign><unclear>vi</unclear>ni<lb 
+                      n="22" break="no"/>yaṇa</foreign> (<bibl><ptr target="bib:NilakantaSastri+Venkataramayya1956_01"/><citedRange unit="page">234-236</citedRange><citedRange unit="item">42G</citedRange><citedRange unit="line">21-22</citedRange></bibl>). Both elements <hi rend="italic">may</hi> go back to Telugu <foreign>vinu</foreign> 'sky'.</note>
+                  </app>
+                  <app loc="6">
+                     <lem>maṟuntuṟlu</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">maṟuttuṟlu</rdg>
+                  </app>
                </listApp>         
          </div>
          <div type="translation" xml:lang="eng" resp="part:jeth">
@@ -129,9 +143,11 @@
          </div>
          <div type="commentary">
             <p>
-               The scribe did not differentiate between long ⟨ī⟩ and short ⟨i⟩. Since this could reflect an actual indifference towards distinguishing vowel length in pronunctiation in this respect, the text was not "normalized". In the scribe's ductus the <foreign>akṣaras</foreign> ⟨da⟩ and ⟨ṭa⟩ look alike. He further does not differentiate between ⟨dha⟩ and ⟨tha⟩ both of which are written with a dot in the middle.
+               The scribe did not differentiate between long ⟨°ī⟩ and short ⟨°i⟩. Since this could reflect an actual indifference towards distinguishing vowel length in pronunctiation in this respect, the text was not "normalized". In the scribe's ductus the <foreign>akṣaras</foreign> ⟨da⟩ and ⟨ṭa⟩ look alike. He further does not differentiate between ⟨dha⟩ and ⟨tha⟩ both of which are written with a dot in the middle.
                 A <foreign>viṣaya</foreign> or <foreign>nāṇḍu</foreign> with the name <foreign>vaṁganūr</foreign> is mentioned (and written clearly) in <bibl rend="omitname"><ptr target="bib:Desai1953-1954_02"/><citedRange unit="item">14</citedRange><citedRange unit="line">2</citedRange></bibl> and also mentioned in <bibl rend="omitname"><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="item">604</citedRange><citedRange unit="line">2</citedRange></bibl>. The place name consists of the elements <foreign>vaṁgan(V)</foreign> and <foreign>ūru</foreign> "village"; the first element could go back to Telugu <foreign>vaṁka</foreign> "crooked", compare Kannaḍa <foreign>vaṁka</foreign> "the winding course of a stream" (<bibl><ptr target="bib:Kittel1894_01"/><citedRange unit="page">1370</citedRange></bibl>), with locative suffix. Hence, the place name could mean "village at the river curve". The modern village <foreign>Vaṁganūr</foreign> actually is situated at a curve of the Pennar river. It might hence be possible that the <foreign>viṣaya</foreign> was also simply called <foreign>vaṁgana</foreign> "at the river curve" (<bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="item">56 B</citedRange><citedRange unit="line">3</citedRange></bibl>) if it wasn't really <foreign>vaṁganūr</foreign>. The attested <foreign>vaṁgaru</foreign> on the other hand (<bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="item">56 C</citedRange><citedRange unit="line">3</citedRange></bibl>) very probably is a misspelling for <foreign>vaṁganūru</foreign> because of etymological reasons.
             <!-- as for prathamarājya- see Bharati, 5, pp. 935-946 (Sastri 20) -->
+               
+            <!-- there is a village Vellāla (Zvelebil's rule) at the Kundu river north of Kummarapalle and Paiḍēlā north of Proddatūr, vēla also meaning "boundary" (Sītārām.); guṇṭi "a piece of land, alloted for cultivation" (Percival);  -->
                The inscription stops after the first third of line 11 although the imprecation verse is not completed and plenty of space is still left. It is possible that the inscription originally continued in the next line but regarding the flaws that the scribe seems to be responsible for it is also possible that he simply forgot to complete his task.
             </p>
          </div>
