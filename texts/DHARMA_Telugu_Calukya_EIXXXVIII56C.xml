@@ -55,14 +55,14 @@
                <lb n="6"/>r<choice><orig>a</orig><reg>ā</reg></choice>camānaṁbuna Ēbhadi maṟuntuṟlu Iccinadi<!--interestingly the donor is not named, whence -di--> dēni<lb 
                      n="7" break="no"/>ki sākṣi gōṇaya<!-- is it goṇ- or gōṇ-? -ayya; there is perhaps a family (?) name kōna in SII IV, 1161, line 4; also confer Kannaḍa kōṇa "male buffalo" (Kittel); it could not be a place then, though. --> bōḷu kundābākaḷu vēdari bōḷu v<unclear>ē</unclear>laya<lb 
                      n="8" break="no"/>ṟuneduṁbālu paṭṭi gāpuḷu jan<unclear>n</unclear>a-p<choice><orig>a</orig><reg>ā</reg></choice>ṟu Ājjava-pāṟu
-               <lb n="9"/>v<unclear>ē</unclear>rasāma<choice><orig><unclear>pa</unclear></orig><reg>pā</reg></choice>ṟu ṭa<!-- this reading seems to be correct but it would be very unusual -->ccamuḷu dēnik<unclear>i</unclear> vakra<unclear>ṁ</unclear>bu vaccuvāru pa<supplied reason="lost">ñ</supplied>ca<lb 
-                     n="10" break="no"/>mahāpātakasa<unclear>ṁ</unclear>yuktul agu<surplus>ḷca</surplus><!-- ?? what is this ending? -->
+               <lb n="9"/>v<unclear>ē</unclear>rasāma<choice><orig><unclear>pa</unclear></orig><reg>pā</reg></choice>ṟu <unclear>va</unclear>ccamuḷu dēnik<unclear>i</unclear> vakra<unclear>ṁ</unclear>bu vaccuvāru pa<supplied reason="lost">ñ</supplied>ca<lb 
+                     n="10" break="no"/>mahāpātaka-sa<unclear>ṁ</unclear>yuktul agu<surplus>ḷca</surplus>
             </p>
             <p xml:lang="san-Latn">
                <lg n="1" met="anuṣṭubh">
                   <l n="a">svadatt<supplied reason="omitted">ā</supplied><unclear>ṁ</unclear> paradatt<unclear>ā</unclear><supplied reason="lost">ṁ</supplied> vā</l>
                   <l n="b">yō harēt<choice><sic>i</sic><corr>a</corr></choice> vasu<lb n="11"/>ndhar<supplied reason="omitted">āṁ</supplied></l>
-                  <l n="c">ṣaṣ<choice><sic>thi</sic><corr>ṭhi</corr></choice><supplied reason="omitted">r</supplied> va<choice><sic>ruṣa</sic><corr>rṣa</corr></choice>sa<supplied reason="omitted">hasrāṇi</supplied></l>
+                  <l n="c">ṣaṣ<choice><sic>thi</sic><corr>ṭi</corr></choice>-va<choice><sic>ruṣa</sic><corr>rṣa</corr></choice>sa<supplied reason="omitted">hasrāṇi</supplied></l>
                   <l n="d"><supplied reason="omitted">viṣṭhāyāṁ jāyate kṛmiḥ</supplied></l>
                </lg>
             </p>
@@ -113,14 +113,14 @@
                   <app loc="4">
                      <lem>ḷēnṟurājula</lem>
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04">ḷenṟurājula </rdg>
-                     <note>The length of the vowel is rather probable since the structure of the first compound member seems to be a result of the typical metathesis in Telugu, i.e. ḷē- from e.g. *eḷV plus the Telugu ending -nṟu; the cognate may be Kannaḍa <foreign>eḷa</foreign> 'tenderness, youth' (<bibl><ptr target="bib:Kittel1894_01"/><citedRange unit="page">284</citedRange></bibl>), e.g. in <foreign>eḷa-arasar</foreign> 'prince'  (<bibl><ptr target="bib:Gai1946_01"/><citedRange unit="page">179</citedRange></bibl> referring to <bibl><ptr target="bib:Rice1905_01"/><citedRange unit="page">2</citedRange><citedRange unit="item">7</citedRange></bibl>) that represents the same construction as <foreign>ḷēnṟu-rāju</foreign>. The title also appears in at least two other inscriptions (<bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">333</citedRange><citedRange unit="item">56 A</citedRange><citedRange unit="line">4</citedRange></bibl> and <bibl><ptr target="bib:Panchamukhi1940_03"/><citedRange unit="page">98</citedRange><citedRange unit="line">23-24</citedRange></bibl>).</note>
+                     <note>The length of the vowel is rather probable since the structure of the first compound member seems to be a result of the typical metathesis in Telugu, i.e. ḷē- from *iḷa or *eḷV plus the Telugu ending -nṟu; the cognate may be Kannaḍa <foreign>eḷa</foreign> 'tenderness, youth' (<bibl><ptr target="bib:Kittel1894_01"/><citedRange unit="page">284</citedRange></bibl>), e.g. in <foreign>eḷa-arasar</foreign> 'prince'  (<bibl><ptr target="bib:Gai1946_01"/><citedRange unit="page">179</citedRange></bibl> referring to <bibl><ptr target="bib:Rice1905_01"/><citedRange unit="page">2</citedRange><citedRange unit="item">7</citedRange></bibl>) that represents the same construction as <foreign>ḷēnṟu-rāju</foreign>. The title also appears in at least two other inscriptions (<bibl><ptr target="bib:Ramesh+RamachandraMurthy1970_04"/><citedRange unit="page">333</citedRange><citedRange unit="item">56 A</citedRange><citedRange unit="line">4</citedRange></bibl> and <bibl><ptr target="bib:Panchamukhi1940_03"/><citedRange unit="page">98</citedRange><citedRange unit="line">23-24</citedRange></bibl>).</note>
                   </app>
                   <app loc="4">
                      <lem>niṭuru paṭu
                <lb n="5"/>gana</lem>
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04">niṭ<choice><orig>u</orig><reg>ū</reg></choice>ru paṭu
                <lb n="5"/><choice><orig>gana</orig><reg>gānu</reg></choice></rdg>
-                     <note>The auslauting -a could be a spelling mistake but could also represent the so-called 'emphatic particle' if it was a linguistic reality (<bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">260</citedRange></bibl>), or, in this case, a variant of the locative in -nan, confer e. g. <foreign>°nimittamm<unclear>u</unclear>nan</foreign> (<bibl><ptr target="bib:Desai1949-1950_01"/><citedRange unit="item">12</citedRange><citedRange unit="page">70</citedRange><citedRange unit="line">3</citedRange></bibl>).</note>
+                     <note>The auslauting -a could be a spelling mistake but could also represent the so-called 'emphatic particle' if it was a linguistic reality (<bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">260</citedRange></bibl>).</note>
                   </app>
                   <app loc="5">
                      <lem> gōtra<supplied reason="lost">ṁ</supplied>buna</lem>
@@ -141,7 +141,39 @@
                      n="8" break="no"/>ṟuneduṁbālu</lem>
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04">valaya<lb 
                      n="8" break="no"/>ṟu neḍu-b<unclear>ō</unclear>lu</rdg>
-                     <note>The editors supply a <foreign>daṇḍa</foreign> after this name obviously to indicate the conclusion of a section. Although it would be strange to find a variant spelling of <foreign>bōḷu</foreign> in the same inscription that form is indeed attested elsewhere. The following expression <foreign>paṭṭi gāpuḷu</foreign>, however, requires a qualification since it means 'the cultivators of a paṭṭi (a certain measure of land)'. So, the question is: a paṭṭi of what? <!-- CONTINUE --></note>
+                     <note>The editors supply a <foreign>daṇḍa</foreign> after this name obviously to indicate the conclusion of a section. The inscription clearly shows ⟨bā⟩ (one may also compare ⟨bō⟩ of line 7). It is therefore questionable whether <foreign>bōlu</foreign> is really meant here since it would also deviate from the spelling of the other occurences. The expression <foreign>paṭṭi gāpuḷu</foreign> denotes 'the farmers of the village' which could be referred to e. g. the village that the inscription was issued in. On the other hand, it may refer to what is written before. The element vēla- or vela- occurs in composition with -nāṇḍu in several inscriptions, yaṟu- is attested at least once with -nela (ya<unclear>ṟu</unclear>nelala (<bibl><ptr target="bib:KrishnaSastri1923_01"/><citedRange unit="page">331-332</citedRange><citedRange unit="item">1014</citedRange><citedRange unit="line">7</citedRange></bibl>)), and niduṁbaṟu (edited as nidubaṁṟu) appears as a place name in a Sanskrit inscription (<bibl><ptr target="bib:Fleet1891_03"/><citedRange unit="page"></citedRange></bibl>). The question remains whether these elements, insofar as they represent the counterparts of the elements in this inscription, could form a place name that, indeed, would be quite long.<!-- this, perhaps, has to be reassessed --></note>
+                  </app>
+                  <app loc="8">
+                     <lem>jan<unclear>n</unclear>a-p<choice><orig>a</orig><reg>ā</reg></choice>ṟu</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">janna-pāṟu</rdg>
+                  </app>
+                  <app loc="9">
+                     <lem>v<unclear>ē</unclear>rasāma<choice><orig><unclear>pa</unclear></orig><reg>pā</reg></choice>ṟu</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">varasām<unclear>i</unclear>-pāṟu</rdg>
+                     <note>The editors' reading represents a Prakrit form of Sanskrit <foreign>varasvāmī</foreign> or <foreign>parasvāmī</foreign> and might be what was intended.</note>
+                  </app>
+                  <app loc="9">
+                     <lem><unclear>va</unclear>ccamuḷu</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">vaccamuḷu</rdg>
+                     <note>The ambiguity in reading the first <foreign>akṣara</foreign> results from its being very close to ⟨ṭa⟩, ⟨ḍa⟩, ⟨da⟩, or a slightly damaged ⟨va⟩ in this inscription.</note>
+                  </app>
+                  <app loc="9">
+                     <lem>dēnik<unclear>i</unclear> vakra<unclear>ṁ</unclear>bu</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">dēniki vakrabu</rdg>
+                  </app>
+                  <app loc="9">
+                     <lem>pa<supplied reason="lost">ñ</supplied>ca°</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">pañca°</rdg>
+                  </app>
+                  <app loc="10">
+                     <lem>agu<surplus>ḷca</surplus></lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">aguḷcu</rdg>
+                     <note>As to my knowledge, there is no grammatical option to integrate ⟨ḷcu⟩ into the verbal form. It therefore must be seen as yet another lapsus of the scribe.</note>
+                  </app>
+                  <app loc="10">
+                     <lem>ṣaṣ<choice><sic>thi</sic><corr>ṭi</corr></choice>-va<choice><sic>ruṣa</sic><corr>rṣa</corr></choice></lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">ṣaṣ<choice><sic>thi</sic><corr>ṭi</corr></choice><supplied reason="omitted">r</supplied>-va<choice><sic>ruṣa</sic><corr>rṣa</corr></choice></rdg>
+                     <note>The standard appearance of the verse contains the multiplicativum <foreign>ṣaṣṭis</foreign> 'sixty times'. Yet, in the standard spelling a consonant is doubled after a <foreign>repha</foreign>. Hence, there is a certain chance that the scribe wrote <foreign>ṣaṣṭi-varṣasahasrāṇi</foreign> 'sixty year-thousands'.</note>
                   </app>
                </listApp>         
          </div>
