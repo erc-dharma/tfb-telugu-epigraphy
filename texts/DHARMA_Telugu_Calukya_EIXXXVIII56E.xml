@@ -26,7 +26,7 @@
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
             </authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_Telugu_Calukya_EIXXXVIII56D</idno>
+            <idno type="filename">DHARMA_Telugu_Calukya_EIXXXVIII56E</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -40,38 +40,46 @@
          </sourceDesc>
       </fileDesc>
      <revisionDesc>
-        <change who="part:jeth" when="2020-08-05" status="draft">Creation of the file</change>
+        <change who="part:jeth" when="2020-08-18" status="draft">Creation of the file</change>
      </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
-            <p>
-               <lb n="1"/>svasti śrī vijayāditya-saty<unclear>ā</unclear>śray<choice><orig>a</orig><reg>u</reg></choice>nṟ-agu<lb 
-                   n="2" break="no"/>pṛthuvī-vallabha-mahārā<lb 
-                   n="3" break="no"/>jāthirāja-paramēśvara-bhaṭā<lb 
-                   n="4" break="no"/>raḶ kattirāju rēṇḍ-agu Ēṇḍu
-               <lb n="5"/>pṛthivī-rājya<unclear>ṁ</unclear>bu cēyaN
-               <lb n="6"/>vāṇarāj<unclear>u</unclear>l<supplied reason="lost">va</supplied>ṅgan<unclear>ū</unclear>r nāṇḍu Ēḷa
-               <lb n="7"/>caḷ<unclear>k</unclear>i mu<supplied reason="lost">tturā</supplied>jul-cañjuṇō<unclear>N</unclear><!-- ce of the edition should be wrong because the vowel should be attached to the l° -->
-               <lb n="8"/>I<!-- or bha? -->raṭṭa-pāṟa s<unclear>ā</unclear>rmadiyāri <add place="inline">kāśyapagōtra</add><!-- this seems to be added later, since it is smaller and fit into empty space; plus the ending -ki is wrong on gōtra --><lb 
-                   n="9" break="no"/>ki rāca<!-- the ca here also shows a left bent of the vertical strkoe like the other ca's (even that in composition) so that the reading ce is wrong in all these instances -->māna<unclear>ṁ</unclear>bu pannavīsa I<!-- has to be checked; is there an akṣara before it? -->cciri
-               <lb n="10"/>cammayuḷu palmak<!-- is it kk? -->aḷu  paṭṭi 
-               <lb n="11"/>Ēnugu kanṟirlakuṟu pāṟa tāḻka<lb 
-                   n="12" break="no"/>ḍa<!-- the place name is tāḻa-kaḍa 'palmyra tree place' -->pāṟa kavisiya-pāṟa Inakera<!-- ??? -->  sā<lb 
-                   n="13" break="no"/>kṣi kān... paḍiye pannasa yirajadamaku<!-- unclear -->
-               <lb n="14"/>pulpogu ? māranasā ? pekanekasiddhi
-               <lb n="15"/><!-- bhisira -->
-               <lb n="16"/>    māṟuntu
-               <lb n="17"/>Ip-pannasa ḻaccuvānṟ<unclear>u</unclear>
-               <lb n="18"/>vāraṇāsiyu vē<lb 
-                   n="19" break="no"/>layu ḻaccina<unclear>vā</unclear>nṟ agu
-               
-               <!-- at the side/on the second face?: 
-               1.
-               2.si Icciri
-               3.
-               -->
+            <p><!-- the partition has to be adjusted -->
+               <!-- milestone -->
+               <lb n="1"/>svasti śrīmāN
+               <lb n="2"/>vijayādityā<lb 
+                   n="3" break="no"/>satyāśra<supplied reason="omitted">ya</supplied> śrī pri<lb 
+                   n="4" break="no"/>dhivī-valabha-mā<lb 
+                   n="5" break="no"/>harājādhirāja
+               <lb n="6"/>bharamēśvara-bha<lb 
+                   n="7" break="no"/>ṭarāḷḷa vijaya<lb 
+                   n="8" break="no"/>rājya-sa<unclear>ṁ</unclear>vasara<unclear>ṁ</unclear>bu
+               <lb n="9"/>mūnṟurkun ēṇḍu va<lb 
+                   n="10" break="no"/>ṇa<!-- is it ṇṇa? -->rāju<unclear>Ḷ</unclear> va<unclear>ṁ</unclear><supplied reason="omitted">ga</supplied>nu<lb 
+                   n="11" break="no"/>ru <choice><sic>ṣvi</sic><corr>viṣa</corr></choice>ya<unclear>ṁ</unclear>bu <choice><sic>bē</sic><corr>Ē</corr></choice><lb 
+                   n="12" break="no"/>ḷaN caḷki lē<!-- milestone --><lb 
+                   n="13" break="no"/>nṟu-rāju<unclear>Ḷ</unclear> ni<lb 
+                   n="14" break="no"/>ṭūrur ēḷucu
+               <lb n="15"/>varasāmi-pā<lb 
+                   n="16" break="no"/>ḻa mariṣami<lb 
+                   n="17" break="no"/>yariki rāca<lb 
+                   n="18" break="no"/>mana<supplied reason="omitted">ṁ</supplied>buna <unclear>Ē</unclear><lb 
+                   n="19" break="no"/>bhadhi maṟu<lb 
+                   n="20" break="no"/>tuṟuN I<lb 
+                   n="21" break="no"/>cciri kasyaya<lb 
+                   n="22" break="no"/>pa-gōtra<supplied reason="omitted">ṁ</supplied>bu
+               <lb n="23"/>tēniki vakra<unclear>ṁ</unclear>bu
+               <lb n="24"/>vaccuvanṟu pa<!-- milestone --><lb 
+                   n="25" break="no"/>ñcamāhāpā<lb 
+                   n="26" break="no"/>taka-saṁyu<!--ṭunṟā? has to be clarified; āgunu would be fine; yuṭ- for yut-? -->
+               <lb n="27"/>gunu tēniki sā
+               <lb n="28"/><choice><sic>ṣi</sic><corr>kṣi</corr></choice> vē<supplied reason="lost">da</supplied>ri bōḷu
+               <lb n="29"/>nāḍupāḻa<!-- or is it ṟa? -->vagra bōḷu
+               <lb n="30"/>guṇ<supplied reason="lost">ḍa</supplied><unclear>ya</unclear> bōḷu vela<lb 
+                   n="31" break="no"/>yaṟu pōḷu daṟiyu<lb 
+                   n="32" break="no"/>r māhajana<unclear>ṁ</unclear>bu
             </p>
          </div>
          <div type="apparatus">
