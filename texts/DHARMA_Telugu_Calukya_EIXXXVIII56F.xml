@@ -46,18 +46,18 @@
   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
-            <p>
+            <p><!-- IMPORTANT: the actual physical situation of the inscribed area is not entirely clear; the mark-up regarding that must be added later --><!-- milestone -->
                <lb n="1"/>svasti śrīmaT
-               <lb n="2" break="no"/>kīttivamma Asi<!-- 'small'? -->
-               <lb n="3"/>vārivrull<!-- vāri = mannu 'earth', vrull- ad puḻal-? --> ēḷaN
+               <lb n="2" break="no"/>kīttivamma Asi
+               <lb n="3" break="no"/>vārivrull<!-- OR: Anicāritull- whereby the ⟨tu⟩ would be rather strange --> ēḷaN
                <lb n="4"/>prithivi-vāṇarā<lb 
-                     n="5" break="no"/>julum paramēśvaṟlu
+                     n="5" break="no"/>julum paramēśvaṟluM
                <lb n="6"/>Okkaṟa Unṟi parai
-               <lb n="7"/>va<unclear>ṁ</unclear>gānu-raṇa-vija<lb 
+               <lb n="7"/>va<unclear>ṁ</unclear><!-- or absent -->gānu-raṇa-vija<lb 
                      n="8" break="no"/>yunṟu kudalūra Iru<!-- the editors read vadi which is not displayed on the estampage; however, they do not state that they saw the original -->
-               <lb n="9"/>Ēnu maṟuntuṟlu pa<!-- again the editors read nnasā which is not displayed and also state that nna is written below the line -->
+               <lb n="9"/>Ēnu maṟuntuṟlu pa<!-- again the editors read nnasā which is not displayed and also state that nna is written below the line --><!-- milestone -->
                <lb n="10"/>vē<unclear>ṁ</unclear>gi-pāṟa dugi<unclear>ya</unclear><lb 
-                     n="11" break="no"/>k iccinayadi nāyagu<lb 
+                     n="11" break="no"/>k iccinayadi<!-- -di refers to maṟ° with Vaṁgā° as an oblique (the maṟ° are V°'s given thing)? --> nāyagu<lb 
                      n="12" break="no"/>ḷ<!-- nāyakulu 'leaders' -->karaṇa<unclear>ṁ</unclear>bu gānu guṇḍiya <lb 
                      n="13" break="no"/>pāṟu dolga<!-- confer SIIVI584 dholgoṭṭu -->pāṟu nigama
                <lb n="14"/>girovurukoḍigi ḻe
