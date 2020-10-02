@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+      <fileDesc>
+         <titleStmt>
+            <title><!-- ADD TITEL HERE --></title>
+            <respStmt>
+               <resp>Creation of file</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         	<respStmt>
+         		<resp>intellectual authorship of edition</resp>
+         		<persName>
+         			<forename>V.</forename>
+         		           <surname>Venkayya</surname><!-- The authors state that Mr. Venkayya did the transcript -->
+         		</persName>
+         	</respStmt>
+         </titleStmt>         
+         <publicationStmt>
+            <authority>DHARMA
+               <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
+            </authority>
+            <pubPlace>Berlin</pubPlace>
+            <idno type="filename"><!-- The file has not yet been named in its final version! --></idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p><!-- not to be filled in at this stage --></p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change who="part:jeth" when="2020-10-02" status="draft">Creation of the file</change>
+     </revisionDesc>
+  </teiHeader>
+  <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="tel-Latn">
+            <p>
+              <lb n="1"/>svasti śrī vi<unclear>ṣṇu</unclear><lb 
+                  n="2" break="no"/>vaddhana-mahā<unclear>rā</unclear><lb 
+                  n="3" break="no"/>julōku<!-- it has to be -lā- --> prava<lb 
+                  n="4" break="no"/>rddhamāna-vi<unclear>ja</unclear><!-- -ya- has to be inserted --><lb 
+                  n="5" break="no"/>rā<unclear>ju</unclear><!-- should be -jya- -->-prathamarā<unclear>jyaṁ</unclear><lb 
+                  n="6" break="no"/>buna śivāpparā<lb 
+                  n="7" break="no"/>juL U<unclear>bilī</unclear><lb 
+                  n="8" break="no"/>śvara-bhaṭāraḷā<lb 
+                  n="9" break="no"/>ku Iccina datti
+              <lb n="10"/>gaṁgarājyaṁbunāka<!-- should be -ku -->
+              <lb n="11"/>Udyōgaṁb ayye da<!-- ayye could be the past of agu; ayyēda also could be the aorist part. --><gap reason="undefined" extent="unknown"/><!-- The editors only state that this side is <cit><quote>mutilated at the bottom</quote><bibl><ptr target="bib:Butterworth+VenugopaulChetty1990_03"/><citedRange unit="page">1153</citedRange></bibl></cit> without specifying whether this line seems to be complete or not and how many lines seem to be missing.  -->
+            </p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- Update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>         
+         </div>
+         <div type="translation" xml:lang="eng" resp="part:jeth">
+ 	<!--Yet to be provided -->
+         </div>
+         <div type="commentary">
+            <p>
+              The editors state that the inscription is written in <cit><quote>old characters</quote><bibl><ptr target="bib:Butterworth+VenugopaulChetty1990_03"/><citedRange unit="page">1152</citedRange></bibl></cit>. B. Radha Krishna adds that the script is in <cit><quote>Vēṅgī Cāḷukya script</quote><bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">20</citedRange><citedRange unit="note">50</citedRange></bibl></cit>. He, therefore, may have seen the original inscription but does not give his own reading of it.
+            </p>
+         </div>
+        <div type="bibliography">
+          <p>
+           	   
+          </p>
+           <listBibl type="secondary">
+              <bibl></bibl>
+              <bibl></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
