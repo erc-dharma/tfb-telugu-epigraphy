@@ -26,7 +26,7 @@
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
             </authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename"><!-- The file has not yet been named in its final version! --></idno>
+            <idno type="filename">DHARMA_Telugu_XXXX_NI_III112-1155<!-- The file has not yet been named in its final version! --></idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -46,18 +46,68 @@
   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
-            <p>
-              <lb n="1"/>svasti śrī vi<unclear>ṣṇu</unclear><lb 
+            <p><!-- generally, some d°-characters have to be read as nu-character -->
+               <milestone type="pagelike" unit="face" n="A"/>
+                
+               <lb n="1"/>svasti śrī vi<unclear>ṣṇu</unclear><lb
                   n="2" break="no"/>vaddhana-mahā<unclear>rā</unclear><lb 
                   n="3" break="no"/>julōku<!-- it has to be -lā- --> prava<lb 
                   n="4" break="no"/>rddhamāna-vi<unclear>ja</unclear><!-- -ya- has to be inserted --><lb 
                   n="5" break="no"/>rā<unclear>ju</unclear><!-- should be -jya- -->-prathamarā<unclear>jyaṁ</unclear><lb 
-                  n="6" break="no"/>buna śivāpparā<lb 
+                  n="6" break="no"/>buna śivāppa rā<lb 
                   n="7" break="no"/>juL U<unclear>bilī</unclear><lb 
-                  n="8" break="no"/>śvara-bhaṭāraḷā<lb 
+                  n="8" break="no"/>śpara<!-- śpa may be a printing mistake -->-bhaṭāraḷā<lb 
                   n="9" break="no"/>ku Iccina datti
               <lb n="10"/>gaṁgarājyaṁbunāka<!-- should be -ku -->
-              <lb n="11"/>Udyōgaṁb ayye da<!-- ayye could be the past of agu; ayyēda also could be the aorist part. --><gap reason="undefined" extent="unknown"/><!-- The editors only state that this side is <cit><quote>mutilated at the bottom</quote><bibl><ptr target="bib:Butterworth+VenugopaulChetty1990_03"/><citedRange unit="page">1153</citedRange></bibl></cit> without specifying whether this line seems to be complete or not and how many lines seem to be missing.  -->
+              <lb n="11"/>Udyōgaṁb a<unclear>yyo</unclear>da<!-- ayye could be the past of agu; ayyēda also could be the aorist part; OR: could this and the other ayyeda be a misreading for ayyenu?. --><gap reason="undefined" extent="unknown"/><!-- The editors only state that this side is <cit><quote>mutilated at the bottom</quote><bibl><ptr target="bib:Butterworth+VenugopaulChetty1990_03"/><citedRange unit="page">1153</citedRange></bibl></cit> without specifying whether this line seems to be complete or not and how many lines seem to be missing.  -->
+               <milestone type="pagelike" unit="face" n="B"/>
+              <lb n="1"/><gap reason="undefined" unit="line" quantity="1"/>
+              <lb n="2"/><gap reason="undefined" unit="line" quantity="1"/>
+              <lb n="3"/><gap reason="undefined" unit="line" quantity="1"/>
+              <lb n="4"/><gap reason="undefined" unit="line" quantity="1"/>
+              <lb n="5"/><gap reason="undefined" unit="line" quantity="1"/>
+              <lb n="6"/>Iccina pannā<unclear>sa</unclear>
+              <lb n="7"/>candrāyittakālaṁ<lb 
+                  n="8" break="no"/>bu carigincuvāru
+              <lb n="9"/>maṇḍa<unclear>vi</unclear>cōḷa<unclear>jaka</unclear><lb 
+                  n="10" break="no"/>mma Ubilīśvara<lb 
+                  n="11" break="no"/>bhaṭṭāraka pannāsa
+              <lb n="12"/>śivāppa rāju Icci<lb 
+                  n="13" break="no"/><unclear>na</unclear> datti candrāyi<lb 
+                  n="14" break="no"/>ttakālaṁbu cari<gap reason="undefined" unit="character" quantity="1" precision="low"/>
+              <lb n="15"/>gincuvāru<gap reason="undefined" unit="character" quantity="1" precision="low"/>
+               <milestone type="pagelike" unit="face" n="C"/>
+              <lb n="1"/>śrī niṭṭa<lb 
+                  n="2" break="no"/>sōmuḷa
+              <lb n="3"/><gap reason="undefined" unit="character" quantity="1" precision="low"/>vasina
+              <lb n="4"/>vāviyu
+              <lb n="5"/>dēgulaṁbunu
+              <lb n="6"/>śrī komorapo<lb 
+                  n="7" break="no"/>lu koṇḍayya
+              <lb n="8"/>ghanarāca<unclear>ma</unclear><lb 
+                  n="9" break="no"/>ṇi likhitasya
+              <lb n="10"/>valluri Āṭa<lb 
+                  n="11" break="no"/>ṟla mārayya
+              <lb n="12"/>paṇi kosi<lb 
+                  n="13" break="no"/>na<!-- should be kēsina --> guḍiyu
+              <lb n="14"/>gorvaḷ mecci
+              <lb n="15"/>cēn icciri va<lb 
+                  n="16" break="no"/><unclear>kkra</unclear>bu vaccina
+              <lb n="17"/>I pannāsa <unclear>vi</unclear><lb 
+                  n="18" break="no"/><unclear>ṣṭha</unclear> Ayyeda
+               <milestone type="pagelike" unit="face" n="D"/>
+              <lb n="1"/>dīniki A<lb 
+                  n="2" break="no"/>hitanci<unclear>pi</unclear><lb 
+                  n="3" break="no"/>ncina<!-- Radha Krishna suggests that this is a misreading of ciṁtincina, an. 52 -->vāṇḍu
+              <lb n="4"/>bhāraṇāsi <unclear>ni</unclear><!-- this line is given as missing (just showing dots) in Radha Krishna; ?! --><lb 
+                  n="5" break="no"/>veyu guḷḷuvu
+              <lb n="6"/>veyu ceṟuvu<lb 
+                  n="7" break="no"/>ḷu veyu gavi<lb 
+                  n="8" break="no"/>lāḷu vēvuru
+              <lb n="9"/>pāṟanu vēvu
+              <lb n="10"/>kannyaḷanu mu<lb 
+                  n="11" break="no"/>ṭiccina <unclear>vi</unclear><lb 
+                  n="12" break="no"/><unclear>ṣṭhya</unclear> Ayye<unclear>du</unclear>
             </p>
          </div>
          <div type="apparatus">
@@ -69,21 +119,32 @@
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
- 	<!--Yet to be provided -->
+         <div type="translation" xml:lang="eng" source="bib:Butterworth+VenugopaulChetty1990_03">
+ 	       <p>
+ 	          Hail! In the first year of the reign of the prosperous and victorious Vishṇuvardhana Mahárája, Ṣivápparájul made a grant to Ubilíṣvara Bhaṭṭár. May the kingdom of the Gangas resemble Paradise(?).<note>In a note the editors give an alternative translation of the last phrase: <cit><quote>Or ‘the dominion of the goddess Ganga.’</quote><bibl><ptr target="bib:Butterworth+VenugopaulChetty1990_03"/><citedRange unit="page">1152</citedRange><citedRange unit="note">1</citedRange></bibl></cit>.</note>
+ 	       </p>
+          <p>
+             <hi rend="italic">Second side</hi>. .... is the deed of gift. This should be continued as long as the sun and moon endure. The grant made by Maṇḍavi Kamma, born in (the kingdom of) Chóḷa, to Ubilíṣvara Bhaṭṭśraka. The gift made by Sivápparáju should be continued as long as the sund and moon endure.
+          </p>
+          <p>
+             <hi rend="italic">Third side.</hi> A well and a temple in Ṣrí Niṭṭasómuḷa erected by Ṣrí Komorapólu Konḍayya, best of Kings(?). A temple built by Vallúri Áṭaṛla Márayya. The Reḍḍis (గొరవళ్లు) being pleased gave land. Whoever obstructs this grant will incur guilt.
+          </p>
+          <p>
+             <hi rend="italic">Fourth side</hi>. Whoever injures this (grant) will incur the sin of destroying 1,000 temples, 1,000 tanks, 1,000 cows, five Brahmans (?) and five maidens in Benares.
+          </p>
          </div>
          <div type="commentary">
             <p>
-              The editors state that the inscription is written in <cit><quote>old characters</quote><bibl><ptr target="bib:Butterworth+VenugopaulChetty1990_03"/><citedRange unit="page">1152</citedRange></bibl></cit>. B. Radha Krishna adds that the script is in <cit><quote>Vēṅgī Cāḷukya script</quote><bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">20</citedRange><citedRange unit="note">50</citedRange></bibl></cit>. He, therefore, may have seen the original inscription but does not give his own reading of it.
+              The editors state that the inscription is written in <cit><quote>old characters</quote><bibl><ptr target="bib:Butterworth+VenugopaulChetty1990_03"/><citedRange unit="page">1152</citedRange></bibl></cit>. B. Radha Krishna adds that the script is <cit><quote>Vēṅgī Cāḷukya script</quote><bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">20</citedRange><citedRange unit="note">50</citedRange></bibl></cit>. He, therefore, may have seen the original inscription but does not give his own reading of it apart from possible reading mistakes of the edition (and leaving out one line).<!-- The background of that has to be assessed -->
             </p>
          </div>
         <div type="bibliography">
           <p>
-           	   
+           The inscription was read by V. Venkayya and published by Alan Butterworth and V. Venugopaul Chetty (<bibl rend="omitname"><ptr target="bib:Butterworth+VenugopaulChetty1990_03"/><citedRange unit="page">1152-1155</citedRange></bibl>). Buduraju Radha Krishna reprinted the text with minor changes and added a few notes (<bibl rend="omitname"><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="item">25</citedRange><citedRange unit="page">20-22</citedRange></bibl>).
           </p>
            <listBibl type="secondary">
-              <bibl></bibl>
-              <bibl></bibl>
+              <bibl><ptr target="bib:Butterworth+VenugopaulChetty1990_03"/><citedRange unit="page">1152-1155</citedRange></bibl>
+              <bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="item">25</citedRange><citedRange unit="page">20-22</citedRange></bibl>
            </listBibl>
         </div>
       </body>
