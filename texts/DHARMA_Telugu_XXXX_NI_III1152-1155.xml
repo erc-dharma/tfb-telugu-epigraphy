@@ -49,75 +49,82 @@
             <p><!-- generally, some d°-characters have to be read as nu-character -->
                <milestone type="pagelike" unit="face" n="A"/>
                 
-               <lb n="1"/>svasti śrī vi<unclear>ṣṇu</unclear><lb
-                  n="2" break="no"/>vaddhana-mahā<unclear>rā</unclear><lb 
-                  n="3" break="no"/>julōku<!-- it has to be -lā- --> prava<lb 
-                  n="4" break="no"/>rddhamāna-vi<unclear>ja</unclear><!-- -ya- has to be inserted --><lb 
-                  n="5" break="no"/>rā<unclear>ju</unclear><!-- should be -jya- -->-prathamarā<unclear>jyaṁ</unclear><lb 
-                  n="6" break="no"/>buna śivāppa rā<lb 
-                  n="7" break="no"/>juL U<unclear>bilī</unclear><lb 
-                  n="8" break="no"/>śpara<!-- śpa may be a printing mistake -->-bhaṭāraḷā<lb 
-                  n="9" break="no"/>ku Iccina datti
-              <lb n="10"/>gaṁgarājyaṁbunāka<!-- should be -ku -->
-              <lb n="11"/>Udyōgaṁb a<unclear>yyo</unclear>da<!-- ayye could be the past of agu; ayyēda also could be the aorist part; OR: could this and the other ayyeda be a misreading for ayyenu?. --><gap reason="undefined" extent="unknown"/><!-- The editors only state that this side is <cit><quote>mutilated at the bottom</quote><bibl><ptr target="bib:Butterworth+VenugopaulChetty1990_03"/><citedRange unit="page">1153</citedRange></bibl></cit> without specifying whether this line seems to be complete or not and how many lines seem to be missing.  -->
+              <lb n="A1"/>svasti śrī vi<unclear>ṣṇu</unclear><lb
+                  n="A2" break="no"/>vaddhana-mahā<unclear>rā</unclear><lb 
+                  n="A3" break="no"/>julōku<!-- it has to be -lā- --> prava<lb 
+                  n="A4" break="no"/>rddhamāna-vi<unclear>ja</unclear><!-- -ya- has to be inserted --><lb 
+                  n="A5" break="no"/>rā<unclear>ju</unclear><!-- should be -jya- -->-prathamarā<unclear>jyaṁ</unclear><lb 
+                  n="A6" break="no"/>buna śivāppa rā<lb 
+                  n="A7" break="no"/>juL U<unclear>bilī</unclear><lb 
+                  n="A8" break="no"/>śpara<!-- śpa may be a printing mistake -->-bhaṭāraḷā<lb 
+                  n="A9" break="no"/>ku Iccina datti
+              <lb n="A10"/>gaṁgarājyaṁbunāka<!-- should be -ku -->
+              <lb n="A11"/>Udyōgaṁb a<unclear>yyo</unclear>da<!-- ayye could be the past of agu; ayyēda also could be the aorist part; OR: could this and the other ayyeda be a misreading for ayyenu?. --><gap reason="undefined" extent="unknown"/><!-- The editors only state that this side is <cit><quote>mutilated at the bottom</quote><bibl><ptr target="bib:Butterworth+VenugopaulChetty1990_03"/><citedRange unit="page">1153</citedRange></bibl></cit> without specifying whether this line seems to be complete or not and how many lines seem to be missing.  -->
                <milestone type="pagelike" unit="face" n="B"/>
-              <lb n="1"/><gap reason="undefined" unit="line" quantity="1"/>
-              <lb n="2"/><gap reason="undefined" unit="line" quantity="1"/>
-              <lb n="3"/><gap reason="undefined" unit="line" quantity="1"/>
-              <lb n="4"/><gap reason="undefined" unit="line" quantity="1"/>
-              <lb n="5"/><gap reason="undefined" unit="line" quantity="1"/>
-              <lb n="6"/>Iccina pannā<unclear>sa</unclear>
-              <lb n="7"/>candrāyittakālaṁ<lb 
-                  n="8" break="no"/>bu carigincuvāru
-              <lb n="9"/>maṇḍa<unclear>vi</unclear>cōḷa<unclear>jaka</unclear><lb 
-                  n="10" break="no"/>mma Ubilīśvara<lb 
-                  n="11" break="no"/>bhaṭṭāraka pannāsa
-              <lb n="12"/>śivāppa rāju Icci<lb 
-                  n="13" break="no"/><unclear>na</unclear> datti candrāyi<lb 
-                  n="14" break="no"/>ttakālaṁbu cari<gap reason="undefined" unit="character" quantity="1" precision="low"/>
-              <lb n="15"/>gincuvāru<gap reason="undefined" unit="character" quantity="1" precision="low"/>
+              <lb n="B1"/><gap reason="undefined" unit="line" quantity="1"/>
+              <lb n="B2"/><gap reason="undefined" unit="line" quantity="1"/>
+              <lb n="B3"/><gap reason="undefined" unit="line" quantity="1"/>
+              <lb n="B4"/><gap reason="undefined" unit="line" quantity="1"/>
+              <lb n="B5"/><gap reason="undefined" unit="line" quantity="1"/>
+              <lb n="B6"/>Iccina pannā<unclear>sa</unclear>
+              <lb n="B7"/>candrāyittakālaṁ<lb 
+                  n="B8" break="no"/>bu carigincuvāru
+              <lb n="B9"/>maṇḍa<unclear>vi</unclear>cōḷa<unclear>jaka</unclear><lb 
+                  n="B10" break="no"/>mma Ubilīśvara<lb 
+                  n="B11" break="no"/>bhaṭṭāraka pannāsa
+              <lb n="B12"/>śivāppa rāju Icci<lb 
+                  n="B13" break="no"/><unclear>na</unclear> datti candrāyi<lb 
+                  n="B14" break="no"/>ttakālaṁbu cari<gap reason="undefined" unit="character" quantity="1" precision="low"/>
+              <lb n="B15"/>gincuvāru<gap reason="undefined" unit="character" quantity="1" precision="low"/>
                <milestone type="pagelike" unit="face" n="C"/>
-              <lb n="1"/>śrī niṭṭa<lb 
-                  n="2" break="no"/>sōmuḷa
-              <lb n="3"/><gap reason="undefined" unit="character" quantity="1" precision="low"/>vasina
-              <lb n="4"/>vāviyu
-              <lb n="5"/>dēgulaṁbunu
-              <lb n="6"/>śrī komorapo<lb 
-                  n="7" break="no"/>lu koṇḍayya
-              <lb n="8"/>ghanarāca<unclear>ma</unclear><lb 
-                  n="9" break="no"/>ṇi likhitasya
-              <lb n="10"/>valluri Āṭa<lb 
-                  n="11" break="no"/>ṟla mārayya
-              <lb n="12"/>paṇi kosi<lb 
-                  n="13" break="no"/>na<!-- should be kēsina --> guḍiyu
-              <lb n="14"/>gorvaḷ mecci
-              <lb n="15"/>cēn icciri va<lb 
-                  n="16" break="no"/><unclear>kkra</unclear>bu vaccina
-              <lb n="17"/>I pannāsa <unclear>vi</unclear><lb 
-                  n="18" break="no"/><unclear>ṣṭha</unclear> Ayyeda
+              <lb n="C1"/>śrī niṭṭa<lb 
+                  n="C2" break="no"/>sōmuḷa
+              <lb n="C3"/><gap reason="undefined" unit="character" quantity="1" precision="low"/>vasina
+              <lb n="C4"/>vāviyu
+              <lb n="C5"/>dēgulaṁbunu
+              <lb n="C6"/>śrī komorapo<lb 
+                  n="C7" break="no"/>lu koṇḍayya
+              <lb n="C8"/>ghanarāca<unclear>ma</unclear><lb 
+                  n="C9" break="no"/>ṇi likhitasya
+              <lb n="C10"/>valluri Āṭa<lb 
+                  n="C11" break="no"/>ṟla mārayya
+              <lb n="C12"/>paṇi kosi<lb 
+                  n="C13" break="no"/>na<!-- should be kēsina --> guḍiyu
+              <lb n="C14"/>gorvaḷ mecci
+              <lb n="C15"/>cēn icciri va<lb 
+                  n="C16" break="no"/><unclear>kkra</unclear>bu vaccina
+              <lb n="C17"/>I pannāsa <unclear>vi</unclear><lb 
+                  n="C18" break="no"/><unclear>ṣṭha</unclear> Ayyeda
                <milestone type="pagelike" unit="face" n="D"/>
-              <lb n="1"/>dīniki A<lb 
-                  n="2" break="no"/>hitanci<unclear>pi</unclear><lb 
-                  n="3" break="no"/>ncina<!-- Radha Krishna suggests that this is a misreading of ciṁtincina, an. 52 -->vāṇḍu
-              <lb n="4"/>bhāraṇāsi <unclear>ni</unclear><!-- this line is given as missing (just showing dots) in Radha Krishna; ?! --><lb 
-                  n="5" break="no"/>veyu guḷḷuvu
-              <lb n="6"/>veyu ceṟuvu<lb 
-                  n="7" break="no"/>ḷu veyu gavi<lb 
-                  n="8" break="no"/>lāḷu vēvuru
-              <lb n="9"/>pāṟanu vēvu
-              <lb n="10"/>kannyaḷanu mu<lb 
-                  n="11" break="no"/>ṭiccina <unclear>vi</unclear><lb 
-                  n="12" break="no"/><unclear>ṣṭhya</unclear> Ayye<unclear>du</unclear>
+              <lb n="D1"/>dīniki A<lb 
+                  n="D2" break="no"/>hitan ci<unclear>pi</unclear><lb 
+                  n="D3" break="no"/>ncinavāṇḍu
+              <lb n="D4"/>bhāraṇāsi <unclear>ni</unclear><lb 
+                  n="D5" break="no"/>veyu guḷḷuvu
+              <lb n="D6"/>veyu ceṟuvu<lb 
+                  n="D7" break="no"/>ḷu veyu gavi<lb 
+                  n="D8" break="no"/>lāḷu vēvuru
+              <lb n="D9"/>pāṟanu vēvu
+              <lb n="D10"/>kannyaḷanu mu<lb 
+                  n="D11" break="no"/>ṭiccina <unclear>vi</unclear><lb 
+                  n="D12" break="no"/><unclear>ṣṭhya</unclear> Ayye<unclear>du</unclear>
             </p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- Update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+               <listApp>
+                  <app loc="D2">
+                     <lem>ci<unclear>pi</unclear><lb 
+                  n="D3" break="no"/>ncina</lem>
+                     <note>B. Radha Krishna suggests that this is a misreading of ciṁtincina (<bibl rend="omitname"><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">22</citedRange><citedRange unit="note">52</citedRange></bibl>).</note>
                   </app>
+                   <app loc="D4">
+                      <lem>bhāraṇāsi <unclear>ni</unclear></lem>
+                      <note>This line is given as missing (just showing dots) by Radha Krishna (<bibl rend="omitname"><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">22</citedRange></bibl>).</note>
+                   </app>
                </listApp>         
+         </div>
+          <div type="translation" xml:lang="eng" resp="part:jeth">
+ 	<!--Yet to be provided -->
          </div>
          <div type="translation" xml:lang="eng" source="bib:Butterworth+VenugopaulChetty1990_03">
  	       <p>
@@ -135,7 +142,7 @@
          </div>
          <div type="commentary">
             <p>
-              The editors state that the inscription is written in <cit><quote>old characters</quote><bibl><ptr target="bib:Butterworth+VenugopaulChetty1990_03"/><citedRange unit="page">1152</citedRange></bibl></cit>. B. Radha Krishna adds that the script is <cit><quote>Vēṅgī Cāḷukya script</quote><bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">20</citedRange><citedRange unit="note">50</citedRange></bibl></cit>. He, therefore, may have seen the original inscription but does not give his own reading of it apart from possible reading mistakes of the edition (and leaving out one line).<!-- The background of that has to be assessed -->
+              The editors state that the inscription is written in <cit><quote>old characters</quote><bibl><ptr target="bib:Butterworth+VenugopaulChetty1990_03"/><citedRange unit="page">1152</citedRange></bibl></cit>. B. Radha Krishna adds that the script is <cit><quote>Vēṅgī Cāḷukya script</quote><bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">20</citedRange><citedRange unit="note">50</citedRange></bibl></cit>. He, therefore, may have seen the original inscription but does not give his own reading of it apart from possible reading mistakes of the edition's text (and leaving out one line).<!-- The background of that has to be assessed -->
             </p>
          </div>
         <div type="bibliography">
