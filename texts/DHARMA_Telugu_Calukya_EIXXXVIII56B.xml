@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Donation of fifty maṟuntuṟlu to Uccapāṟa Kumāraśarmmāru under the rule of Vinayāditya</title>
@@ -13,14 +13,14 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         		<persName ref="part:jeth">
-         			<forename>Jens Christian</forename>
-         		           <surname>Thomas</surname>
-         		</persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -30,7 +30,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -39,20 +39,16 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-07-24" status="draft">Creation of the file</change>
-        <change who="part:jeth" when="2020-07-30" status="draft">Apparatus added</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-07-24" status="draft">Creation of the file</change>
+         <change who="part:jeth" when="2020-07-30" status="draft">Apparatus added</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-               <lb n="1"/>svasti śrī vinayāditya-satyāśraya śrī pṛthivī-vallabha-mahārāja-<lb 
-                   n="2" break="no"/>paramēśvara-bhaṭāraḷa vijayarājya-saṁvatsaraṁbu padunālugu A<unclear>bu</unclear>n ēṇḍu va<unclear>ṇa</unclear><lb 
-                   n="3" break="no"/>rājul va<unclear>ṁ</unclear>gan<unclear>ū</unclear><!-- it clearly isn’t °nūr. The first member is attested as vaṁka as a place name (see Sītārāmācāryulu), the element -n could be the locative -an. The word could either be 'waterway' or "eggplant tree" --> nāṇḍu Ēḷā paṇṭaḷa<!-- as for this word see also SII X, 600, line 2 the reading of which is unclear though --> peṇaviyāru<!-- is it a name or a title? --> puṟanur ēḷa vāri taṁbul mall<unclear>i</unclear>y<unclear>ē</unclear>ru Iga<lb 
-                   n="4" break="no"/><supplied reason="lost">ḍū</supplied><!--the akṣara can be supplied due to the name of the find spot-->r ēḷucu bhāradvā<unclear reason="eccentric_ductus">ja</unclear><!--the akṣara here does not seem to be a ja; bhā° is unusual-->sagōtra<unclear>ṁ</unclear>buna Ucca<!--prob. from Skt. ucca- since ucca means urine in Tel. But see EI XXX, 14 for the same donée whose name is probably written uñca -->pāṟa kumāraśarmmarikiN rācamāna<unclear>ṁ</unclear>buna Ē<lb 
-                   n="5" break="no"/><unclear>bha</unclear><supplied reason="lost">d</supplied><unclear>i</unclear> māṟuntuṟ<unclear>la</unclear> pannasa Udakapūrvva<unclear>ṁ</unclear> <unclear>cē</unclear>si I<unclear>ci</unclear><supplied reason="lost">r</supplied><unclear>i</unclear><gap reason="lost" unit="character" quantity="10" precision="medium"/>N <unclear>pa</unclear>
+               <lb n="1"/>svasti śrī vinayāditya-satyāśraya śrī pṛthivī-vallabha-mahārāja-<lb n="2" break="no"/>paramēśvara-bhaṭāraḷa vijayarājya-saṁvatsaraṁbu padunālugu A<unclear>bu</unclear>n ēṇḍu va<unclear>ṇa</unclear><lb n="3" break="no"/>rājul va<unclear>ṁ</unclear>gan<unclear>ū</unclear><!-- it clearly isn’t °nūr. The first member is attested as vaṁka as a place name (see Sītārāmācāryulu), the element -n could be the locative -an. The word could either be 'waterway' or "eggplant tree" --> nāṇḍu Ēḷā paṇṭaḷa<!-- as for this word see also SII X, 600, line 2 the reading of which is unclear though --> peṇaviyāru<!-- is it a name or a title? --> puṟanur ēḷa vāri taṁbul mall<unclear>i</unclear>y<unclear>ē</unclear>ru Iga<lb n="4" break="no"/><supplied reason="lost">ḍū</supplied><!--the akṣara can be supplied due to the name of the find spot-->r ēḷucu bhāradvā<unclear reason="eccentric_ductus">ja</unclear><!--the akṣara here does not seem to be a ja; bhā° is unusual-->sagōtra<unclear>ṁ</unclear>buna Ucca<!--prob. from Skt. ucca- since ucca means urine in Tel. But see EI XXX, 14 for the same donée whose name is probably written uñca -->pāṟa kumāraśarmmarikiN rācamāna<unclear>ṁ</unclear>buna Ē<lb n="5" break="no"/><unclear>bha</unclear><supplied reason="lost">d</supplied><unclear>i</unclear> māṟuntuṟ<unclear>la</unclear> pannasa Udakapūrvva<unclear>ṁ</unclear> <unclear>cē</unclear>si I<unclear>ci</unclear><supplied reason="lost">r</supplied><unclear>i</unclear><gap reason="lost" unit="character" quantity="10" precision="medium"/>N <unclear>pa</unclear>
                    <!--see EI XXX, 14 for another instance of udakapūrvva -->
             </p>
          </div>
@@ -68,10 +64,8 @@
                      <note>The akṣara does not look like the ⟨gu⟩ of the same line because the vowel points towards the left side. It does not seem to be ⟨vu⟩ either, which is attested in this position in <bibl><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="item">596</citedRange></bibl>.</note>
                   </app>
                   <app loc="2">
-                     <lem>va<unclear>ṇa</unclear><lb 
-                   n="3" break="no"/>rājul</lem>
-                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">vā<unclear>ṇa</unclear><lb 
-                   n="3" break="no"/>rājul</rdg>
+                     <lem>va<unclear>ṇa</unclear><lb n="3" break="no"/>rājul</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">vā<unclear>ṇa</unclear><lb n="3" break="no"/>rājul</rdg>
                   </app>
                   <app loc="3">
                      <lem>va<unclear>ṁ</unclear>gan<unclear>ū</unclear></lem>
@@ -110,10 +104,8 @@
                      <note>Because of the damage it is not clear whether ⟨N⟩ really is <foreign>halanta</foreign>. But this is to be expected grammatically. The editors state in a note </note>
                   </app>
                   <app loc="4">
-                     <lem>Ē<lb 
-                   n="5" break="no"/><unclear>bha</unclear><supplied reason="lost">d</supplied><unclear>i</unclear> māṟuntuṟ<unclear>la</unclear></lem>
-                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">Ē<lb 
-                   n="5" break="no"/><unclear>bhadi</unclear> maṟutuṟlu</rdg>
+                     <lem>Ē<lb n="5" break="no"/><unclear>bha</unclear><supplied reason="lost">d</supplied><unclear>i</unclear> māṟuntuṟ<unclear>la</unclear></lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">Ē<lb n="5" break="no"/><unclear>bhadi</unclear> maṟutuṟlu</rdg>
                   </app>
                   <app loc="5">
                      <lem>Udakapūrvva<unclear>ṁ</unclear> <unclear>cē</unclear>si I<unclear>ci</unclear><supplied reason="lost">r</supplied><unclear>i</unclear><gap reason="lost" unit="character" quantity="10" precision="medium"/>N <unclear>pa</unclear></lem>
@@ -121,7 +113,7 @@
                   </app> 
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
  	<!--Yet to be provided -->
          </div>
          <div type="commentary">

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Land donation under the rule of Vijayādityasatyāśraya and Bali-Indrabāṇarāju</title>
@@ -13,14 +13,14 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         		<persName ref="part:jeth"><!-- OR: DELETE IF SOMBODY ELSE'S EDITION -->
-         			<forename><!-- XXXXXXX --></forename>
-         		           <surname><!-- XXXXXXX --></surname>
-         		</persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:jeth"><!-- OR: DELETE IF SOMBODY ELSE'S EDITION -->
+                  <forename><!-- XXXXXXX --></forename>
+                  <surname><!-- XXXXXXX --></surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -30,7 +30,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -39,11 +39,11 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-06-30" status="draft">Creation of the file</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-06-30" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
@@ -53,10 +53,7 @@
                <lb n="3"/>yō ha<gap reason="undefined" unit="character" quantity="9" precision="low"/>
             </p>
             <p>
-               <lb n="4"/>svasti śrī vijayādityasatyāśraya śrī prithuvīvallabha mahārājādhirā<lb 
-                   n="5" break="no"/>ja-paramēśvara-bhaṭāra<unclear>ḷa</unclear>ku vijayarājyasa<unclear>ṁ</unclear>vatsaraṁbuḷ irubādi<unclear>mūṁ</unclear>ḍu prava<lb 
-                   n="6" break="no"/><unclear>r</unclear>ttilla balikulatilaka narasiṁhabāṇādhirājapri<unclear>ya</unclear>nuta-vikramā<lb 
-                   n="7" break="no"/>ditya-bali-I<unclear>ndra</unclear>bāṇarāju<unclear>la</unclear> turumaraviṣayaṁbu yēḷuvāri <unclear>māmōri</unclear>
+               <lb n="4"/>svasti śrī vijayādityasatyāśraya śrī prithuvīvallabha mahārājādhirā<lb n="5" break="no"/>ja-paramēśvara-bhaṭāra<unclear>ḷa</unclear>ku vijayarājyasa<unclear>ṁ</unclear>vatsaraṁbuḷ irubādi<unclear>mūṁ</unclear>ḍu prava<lb n="6" break="no"/><unclear>r</unclear>ttilla balikulatilaka narasiṁhabāṇādhirājapri<unclear>ya</unclear>nuta-vikramā<lb n="7" break="no"/>ditya-bali-I<unclear>ndra</unclear>bāṇarāju<unclear>la</unclear> turumaraviṣayaṁbu yēḷuvāri <unclear>māmōri</unclear>
               <milestone type="pagelike" unit="face" n="B"/>
                <lb n="8"/><gap reason="undefined" unit="line" quantity="1"/>
                <lb n="9"/><gap reason="undefined" unit="line" quantity="1"/>
@@ -75,7 +72,7 @@
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
  	<!--Yet to be provided -->
          </div>
          <div type="commentary">
@@ -88,8 +85,8 @@
            The inscription was noted in 	   
           </p>
            <listBibl type="secondary">
-              <bibl></bibl>
-              <bibl></bibl>
+              <bibl/>
+              <bibl/>
            </listBibl>
         </div>
       </body>

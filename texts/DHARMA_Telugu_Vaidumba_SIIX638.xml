@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Grant of a certain geographical property under the rule of Vaidumba-Mutturāju</title>
@@ -13,15 +13,15 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         	   <persName>
-         	      <forename>J.</forename>
-         	      <surname>Ramayya Pantulu</surname>
-        <!-- J. Ramayya Pantulu is the editor of SII X. He appears to be the editor of all the inscriptions as well.-->
-         	   </persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName>
+                  <forename>J.</forename>
+                  <surname>Ramayya Pantulu</surname>
+                  <!-- J. Ramayya Pantulu is the editor of SII X. He appears to be the editor of all the inscriptions as well.-->
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -31,7 +31,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -40,11 +40,11 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-02-28" status="draft">Creation of the file</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-02-28" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
@@ -65,13 +65,12 @@
 	      <lb n="13"/><l n="d">viṣṭāyāṁ jāyatē kṛmiḥ</l></lg>
 	      <lb n="14"/><lg n="2" met="anuṣṭubh"><l n="a">bahubhir vvasudhā dattā</l>
 	      <lb n="15"/><l n="b">rājabhis sagarādibhi<unclear>ḥ</unclear></l>
-	      <lb n="16"/><l n="c">yasya yasya yadā bhūmi<lb 
-		  n="17" break="no"/><supplied reason="undefined">s</supplied></l> <l n="d"><supplied reason="undefined">ta</supplied>sya tasya tadā phalaṁ</l></lg> 
+	      <lb n="16"/><l n="c">yasya yasya yadā bhūmi<lb n="17" break="no"/><supplied reason="undefined">s</supplied></l> <l n="d"><supplied reason="undefined">ta</supplied>sya tasya tadā phalaṁ</l></lg> 
             </p>
          </div>
          <div type="apparatus">   
          </div>
-         <div type="translation" xml:lang="eng">
+         <div type="translation">
  	<!--Yet to be provided -->
          </div>
          <div type="commentary">

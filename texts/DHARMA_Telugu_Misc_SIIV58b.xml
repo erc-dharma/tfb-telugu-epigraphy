@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Bhīmeśvara temple donation of an eternal lamp(?)</title>
@@ -13,14 +13,15 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         	   <persName><forename>H.</forename>
-         	      <surname>Krishna Sastri</surname>
-           <!-- H. Krishna Sastri is the editor of SII V. He appears to be the editor of all the inscriptions as well.-->
-         	   </persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName>
+                  <forename>H.</forename>
+                  <surname>Krishna Sastri</surname>
+                  <!-- H. Krishna Sastri is the editor of SII V. He appears to be the editor of all the inscriptions as well.-->
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -30,7 +31,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -39,31 +40,24 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-03-30" status="draft">Creation of the file</change><!-- CORRECT DATE -->
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-03-30" status="draft">Creation of the file</change>
+         <!-- CORRECT DATE -->
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-              <lb n="1"/>svasti rudra<gap reason="undefined" unit="character" quantity="4" precision="low"/><unclear>ṇḍārkka</unclear><lb 
-                  n="2" break="no"/>di<gap reason="undefined" unit="character" quantity="5" precision="low"/>śrī<lb 
-                  n="3" break="no"/><gap reason="undefined" unit="character" quantity="1" precision="low"/><unclear>mō</unclear>ju bhīmavrō<lb 
-                  n="4" break="no"/>li<gap reason="undefined" unit="character" quantity="7" precision="low"/>
-              <lb n="5"/>hō<gap reason="undefined"/><supplied reason="lost" cert="low">kaliviṣṇu</supplied>rāju vi<unclear>ḍci</unclear><lb 
-                  n="6" break="no"/><unclear>na</unclear> sthitiḍāgunuṁḍugadu<unclear>jē</unclear><lb 
-                  n="7" break="no"/><unclear>ṭi</unclear>yu <unclear>ve</unclear>ṭṭiyuṁ gona<lb 
-                  n="8" break="no"/>kuṇḍa sariyiñcē dī<lb 
-                  n="9" break="no"/><unclear>ni</unclear>n deppi cēsinavāṇḍu
+              <lb n="1"/>svasti rudra<gap reason="undefined" unit="character" quantity="4" precision="low"/><unclear>ṇḍārkka</unclear><lb n="2" break="no"/>di<gap reason="undefined" unit="character" quantity="5" precision="low"/>śrī<lb n="3" break="no"/><gap reason="undefined" unit="character" quantity="1" precision="low"/><unclear>mō</unclear>ju bhīmavrō<lb n="4" break="no"/>li<gap reason="undefined" unit="character" quantity="7" precision="low"/>
+              <lb n="5"/>hō<gap reason="undefined"/><supplied reason="lost" cert="low">kaliviṣṇu</supplied>rāju vi<unclear>ḍci</unclear><lb n="6" break="no"/><unclear>na</unclear> sthitiḍāgunuṁḍugadu<unclear>jē</unclear><lb n="7" break="no"/><unclear>ṭi</unclear>yu <unclear>ve</unclear>ṭṭiyuṁ gona<lb n="8" break="no"/>kuṇḍa sariyiñcē dī<lb n="9" break="no"/><unclear>ni</unclear>n deppi cēsinavāṇḍu
               <lb n="10"/>pañcamahāpātakaṁbu
-              <lb n="11"/><unclear>sē</unclear>sinavāṇḍu bāranā<lb 
-                  n="12" break="no"/>si <unclear>vaccina</unclear>vāṇḍu
+              <lb n="11"/><unclear>sē</unclear>sinavāṇḍu bāranā<lb n="12" break="no"/>si <unclear>vaccina</unclear>vāṇḍu
             </p>
          </div>
          <div type="apparatus">      
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
  	<!--Yet to be provided -->
          </div>
          <div type="commentary">

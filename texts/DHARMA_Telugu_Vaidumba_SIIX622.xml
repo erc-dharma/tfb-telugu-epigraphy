@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Hero stone of Candrāditya (Vaidumba?)</title>
@@ -13,14 +13,14 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         	   <persName ref="part:jeth">
-         	      <forename>Jens Christian</forename>
-         	      <surname>Thomas</surname>
-         	   </persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
@@ -31,7 +31,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -40,21 +40,20 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-02-25" status="draft">Creation of the file</change>
-        <change who="part:jeth" when="2020-06-03" status="draft">translation and apparatus added, commentary expanded</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-02-25" status="draft">Creation of the file</change>
+         <change who="part:jeth" when="2020-06-03" status="draft">translation and apparatus added, commentary expanded</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
                <lb n="1"/>svasti śrī mahārājula dha<unclear>r</unclear>mmuvuna brāhmaṇuḷ
                <lb n="2"/>vē<supplied reason="undefined">di</supplied>ki <unclear>pā</unclear>ṟā candrādityunṟu pasulaku
-               <lb n="3"/><unclear>po</unclear>ḍici meṟāsi <unclear>vī</unclear><lb 
-                  n="4" break="no"/>ralōkaṁ<unclear>bu</unclear>
+               <lb n="3"/><unclear>po</unclear>ḍici meṟāsi <unclear>vī</unclear><lb n="4" break="no"/>ralōkaṁ<unclear>bu</unclear>
                <lb n="5"/>saniye
-               <lb n="6"/>ta<gap reason="undefined" unit="character" quantity="2" precision="low"></gap>
+               <lb n="6"/>ta<gap reason="undefined" unit="character" quantity="2" precision="low"/>
                <lb n="7"/>gāṭa<supplied reason="undefined">ya</supplied> <supplied reason="undefined" cert="unknown">vrāse</supplied>
             </p>
          </div>
@@ -74,12 +73,12 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" xml:lang="eng" source="bib:Sastri1969_01">
+         <div type="translation" source="bib:Sastri1969_01">
  	<p>
  	  Hail! Candrāditya, the brahmin of Ve . ki fought for (the sake of) the cattle given as gift to the brahmins by the illustrious king, and went to the world of heroes.
             </p>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
             <p>
                Svasti! The vaidika brahmin Candrāditya of the brahmins in religious service of Śrī Mahārāja got into close combat for the sake of (defending (?)) cattle, excelled (in bravery) and proceeded to the world of heroes. Ta(xx)gāṭa(ya wrote this).
             </p>

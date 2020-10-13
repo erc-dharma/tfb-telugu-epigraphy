@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Grant of a pannasa under the rule of Śrī Pōrirāju (Vaidumba?)</title>
@@ -13,15 +13,15 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-                       	   <persName>
-                       	      <forename>J.</forename>
-                       	      <surname>Ramayya Pantulu</surname>
-                 <!-- J. Ramayya Pantulu is the editor of SII X. He appears to be the editor of all the inscriptions as well.-->
-                       	   </persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName>
+                  <forename>J.</forename>
+                  <surname>Ramayya Pantulu</surname>
+                  <!-- J. Ramayya Pantulu is the editor of SII X. He appears to be the editor of all the inscriptions as well.-->
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -31,7 +31,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -40,20 +40,17 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-02-26" status="draft">Creation of the file</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-02-26" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
                <milestone type="pagelike" unit="face" n="A"/>
-                  <lb n="1"/>svasti śrī pōrirā<unclear>ju</unclear><lb 
-                         n="2" break="no"/>la Ē<gap reason="undefined" unit="character" quantity="1" precision="low"/>vilō<unclear>gō</unclear>yu
-                  <lb n="3"/>ḻēmaṇḍa Eḷapi<gap reason="undefined" unit="character" quantity="2" precision="low"/><lb 
-                         n="4" break="no"/>ni poṭṭuna<gap reason="undefined" unit="character" quantity="3" precision="low"/> dāniko<lb 
-                         n="5" break="no"/>ḷiśā<gap reason="undefined" unit="character" quantity="1" precision="low"/>nave<gap reason="undefined" unit="character" quantity="2" precision="low"/>rāju
+                  <lb n="1"/>svasti śrī pōrirā<unclear>ju</unclear><lb n="2" break="no"/>la Ē<gap reason="undefined" unit="character" quantity="1" precision="low"/>vilō<unclear>gō</unclear>yu
+                  <lb n="3"/>ḻēmaṇḍa Eḷapi<gap reason="undefined" unit="character" quantity="2" precision="low"/><lb n="4" break="no"/>ni poṭṭuna<gap reason="undefined" unit="character" quantity="3" precision="low"/> dāniko<lb n="5" break="no"/>ḷiśā<gap reason="undefined" unit="character" quantity="1" precision="low"/>nave<gap reason="undefined" unit="character" quantity="2" precision="low"/>rāju
                   <lb n="6"/><gap reason="undefined" unit="character" quantity="1" precision="low"/>va<gap reason="undefined" unit="character" quantity="4" precision="low"/>na panasa
                   <lb n="7"/>ci<unclear>ṟa</unclear>kuḷḷu<gap reason="undefined" unit="character" quantity="2" precision="low"/><unclear>ve</unclear>ṭṭiri
                   <lb n="8"/>naga<gap reason="undefined" unit="character" quantity="5" precision="low"/>
@@ -61,8 +58,7 @@
                   <lb n="10"/><gap reason="undefined" unit="line" quantity="1"/>
                <milestone type="pagelike" unit="face" n="B"/>
                   <lb n="11"/><unclear>va</unclear>kra<unclear>ṁ</unclear>bu vacuvānṟu
-                  <lb n="12"/>bharaṇasi padunṟṟu <gap reason="undefined" unit="line" quantity="1" precision="low"/><lb 
-                         n="13" break="no"/>salā campinavanṟu
+                  <lb n="12"/>bharaṇasi padunṟṟu <gap reason="undefined" unit="line" quantity="1" precision="low"/><lb n="13" break="no"/>salā campinavanṟu
                   <lb n="14"/>pādiga<gap reason="undefined" unit="line" quantity="1" precision="low"/>niluvuṟēḷu
                   <lb n="15"/>canda<gap reason="undefined" unit="character" quantity="1" precision="low"/><unclear>vṟa</unclear><gap reason="undefined" unit="character" quantity="3" precision="low"/>ḷuba
                   <lb n="16"/>ma<unclear>ha</unclear>ḷadārunṟu
@@ -71,13 +67,13 @@
          </div>
          <div type="apparatus">
          </div>
-         <div type="translation" xml:lang="eng" source="bib:Sastri1969_01">
+         <div type="translation" source="bib:Sastri1969_01">
             <p>
                ll. 11-13. He who obstructs this incurs the sin of killing ten (cows ?) at Benares.
                ll. 16-17. Mahaḷaḍārunṟu engraved (the inscription).
             </p>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
  	<!--Yet to be provided -->
          </div>
          <div type="commentary">

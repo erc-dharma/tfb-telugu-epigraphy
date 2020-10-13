@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title><!-- ADD TITEL HERE --></title>
@@ -13,14 +13,14 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         		<persName ref="part:jeth">
-         		   <forename>Jens Christian</forename>
-         		   <surname>Thomas</surname>
-         		</persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -30,7 +30,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -39,41 +39,20 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-07-14" status="draft">Creation of the file</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-07-14" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
               <milestone type="pagelike" unit="face" n="A"/>
-               <lb n="A1"/><supplied reason="lost">svasti śrī prithivi-va</supplied><lb 
-                   n="A2" break="no"/><supplied reason="lost">llava-vijayāditya</supplied><lb 
-                   n="A3" break="no"/><supplied reason="lost">cōḻa-rājuḶ Iru</supplied><lb 
-                   n="A4" break="no"/><supplied reason="lost">vā</supplied>d<supplied reason="lost">i</supplied>r<supplied reason="lost">e</supplied>ṅdu ca<supplied reason="lost">ṁ</supplied>va<lb 
-                   n="A5" break="no"/>ccaraṁbuḶ pravartta<lb 
-                   n="a6" break="no"/>llaN vāṇarājuL pā<lb 
-                   n="A7" break="no"/><unclear>bu</unclear>ḻigga Ēḷucu palla<lb 
-                   n="A8" break="no"/>vādi<supplied reason="omitted" cert="unknown">tya</supplied>rājula kūcapō<!-- or is it pā? --><lb 
-                   n="A9" break="no"/>ṟa<!-- or is it ṟi? -->yāri tāṁbuL cō<lb 
-                   n="A10" break="no"/>ḻa mahārājula Amma<milestone 
-               type="pagelike" unit="face" n="B"/><lb 
-                   n="B1"/><gap reason="lost" unit="character" quantity="1"/><unclear>m</unclear>ukha<!-- the following akṣaras have to read yet -->
+               <lb n="A1"/><supplied reason="lost">svasti śrī prithivi-va</supplied><lb n="A2" break="no"/><supplied reason="lost">llava-vijayāditya</supplied><lb n="A3" break="no"/><supplied reason="lost">cōḻa-rājuḶ Iru</supplied><lb n="A4" break="no"/><supplied reason="lost">vā</supplied>d<supplied reason="lost">i</supplied>r<supplied reason="lost">e</supplied>ṅdu ca<supplied reason="lost">ṁ</supplied>va<lb n="A5" break="no"/>ccaraṁbuḶ pravartta<lb n="a6" break="no"/>llaN vāṇarājuL pā<lb n="A7" break="no"/><unclear>bu</unclear>ḻigga Ēḷucu palla<lb n="A8" break="no"/>vādi<supplied reason="omitted" cert="unknown">tya</supplied>rājula kūcapō<!-- or is it pā? --><lb n="A9" break="no"/>ṟa<!-- or is it ṟi? -->yāri tāṁbuL cō<lb n="A10" break="no"/>ḻa mahārājula Amma<milestone type="pagelike" unit="face" n="B"/><lb n="B1"/><gap reason="lost" unit="character" quantity="1"/><unclear>m</unclear>ukha<!-- the following akṣaras have to read yet -->
                <lb n="B2"/>ḻaḷu<unclear>ru</unclear> kucapā<!-- or is it pō --><unclear>ṟa</unclear>ki   
                <lb n="B3"/>natū Icci ttra
-               <lb n="B4"/>rāca<unclear>m</unclear><supplied reason="lost">ā</supplied><lb 
-                   n="B5" break="no"/><supplied reason="lost">na</supplied><unclear>ṁ</unclear>bunaN Ēbhādi maṟu<lb 
-                   n="B6" break="no"/>ntuṟlu nēla Alaghacinta U<lb 
-                   n="B7" break="no"/><unclear>ttara</unclear>ṁbun ka<!-- the akṣara nka is seldom but is attested (see indoskript) -->ṭṭu<!-- the element kaṭṭu appears at least twice in other names -->  ṇṭ lya gōtrasya p<choice><sic>a</sic><orig>e</orig></choice><lb 
-                   n="B8" break="no"/>nbāṟa <!-- some akṣaras are lacking here -->
-               <lb n="B9"/>sarmārik iccina <unclear>da</unclear>ti<milestone 
-               type="pagelike" unit="face" n="C"/><lb 
-                   n="C1"/>svadatāṁ<milestone 
-               type="pagelike" unit="face" n="D"/><lb 
-                   n="D4"/>yā<supplied reason ="lost">ṁ</supplied> j<unclear>ā</unclear><lb 
-                   n="D5" break="no"/>y<choice><orig>ā</orig><reg>a</reg></choice>t<choice><sic>ō</sic><corr>ē</corr></choice><lb 
-                   n="D6" break="no"/>krimi<supplied reason="lost">ḥ</supplied>
+               <lb n="B4"/>rāca<unclear>m</unclear><supplied reason="lost">ā</supplied><lb n="B5" break="no"/><supplied reason="lost">na</supplied><unclear>ṁ</unclear>bunaN Ēbhādi maṟu<lb n="B6" break="no"/>ntuṟlu nēla Alaghacinta U<lb n="B7" break="no"/><unclear>ttara</unclear>ṁbun ka<!-- the akṣara nka is seldom but is attested (see indoskript) -->ṭṭu<!-- the element kaṭṭu appears at least twice in other names -->  ṇṭ lya gōtrasya p<choice><sic>a</sic><orig>e</orig></choice><lb n="B8" break="no"/>nbāṟa <!-- some akṣaras are lacking here -->
+               <lb n="B9"/>sarmārik iccina <unclear>da</unclear>ti<milestone type="pagelike" unit="face" n="C"/><lb n="C1"/>svadatāṁ<milestone type="pagelike" unit="face" n="D"/><lb n="D4"/>yā<supplied reason="lost">ṁ</supplied> j<unclear>ā</unclear><lb n="D5" break="no"/>y<choice><orig>ā</orig><reg>a</reg></choice>t<choice><sic>ō</sic><corr>ē</corr></choice><lb n="D6" break="no"/>krimi<supplied reason="lost">ḥ</supplied>
             </p>
          </div>
          <div type="apparatus">
@@ -82,13 +61,12 @@
                      <note>The line break of the supplied lines is approximate. The text is supplied according to the notes of Colin Mackenzie (a picture of which is given in: <bibl><ptr target="bib:NilakantaSastri+Venkataramayya1956_01"/><citedRange unit="item">42 K</citedRange></bibl>).</note>
                   </app>
                   <app loc="5">
-                     <lem>pravartta<lb 
-                   n="6" break="no"/>llaN</lem>
+                     <lem>pravartta<lb n="6" break="no"/>llaN</lem>
                      <note>As for the verbal derivation via -alu, -ilu, and -ulu see <bibl><ptr target="bib:Krishnamurti1961_01"/><citedRange unit="page">142-145</citedRange></bibl>.</note>
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
  	<!--Yet to be provided -->
          </div>
          <div type="commentary">
@@ -101,8 +79,8 @@
            	   
           </p>
            <listBibl type="secondary">
-              <bibl></bibl>
-              <bibl></bibl>
+              <bibl/>
+              <bibl/>
            </listBibl>
         </div>
       </body>

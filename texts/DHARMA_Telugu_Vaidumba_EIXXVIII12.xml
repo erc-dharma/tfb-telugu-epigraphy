@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Grant of Bhuvana Trinētra to Aṟtiṟavula Santimitra Lōkēśvara</title>
@@ -13,14 +13,14 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         	   <persName ref="part:jeth">
-         	      <forename>Jens Christian</forename>
-         	      <surname>Thomas</surname>
-         	   </persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -30,7 +30,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -39,21 +39,17 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-06-08" status="draft">Creation of the file</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-06-08" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-              <lb n="1"/>svasty anēka-samara-saṁghaṭṭanōpalabdha-vijaya-lakṣmī-samāliṁgita-viśāla-vakṣasthaḷa bhu<lb 
-                  n="2" break="no"/>vana trinētra śrīmad-vaiduṁba-mahārājulu sa 843-n ēṇṭi Aṣada suddha 7 guruvāraṁbugā bā<lb 
-                  n="3" break="no"/>kanāṇṭi pottepivīṭa dakṣiṇayanasaṁkrāntinimittamm<unclear>u</unclear>nan aṟtiṟa<unclear>v</unclear>ula <unclear precision="low">santimi</unclear>tra lōkēśvara
-              <lb n="4"/>bha<unclear>ṭā</unclear>ralakuṁ gaḍapa paṇṟeṇṭilōni kāṭiceṟuvulu yicci<unclear>ri</unclear>  dīnikiN va<lb 
-                  n="5" break="no"/>kkraṁbu vaccinavāru bāraṇaśini śrī pa<supplied reason="lost">r</supplied>vvataṁbunn aḻisinavāru dīniṁ jēkoni kāci
-              <lb n="6"/>kuḍuceḍuvāru maṁjaramuna kucibhaḍā<unclear>r</unclear>lu bhīmarājunakuṁ jāḍavvari<lb 
-                  n="7" break="no"/>ki dhammavugān icciri Aṇati sirama peggeḍlu dēsarati bhimana vrālu
+              <lb n="1"/>svasty anēka-samara-saṁghaṭṭanōpalabdha-vijaya-lakṣmī-samāliṁgita-viśāla-vakṣasthaḷa bhu<lb n="2" break="no"/>vana trinētra śrīmad-vaiduṁba-mahārājulu sa 843-n ēṇṭi Aṣada suddha 7 guruvāraṁbugā bā<lb n="3" break="no"/>kanāṇṭi pottepivīṭa dakṣiṇayanasaṁkrāntinimittamm<unclear>u</unclear>nan aṟtiṟa<unclear>v</unclear>ula <unclear precision="low">santimi</unclear>tra lōkēśvara
+              <lb n="4"/>bha<unclear>ṭā</unclear>ralakuṁ gaḍapa paṇṟeṇṭilōni kāṭiceṟuvulu yicci<unclear>ri</unclear>  dīnikiN va<lb n="5" break="no"/>kkraṁbu vaccinavāru bāraṇaśini śrī pa<supplied reason="lost">r</supplied>vvataṁbunn aḻisinavāru dīniṁ jēkoni kāci
+              <lb n="6"/>kuḍuceḍuvāru maṁjaramuna kucibhaḍā<unclear>r</unclear>lu bhīmarājunakuṁ jāḍavvari<lb n="7" break="no"/>ki dhammavugān icciri Aṇati sirama peggeḍlu dēsarati bhimana vrālu
               <lb n="8"/><hi rend="large">śrī Abhinuta vāku</hi>
             </p>
          </div>
@@ -84,10 +80,8 @@
                      <rdg source="bib:Desai1958_2">kucibhaḍālu</rdg>
                   </app>
                   <app loc="6">
-                     <lem>jāḍavvari<lb 
-                  n="7" break="no"/>ki</lem>
-                     <rdg source="bib:Desai1958_2">bācavvari<lb 
-                  n="7" break="no"/>ki</rdg>
+                     <lem>jāḍavvari<lb n="7" break="no"/>ki</lem>
+                     <rdg source="bib:Desai1958_2">bācavvari<lb n="7" break="no"/>ki</rdg>
                   </app>
                   <app loc="7">
                      <lem>dhammavugān</lem>
@@ -95,7 +89,7 @@
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" source="bib:Sastri1969_01">
+         <div type="translation" source="bib:Sastri1969_01">
             <p>
               Hail! The illustrious Bhuvana Trinētra Vaydumba mahārāja whose breast was embraced  by the Goddess of victory obtained in several conflicts of battles, 
               residing at Pottapi in Pāka nāṁḍu made a gift of the village of Kāṭiceruvulu (situated) in (the tract of) Kaḍapa twelve to the God Sannimitra Lōkēśvara of 
@@ -104,7 +98,7 @@
               Dēsarati Bhīmana wrote (this). Praiseworthy speech! <hi rend="italic">(Śrī Abhinuta vāku)</hi>.
             </p>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
         	<p>
         	   Svasti! Bhuvana Trinētra, the glorious Vaidumba Mahārāja, whose broad bosom is embraced by the goddess of fortune of war whom he took hold of in numerous battle encounters, gave, while it was Thursday, the 7th, (with) the waxing moon of (the month) Āṣāḍha in the 843rd year (according to) Śaka (calculation), 
         	   forest ponds (<foreign>kāṭiceṟuvulu</foreign>) which are (situated) in "Kaḍapa twelve" to the Lord Santimitra (Śāntimitra?) Lokeśvara of Aṟtiṟavulu on the instance of the transition into the (sun's) passage to the south in the town of Pottepi of Pākanāṁḍu. 

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Land grant of Atiśayaraṭṭakūṭṭa during the reign of Erikal-Muturāju</title>
@@ -20,18 +20,18 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         		<persName>
-         			<forename>K. A.</forename>
-         		           <surname>Nilakanta Sastri</surname>
-         		</persName>
-         	   <persName>
-         	      <forename>M.</forename>
-         	      <surname>Venkataramayya</surname>
-         	   </persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName>
+                  <forename>K. A.</forename>
+                  <surname>Nilakanta Sastri</surname>
+               </persName>
+               <persName>
+                  <forename>M.</forename>
+                  <surname>Venkataramayya</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -41,7 +41,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -50,11 +50,11 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-06-24" status="draft">Creation of the file</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-06-24" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
@@ -73,13 +73,13 @@
          <div type="apparatus">
                <listApp>
                   <app loc="A1">
-                     <lem></lem>
+                     <lem/>
                      <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">°priti<gap reason="undefined" unit="character" quantity="4" precision="low"/>m</rdg>
                      <note>According to the edition there is no gap after <foreign>puṇyakumārunṟu</foreign>. As to my knowledge there is no inscription in which the information about the ruler does not contain a verbal form, i. e. it does not appear as asyndeton. That means that the verbal form must come before the name although this would be a rare case. The other possible match, <foreign>pritivīvallava</foreign>, would exclude a verbal form.</note>
                   </app>
                   <app loc="A2">
                      <lem>Atiśayaraṭṭakūṭṭan arkup<supplied reason="undefined" cert="low">amayya</supplied> raṭṭakuṭṭa<supplied reason="undefined" cert="low">N</supplied></lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">Atiśayaraṭṭakūṭṭana rkup<gap reason="undefined" unit="character" quantity="6" precision="low"></gap>raṭṭakuṭṭa</rdg>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">Atiśayaraṭṭakūṭṭana rkup<gap reason="undefined" unit="character" quantity="6" precision="low"/>raṭṭakuṭṭa</rdg>
                      <note>The second proper noun may have been <foreign>Kup(p)amayya</foreign>. The element kup- appears as part of names in several inscriptions. If the <foreign>repha</foreign> was just a scratch one could perhaps expect <foreign>AtiśayaraṭṭakūṭṭaN kup°</foreign>.</note>
                   </app>
                   <app loc="B1">
@@ -101,12 +101,12 @@
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" source="bib:Sastri1969_01">
+         <div type="translation" source="bib:Sastri1969_01">
             <p>
                ll. 6-7. Those who protect and maintain (this charity) will acquire the merit of an endowment of land. Those who obstruct (it) will incur the five great sins.
             </p>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
  	<p>
  	   Svasti. When Śrī Erikal-Muturāju Puṇyakumārunṟu (ruled over the world), Atiśaya-Raṭṭakūṭṭa and Kup(amayya)-Raṭṭakuṭṭa (gave) fifty (<foreign>maṟuntur</foreign>s of land in royal measure) to (the brahmin) Pālaśarmmāru of [village.name] at the full-moon day of (Kārtika). Those who protect and let enjoy this (will get) the benefit of a land grant. Those who speak malignantly (about this grant) will get the (outcome of the) five great sins. 
  	</p>

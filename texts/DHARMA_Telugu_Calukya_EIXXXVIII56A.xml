@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Pannasa of Chāḷkiḷēṁṟurāju under Vinayāditya-Satyāśraya</title>
@@ -13,14 +13,14 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         		<persName ref="part:jeth">
-         			<forename>Jens Christian</forename>
-         		           <surname>Thomas</surname>
-         		</persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -30,7 +30,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -39,59 +39,39 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-07-03" status="draft">Creation of the file</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-07-03" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-               <lb n="1"/>svasti śrī vinayā<lb break="no" 
-                     n="2"/>ditya-satyāśraya śrī pṛthi<lb break="no" 
-                     n="3"/>vī-vallabha-mahārājādhirā<lb break="no" 
-                     n="4"/>ja-par<unclear>ā</unclear>mēśvara-bhaṭarāḷa <unclear>v</unclear>i<lb break="no" 
-                     n="5"/>jayarājya-sa<unclear>ṁ</unclear>vatsaraṁbuḶ pa<lb break="no" 
-                     n="6"/>di Agun-ēṇḍu v<unclear>ā</unclear>ṇarājul va<supplied reason="lost">ṁ</supplied>g<unclear>ā</unclear><lb break="no" 
-                     n="7"/>nūr nn<unclear>ā</unclear>ṇḍ ēḷaN chāḷkiḷēṁṟurāju<lb 
-                     n="8" break="no"/>L niṭūraN E<unclear>ṁ</unclear>ka<unclear>pa</unclear>ṁmi-pāṟa ko<supplied reason="lost">ṁ</supplied><lb 
-                     n="9" break="no"/>ṟuṟēniki paśc<supplied reason="lost">i</supplied>ma-diś<unclear>ā</unclear>N pañc<unclear>ā</unclear><lb 
-                     n="10" break="no"/>śat-kṣētraṁb icciri dāniki sākṣi
-               <lb n="11"/>vaḍlapāl<unclear>mu</unclear>siyya muḷugu I<lb 
-                     n="12" break="no"/>ḷūñca<unclear>vā</unclear>ri bōḷu val<unclear>edo</unclear>ṟa
-               <lb n="13"/>bōḷu n<unclear>ā</unclear>nṟu mah<unclear>ā</unclear>janaṁbu śu<supplied reason="lost">bhaṁ</supplied><lb 
-                     n="14" break="no"/>bu vṛddhiyu <supplied reason="omitted">A</supplied>ku
+               <lb n="1"/>svasti śrī vinayā<lb break="no" n="2"/>ditya-satyāśraya śrī pṛthi<lb break="no" n="3"/>vī-vallabha-mahārājādhirā<lb break="no" n="4"/>ja-par<unclear>ā</unclear>mēśvara-bhaṭarāḷa <unclear>v</unclear>i<lb break="no" n="5"/>jayarājya-sa<unclear>ṁ</unclear>vatsaraṁbuḶ pa<lb break="no" n="6"/>di Agun-ēṇḍu v<unclear>ā</unclear>ṇarājul va<supplied reason="lost">ṁ</supplied>g<unclear>ā</unclear><lb break="no" n="7"/>nūr nn<unclear>ā</unclear>ṇḍ ēḷaN chāḷkiḷēṁṟurāju<lb n="8" break="no"/>L niṭūraN E<unclear>ṁ</unclear>ka<unclear>pa</unclear>ṁmi-pāṟa ko<supplied reason="lost">ṁ</supplied><lb n="9" break="no"/>ṟuṟēniki paśc<supplied reason="lost">i</supplied>ma-diś<unclear>ā</unclear>N pañc<unclear>ā</unclear><lb n="10" break="no"/>śat-kṣētraṁb icciri dāniki sākṣi
+               <lb n="11"/>vaḍlapāl<unclear>mu</unclear>siyya muḷugu I<lb n="12" break="no"/>ḷūñca<unclear>vā</unclear>ri bōḷu val<unclear>edo</unclear>ṟa
+               <lb n="13"/>bōḷu n<unclear>ā</unclear>nṟu mah<unclear>ā</unclear>janaṁbu śu<supplied reason="lost">bhaṁ</supplied><lb n="14" break="no"/>bu vṛddhiyu <supplied reason="omitted">A</supplied>ku
             </p> 
             <p xml:lang="san-Latn">
-                                  <lg n="1" met="anuṣṭubh"><l 
-                                        n="a">svadat<supplied reason="omitted">t</supplied>ā<supplied reason="lost">ṁ</supplied> parada<lb 
-                     n="15" break="no"/>ttāṁ vā</l><l 
-                                        n="b"> yō harēta vas<supplied reason="lost">u</supplied><lb 
-                     n="16"  break="no"/><supplied reason="undefined">ndharāṁ</supplied></l><l n="c"><supplied reason="undefined">ṣaṣṭiṁ varṣasahasrāṇi</supplied></l><l n="c"> <supplied reason="undefined">viṣṭāyāṁ jāyatē kṛmiḥ</supplied></l>
+                                  <lg n="1" met="anuṣṭubh"><l n="a">svadat<supplied reason="omitted">t</supplied>ā<supplied reason="lost">ṁ</supplied> parada<lb n="15" break="no"/>ttāṁ vā</l><l n="b"> yō harēta vas<supplied reason="lost">u</supplied><lb n="16" break="no"/><supplied reason="undefined">ndharāṁ</supplied></l><l n="c"><supplied reason="undefined">ṣaṣṭiṁ varṣasahasrāṇi</supplied></l><l n="c"> <supplied reason="undefined">viṣṭāyāṁ jāyatē kṛmiḥ</supplied></l>
            </lg>
             </p>
          </div>
          <div type="apparatus">
                <listApp>
                   <app loc="6">
-                     <lem>va<supplied reason="lost">ṁ</supplied>g<unclear>ā</unclear><lb break="no" 
-                     n="7"/>nūr</lem>
-                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">vaṁga<lb break="no" 
-                     n="7"/>nūr</rdg>
+                     <lem>va<supplied reason="lost">ṁ</supplied>g<unclear>ā</unclear><lb break="no" n="7"/>nūr</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">vaṁga<lb break="no" n="7"/>nūr</rdg>
                   </app>
                   <app loc="7">
-                     <lem>chāḷkiḷēṁṟurāju<lb 
-                     n="8" break="no"/>L</lem>
-                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">caḷkiḷēṁṟurāju<lb 
-                     n="8" break="no"/>L</rdg> 
+                     <lem>chāḷkiḷēṁṟurāju<lb n="8" break="no"/>L</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">caḷkiḷēṁṟurāju<lb n="8" break="no"/>L</rdg> 
                   </app>
                   <app loc="8">
                      <lem>E<unclear>ṁ</unclear>ka<unclear>pa</unclear>ṁmi-pāṟa</lem>
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04">vara<unclear>cā</unclear>mi-pāṟa</rdg>
                   </app>
                   <app loc="8">
-                     <lem>ko<supplied reason="lost">ṁ</supplied><lb 
-                     n="9" break="no"/>ṟu°</lem>
+                     <lem>ko<supplied reason="lost">ṁ</supplied><lb n="9" break="no"/>ṟu°</lem>
                      <note>This element might be a variant of what ultimately became modern Telugu <foreign>koṇḍa</foreign>, conf. inscriptional <foreign>konṟa</foreign> and Tamil <foreign>kunṟu</foreign> 'hill'.</note>
                   </app>
                   <app loc="9">
@@ -99,20 +79,16 @@
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04">paścima-diśāna</rdg>
                   </app>
                   <app loc="9">
-                     <lem>pañc<unclear>ā</unclear><lb 
-                     n="10" break="no"/>śat</lem>
-                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">pañcā<lb 
-                     n="10" break="no"/>śat</rdg>
+                     <lem>pañc<unclear>ā</unclear><lb n="10" break="no"/>śat</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">pañcā<lb n="10" break="no"/>śat</rdg>
                   </app>
                   <app loc="11">
                      <lem>vaḍlapāl<unclear>mu</unclear>siyya</lem>
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04">muḷupāl-mu<unclear>tthi</unclear>yya</rdg>
                   </app>
                   <app loc="11">
-                     <lem>I<lb 
-                     n="12" break="no"/>ḷūñca<unclear>vā</unclear>ri</lem>
-                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">I<lb 
-                     n="12" break="no"/>ḷuñcadāri</rdg>
+                     <lem>I<lb n="12" break="no"/>ḷūñca<unclear>vā</unclear>ri</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1970_04">I<lb n="12" break="no"/>ḷuñcadāri</rdg>
                   </app>
                   <app loc="12">
                      <lem>val<unclear>edo</unclear>ṟa</lem>
@@ -124,8 +100,7 @@
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04">nānṟu</rdg>
                   </app>
                   <app loc="13">
-                     <lem>śu<supplied reason="lost">bhaṁ</supplied><lb 
-                     n="14" break="no"/>bu</lem>
+                     <lem>śu<supplied reason="lost">bhaṁ</supplied><lb n="14" break="no"/>bu</lem>
                      <rdg source="bib:Ramesh+RamachandraMurthy1970_04"><unclear>śubhaṁ</unclear></rdg>
                   </app>
                   <app loc="14">
@@ -134,7 +109,7 @@
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
  	  <p>
  	   Svasti! In the tenth year in the era of the victorious reign of Śrī Vinayāditya-Satyāśraya Śrī Pṛthivī-Vallabha-Mahārājādhirāja-Paramēśvara-bhaṭarāḷu, when Bāṇarājul reigned over Vaṁganūr-Nāṇḍu, Cālukya-Ḷēṁṟurāju gave, in Niṭūru in the western direction, a field (as a) pannasa (grant) to Koṁṟuṟēṇḍu, brahmin of Eṁkapaṁm(u). The witness(es) to that (are): the<!-- has to be clarified whether this is a title or not --> muḷugu of Vaḍlapālmusi, the bōḷu of Iḷūñcavāru, (and) the bōḷu in Valedoṟu. May there be welfare and prosperity of the country and the people!
  	  </p>

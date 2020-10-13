@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Grant of Cāmaṇakālu under Erikalla Muturāju Puṇyakumārunṟu</title>
@@ -13,14 +13,14 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         		<persName ref="part:jeth">
-         		   <forename>Jens Christian</forename>
-         		   <surname>Thomas</surname>
-         		</persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -30,7 +30,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -39,85 +39,65 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-05-27" status="draft">Creation of the file</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-05-27" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-               <lb n="1"/>svasti śrī Erikalla mut<unclear>u</unclear><lb 
-                   n="2" break="no"/><unclear>rā</unclear>ju puṇyakumārunṟu gaṇ<unclear>ya</unclear><lb 
-                   n="3" break="no"/>mānunṟu maṟu<unclear>n</unclear>ṟa piḍuku madamu<lb 
-                   n="4" break="no"/><unclear>d</unclear>itunṟ uttamōttamunṟ ayina <unclear>vā</unclear><lb 
-                   n="5" break="no"/><unclear>nṟu</unclear> cē<unclear>pa</unclear>liya paṭukānū r<supplied reason="lost">ē</supplied>nāṇṭa Ē<lb 
-                   n="6" break="no"/>ḷucu tarkkapuḻola h<unclear>ā</unclear>rad<unclear>ā</unclear>ya
-               <lb n="7"/>kiḻevuru kattiśarmmaku tir<unclear>pa</unclear>l<unclear>ū</unclear><lb 
-                   n="8" break="no"/>ra panāśa koṇḍa kāttiya cīk<supplied reason="lost">u</supplied><lb 
-                   n="9" break="no"/><unclear>na</unclear> bidiya sōmavāraṁbu puṇaru
-               <lb n="10"/>puṣyaṁbu brahaspatihōra kā<lb 
-                   n="11" break="no"/>nu Ēmbadiye cāmaṇakāla <abbr>dha</abbr>
+               <lb n="1"/>svasti śrī Erikalla mut<unclear>u</unclear><lb n="2" break="no"/><unclear>rā</unclear>ju puṇyakumārunṟu gaṇ<unclear>ya</unclear><lb n="3" break="no"/>mānunṟu maṟu<unclear>n</unclear>ṟa piḍuku madamu<lb n="4" break="no"/><unclear>d</unclear>itunṟ uttamōttamunṟ ayina <unclear>vā</unclear><lb n="5" break="no"/><unclear>nṟu</unclear> cē<unclear>pa</unclear>liya paṭukānū r<supplied reason="lost">ē</supplied>nāṇṭa Ē<lb n="6" break="no"/>ḷucu tarkkapuḻola h<unclear>ā</unclear>rad<unclear>ā</unclear>ya
+               <lb n="7"/>kiḻevuru kattiśarmmaku tir<unclear>pa</unclear>l<unclear>ū</unclear><lb n="8" break="no"/>ra panāśa koṇḍa kāttiya cīk<supplied reason="lost">u</supplied><lb n="9" break="no"/><unclear>na</unclear> bidiya sōmavāraṁbu puṇaru
+               <lb n="10"/>puṣyaṁbu brahaspatihōra kā<lb n="11" break="no"/>nu Ēmbadiye cāmaṇakāla <abbr>dha</abbr>
             </p>
          </div>
          <div type="apparatus">
                <listApp>
                   <app loc="1">
-                     <lem>mut<unclear>u</unclear><lb 
-                   n="2" break="no"/><unclear>rā</unclear>ju</lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">mutu<lb 
-                   n="2" break="no"/><unclear>rā</unclear>ju</rdg>
+                     <lem>mut<unclear>u</unclear><lb n="2" break="no"/><unclear>rā</unclear>ju</lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">mutu<lb n="2" break="no"/><unclear>rā</unclear>ju</rdg>
                   </app>
                   <app loc="2">
-                     <lem>gaṇ<unclear>ya</unclear><lb 
-                   n="3" break="no"/>mānunṟu maṟu<unclear>n</unclear>ṟa</lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">gaṇya<lb 
-                   n="3" break="no"/>mānunṟu maṟunṟa</rdg>
+                     <lem>gaṇ<unclear>ya</unclear><lb n="3" break="no"/>mānunṟu maṟu<unclear>n</unclear>ṟa</lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">gaṇya<lb n="3" break="no"/>mānunṟu maṟunṟa</rdg>
                   </app>
                   <app loc="3">
-                     <lem>madamu<lb 
-                   n="4" break="no"/><unclear>d</unclear>itunṟ uttamōttamunṟ ayina <unclear>vā</unclear><lb 
-                   n="5" break="no"/><unclear>nṟu</unclear></lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">madamu<lb 
-                   n="4" break="no"/>ditunṟ uttamōttamunṟ ayinavā<lb 
-                   n="5" break="no"/>nṟu</rdg>
+                     <lem>madamu<lb n="4" break="no"/><unclear>d</unclear>itunṟ uttamōttamunṟ ayina <unclear>vā</unclear><lb n="5" break="no"/><unclear>nṟu</unclear></lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">madamu<lb n="4" break="no"/>ditunṟ uttamōttamunṟ ayinavā<lb n="5" break="no"/>nṟu</rdg>
                   </app>
                   <app loc="5">
                      <lem>cē<unclear>pa</unclear>liya</lem>
                      <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">cirpaliya</rdg>
                   </app>
                   <app loc="5">
-                     <lem>r<supplied reason="lost">ē</supplied>nāṇṭa Ē<lb 
-                   n="6" break="no"/>ḷucu</lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">rēnāṇḍē<lb 
-                   n="6" break="no"/>ḷucu</rdg>
+                     <lem>r<supplied reason="lost">ē</supplied>nāṇṭa Ē<lb n="6" break="no"/>ḷucu</lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">rēnāṇḍē<lb n="6" break="no"/>ḷucu</rdg>
                   </app>
                   <app loc="6">
                      <lem>h<unclear>ā</unclear>rad<unclear>ā</unclear>ya</lem>
                      <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">pāradāya</rdg>
                   </app>
                   <app loc="8">
-                     <lem>kāttiya cīk<supplied reason="lost">u</supplied><lb 
-                   n="9" break="no"/><unclear>na</unclear></lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">kā<unclear>rtt</unclear>iya cīku<lb 
-                   n="9" break="no"/>na</rdg>
+                     <lem>kāttiya cīk<supplied reason="lost">u</supplied><lb n="9" break="no"/><unclear>na</unclear></lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">kā<unclear>rtt</unclear>iya cīku<lb n="9" break="no"/>na</rdg>
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" source="NilakantaSastri+Venkataramayya1956_01">
+         <div type="translation" source="NilakantaSastri+Venkataramayya1956_01">
             <p>
               Hail! prosperity! While <hi rend="bold">Puṇyakumāra</hi>, the <hi rend="bold">Erikalla-Mutturāju</hi>, who was held in high esteem, was the thunderbolt to hostile kings, was happy in his pride and the noblest of the noble, was ruling (<hi rend="italic">the</hi>) Rēnāṇḍu (<hi rend="italic">country</hi>)
               with <hi rend="bold">Chirpaliya</hi> as his capital (<hi rend="italic">paṭu</hi>), a <hi rend="italic">panāśa</hi> at Tirpalūru given to Kiḻevuru or Ḻēvuru Kattiśarmmā, the <hi rend="italic">pāradāya</hi> of Tarkkapuḻōlu, on the second day of the dark fortnight of Koṇḍa-Kārttika, Monday, Puṇaru-pushyaṁbu and (<hi rend="italic">at the time of</hi>) Bṛihaspati-hōra, (<hi rend="italic">is</hi>) fifty (<hi rend="italic">mattars</hi> ?). (<hi rend="italic">This is</hi>) the charity of Chāmaṇakāla.
             </p>
          </div>
-         <div type="translation" xml:lang="eng" source="Sastri1969_01">
+         <div type="translation" source="Sastri1969_01">
             <p>
               Hail! Prosperity! While Puṇyakumāra, the Erikalla Mutturāju, who was held in high esteem, was the thunderbolt to hostile kings, was happy 
               in his pride and the noblest of the noble was ruling (the) Rēnāṇḍu (country) with Cirpaliya as his capital (<hi rend="italic">paṭu</hi>), a <hi rend="italic">pannasa</hi> at Tirpalūru given to Kiḻēvuru Kattiśarmma of Bhāradvāja gotra 
               (<hi rend="italic">pāradāya</hi>) of Tarkkapuḻōlu, on the second day of the dark fortnight of koṇḍa-kārttika, monday, Puṇaru-puṣyambu, and (at the time of) Brihaspati-hōra, (is) fifty (<hi rend="italic">mattars</hi> ?). (This is) the charity of Cāmaṇakālu.
             </p>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
              <p>
               Svasti! While the Erikalla Muturāja Puṇyakumāra, who was (highly) respected, the thunderbolt of the enemies, rejoycing in delight, and the best among the best, was ruling in Rēnāṇḍu with Cēpali as residence, a pannasa (was given) 
               at Tirpalūru to Kiḻevuru Kattiśarmma of the Bhāradvāja (gotra) at Tarkkapuḻolu, while being (<hi rend="italic">kānu</hi>) Monday, the second (day) of the dark fortnight of koṇḍa<!-- does this simply mean "peak" as the date is in the midst of K.? -->-Kārtikā (and) 

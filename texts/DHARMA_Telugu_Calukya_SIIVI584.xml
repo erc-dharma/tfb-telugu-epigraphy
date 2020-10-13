@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Grant of the paḍuvāraṁbu to three villages by Kalimuḍirāju</title>
@@ -13,14 +13,14 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         		<persName ref="part:jeth">
-         			<forename>Jens Christian</forename>
-         		           <surname>Thomas</surname>
-         		</persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -30,7 +30,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -39,27 +39,18 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-06-12" status="draft">Creation of the file</change>
-        <change who="part:jeth" when="2020-06-16" status="draft">Apparatus, commentary, and translation added</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-06-12" status="draft">Creation of the file</change>
+         <change who="part:jeth" when="2020-06-16" status="draft">Apparatus, commentary, and translation added</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
                <milestone type="pagelike" unit="face" n="A"/>
-              <lb n="1"/>svasti śrimaT sakalalōkāśrayajayasiṁgha<lb 
-                  n="2" break="no"/>vallabhamahārājulākuN pravarddhamānavijayarā<lb 
-                  n="3" break="no"/>jyasaṁvatsaraṁbuḶ Eṇuṁbodi Ann-ēṇṭi Armmapūṇṇa<lb 
-                  n="4" break="no"/>ma nāṇḍuṁ mlāviṁḍirājula muṭḷu kalimuḍirājuL
-              <lb n="5"/>mlāviṁḍi samudrarakṣanāku baṇi sēsina kalvavī<lb 
-                  n="6" break="no"/>ḻa kuṟla maddikāḍu mūṭiki vitpaṟti uttaraṁbuna pulo<lb 
-                  n="7" break="no"/>ṁbuna ceṟuvu paḍumāṟi kō<surplus>r</surplus>ṭa Eṇuṁbodi puṭḷu Ā<lb 
-                  n="8" break="no"/>ṟla paṭṭu sēnu tūrppuna kōṭi tā<unclear>ḻu</unclear>tōṁṭaḷāyu paḍuvā<lb 
-                  n="9" break="no"/>raṁbu icciri pāṟa paḍuvāraṁbu mlāvi<unclear>ṁ</unclear>ḍīśvaraṁbuna kaḷā<lb 
-                  n="10" break="no"/>kaṇḍugum icci kuḍucuvāru yiṟla kānu Ē-veṟuguvā<lb 
-                  n="11" break="no"/>ru vitpaṟti gāṇaṁbu<unclear>n dho</unclear>lgoṭṭu<unclear>na</unclear>ṁ gāṇaṁbu cuvvuṭūru gāṇaṁbu
+              <lb n="1"/>svasti śrimaT sakalalōkāśrayajayasiṁgha<lb n="2" break="no"/>vallabhamahārājulākuN pravarddhamānavijayarā<lb n="3" break="no"/>jyasaṁvatsaraṁbuḶ Eṇuṁbodi Ann-ēṇṭi Armmapūṇṇa<lb n="4" break="no"/>ma nāṇḍuṁ mlāviṁḍirājula muṭḷu kalimuḍirājuL
+              <lb n="5"/>mlāviṁḍi samudrarakṣanāku baṇi sēsina kalvavī<lb n="6" break="no"/>ḻa kuṟla maddikāḍu mūṭiki vitpaṟti uttaraṁbuna pulo<lb n="7" break="no"/>ṁbuna ceṟuvu paḍumāṟi kō<surplus>r</surplus>ṭa Eṇuṁbodi puṭḷu Ā<lb n="8" break="no"/>ṟla paṭṭu sēnu tūrppuna kōṭi tā<unclear>ḻu</unclear>tōṁṭaḷāyu paḍuvā<lb n="9" break="no"/>raṁbu icciri pāṟa paḍuvāraṁbu mlāvi<unclear>ṁ</unclear>ḍīśvaraṁbuna kaḷā<lb n="10" break="no"/>kaṇḍugum icci kuḍucuvāru yiṟla kānu Ē-veṟuguvā<lb n="11" break="no"/>ru vitpaṟti gāṇaṁbu<unclear>n dho</unclear>lgoṭṭu<unclear>na</unclear>ṁ gāṇaṁbu cuvvuṭūru gāṇaṁbu
               <lb n="12"/><gap reason="undefined" unit="character" quantity="10" precision="low"/><unclear>vra</unclear>ccinavāru bārāṇasi vēvru<!-- Here and in the following lines the missing words have to be added. If this is done delete app @12 -->
               <lb n="13"/><gap reason="undefined" unit="character" quantity="10" precision="low"/>līḍisa <unclear>sa</unclear>mudraṁbu malā
               <lb n="14"/><gap reason="undefined" unit="character" quantity="11" precision="low"/>ḍisenavadiki
@@ -72,8 +63,7 @@
                                <l n="a"><unclear>bahubhi</unclear>r vvasu<unclear>dhā</unclear> dat<unclear>tā</unclear></l>
               <lb n="17"/>
                                <l n="b">bahubhiś cānupālitā</l> 
-                               <l n="c">yasya ya<supplied reason="undefined">sya ya</supplied><lb 
-                     n="18" break ="no"/>dā bhūmi<unclear>ḥ</unclear></l> 
+                               <l n="c">yasya ya<supplied reason="undefined">sya ya</supplied><lb n="18" break="no"/>dā bhūmi<unclear>ḥ</unclear></l> 
                                <l n="d">tasya tasya tadā pha<supplied reason="undefined">laṁ</supplied></l></lg>
               <lb n="19"/>
                             <lg n="2" met="anuṣṭubh">
@@ -99,17 +89,14 @@
               <lb n="25"/><gap reason="undefined" extent="unknown" unit="line"/></p>
                
                <p xml:lang="tel"><milestone type="pagelike" unit="face" n="C"/>
-              <lb n="26"/>maḷavivisva<lb 
-                  n="27" break="no"/>ṁbu sadāmavī<lb 
-                  n="28" break="no"/>sainyamākaḷi
+              <lb n="26"/>maḷavivisva<lb n="27" break="no"/>ṁbu sadāmavī<lb n="28" break="no"/>sainyamākaḷi
               <lb n="29"/>muḍisvarace
             </p>
          </div>
          <div type="apparatus">
                <listApp>
                   <app loc="3">
-                     <lem>pūṇṇa<lb 
-                  n="4" break="no"/>ma</lem>
+                     <lem>pūṇṇa<lb n="4" break="no"/>ma</lem>
                      <note>In Prakrit a syllable of three morae is very unusual wherefore I would regard the double ‹ṇṇa› of °<foreign>pūṇṇama</foreign> in lines 3-4 as the usual graphemic reduplication of a consonant after a <foreign>repha</foreign> that might originally have been written in the inscription.</note>
                   </app>
                   <app loc="5">
@@ -123,10 +110,8 @@
                        The term <hi rend="italic">samudra-</hi> is also used elsewhere to denote a tank.</note>
                   </app>
                   <app loc="5">
-                     <lem>kalvavī<lb 
-                  n="6" break="no"/>ḻa</lem>
-                     <rdg source="bib:SubrahmanyaAiyer1928_01">kalcivī<lb 
-                  n="6" break="no"/>ḻa</rdg>
+                     <lem>kalvavī<lb n="6" break="no"/>ḻa</lem>
+                     <rdg source="bib:SubrahmanyaAiyer1928_01">kalcivī<lb n="6" break="no"/>ḻa</rdg>
                      <note>The element kalva- from <foreign>kaluva</foreign> 'lotus' is attested in other place names as well.</note>
                   </app>
                   <app loc="5">
@@ -152,8 +137,7 @@
                   </app>
                   <app loc="17">
                      <lem>ya<supplied reason="undefined">sya ya</supplied></lem>
-                     <rdg source="bib:SubrahmanyaAiyer1928_01">ya<gap reason="undefined" unit="character" quantity="3" precision="low"/><lb 
-                     n="18" break ="no"/>dā</rdg>
+                     <rdg source="bib:SubrahmanyaAiyer1928_01">ya<gap reason="undefined" unit="character" quantity="3" precision="low"/><lb n="18" break="no"/>dā</rdg>
                   </app>
                   <app loc="18">
                     <lem>pha<supplied reason="undefined">laṁ</supplied></lem>
@@ -189,7 +173,7 @@
               the old settlers of Vitpaṟṟu, Tholgoṭṭu and Cuvvuṭūru.
             </p>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
  	  <p>
  	   Svasti! At the armma-fullmoon day of the eighth year in the era (<hi rend="italic">saṁvatsara</hi>-) of the prospering victorious rule of 
  	   the glorious Jayasiṁghavallabha mahārājulu who was endowed with the whole world, Kalimuḍirājulu, officer of the ruler of Mlāviṁḍi, gave to the three (villages) that have done work for the preservation of the tank of Mlāviṁḍi, 

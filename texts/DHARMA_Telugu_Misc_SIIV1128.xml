@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title><!-- ADD TITEL HERE --></title>
@@ -13,14 +13,15 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         	   <persName><forename>H.</forename>
-         	      <surname>Krishna Sastri</surname>
-         	      <!-- H. Krishna Sastri is the editor of SII V. He appears to be the editor of all the inscriptions as well.-->
-         	   </persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName>
+                  <forename>H.</forename>
+                  <surname>Krishna Sastri</surname>
+                  <!-- H. Krishna Sastri is the editor of SII V. He appears to be the editor of all the inscriptions as well.-->
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -30,7 +31,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -39,25 +40,21 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-03-31" status="draft">Creation of the file</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-03-31" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-              <lb n="1"/>svasti śrī paṭṭapināṁṭṭi visi<lb 
-                  n="2" break="no"/>kuṟiki paṟuṇḍu ma<unclear>ṭa</unclear>mva vē<unclear>yu</unclear><lb 
-                  n="3" break="no"/>ratō koni pō<unclear>yeṅka śrī jē</unclear>namaha<lb 
-                  n="4" break="no"/>ntadhavalunṛpatu dhanirāsim i<lb 
-                  n="5" break="no"/>ccinaṇḍu
+              <lb n="1"/>svasti śrī paṭṭapināṁṭṭi visi<lb n="2" break="no"/>kuṟiki paṟuṇḍu ma<unclear>ṭa</unclear>mva vē<unclear>yu</unclear><lb n="3" break="no"/>ratō koni pō<unclear>yeṅka śrī jē</unclear>namaha<lb n="4" break="no"/>ntadhavalunṛpatu dhanirāsim i<lb n="5" break="no"/>ccinaṇḍu
             </p>
          </div>
          <div type="apparatus">
            <!-- The apparatus has to be added as soon as respective emendations are save to be assumed -->  
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
  	<!--Yet to be provided -->
          </div>
          <div type="commentary">

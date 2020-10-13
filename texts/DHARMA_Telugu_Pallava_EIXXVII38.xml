@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Nalajanampāḍu grant of Bādirāju</title>
@@ -13,14 +13,14 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         		<persName ref="part:jeth">
-         			<forename>Jens Christian</forename>
-         			<surname>Thomas</surname>
-         		</persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
@@ -31,7 +31,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -40,68 +40,47 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-01-21" status="draft">Creation of the file</change>
-        <change who="part:jeth" when="2020-03-04" status="draft">Added more readings, updated the bibliography</change>
-        <change who="part:jeth" when="2020-03-09" status="draft">Added Sastri's reading</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-01-21" status="draft">Creation of the file</change>
+         <change who="part:jeth" when="2020-03-04" status="draft">Added more readings, updated the bibliography</change>
+         <change who="part:jeth" when="2020-03-09" status="draft">Added Sastri's reading</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
              <milestone type="pagelike" n="A" unit="face"/> 
-               <lb n="1" rend="large"/>svasti bha<lb 
-               n="2" break="no"/>gavad-arhatām pa<lb 
-               n="3" break="no"/>rama-bhaṭṭ<choice><sic>a</sic><corr>ā</corr></choice>rakasya <unclear>p</unclear><choice><orig>a</orig><reg>ā</reg></choice><lb 
-               n="4" break="no"/>d<choice><sic>a</sic><corr>ā</corr></choice>nudhy<choice><sic>a</sic><corr>ā</corr></choice>ta-parama-mā<lb 
-               n="5" break="no"/>hēśvara-para<supplied reason="lost">mē</supplied>śvara-pa<lb 
-               n="6" break="no"/>llavāditya <orig>śṛ<unclear>ī</unclear></orig> b<choice><unclear>ā</unclear><unclear>o</unclear></choice>di<lb 
-               n="7" break="no"/>rājula Andu paḷḷe<lb 
-               n="8" break="no"/>yari koḍuk<unclear>u</unclear> b<unclear>ā</unclear>di<unclear>rā</unclear><lb 
-               n="9" break="no"/>j ēnvānṟu r<unclear>ā</unclear>jam<unclear>ā</unclear><supplied reason="lost">naṁ</supplied><lb 
-               n="10" break="no"/>bu mūnṟu vuṭṭḷu Āṟla
-               <lb n="11"/><choice><unclear>v</unclear><unclear>p</unclear></choice>aṭṭu kṣētra<supplied reason="lost">ṁ</supplied>bu pa<seg type="akṣara"><unclear>ṟ</unclear><supplied reason="lost">i</supplied></seg><lb 
-               n="12" break="no"/>si paḷḷeyāri <gap reason="lost" quantity="1" unit="character"/><!-- it has to be ascertained what character could have been written here. Master suggests [dā] which would entail a misspelling of *dānam as *dāyanam. Also to be added in the apparatus --><lb
-               n="13" break="no"/>yana<unclear>ṁ</unclear>bunāku Icce
+               <lb n="1" rend="large"/>svasti bha<lb n="2" break="no"/>gavad-arhatām pa<lb n="3" break="no"/>rama-bhaṭṭ<choice><sic>a</sic><corr>ā</corr></choice>rakasya <unclear>p</unclear><choice><orig>a</orig><reg>ā</reg></choice><lb n="4" break="no"/>d<choice><sic>a</sic><corr>ā</corr></choice>nudhy<choice><sic>a</sic><corr>ā</corr></choice>ta-parama-mā<lb n="5" break="no"/>hēśvara-para<supplied reason="lost">mē</supplied>śvara-pa<lb n="6" break="no"/>llavāditya <orig>śṛ<unclear>ī</unclear></orig> b<choice><unclear>ā</unclear><unclear>o</unclear></choice>di<lb n="7" break="no"/>rājula Andu paḷḷe<lb n="8" break="no"/>yari koḍuk<unclear>u</unclear> b<unclear>ā</unclear>di<unclear>rā</unclear><lb n="9" break="no"/>j ēnvānṟu r<unclear>ā</unclear>jam<unclear>ā</unclear><supplied reason="lost">naṁ</supplied><lb n="10" break="no"/>bu mūnṟu vuṭṭḷu Āṟla
+               <lb n="11"/><choice><unclear>v</unclear><unclear>p</unclear></choice>aṭṭu kṣētra<supplied reason="lost">ṁ</supplied>bu pa<seg type="akṣara"><unclear>ṟ</unclear><supplied reason="lost">i</supplied></seg><lb n="12" break="no"/>si paḷḷeyāri <gap reason="lost" quantity="1" unit="character"/><!-- it has to be ascertained what character could have been written here. Master suggests [dā] which would entail a misspelling of *dānam as *dāyanam. Also to be added in the apparatus --><lb n="13" break="no"/>yana<unclear>ṁ</unclear>bunāku Icce
             </p>
             <p>
                <lb n="14"/>dīni rakṣiñcinavāni<unclear>ki</unclear> 
              <milestone type="pagelike" n="B" unit="face"/>
-               <lb n="15"/>Aḍugaḍug a<lb 
-               n="16" break="no"/>śvam<choice><unclear>ē</unclear><unclear>e</unclear></choice>dha<supplied reason="lost">ṁ</supplied>buna 
+               <lb n="15"/>Aḍugaḍug a<lb n="16" break="no"/>śvam<choice><unclear>ē</unclear><unclear>e</unclear></choice>dha<supplied reason="lost">ṁ</supplied>buna 
                <lb n="17"/>pala<supplied reason="lost">ṁ</supplied>b agu
-               <lb n="18"/>dī<unclear>n</unclear>i ḻacchina<lb 
-               n="19" break="no"/>vāniki Ek<choice><unclear>e</unclear><unclear>a</unclear></choice>ḻu 
+               <lb n="18"/>dī<unclear>n</unclear>i ḻacchina<lb n="19" break="no"/>vāniki Ek<choice><unclear>e</unclear><unclear>a</unclear></choice>ḻu 
                <lb n="20"/><supplied reason="lost">ś</supplied>r<unclear>ī</unclear> parvvata<supplied reason="lost">ṁ</supplied>bu
-               <lb n="21"/>ḻaccinapāpa<supplied reason="lost">ṁ</supplied><lb 
-               n="22" break="no"/>b agu
+               <lb n="21"/>ḻaccinapāpa<supplied reason="lost">ṁ</supplied><lb n="22" break="no"/>b agu
             </p>
             <p>
-                                         vāvṟo<lb 
-               n="23" break="no"/>ḻaḷa koḍuk<unclear>u</unclear> <!-- in line 22 there might have been another akṣara! -->
-               <lb n="24"/><orig>pallavācā<lb 
-               n="25" break="no"/><unclear>r</unclear>jyasya</orig> <orig>liki<lb 
-               n="26" break="no"/><unclear>taM</unclear></orig>
+                                         vāvṟo<lb n="23" break="no"/>ḻaḷa koḍuk<unclear>u</unclear> <!-- in line 22 there might have been another akṣara! -->
+               <lb n="24"/><orig>pallavācā<lb n="25" break="no"/><unclear>r</unclear>jyasya</orig> <orig>liki<lb n="26" break="no"/><unclear>taM</unclear></orig>
             </p>
          </div>
          <div type="apparatus">
                <listApp>
                   <app loc="1">
-                     <lem>bha<lb n="2" break="no"/>gavad-arhatām pa<lb 
-                        n="3" break="no"/>rama</lem>
+                     <lem>bha<lb n="2" break="no"/>gavad-arhatām pa<lb n="3" break="no"/>rama</lem>
                      <rdg source="bib:Butterworth+VenugopaulChetty1990_02">
-                        bha<lb n="2" break="no"/>gaṣvad-arhatā<unclear>mpa</unclear><lb 
-                        n="3" break="no"/>rama
+                        bha<lb n="2" break="no"/>gaṣvad-arhatā<unclear>mpa</unclear><lb n="3" break="no"/>rama
                      </rdg>
                      <rdg source="bib:Master1956_01">
-                        bha<lb n="2" break="no"/>gavad-arhata-<unclear>pa</unclear><lb 
-                        n="3" break="no"/>rama
+                        bha<lb n="2" break="no"/>gavad-arhata-<unclear>pa</unclear><lb n="3" break="no"/>rama
                      </rdg>
                   </app>
                   <app loc="3">
-                     <lem>bhaṭṭ<choice><sic>a</sic><corr>ā</corr></choice>rakasya <unclear>p</unclear><choice><orig>a</orig><reg>ā</reg></choice><lb 
-                        n="4" break="no"/>d<choice><sic>a</sic><corr>ā</corr></choice>nudhy<choice><sic>a</sic><corr>ā</corr></choice>ta</lem>
+                     <lem>bhaṭṭ<choice><sic>a</sic><corr>ā</corr></choice>rakasya <unclear>p</unclear><choice><orig>a</orig><reg>ā</reg></choice><lb n="4" break="no"/>d<choice><sic>a</sic><corr>ā</corr></choice>nudhy<choice><sic>a</sic><corr>ā</corr></choice>ta</lem>
                      <rdg source="bib:Butterworth+VenugopaulChetty1990_02">
                         bhaṭṭārakastamā<lb n="4" break="no"/>dānudhyāta
                      </rdg>
@@ -116,8 +95,7 @@
                      </rdg>
                   </app>
                   <app loc="6">
-                     <lem><orig>śṛ<unclear>ī</unclear></orig> b<choice><unclear>ā</unclear><unclear>o</unclear></choice>di<lb 
-                          n="7" break="no"/>rājula</lem>
+                     <lem><orig>śṛ<unclear>ī</unclear></orig> b<choice><unclear>ā</unclear><unclear>o</unclear></choice>di<lb n="7" break="no"/>rājula</lem>
                      <rdg source="bib:Butterworth+VenugopaulChetty1990_02">
                         śrī bōḍi<lb n="7" break="no"/>rājula
                      </rdg>
@@ -147,23 +125,20 @@
                      </rdg>
                   </app>
                   <app loc="11">
-                     <lem><choice><unclear>v</unclear><unclear>p</unclear></choice>aṭṭu kṣētra<supplied reason="lost">ṁ</supplied>bu pa<seg type="akṣara"><unclear>ṟ</unclear><supplied reason="lost">i</supplied></seg><lb 
-                            n="12" break="no"/>si</lem>
+                     <lem><choice><unclear>v</unclear><unclear>p</unclear></choice>aṭṭu kṣētra<supplied reason="lost">ṁ</supplied>bu pa<seg type="akṣara"><unclear>ṟ</unclear><supplied reason="lost">i</supplied></seg><lb n="12" break="no"/>si</lem>
                      <rdg source="bib:Butterworth+VenugopaulChetty1990_02">
                         paṭṭu kṣētraṁbunu pa<gap reason="undefined" unit="character" quantity="1" precision="low"/><lb n="12" break="no"/>si
                      </rdg>
                      <rdg source="bib:Sastri1969_01"><!--- reading after Lakshminarayana Rao! -->
-                        pa<unclear>ḻa</unclear><lb  n="12" break="no"/>si</rdg>
+                        pa<unclear>ḻa</unclear><lb n="12" break="no"/>si</rdg>
                   </app>
                   <app loc="12">
-                     <lem>paḷḷeyāri <gap reason="lost" quantity="1" unit="character"/><lb
-                        n="13" break="no"/>yana<unclear>ṁ</unclear>bunāku Icce</lem>
+                     <lem>paḷḷeyāri <gap reason="lost" quantity="1" unit="character"/><lb n="13" break="no"/>yana<unclear>ṁ</unclear>bunāku Icce</lem>
                      <rdg source="bib:Butterworth+VenugopaulChetty1990_02">
                         paḷayāri <lb n="13" break="no"/> yanabunāku icci<supplied reason="undefined">ri</supplied>
                      </rdg>
                      <rdg source="bib:Master1956_01">
-                        paḷḷeyāri <supplied reason="undefined">dā</supplied><lb
-                        n="13" break="no"/>yana<unclear>ṁ</unclear>bunāku Icce
+                        paḷḷeyāri <supplied reason="undefined">dā</supplied><lb n="13" break="no"/>yana<unclear>ṁ</unclear>bunāku Icce
                      </rdg>
                   </app>
                   <app loc="14">
@@ -203,37 +178,35 @@
                      </rdg>
                   </app>
                   <app loc="24">
-                     <lem><orig>pallavācā<lb 
-                            n="25" break="no"/><unclear>r</unclear>jyasya</orig> <orig>liki<lb 
-                            n="26" break="no"/><unclear>taM</unclear></orig></lem>
+                     <lem><orig>pallavācā<lb n="25" break="no"/><unclear>r</unclear>jyasya</orig> <orig>liki<lb n="26" break="no"/><unclear>taM</unclear></orig></lem>
                      <rdg source="bib:Butterworth+VenugopaulChetty1990_02">
                         pallavācā<lb n="25" break="no"/><unclear>jya</unclear>sya liki<lb n="26" break="no"/><unclear>taṁ</unclear>
                      </rdg>
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng"  source="Butterworth+VenugopaulChetty1990_02">
+         <div type="translation" source="Butterworth+VenugopaulChetty1990_02">
             <p>
                Hail! Ṣrí Bodirájulu who meditated at the feet of the blessed Arhata the great Bhattáraka, who (Bodirája) was a great devotee of Ṣiva, and who was supreme lord. 
                Among them Bá(Bo?)diráju, son of Paḷeyaru, gave land sowable with 3 puṭṭis of seed . . . . to me named Paḷayári. 
                Whoever maintains this will obtain the merit of performing several Aṣvamédhas. Whoever obstructs it will incur the sin of killing at Ṣrí Parvata. (This is) written by Pallaváchá(rya), son of Vá . . . dáḷu.
             </p>
          </div>
-         <div type="translation" xml:lang="eng" source="Master1956_01">
+         <div type="translation" source="Master1956_01">
             <p>
                Hail! Paraméśvara-Pallavāditya, a devoted worshipper of Mahēśvara, meditating on the feet of the Supreme Master, the Lord Arhat. 
                He who is named Bādirāju, son of the village chief in the family of the Bādirājulu, divided off a field of three puṭṭis of millet by the royal measure and gave it as the village-chief’s hereditary land. 
                He who preserves this (assignment) will have the reward of performing the horse sacrifice often. He who destroys it will ever have the sin of destroying the Śrīparvvata. Written by Pallavāchārya, son of Vāccho..ḻāḷa.
             </p>
          </div>
-         <div type="translation" xml:lang="eng" source="Sastri1969_01">
+         <div type="translation" source="Sastri1969_01">
  	<p>
  	   Hail! Paramēśvara Pallavāditya, a devoted worshipper of Mahēśvara, meditating on the feet of the Supreme Master, the Lord Arhat, (in his time), 
  	   he who was called Bādiraju, the son of Paḷḷeyaru, having obtained from Śrī Bādirājulu, land sowable with three puṭṭis of paddy, by the royal measure gave (it) as the gift of (his father) Paḷḷeyaru. 
  	   He who preserves this (gift) will have the reward of performing the horse-sacrifice often. He who destroys it will ever have the sin of destroying the Śrīparvvata. (This is) written by Pallavācārya, son of Vacco . . ḻāḷu.
  	</p>
  	</div>
-            <div type="translation" xml:lang="eng" resp="part:jeth">
+            <div type="translation" resp="part:jeth">
                <!-- Own translation has yet to be provided -->
             
          </div>

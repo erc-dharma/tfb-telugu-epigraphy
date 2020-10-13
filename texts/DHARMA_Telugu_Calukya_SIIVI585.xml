@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Tank construction at Gommalōviḍi</title>
@@ -13,14 +13,15 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         		<persName>
-         			<forename>K. V. </forename>
-         		   <surname>Subrahmanya Ayer</surname><!-- up to now this is only the copy of what has been published so far without own assessment -->
-         		</persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName>
+                  <forename>K. V. </forename>
+                  <surname>Subrahmanya Ayer</surname>
+                  <!-- up to now this is only the copy of what has been published so far without own assessment -->
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -30,7 +31,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -39,11 +40,11 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-10-09" status="draft">Creation of the file</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-10-09" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
@@ -53,8 +54,7 @@
                <lb n="4"/><gap reason="undefined" unit="character" quantity="2" precision="low"/>na prasādaṁbuḷ anniyu mi<gap reason="undefined" unit="character" quantity="4" precision="low"/>hatakaputrakamuniyō
                <lb n="5"/><unclear>śrī śi</unclear>lāviśālavipula<gap reason="undefined" unit="character" quantity="4" precision="low"/>saṁpūrṇṇagāṁ<unclear>bhī</unclear><gap reason="undefined" unit="character" quantity="2" precision="low"/>
                <lb n="6"/><unclear>śu</unclear>bhradabhra<unclear>śu</unclear>śaucyassa<gap reason="undefined" unit="character" quantity="1" precision="low"/>jananuta<gap reason="undefined" unit="character" quantity="2" precision="low"/>vartti<gap reason="undefined" unit="character" quantity="2" precision="low"/>
-               <lb n="7"/>ptānasapra<gap reason="undefined" unit="character" quantity="1" precision="low"/>svasu<gap reason="undefined" unit="character" quantity="3" precision="low"/><gap reason="undefined" unit="character" quantity="3" precision="low"/>lasadbhitticitra<unclear>vi</unclear>rā<unclear>ja</unclear><lb 
-                   n="8" break="no"/><gap reason="undefined" unit="character" quantity="1" precision="low"/>dhi<unclear>ṣṭhā</unclear>vā<unclear>sa</unclear>bhadrasakalavā<gap reason="undefined" unit="character" quantity="1" precision="low"/><unclear>yu</unclear>ta<unclear>n ni</unclear>rmmitan ni<unclear>rvvartta</unclear>na
+               <lb n="7"/>ptānasapra<gap reason="undefined" unit="character" quantity="1" precision="low"/>svasu<gap reason="undefined" unit="character" quantity="3" precision="low"/><gap reason="undefined" unit="character" quantity="3" precision="low"/>lasadbhitticitra<unclear>vi</unclear>rā<unclear>ja</unclear><lb n="8" break="no"/><gap reason="undefined" unit="character" quantity="1" precision="low"/>dhi<unclear>ṣṭhā</unclear>vā<unclear>sa</unclear>bhadrasakalavā<gap reason="undefined" unit="character" quantity="1" precision="low"/><unclear>yu</unclear>ta<unclear>n ni</unclear>rmmitan ni<unclear>rvvartta</unclear>na
                <lb n="9"/>śrīsalaku Iru vuṭṭi Āḍḷapaṭṭu kuṟiti yī <unclear>Ū</unclear>ḍlaṁdu
                <lb n="10"/>Ēnu vuṭlu Āḍḷa paṭṭu<gap reason="undefined" unit="character" quantity="1" precision="low"/>bu cēnu śrī vitpaṟti<gap reason="undefined" unit="character" quantity="2" precision="low"/>
                <lb n="11"/>ndrātityala kalayanta <unclear>gāla</unclear>ṁbuga naḍiya vālu<gap reason="undefined" unit="character" quantity="2" precision="low"/>
@@ -72,10 +72,10 @@
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
  	<!--Yet to be provided -->
          </div>
-         <div type="translation" xml:lang="eng" source="bib:Sastri1969_01">
+         <div type="translation" source="bib:Sastri1969_01">
             <p>
                ll. 1-4.<note>K. M. Sastri edits this inscription together with another one (see commentary) and counts the lines continuously. I have adjusted the lines in order to avoid confusion. Lines 1-4 correspond to his lines 21-24.</note> Seem to refer to the construction of a tank (called or at ?) Gommalōviḍi, big temples for Gods, and flower-garden, and food-offerings (as) <hi rend="italic">pogara</hi> (<hi rend="italic">pongara</hi> ?) and <hi rend="italic">kuḍumu</hi> for (the God) Śrī viḷēvani.
                ll. 9-10. To (the temple of) Śrīśa (i.e. Viṣṇu, Lord of Lakṣmi), land sowable with two <hi rend="italic">puṭṭis</hi> of paddy in these villages; land sowable with five <hi rend="italic">puṭṭis</hi> of paddy in the village of Vitpaṟṟu.

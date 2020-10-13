@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title><!-- ADD TITEL HERE --></title>
@@ -13,14 +13,14 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         		<persName ref="part:jeth">
-         		   <forename>Jens Christian</forename>
-         		           <surname>Thomas</surname>
-         		</persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -30,7 +30,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -39,39 +39,19 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-09-02" status="draft">Creation of the file</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-09-02" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-               <milestone unit="face" 
-                n="a"/><lb 
-                   n="1"/><g type="spiralR"/> svasti śrīmaT <g type="dandaHooked"/> satyāśraya<milestone unit="face" 
-                n="b" break="no"/>-śrī-<sic>pṛi</sic>thivī<milestone unit="face" 
-                n="a" break="no"/><lb 
-                   n="2" break="no"/>-vallabha-mahārājādhirāja-vi<milestone unit="face" 
-                n="b" break="no"/>kramāditya-paramē<milestone unit="face" 
-                n="a" break="no"/><lb 
-                   n="3" break="no"/>śvara-bhaṭaruḷāku<unclear>N</unclear> śrīmad-unnata-prava<milestone unit="face" 
-                n="b" break="no"/>rddhamāna-vijaya<milestone unit="face" 
-                n="a" break="no"/><lb 
-                   n="4" break="no"/>rājya-saṁvatsaraṁbuḶ Ācandratāra<milestone unit="face" 
-                n="b" break="no"/>purassaraM<milestone unit="face" 
-                n="a" break="no"/><lb 
-                   n="5"/>dvitīya-varṣam-prava<add place="below">rta</add>mānaṁ kānu goggi<milestone unit="face" 
-                n="b" break="no"/>-bhaṭaraḷa dakṣiṇa<milestone unit="face" 
-                n="a" break="no"/><lb 
-                   n="6" break="no"/>bhujāyamānuṁṟ<!-- it seems to be a denominal derivation from bhuja- 'arm'; quasi "holding the south in his arm/grip" --> ayina ālakuma<unclear>ra</unclear><!-- I cannot see any ⟨ra⟩ --><milestone unit="face" 
-                n="b" break="no"/>priya-tana<choice><orig>yi</orig><reg>yu</reg></choice>ṁṟ ayina
-               <lb n="7"/>Ujēnīpiśāca-nāmadhē<choice><orig>yi</orig><reg>yu</reg></choice>ṁṟu <unclear>tuṟu</unclear>-taṭāka-nāmābhi<lb 
-                   n="8" break="no"/>dhāna-naga<choice><orig>radhī</orig><reg>rādhi</reg></choice>ṣṭhāṇuṁṟ ayi Ēṟuva-<unclear>viṣa</unclear>yaṁb ēḷan<!-- halanta? --> tasya
+               <milestone unit="face" n="a"/><lb n="1"/><g type="spiralR"/> svasti śrīmaT <g type="dandaHooked"/> satyāśraya<milestone unit="face" n="b" break="no"/>-śrī-<sic>pṛi</sic>thivī<milestone unit="face" n="a" break="no"/><lb n="2" break="no"/>-vallabha-mahārājādhirāja-vi<milestone unit="face" n="b" break="no"/>kramāditya-paramē<milestone unit="face" n="a" break="no"/><lb n="3" break="no"/>śvara-bhaṭaruḷāku<unclear>N</unclear> śrīmad-unnata-prava<milestone unit="face" n="b" break="no"/>rddhamāna-vijaya<milestone unit="face" n="a" break="no"/><lb n="4" break="no"/>rājya-saṁvatsaraṁbuḶ Ācandratāra<milestone unit="face" n="b" break="no"/>purassaraM<milestone unit="face" n="a" break="no"/><lb n="5"/>dvitīya-varṣam-prava<add place="below">rta</add>mānaṁ kānu goggi<milestone unit="face" n="b" break="no"/>-bhaṭaraḷa dakṣiṇa<milestone unit="face" n="a" break="no"/><lb n="6" break="no"/>bhujāyamānuṁṟ<!-- it seems to be a denominal derivation from bhuja- 'arm'; quasi "holding the south in his arm/grip" --> ayina ālakuma<unclear>ra</unclear><!-- I cannot see any ⟨ra⟩ --><milestone unit="face" n="b" break="no"/>priya-tana<choice><orig>yi</orig><reg>yu</reg></choice>ṁṟ ayina
+               <lb n="7"/>Ujēnīpiśāca-nāmadhē<choice><orig>yi</orig><reg>yu</reg></choice>ṁṟu <unclear>tuṟu</unclear>-taṭāka-nāmābhi<lb n="8" break="no"/>dhāna-naga<choice><orig>radhī</orig><reg>rādhi</reg></choice>ṣṭhāṇuṁṟ ayi Ēṟuva-<unclear>viṣa</unclear>yaṁb ēḷan<!-- halanta? --> tasya
                <lb n="9"/>mā<choice><sic>tā</sic><corr>trā</corr></choice> dattaṁ gōvṛṣāṇa-bhaṭṭārahō śata-paṁcāśat kṣētram<!-- halanta? -->
                <lb n="10"/>svadattāṁ paradattāṁ vā yō harē<choice><sic>ti</sic><corr>ta</corr></choice> vasuṁdharā<unclear>M</unclear>
-               <lb n="11"/>ṣa<choice><sic>ṣṭhiṁ</sic><corr>ṣṭiṁ</corr></choice>varṣa-sahasrāṇi viṣṭhāyāṁ jā<lb 
-                   n="12" break="no"/>yatē krimiḥ
+               <lb n="11"/>ṣa<choice><sic>ṣṭhiṁ</sic><corr>ṣṭiṁ</corr></choice>varṣa-sahasrāṇi viṣṭhāyāṁ jā<lb n="12" break="no"/>yatē krimiḥ
             </p>
          </div>
          <div type="apparatus">
@@ -87,7 +67,7 @@
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
  	<!--Yet to be provided -->
          </div>
          <div type="commentary">
@@ -102,8 +82,8 @@
            	   
           </p>
            <listBibl type="secondary">
-              <bibl></bibl>
-              <bibl></bibl>
+              <bibl/>
+              <bibl/>
            </listBibl>
         </div>
       </body>

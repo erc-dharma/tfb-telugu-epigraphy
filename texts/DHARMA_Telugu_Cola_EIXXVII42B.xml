@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Eṟṟaguḍipāḍu grant of Kuṇḍikāḷḷu under Erikalmutturājullu</title>
@@ -13,14 +13,14 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         		<persName ref="part:jeth">
-         			<forename>Jens Christian</forename>
-         		   <surname>Thomas</surname>
-         		</persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -30,7 +30,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -39,63 +39,48 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-06-04" status="draft">Creation of the file</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-06-04" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
               <milestone type="pagelike" unit="faces" n="A"/>
-              <lb n="1"/>svasti śrī Erika<lb 
-                  n="2" break="no"/>lmutturājulla
-              <lb n="3"/>kuṇḍikāḷḷu <unclear>n</unclear>ivabuka<lb 
-                  n="4" break="no"/>nu Iccina pannasa
+              <lb n="1"/>svasti śrī Erika<lb n="2" break="no"/>lmutturājulla
+              <lb n="3"/>kuṇḍikāḷḷu <unclear>n</unclear>ivabuka<lb n="4" break="no"/>nu Iccina pannasa
               <lb n="5"/>dujayarājula
-              <lb n="6"/>muturājulu nava<lb 
-                  n="7" break="no"/>priyamutturājulu
-              <lb n="8"/>vallavadukarajulu śākṣi<lb 
-                  n="9" break="no"/>kanu Icci<supplied reason="omitted">na</supplied> pannassa
+              <lb n="6"/>muturājulu nava<lb n="7" break="no"/>priyamutturājulu
+              <lb n="8"/>vallavadukarajulu śākṣi<lb n="9" break="no"/>kanu Icci<supplied reason="omitted">na</supplied> pannassa
             </p>
             <p>
               <milestone type="pagelike" unit="faces" n="B"/>
-              <lb n="10"/>koṭṭa<unclear>ṁ</unclear>buna pā<lb 
-                  n="11" break="no"/>ṟaku kuṇḍikāḷḷu<lb 
-                  n="12" break="no"/>ḷā Iccina pannasa
-              <lb n="13"/>Iravadiyādina<lb 
-                  n="14" break="no"/>lku maṟu<unclear>nt</unclear>uṟlu nēla
+              <lb n="10"/>koṭṭa<unclear>ṁ</unclear>buna pā<lb n="11" break="no"/>ṟaku kuṇḍikāḷḷu<lb n="12" break="no"/>ḷā Iccina pannasa
+              <lb n="13"/>Iravadiyādina<lb n="14" break="no"/>lku maṟu<unclear>nt</unclear>uṟlu nēla
             </p>
          </div>
          <div type="apparatus">
                <listApp>
                   <app loc="3">
-                     <lem><unclear>n</unclear>ivabuka<lb 
-                  n="4" break="no"/>nu</lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01"><unclear>n</unclear>ivabukā<lb 
-                  n="4" break="no"/>nu</rdg>
+                     <lem><unclear>n</unclear>ivabuka<lb n="4" break="no"/>nu</lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01"><unclear>n</unclear>ivabukā<lb n="4" break="no"/>nu</rdg>
                   </app>
                   <app loc="6">
                      <lem>muturājulu</lem>
                      <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">mutturājulu</rdg>
                   </app>
                   <app loc="8">
-                     <lem>śākṣi<lb 
-                  n="9" break="no"/>kanu</lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">śakṣi<lb 
-                  n="9" break="no"/>kānu</rdg>
+                     <lem>śākṣi<lb n="9" break="no"/>kanu</lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">śakṣi<lb n="9" break="no"/>kānu</rdg>
                   </app>
                   <app loc="11">
-                     <lem>kuṇḍikāḷḷu<lb 
-                  n="12" break="no"/>ḷā</lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">kuṇḍikāḷḷu<lb 
-                  n="12" break="no"/>ḷa</rdg>
+                     <lem>kuṇḍikāḷḷu<lb n="12" break="no"/>ḷā</lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">kuṇḍikāḷḷu<lb n="12" break="no"/>ḷa</rdg>
                   </app>
                   <app loc="13">
-                     <lem>Iravadiyādina<lb 
-                  n="14" break="no"/>lku</lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">Iravadiyādinā<lb 
-                  n="14" break="no"/>lku</rdg>
+                     <lem>Iravadiyādina<lb n="14" break="no"/>lku</lem>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">Iravadiyādinā<lb n="14" break="no"/>lku</rdg>
                   </app>
                   <app loc="14">
                      <lem>maṟu<unclear>nt</unclear>uṟlu</lem>
@@ -103,13 +88,13 @@
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" source="bib:Sastri1969_01">
+         <div type="translation" source="bib:Sastri1969_01">
             <p>
                ll. 1-9 Hail! Prosperity! At the instance of Kuṇḍikāḷḷu (an officer ?) of Erikal-Mutturājulu, a <hi rend="italic">pannasa</hi> was granted, the witnesses to the deed being 
                Dujayarājula Mutturājulu, Navapriya Mutturājulu and Pallava Dukarajulu. ll. 10-14 Kuṇḍikāḷḷu granted <hi rend="italic">pannasa</hi> of twenty-four <hi rend="italic">maṟuntuṟs</hi> of land to a brahmin of <sic>of</sic> the territorial division (<hi rend="italic">koṭṭaṁbu</hi>).
             </p>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
  	 <p>
  	   Svasti! At the instigation of (the) Kuṇḍikāḷḷu of Śrī Erikalmutturājullu a pannasa was given. (With) Dujayarājula Muturājulu, Navapriyamutturājulu, and Vallavadukarajulu being the witnesses the pannasa was given to the brahmin at the residence. 
  	   The pannasa given by (the) Kuṇḍikāḷḷu (is) twenty four <foreign>maṟuntuṟlu</foreign> land.

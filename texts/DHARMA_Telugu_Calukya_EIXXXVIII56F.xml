@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title><!-- ADD TITEL HERE --></title>
@@ -13,14 +13,14 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         		<persName ref="part:jeth">
-         		   <forename>Jens Christian</forename>
-         		   <surname>Thomas</surname>
-         		</persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -30,7 +30,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -39,38 +39,30 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-08-19" status="draft">Creation of the file</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-08-19" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p><!-- IMPORTANT: the actual physical situation of the inscribed area is not entirely clear; the mark-up regarding that must be added later --><!-- milestone -->
                <lb n="1"/>svasti śrīmaT
                <lb n="2" break="no"/>kīttivamma Asi
                <lb n="3" break="no"/>vārivrull<!-- OR: Anicāritull- whereby the ⟨tu⟩ would be rather strange --> ēḷaN
-               <lb n="4"/>prithivi-vāṇarā<lb 
-                     n="5" break="no"/>julum paramēśvaṟluM
+               <lb n="4"/>prithivi-vāṇarā<lb n="5" break="no"/>julum paramēśvaṟluM
                <lb n="6"/>Okkaṟa Unṟi parai
-               <lb n="7"/>va<unclear>ṁ</unclear><!-- or absent -->gānu-raṇa-vija<lb 
-                     n="8" break="no"/>yunṟu kudalūra Iru<!-- the editors read vadi which is not displayed on the estampage; however, they do not state that they saw the original -->
+               <lb n="7"/>va<unclear>ṁ</unclear><!-- or absent -->gānu-raṇa-vija<lb n="8" break="no"/>yunṟu kudalūra Iru<!-- the editors read vadi which is not displayed on the estampage; however, they do not state that they saw the original -->
                <lb n="9"/>Ēnu maṟuntuṟlu pa<!-- again the editors read nnasā which is not displayed and also state that nna is written below the line --><!-- milestone -->
-               <lb n="10"/>vē<unclear>ṁ</unclear>gi-pāṟa dugi<unclear>ya</unclear><lb 
-                     n="11" break="no"/>k iccinayadi<!-- -di refers to maṟ° with Vaṁgā° as an oblique (the maṟ° are V°'s given thing)? --> nāyagu<lb 
-                     n="12" break="no"/>ḷ<!-- nāyakulu 'leaders' -->karaṇa<unclear>ṁ</unclear>bu gānu guṇḍiya <lb 
-                     n="13" break="no"/>pāṟu dolga<!-- confer SIIVI584 dholgoṭṭu -->pāṟu nigama
+               <lb n="10"/>vē<unclear>ṁ</unclear>gi-pāṟa dugi<unclear>ya</unclear><lb n="11" break="no"/>k iccinayadi<!-- -di refers to maṟ° with Vaṁgā° as an oblique (the maṟ° are V°'s given thing)? --> nāyagu<lb n="12" break="no"/>ḷ<!-- nāyakulu 'leaders' -->karaṇa<unclear>ṁ</unclear>bu gānu guṇḍiya <lb n="13" break="no"/>pāṟu dolga<!-- confer SIIVI584 dholgoṭṭu -->pāṟu nigama
                <lb n="14"/>girovurukoḍigi ḻe
                <lb n="15"/>    konṟa<unclear>ṁ</unclear>bu 
                <lb n="16"/>   indoṟu
                <lb n="17"/>garaṇa<unclear>ṁ</unclear>bu gānu     dini
-               <lb n="18"/>ḻaccinavāru vāraṇasi vēvuru pā<lb 
-                     n="19" break="no"/>ṟu vē-kavilaḷu vē-guḷḷu vē-seṟu<lb 
-                     n="20" break="no"/>vuḷu ḻaccinavanṟu rāju..
+               <lb n="18"/>ḻaccinavāru vāraṇasi vēvuru pā<lb n="19" break="no"/>ṟu vē-kavilaḷu vē-guḷḷu vē-seṟu<lb n="20" break="no"/>vuḷu ḻaccinavanṟu rāju..
                <lb n="21"/>rā-raṇa<unclear>ṁ</unclear>bu
                <lb n="22"/>paṟinana
-               <lb n="23"/>ḷu perisa<lb 
-                     n="24" break="no"/>miyariki
+               <lb n="23"/>ḷu perisa<lb n="24" break="no"/>miyariki
                <lb n="25"/>Icina pā
                <lb n="26"/>  <!-- matta/nna -->
             </p>
@@ -84,7 +76,7 @@
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
  	<!--Yet to be provided -->
          </div>
          <div type="commentary">
@@ -97,8 +89,8 @@
            	   
           </p>
            <listBibl type="secondary">
-              <bibl></bibl>
-              <bibl></bibl>
+              <bibl/>
+              <bibl/>
            </listBibl>
         </div>
       </body>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Kalamalla grant of Erikalmudurāju Dhanañjayunṟu</title>
@@ -13,14 +13,14 @@
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
-         	<respStmt>
-         		<resp>intellectual authorship of edition</resp>
-         	   <persName ref="part:jeth">
-         	      <forename>Jens Christian</forename>
-         	      <surname>Thomas</surname>
-         	   </persName>
-         	</respStmt>
-         </titleStmt>         
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
          <publicationStmt>
             <authority>DHARMA
                <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
@@ -30,7 +30,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
+                  <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -39,33 +39,24 @@
             <p><!-- not to be filled in at this stage --></p>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc>
-        <change who="part:jeth" when="2020-05-18" status="draft">Creation of the file</change>
-        <change who="part:jeth" when="2020-05-26" status="draft">text and apparatus</change>
-     </revisionDesc>
-  </teiHeader>
-  <text xml:space="preserve">
+      <revisionDesc>
+         <change who="part:jeth" when="2020-05-18" status="draft">Creation of the file</change>
+         <change who="part:jeth" when="2020-05-26" status="draft">text and apparatus</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
              <milestone type="pagelike" unit="faces" n="A"/>
-              <lb n="1"/>s<unclear>va</unclear><supplied reason="lost">st</supplied><unclear>i</unclear> <supplied reason="lost" cert="low">śrī</supplied> <supplied reason="lost">Eri</supplied><lb 
-                  n="2" break="no"/>ka<unclear>l</unclear>mudurā<lb 
-                  n="3" break="no"/>ju dhana<unclear>ñ</unclear>ja<lb 
-                  n="4" break="no"/>yu<supplied reason="lost">n</supplied>ṟu rēn<supplied reason="lost">ā</supplied><lb 
-                  n="5" break="no"/><unclear>ṇ</unclear>ḍu Ēḷa<unclear>N</unclear>
+              <lb n="1"/>s<unclear>va</unclear><supplied reason="lost">st</supplied><unclear>i</unclear> <supplied reason="lost" cert="low">śrī</supplied> <supplied reason="lost">Eri</supplied><lb n="2" break="no"/>ka<unclear>l</unclear>mudurā<lb n="3" break="no"/>ju dhana<unclear>ñ</unclear>ja<lb n="4" break="no"/>yu<supplied reason="lost">n</supplied>ṟu rēn<supplied reason="lost">ā</supplied><lb n="5" break="no"/><unclear>ṇ</unclear>ḍu Ēḷa<unclear>N</unclear>
               <lb n="6"/>ciṟuṃbūri
-              <lb n="7"/>rēvaṇakālu pa<unclear>ṁ</unclear><lb 
-                  n="8" break="no"/>pu cēnūru kāj<unclear>u</unclear>
-              <lb n="9"/>Aḷikaḷa Ūri<lb 
-                  n="10" break="no"/><unclear cert="low">ṇa</unclear>vāru U<unclear>ḷi</unclear><lb 
-                  n="11" break="no"/><gap reason="illegible" unit="character" quantity="2"/><unclear>ta</unclear><gap reason="illegible" unit="character" quantity="3" precision="medium"/>
+              <lb n="7"/>rēvaṇakālu pa<unclear>ṁ</unclear><lb n="8" break="no"/>pu cēnūru kāj<unclear>u</unclear>
+              <lb n="9"/>Aḷikaḷa Ūri<lb n="10" break="no"/><unclear cert="low">ṇa</unclear>vāru U<unclear>ḷi</unclear><lb n="11" break="no"/><gap reason="illegible" unit="character" quantity="2"/><unclear>ta</unclear><gap reason="illegible" unit="character" quantity="3" precision="medium"/>
               <lb n="12"/><gap reason="illegible" unit="character" quantity="5"/>
               <lb n="13"/><gap reason="illegible" unit="character" quantity="5" precision="medium"/>
               <lb n="14"/><gap reason="illegible" unit="character" quantity="4" precision="medium"/>
-              <lb n="15"/><gap reason="lost" unit="character" quantity="3" precision="medium"/>pañca<supplied reason="omitted">ma</supplied><lb 
-                  n="16" break="no"/>hāpātaka<unclear>sa</unclear><lb 
-                  n="17" break="no"/><unclear>ka</unclear><gap reason="illegible" unit="character" quantity="1"/>
+              <lb n="15"/><gap reason="lost" unit="character" quantity="3" precision="medium"/>pañca<supplied reason="omitted">ma</supplied><lb n="16" break="no"/>hāpātaka<unclear>sa</unclear><lb n="17" break="no"/><unclear>ka</unclear><gap reason="illegible" unit="character" quantity="1"/>
             </p>
             <p>
              <milestone type="pagelike" unit="faces" n="B"/>
@@ -75,51 +66,37 @@
          <div type="apparatus">
            <listApp>
             <app loc="1">
-              <lem>s<unclear>va</unclear><supplied reason="lost">st</supplied><unclear>i</unclear> <supplied reason="lost" cert="low">śrī</supplied> <supplied reason="lost">Eri</supplied><lb 
-                  n="2" break="no"/>ka<unclear>l</unclear>mudurā<lb 
-                  n="3" break="no"/>ju</lem>
-              <rdg source="bib:RamayyaPantulu1948_01"><gap reason="undefined" unit="character" quantity="4" precision="low"/><unclear>harā</unclear><lb 
-                  n="3" break="no"/>ju</rdg>
-              <rdg source="bib:NilakantaSastri+Venkataramayya1956_01"><gap reason="undefined" unit="line" quantity="1"/><lb 
-                  n="2" break="no"/>kalmu<unclear>tu</unclear>rā<lb 
-                  n="3" break="no"/>ju</rdg>
+              <lem>s<unclear>va</unclear><supplied reason="lost">st</supplied><unclear>i</unclear> <supplied reason="lost" cert="low">śrī</supplied> <supplied reason="lost">Eri</supplied><lb n="2" break="no"/>ka<unclear>l</unclear>mudurā<lb n="3" break="no"/>ju</lem>
+              <rdg source="bib:RamayyaPantulu1948_01"><gap reason="undefined" unit="character" quantity="4" precision="low"/><unclear>harā</unclear><lb n="3" break="no"/>ju</rdg>
+              <rdg source="bib:NilakantaSastri+Venkataramayya1956_01"><gap reason="undefined" unit="line" quantity="1"/><lb n="2" break="no"/>kalmu<unclear>tu</unclear>rā<lb n="3" break="no"/>ju</rdg>
             </app>
             <app loc="3">
-              <lem>dhana<unclear>ñ</unclear>ja<lb 
-                  n="4" break="no"/>yu<supplied reason="lost">n</supplied>ṟu</lem>
-              <rdg source="bib:RamayyaPantulu1948_01">dhana<unclear>ṁ</unclear>ja<lb 
-                  n="5" break="no"/>yu<unclear>nṟu</unclear></rdg>
-              <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">dhanaṁja<lb 
-                  n="4" break="no"/>yuṟu</rdg>
+              <lem>dhana<unclear>ñ</unclear>ja<lb n="4" break="no"/>yu<supplied reason="lost">n</supplied>ṟu</lem>
+              <rdg source="bib:RamayyaPantulu1948_01">dhana<unclear>ṁ</unclear>ja<lb n="5" break="no"/>yu<unclear>nṟu</unclear></rdg>
+              <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">dhanaṁja<lb n="4" break="no"/>yuṟu</rdg>
             </app>
             <app loc="5">
               <lem>Ēḷa<unclear>N</unclear></lem>
               <rdg source="bib:RamayyaPantulu1948_01">Ēḷana</rdg>
             </app>
             <app loc="7">
-              <lem>pa<unclear>ṁ</unclear><lb 
-                  n="8" break="no"/>pu cēnūru kāj<unclear>u</unclear></lem>
+              <lem>pa<unclear>ṁ</unclear><lb n="8" break="no"/>pu cēnūru kāj<unclear>u</unclear></lem>
               <rdg source="bib:RamayyaPantulu1948_01"><gap reason="undefined" unit="character" quantity="1"/>
                  <lb n="8"/>praṟṟanūrukā<gap reason="undefined" unit="character" quantity="1"/></rdg>
-              <rdg source="bib:NilakantaSastri+Venkataramayya1956_01"><unclear>paṁ</unclear><lb 
-                  n="8" break="no"/>pu cenūrukāju</rdg>
+              <rdg source="bib:NilakantaSastri+Venkataramayya1956_01"><unclear>paṁ</unclear><lb n="8" break="no"/>pu cenūrukāju</rdg>
             </app>
             <app loc="9">
-              <lem>Aḷikaḷa Ūri<lb 
-                  n="10" break="no"/><unclear cert="low">ṇa</unclear>vāru U<unclear>ḷi</unclear></lem>
-              <rdg source="bib:RamayyaPantulu1948_01">Adhikadhā<gap reason="undefined" unit="character" quantity="3" precision="low"/><lb 
-                  n="10" break="no"/><gap reason="undefined" unit="character" quantity="1"/><unclear>vā</unclear>ru<gap reason="undefined" unit="character" quantity="4" precision="low"/></rdg>
-              <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">Aḻikaḷā <unclear>Ū</unclear>ri<lb 
-                  n="10" break="no"/>ṇḍa vāru <unclear>Ūri</unclear><gap reason="undefined" unit="character" quantity="2" precision="low"/></rdg>
+              <lem>Aḷikaḷa Ūri<lb n="10" break="no"/><unclear cert="low">ṇa</unclear>vāru U<unclear>ḷi</unclear></lem>
+              <rdg source="bib:RamayyaPantulu1948_01">Adhikadhā<gap reason="undefined" unit="character" quantity="3" precision="low"/><lb n="10" break="no"/><gap reason="undefined" unit="character" quantity="1"/><unclear>vā</unclear>ru<gap reason="undefined" unit="character" quantity="4" precision="low"/></rdg>
+              <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">Aḻikaḷā <unclear>Ū</unclear>ri<lb n="10" break="no"/>ṇḍa vāru <unclear>Ūri</unclear><gap reason="undefined" unit="character" quantity="2" precision="low"/></rdg>
             </app>
             <app loc="16">
-              <lem>pātaka<unclear>sa</unclear><lb 
-                  n="17" break="no"/><unclear>ka</unclear><gap reason="illegible" unit="character" quantity="1"/></lem>
+              <lem>pātaka<unclear>sa</unclear><lb n="17" break="no"/><unclear>ka</unclear><gap reason="illegible" unit="character" quantity="1"/></lem>
               <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">pātakasa<lb n="16" break="no"/><unclear>ku</unclear></rdg>
             </app>
            </listApp>  
          </div>
-         <div type="translation" xml:lang="eng" resp="part:jeth">
+         <div type="translation" resp="part:jeth">
  	<!--Yet to be provided -->
          </div>
          <div type="commentary">
