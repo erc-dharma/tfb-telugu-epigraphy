@@ -7,7 +7,7 @@
          <titleStmt>
             <title><!-- ADD TITEL HERE --></title>
             <respStmt>
-               <resp>Creation of file</resp>
+               <resp>EpiDoc Encoding</resp>
                <persName ref="part:jeth">
                   <forename>Jens Christian</forename>
                   <surname>Thomas</surname>
@@ -33,8 +33,28 @@
             </availability>
             <date from="2019" to="2025">2019-2025</date>
          </publicationStmt>
-         <sourceDesc>
-            <p><!-- not to be filled in at this stage --></p>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                  </handDesc>
+               </physDesc>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -71,11 +91,11 @@
          <div type="edition" xml:lang="tel-Latn">
             <p>
               <milestone unit="face" type="pagelike" n="A"/>
-               <lb n="1"/><g type="spiralL"/>svasti śri cōḻa-ma<lb n="2" break="no"/>hārājādhirāja-pa<lb n="3" break="no"/>ramēśvara-vikramādi<lb n="4" break="no"/>tya-śakrikomara-vi<lb n="5" break="no"/>kramādityala koḍuk<unclear>u</unclear><lb n="6" break="no"/>X<!-- this akṣara could be ḷa --> kāśyapagō<!-- or is it gē -->tru<!-- or: tra; the ending nṟu should be there in the next line -->
+               <lb n="1"/><g type="spiralL"/>svasti śri cōḻa-ma<lb n="2" break="no"/>hārājādhirāja-pa<lb n="3" break="no"/>ramēśvara-vikramādi<lb n="4" break="no"/>tya-śakri<!-- or kti? conf. the Jain story of Meghakumāra (śakri = megha)  -->komara-vi<lb n="5" break="no"/>kramādityala koḍuk<unclear>u</unclear><lb n="6" break="no"/>X<!-- this akṣara could be ḷa --> kāśyapagō<!-- or is it gē -->tru<!-- or: tra; the ending nṟu should be there in the next line -->
                <lb n="7"/>śaty<unclear>ā</unclear>ditunṟu śiddhi<lb n="8" break="no"/><!-- something missing here -->yu rēnāṇḍu Ēḷuv<supplied reason="lost">ē</supplied><lb n="9" break="no"/><supplied reason="lost">lu</supplied> Ēḷucu<choice><sic><seg type="akṣara">nṟui</seg></sic><corr>nṟi</corr></choice> ko<unclear>ma</unclear><lb n="10" break="no"/>ṟi<!-- unclear! --> pāṟa rēvaśa<lb n="11" break="no"/>r<unclear>mma</unclear> kāśyapagō<lb n="12" break="no"/>triniki Iccina
                <lb n="13"/><supplied reason="lost">di</supplied> <unclear>c</unclear>iḻuṁbūri<!-- confer EI XXVII, 42A: ciṟuṁbūri which this mmay have been aimed at to denote --> Utta<supplied reason="lost">ra</supplied><lb n="14" break="no"/><supplied reason="lost">di</supplied>śa tū<unclear>r</unclear>punaṁ diśa
-               <lb n="15"/><gap reason="lost" unit="character" quantity="1"/>ḍujuggi<!-- strange name --> pola<unclear>ṁbu</unclear>
-               <lb n="16"/> da<unclear>k</unclear>ṣ<supplied reason="lost">i</supplied>ṇa-diśaN
+               <lb n="15"/><gap reason="lost" unit="character" quantity="1"/>ḍujuggi<!-- strange name --> pola<unclear>garu</unclear>
+               <lb n="16"/><unclear>su</unclear> da<unclear>k</unclear>ṣ<supplied reason="lost">i</supplied>ṇa-diśaN
                <lb n="17"/><!-- XX-pā?ṟa X --><milestone unit="face" type="pagelike" n="B"/>
                <lb n="18"/>Ēnu maṟutru-gā<lb n="19" break="no"/>nu tāgiri dēni
                <lb n="20"/>sakṣinavāniki
@@ -85,7 +105,8 @@
                <lb n="24"/>  diniki vakraṁbu
                <lb n="25"/>vaccuvanṟu 
                <lb n="26"/>   vadya
-               <lb n="27"/>  pañcama<unclear>hā</unclear><lb n="28" break="no"/><unclear>pā</unclear>takañ cēsi<unclear>na</unclear><lb n="29" break="no"/>vāni
+               <lb n="27"/>  pañcama<unclear>hā</unclear><lb n="28" break="no"/><unclear>pā</unclear>takañ cēsi<unclear>na</unclear><lb n="29" break="no"/>vāni lōka<supplied reason="lost">ṁ</supplied><unclear>bu</unclear>
+               <lb n="30"/><supplied reason="lost">ca</supplied>nv<supplied reason="lost">ā</supplied>nṟu <g type="spiralL"/>
             </p>
          </div>
          <div type="apparatus">
@@ -112,12 +133,14 @@
             </p>
          </div>
         <div type="bibliography">
-          <p>
-           	   
-          </p>
+	<!--bibliography encoded as per section §9.4 -->
+	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
            <listBibl type="secondary">
-              <bibl/>
-              <bibl/>
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>
