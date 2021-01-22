@@ -105,6 +105,8 @@
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="1">
+                      <lem>niravadyuṇḍu</lem>
+                      <rdg source="bib:Butterworth+VenugopaulChetty1990_02">niravadyuṇḍu<gap reason="undefined" unit="character" quantity="2"/></rdg>
                   </app>
                </listApp>
          </div>
