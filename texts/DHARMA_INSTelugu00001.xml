@@ -14,17 +14,17 @@
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp><!-- Or the editor if only minor adjustments have been made -->
-                    <persName ref="part:jeth">
-                        <forename></forename><!-- NOT YET CLEAR WHOSE EDITION WILL FORM THE BASIS -->
-                        <surname></surname>
+                    <resp>intellectual authorship of edition</resp><!-- HAS TO BE CHANGED IF ANOTHER EDITION IS TAKEN AS A BASIS -->
+                    <persName>
+                        <forename>K. V.</forename>
+                        <surname>Lakshmana Rao</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Berlin</pubPlace>
-                <idno type="filename">DHARMA_INSNI0200031</idno>
+                <idno type="filename">DHARMA_INSTelugu00001</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -74,47 +74,44 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:jeth" when="2021-01-19">Initial encoding of the file</change>
+            <change who="part:jeth" when="2021-01-27">Initial encoding of the file</change><!-- add changes here -->
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <p>
-                <milestone type="pagelike" unit="face" n="A"/>
-                <lb n="1"/>śrī niravadyuṇḍu<lb 
-                    n="2"/>sitta<unclear>jāta</unclear> samuṇḍu śiva<lb 
-                    n="3"/>padavara<unclear>bhakta</unclear> sēviUṇḍ<!-- the original edition has to be checked! The picture in NI seems to show sēvitu° so that it might simply be a printing mistake in Radhakrishna --> a<lb 
-                    n="4"/>khiluṇḍ anrata ripu ba<lb 
-                    n="5"/>luṇḍ āhavarā dharaṇḍ a<lb 
-                    n="6"/>yōgya sighasanuṇḍ a<lb 
-                    n="7"/>gaṇita <choice><orig>da</orig><reg>dā</reg></choice>nā sanaṇḍu ga<unclear>ja</unclear>
-                <milestone type="pagelike" unit="face" n="B"/>
-                <lb n="8"/><gap reason="undefined" unit="line" quantity="1"/>
-                <lb n="9"/>layuṇḍu <gap reason="undefined" quantity="1" unit="character"/><!-- this might not be correct! But the edition is followed here for now. This holds good for all the gap-instances --> hagaṇḍ<!-- this reading seems to be wrong --> a<lb 
-                    n="10"/>na paṇḍuraṁgu vvi<gap reason="undefined" quantity="1" unit="character"/>Aṇiyu<!-- on the picture there is no trace of ⟨A⟩! --> gānci<lb 
-                    n="11"/>koladi lēni koṭṭaṁbul vo<choice><orig>di</orig><reg>ḍi</reg></choice>ci
-                <lb n="12"/>goṇake nalāta pakṣapāti<lb 
-                    n="13"/>salalita<gap reason="undefined" unit="character" quantity="1"/>padarga
-                <milestone type="pagelike" unit="face" n="C"/>
-                <lb n="14"/><gap reason="undefined" unit="character" quantity="3"/>na<gap reason="undefined" unit="character" quantity="1"/>
-                <lb n="15"/>tārōṇa vi<unclear>da</unclear><!-- the editors also reckon ⟨ḍa⟩ to be an option -->na goravla vra   
+                <lb n="1"/><gap reason="undefined"/><!-- the extension according to the edition is faulty if the dots are counted as akṣaras; has to be adjusted --><unclear>pura</unclear>
+                <lb n="2"/><gap reason="undefined"/><!-- the extension according to the edition is faulty if the dots are counted as akṣaras; has to be adjusted --><unclear>pu di</unclear> bhūpālakuṇḍu
+                <lb n="3"/>paṭṭaṁbu gaṭṭina prathamaṁbun ēṇḍu bala-garvvaṁb-o<lb 
+                    n="4" break="no"/>ppaga bailēci sēna paṭṭaṁbu gaṭṭiṁci prabhuṁ
+                <lb n="5"/>baṇḍaraṁgu ba<unclear>ṇci</unclear>na samatta-paḍu va<unclear>sō</unclear>bōya<lb 
+                    n="6" break="no"/>koṭṭaṁbul vaṇḍṟeṇḍu goṇi vēṁgināṇṭi goḻelci ya
+                <lb n="7"/>tribhuvanāṁkuśa bāṇa nilpi kaṭṭepudu<unclear>r</unclear>ggaṁbu gaḍu
+                <lb n="8" break="no"/>bayal sēsi kaṇḍukur-bbejav<unclear>ā</unclear>ḍa gāviṁce mecci
+                <lb n="9"/>paṇḍaraṁgu parama-mahēśvaruṇḍu Āditya-baṭārani<lb 
+                    n="10" break="no"/>ki Iccina bh<unclear>ū</unclear>mi Enubodi vuḍlu aḍlu paṭṭu nēla da<lb 
+                    n="11" break="no"/>mmavuraṁbuna dammuvulu vīni rakṣiñcinav<unclear>ā</unclear>riki asva<lb 
+                    n="12" break="no"/>mēdaṁbuna palaṁb<unclear>u</unclear> agu
             </p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="1">
-                      <lem>niravadyuṇḍu</lem>
-                      <rdg source="bib:Butterworth+VenugopaulChetty1990_02">niravadyuṇḍu<gap reason="undefined" unit="character" quantity="2"/></rdg>
                   </app>
                </listApp>
          </div>
-         <div type="translation" xml:lang="eng">
- 	<!--translation encoded as per EGD §9.2 -->
+         <div type="translation" xml:lang="eng" source="bib:LakshmanaRao1927-1928_01">
+ 	     <p>
+ 	       (Line 1.) . . . . . . . . <hi rend="italic">pura</hi>
+ 	       (L. 2.) The king . . . . . . . . .
+ 	       (Verse 1.) In the first year after the coronation, (<hi rend="italic">the king</hi>) being proud of his army (or strength) and elated (<hi rend="italic">thereby</hi>), having anointed (<hi rend="italic">i.e.</hi> appointed) <hi rend="bold">Paṇḍaraṁga</hi>, the Sāmanta, to the command of the army and sent (<hi rend="italic">him</hi>), he (<hi rend="italic">i.e.</hi> Paṇḍaraṅga) captured twelve <hi rend="italic">koṭṭāms</hi> belonging to one <hi rend="bold">[Vasō]-Bōya</hi>. He reached (<hi rend="italic">i.e.</hi> ascended and captured) the hill-top (<hi rend="italic">i.e.</hi> forts on the top of the hill) of <hi rend="bold">Vēṁgi-nāṇḍu</hi> and planted the goad of Tribhuvanāṁkuśa (<hi rend="italic">there</hi>). He exposed fully (<hi rend="italic">i.e.</hi> made bare after conquest) the fort of <hi rend="bold">Kaṭṭe</hi>. He liked and praised <hi rend="bold">Kaṇdukur</hi> and <hi rend="bold">Bejavāḍa</hi>. 
+ 	       (Lines 9-12.) Paṇḍaraṅga who was the best of the <hi rend="italic">Māhēśvaras</hi> (<hi rend="italic">i.e.</hi> the worshippers of Mahēśvara or Śiva) gave to (<hi rend="italic">the god</hi>) Āditya-Bhaṭāra, land sowable with eighty <hi rend="italic">candies</hi> of paddy. This is a charity at Dammavuram. Those who protect these charities will acquire such merit (<hi rend="italic">as is obtained</hi>) by (<hi rend="italic">performing</hi>) the <hi rend="italic">Aśvamēdha</hi> (<hi rend="italic">sacrifice</hi>).
+ 	     </p>
          </div>
          <div type="commentary">
-            <!--The reading is that of Bh according to Radhakrishna. Has to be checked! -->
+            <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
@@ -124,8 +121,7 @@
 				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Butterworth+VenugopaulChetty1990_02"/><citedRange unit="page">544-545</citedRange><citedRange unit="item">31-32</citedRange></bibl>
-              <!-- has to be completed -->
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>
