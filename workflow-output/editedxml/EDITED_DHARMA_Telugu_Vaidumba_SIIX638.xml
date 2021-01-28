@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -87,8 +90,8 @@
 	      <lb n="12"/><l n="c">ṣaṣṭivarṣasahasrāṇi</l>
 	      <lb n="13"/><l n="d">viṣṭāyāṁ jāyatē kṛmiḥ</l></lg>
 	      <lb n="14"/><lg n="2" met="anuṣṭubh"><l n="a">bahubhir vvasudhā dattā</l>
-	      <lb n="15"/><l n="b">rājabhis sagarādibhi<unclear>ḥ</unclear></l>
-	      <lb n="16"/><l n="c">yasya yasya yadā bhūmi<lb n="17" break="no"/><supplied reason="undefined">s</supplied></l> <l n="d"><supplied reason="undefined">ta</supplied>sya tasya tadā phalaṁ</l></lg> 
+	      <l n="b"><lb n="15"/>rājabhis sagarādibhi<unclear>ḥ</unclear></l>
+	      <l n="c"><lb n="16"/>yasya yasya yadā bhūmi<lb n="17" break="no"/><supplied reason="undefined">s</supplied></l> <l n="d"><supplied reason="undefined">ta</supplied>sya tasya tadā phalaṁ</l></lg> 
             </p>
          </div>
          <div type="apparatus">   

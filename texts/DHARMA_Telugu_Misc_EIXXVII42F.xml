@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -107,7 +111,7 @@
                   </app>
                </listApp>         
          </div>
-         <div type="translation" source="NilakantaSastri+Venkataramayya1956_01">
+         <div type="translation" source="bib:">
             <p>
               Hail! prosperity! While <hi rend="bold">Puṇyakumāra</hi>, the <hi rend="bold">Erikalla-Mutturāju</hi>, who was held in high esteem, was the thunderbolt to hostile kings, was happy in his pride and the noblest of the noble, was ruling (<hi rend="italic">the</hi>) Rēnāṇḍu (<hi rend="italic">country</hi>)
               with <hi rend="bold">Chirpaliya</hi> as his capital (<hi rend="italic">paṭu</hi>), a <hi rend="italic">panāśa</hi> at Tirpalūru given to Kiḻevuru or Ḻēvuru Kattiśarmmā, the <hi rend="italic">pāradāya</hi> of Tarkkapuḻōlu, on the second day of the dark fortnight of Koṇḍa-Kārttika, Monday, Puṇaru-pushyaṁbu and (<hi rend="italic">at the time of</hi>) Bṛihaspati-hōra, (<hi rend="italic">is</hi>) fifty (<hi rend="italic">mattars</hi> ?). (<hi rend="italic">This is</hi>) the charity of Chāmaṇakāla.
