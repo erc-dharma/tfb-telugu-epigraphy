@@ -111,7 +111,7 @@
                   </app>
                </listApp>
          </div>
-         <div type="translation" xml:lang="eng">
+         <div type="translation" xml:lang="eng" source="bib:Sastri1969_01">
  	     <p>
  	         Paṇḍraṁgu, the faultless, the equal of Manmatha (in beauty), worshipper of the excellent feet of Śiva, the mighty, strong against the enemy of untruth, (powerful) in battle (as) Rāma, the occupant of the throne of Ayōdhya, respected for (his) numerous gifts.
  	         l. 10-11. the favourite of Goṇikenalla, having subdued innumerable forts...
@@ -131,8 +131,7 @@
         	    <!-- has to be completed -->
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Butterworth+VenugopaulChetty1990_02"/><citedRange unit="page">544-545</citedRange><citedRange unit="item">31-32</citedRange></bibl>
-              <!-- has to be completed -->
+              <!-- has to be completed: Sastri, Radha Krishna etc. -->
            </listBibl>
         </div>
       </body>
