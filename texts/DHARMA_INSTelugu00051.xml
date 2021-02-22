@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The name of Dāyārccitunṟu</title>
+            <title>The name Māyalūrunṟu</title>
             <respStmt>
                <resp>Creation of file</resp>
                <persName ref="part:jeth">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_Telugu_Misc_ARIE1943-1944_54</idno>
+            <idno type="filename">DHARMA_INSTelugu00051</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -66,24 +66,24 @@
       </encodingDesc>
       <revisionDesc>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change who="part:jeth" when="2020-10-12" status="draft">Creation of the file</change>
+         <change who="part:jeth" when="2020-10-13" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-              <lb n="1"/>dāyārccitunṟu
+               <lb n="1"/>māyalūrunṟu
             </p>
          </div>
-         <div type="apparatus">        
+         <div type="apparatus">     
          </div>
          <div type="translation" resp="part:jeth">
  	
          </div>
          <div type="commentary">
             <p>
-              The name seems to be uncommon. It consists of the two Sanskrit elements <foreign>dāya</foreign>- 'gift' and <foreign>arcita</foreign>- 'praised' with the Telugu suffix -nṟu, hence 'the one praised for (his) gifts', if it wasn't meant to denote <foreign>dayārcita</foreign>- 'the one praised for (his) compassion'. 
+              The name appears to consist of <foreign>māyalūru</foreign> and the suffix -nṟu. The first element probably contains <foreign>ūru</foreign> 'village' as the second member. To this day there is at least one village  with the name Māyalūru (to the west from Ahobilam). The personal name is one of the comparatively few instances in which the first element and the suffix -nṟu form a <foreign>tatpuruṣa</foreign>: 'the one of/from Māyalūru'.
             </p>
          </div>
         <div type="bibliography">
@@ -91,8 +91,8 @@
            	   
           </p>
            <listBibl type="secondary">
-              <bibl>A. R. No. 54 of 1943-1944, App. E<!-- has to be adjusted to the @target --></bibl>
-              <bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">26</citedRange><citedRange unit="item">39</citedRange></bibl>
+              <bibl>A. R. No. 62 of 1943-1944, App. E<!-- has to be adjusted to the @target --></bibl>
+              <bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">27</citedRange><citedRange unit="item">43</citedRange></bibl>
            </listBibl>
         </div>
       </body>

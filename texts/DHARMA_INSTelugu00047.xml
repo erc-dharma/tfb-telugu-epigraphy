@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The name Paradaraśukṛdan</title>
+            <title>The name of Dāyārccitunṟu</title>
             <respStmt>
                <resp>Creation of file</resp>
                <persName ref="part:jeth">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_Telugu_Misc_ARIE1943-1944_58</idno>
+            <idno type="filename">DHARMA_INSTelugu00047</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -66,23 +66,24 @@
       </encodingDesc>
       <revisionDesc>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change who="part:jeth" when="2020-10-13" status="draft">Creation of the file</change>
+         <change who="part:jeth" when="2020-10-12" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-              <lb n="1"/>paradaraśukṛdaN 
+              <lb n="1"/>dāyārccitunṟu
             </p>
          </div>
          <div type="apparatus">        
          </div>
          <div type="translation" resp="part:jeth">
+ 	
          </div>
          <div type="commentary">
             <p>
-              It is not quite clear from the edition but the last <foreign>akṣara</foreign> seems to be <foreign>halanta</foreign>. The suffix is not Telugu "proper" but appears to be a Kannaḍa or Tamiḻ (like) suffix in -n. The name consists of two Sanskrit elements which in normalized spelling probably are <foreign>paratara</foreign>-, the comparative of <foreign>para</foreign>-, and <foreign>sukṛta</foreign>- 'good deed; virtuous'. Hence, the name's meaning might have been 'the utmost virtuous one' or 'he whose good deeds are the best'.
+              The name seems to be uncommon. It consists of the two Sanskrit elements <foreign>dāya</foreign>- 'gift' and <foreign>arcita</foreign>- 'praised' with the Telugu suffix -nṟu, hence 'the one praised for (his) gifts', if it wasn't meant to denote <foreign>dayārcita</foreign>- 'the one praised for (his) compassion'. 
             </p>
          </div>
         <div type="bibliography">
@@ -90,8 +91,8 @@
            	   
           </p>
            <listBibl type="secondary">
-              <bibl>A. R. No. 58 of 1943-1944, App. E<!-- has to be adjusted to the @target --></bibl>
-              <bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">27</citedRange><citedRange unit="item">42</citedRange></bibl>
+              <bibl>A. R. No. 54 of 1943-1944, App. E<!-- has to be adjusted to the @target --></bibl>
+              <bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">26</citedRange><citedRange unit="item">39</citedRange></bibl>
            </listBibl>
         </div>
       </body>

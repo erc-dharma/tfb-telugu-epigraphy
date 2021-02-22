@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The name of Śrī Rāmunṟu</title>
+            <title><!-- ADD TITEL HERE --></title>
             <respStmt>
                <resp>Creation of file</resp>
                <persName ref="part:jeth">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_Telugu_Misc_ARIE1943-1944_53</idno>
+            <idno type="filename">DHARMA_INSTelugu00048</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -73,17 +73,17 @@
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-              <lb n="1"/>śrī rāmunṟu 
+              <lb n="1"/>kuṁdu kāmāyiguḍi 
             </p>
          </div>
-         <div type="apparatus">         
+         <div type="apparatus">       
          </div>
          <div type="translation" resp="part:jeth">
- 	
+ 	<!--Yet to be provided -->
          </div>
          <div type="commentary">
             <p>
-              The inscription was found on a pillar that also contains other personal names. Hence, a person's name (rather than that of the god) was inscribed here. 
+              <!-- has yet to be provided --> 
             </p>
          </div>
         <div type="bibliography">
@@ -91,8 +91,8 @@
            	   
           </p>
            <listBibl type="secondary">
-              <bibl>A. R. No. 53 of 1943-1944, App. E<!-- has to be adjusted to the @target --></bibl>
-              <bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">26</citedRange><citedRange unit="item">38</citedRange></bibl>
+              <bibl>A. R. No. 55 of 1943-1944, App. E<!-- has to be adjusted to the @target --></bibl>
+              <bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">26</citedRange><citedRange unit="item">40</citedRange></bibl>
            </listBibl>
         </div>
       </body>

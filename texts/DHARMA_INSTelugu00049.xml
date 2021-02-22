@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><!-- ADD TITEL HERE --></title>
+            <title>The name of Bhagapriyunṟu</title>
             <respStmt>
                <resp>Creation of file</resp>
                <persName ref="part:jeth">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_Telugu_Misc_ARIE1943-1944_55</idno>
+            <idno type="filename">DHARMA_INSTelugu00049</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -73,17 +73,17 @@
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-              <lb n="1"/>kuṁdu kāmāyiguḍi 
+              <lb n="1"/>bhagapriyunṟu
             </p>
          </div>
-         <div type="apparatus">       
+         <div type="apparatus">
          </div>
          <div type="translation" resp="part:jeth">
- 	<!--Yet to be provided -->
+ 	
          </div>
          <div type="commentary">
             <p>
-              <!-- has yet to be provided --> 
+               The personal name consists of the two Sanskrit elements <foreign>bhaga</foreign>- 'good fortune'or the god Bhaga and <foreign>priya</foreign>- 'dear'. 
             </p>
          </div>
         <div type="bibliography">
@@ -91,8 +91,8 @@
            	   
           </p>
            <listBibl type="secondary">
-              <bibl>A. R. No. 55 of 1943-1944, App. E<!-- has to be adjusted to the @target --></bibl>
-              <bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">26</citedRange><citedRange unit="item">40</citedRange></bibl>
+              <bibl>A. R. No. 56 of 1943-1944, App. E<!-- has to be adjusted to the @target --></bibl>
+              <bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">27</citedRange><citedRange unit="item">41</citedRange></bibl>
            </listBibl>
         </div>
       </body>
