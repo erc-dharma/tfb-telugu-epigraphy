@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><!-- ADD TITEL HERE --></title>
+            <title>Name of a donor?</title>
             <respStmt>
                <resp>Creation of file</resp>
                <persName ref="part:jeth">
@@ -18,16 +18,16 @@
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
-               <persName ref="part:jeth">
-                  <forename>Jens Christian</forename>
-                  <surname>Thomas</surname>
+               <persName>
+                  <forename>J.</forename>
+                  <surname>Ramayya Pantulu</surname>
                </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_Telugu_Calukya_EIXXIX21</idno>
+            <idno type="filename">DHARMA_INSTelugu00034</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -66,50 +66,34 @@
       </encodingDesc>
       <revisionDesc>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change who="part:jeth" when="2020-09-02" status="draft">Creation of the file</change>
+         <change who="part:jeth" when="2020-07-22" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-               <milestone unit="face" n="a"/><lb n="1"/><g type="spiralR"/> svasti śrīmaT <g type="dandaHooked"/> satyāśraya<milestone unit="face" n="b" break="no"/>-śrī-<sic>pṛi</sic>thivī<milestone unit="face" n="a" break="no"/><lb n="2" break="no"/>-vallabha-mahārājādhirāja-vi<milestone unit="face" n="b" break="no"/>kramāditya-paramē<milestone unit="face" n="a" break="no"/><lb n="3" break="no"/>śvara-bhaṭaruḷāku<unclear>N</unclear> śrīmad-unnata-prava<milestone unit="face" n="b" break="no"/>rddhamāna-vijaya<milestone unit="face" n="a" break="no"/><lb n="4" break="no"/>rājya-saṁvatsaraṁbuḶ Ācandratāra<milestone unit="face" n="b" break="no"/>purassaraM<milestone unit="face" n="a" break="no"/><lb n="5"/>dvitīya-varṣam-prava<add place="below">rta</add>mānaṁ kānu goggi<milestone unit="face" n="b" break="no"/>-bhaṭaraḷa dakṣiṇa<milestone unit="face" n="a" break="no"/><lb n="6" break="no"/>bhujāyamānuṁṟ<!-- it seems to be a denominal derivation from bhuja- 'arm'; quasi "holding the south in his arm/grip" --> ayina ālakuma<unclear>ra</unclear><!-- I cannot see any ⟨ra⟩ --><milestone unit="face" n="b" break="no"/>priya-tana<choice><orig>yi</orig><reg>yu</reg></choice>ṁṟ ayina
-               <lb n="7"/>Ujēnīpiśāca-nāmadhē<choice><orig>yi</orig><reg>yu</reg></choice>ṁṟu <unclear>tuṟu</unclear>-taṭāka-nāmābhi<lb n="8" break="no"/>dhāna-naga<choice><orig>radhī</orig><reg>rādhi</reg></choice>ṣṭhāṇuṁṟ ayi Ēṟuva-<unclear>viṣa</unclear>yaṁb ēḷan<!-- halanta? --> tasya
-               <lb n="9"/>mā<choice><sic>tā</sic><corr>trā</corr></choice> dattaṁ gōvṛṣāṇa-bhaṭṭārahō śata-paṁcāśat kṣētram<!-- halanta? -->
-               <lb n="10"/>svadattāṁ paradattāṁ vā yō harē<choice><sic>ti</sic><corr>ta</corr></choice> vasuṁdharā<unclear>M</unclear>
-               <lb n="11"/>ṣa<choice><sic>ṣṭhiṁ</sic><corr>ṣṭiṁ</corr></choice>varṣa-sahasrāṇi viṣṭhāyāṁ jā<lb n="12" break="no"/>yatē krimiḥ
+               <lb n="1"/>śrī nāranarēndruṇḍu
             </p>
          </div>
          <div type="apparatus">
-               <listApp>
-                  <app loc="1">
-                     <lem><g type="spiralR"/></lem>
-                     <rdg source="bib:Narasimhaswami1951-1952_01">ōṁ</rdg>
-                     <note>The reading of the editor is an interpretation of the symbol.</note>
-                  </app>
-                  <app loc="3">
-                     <lem>bhaṭaruḷāku<unclear>N</unclear></lem>
-                     <rdg source="bib:Narasimhaswami1951-1952_01">bhaṭaruḷākuN</rdg>
-                  </app>
-               </listApp>         
          </div>
          <div type="translation" resp="part:jeth">
  	<!--Yet to be provided -->
          </div>
          <div type="commentary">
             <p>
-              <!-- The author refers to A. R. 1949-1950 No. 30 but the inscription can be found under No. 257 of this issue.
-              Two pictures of the estampage are published: one in A. R. ibid. between p. 38 and 39, and the second in the edition in EI.--> 
-               The <foreign>halanta akṣaras</foreign> in this inscription are not written without the upper horizontal stroke of the standard akṣaras but with an elongated horizontal stroke that rises to the right side.
+               The width of the gaps follows the number of dots in the edition.
             </p>
          </div>
         <div type="bibliography">
           <p>
-           	   
+             The inscription was noted in A. R. No. 278 of 1922<!-- has to be adjusted to the @target --> and first published by J. Ramayya Pantulu without a picture (<bibl rend="omitname"><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">19</citedRange><citedRange unit="item">48</citedRange></bibl>). K. M. Sastri provided a summary: <cit><quote>Records the name Nāranarāndra</quote><bibl rend="omitname"><ptr target="bib:Sastri1969_01"/><citedRange unit="page">328</citedRange><citedRange unit="item">59</citedRange></bibl></cit>.	   
           </p>
            <listBibl type="secondary">
-              <bibl/>
-              <bibl/>
+              <bibl>A. R. No. 278 of 1922<!-- has to be adjusted to the @target --></bibl>
+              <bibl><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">19</citedRange><citedRange unit="item">48</citedRange></bibl>
+              <bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">328</citedRange><citedRange unit="item">59</citedRange></bibl>
            </listBibl>
         </div>
       </body>
