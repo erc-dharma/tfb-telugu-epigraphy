@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Land donation under the rule of Vijayādityasatyāśraya and Bali-Indrabāṇarāju</title>
+            <title><!-- ADD TITEL HERE --></title>
             <respStmt>
                <resp>Creation of file</resp>
                <persName ref="part:jeth">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_Telugu_Calukya_SIIX23</idno>
+            <idno type="filename">DHARMA_INSTelugu00053</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -66,35 +66,33 @@
       </encodingDesc>
       <revisionDesc>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change who="part:jeth" when="2020-06-30" status="draft">Creation of the file</change>
+         <change who="part:jeth" when="2020-06-26" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-              <milestone type="pagelike" unit="face" n="A"/>
-               <lb n="1"/><gap reason="undefined" unit="line" quantity="1"/>
-               <lb n="2"/><gap reason="undefined" unit="character" quantity="3" precision="low"/>bhadi maṟutuḍlu Icciri svadattaṁ <unclear>paradattaṁ vā</unclear>
-               <lb n="3"/>yō ha<gap reason="undefined" unit="character" quantity="9" precision="low"/>
-            </p>
-            <p>
-               <lb n="4"/>svasti śrī vijayādityasatyāśraya śrī prithuvīvallabha mahārājādhirā<lb n="5" break="no"/>ja-paramēśvara-bhaṭāra<unclear>ḷa</unclear>ku vijayarājyasa<unclear>ṁ</unclear>vatsaraṁbuḷ irubādi<unclear>mūṁ</unclear>ḍu prava<lb n="6" break="no"/><unclear>r</unclear>ttilla balikulatilaka narasiṁhabāṇādhirājapri<unclear>ya</unclear>nuta-vikramā<lb n="7" break="no"/>ditya-bali-I<unclear>ndra</unclear>bāṇarāju<unclear>la</unclear> turumaraviṣayaṁbu yēḷuvāri <unclear>māmōri</unclear>
-              <milestone type="pagelike" unit="face" n="B"/>
-               <lb n="8"/><gap reason="undefined" unit="line" quantity="1"/>
-               <lb n="9"/><gap reason="undefined" unit="line" quantity="1"/>
-               <lb n="10"/><gap reason="undefined" unit="line" quantity="1"/>
-               <lb n="11"/><gap reason="undefined" unit="line" quantity="1"/>
-               <lb n="12"/>pullagiceṟuna cika<unclear>ṭṭa</unclear> pulla<unclear>ṁ</unclear>buna rācamāna<unclear>ṁ</unclear>buna
-               <lb n="13"/>U<gap reason="undefined" unit="character" quantity="1" precision="low"/>lu kōvubōḷu Anantaśōbhuḷu <unclear>tyā</unclear>valla kāma<gap reason="undefined" unit="character" quantity="4" precision="low"/>
-               <lb n="14"/><gap reason="undefined" unit="line" quantity="1"/>
+               <milestone type="pagelike" unit="face" n="A"/>
+               <lb n="1A"/><gap reason="undefined" unit="line" quantity="1"/>
+               <lb n="2A"/><gap reason="undefined" unit="line" quantity="1"/>
+               <lb n="3A"/><gap reason="undefined" unit="line" quantity="1"/>
+               <lb n="4A"/><gap reason="undefined" unit="character" quantity="2" precision="low"/>r<unclear>ā</unclear>ju<gap reason="undefined" unit="character" quantity="2" precision="low"/><lb n="5A" break="no"/>ṇḍu Ēḷa Int<unclear>e</unclear><lb n="6A" break="no"/>ddivāḍi Eriga<lb n="7A" break="no"/>llu mutt<unclear>u</unclear>rāju
+               <lb n="8A"/>Ēḷa kaṅgaḷūnṟu Ē<lb n="9A" break="no"/>ḷa cōḻamahā<lb n="10A" break="no"/>rājula tēvuḶ ma<lb n="11A" break="no"/><choice><orig>ṁkhi</orig><reg>ñci</reg></choice><unclear>po</unclear>ṟṟi<lb n="12A" break="no"/>yāru <unclear>U</unclear>ṇḍē<lb n="13A" break="no"/>lu Ujjayi<lb n="14A" break="no"/>ni Icci<supplied reason="undefined">na</supplied> pannavī<lb n="15A" break="no"/><gap reason="undefined" unit="character" quantity="2" precision="low"/>ga<unclear>ṁ</unclear>ji<unclear>pā</unclear>ṟa mā<lb n="16A" break="no"/><gap reason="undefined" unit="character" quantity="2" precision="low"/>ḍiyāriki tēni<lb n="17A" break="no"/><supplied reason="undefined">ni</supplied>ki <gap reason="undefined" unit="character" quantity="2" precision="low"/>nṟugō
+               <lb n="18A"/><unclear>ṇḍapu</unclear><gap reason="undefined" unit="character" quantity="2" precision="low"/><unclear>lva</unclear>
+               <milestone type="pagelike" unit="face" n="B"/>
+               <lb n="1B"/><gap reason="undefined" unit="line" quantity="1"/>
+               <lb n="2B"/>kaḷuñje
+               <lb n="3B"/><unclear>t</unclear>tēni ḻaccuvā<lb n="4B" break="no"/><unclear>ḍi</unclear>valvar-āca<unclear>ndrā</unclear><lb n="5B" break="no"/>diṟṟu bāraṇā<lb n="6B" break="no"/>si vēvura vadhi<lb n="7B" break="no"/>sina vānṟu <choice><orig>Āḷu</orig><reg>bā</reg></choice><lb n="8B" break="no"/>pasiṇḍi miṟe
+               <lb n="9B"/>koḻoce
             </p>
          </div>
          <div type="apparatus">
-               <listApp>
-                  <app loc="3">
-                     <lem>yō ha<gap reason="undefined" unit="character" quantity="9" precision="low"/></lem>
-                     <note>The number of dots does not reflect the actual number of necessary characters. For the completion of the second <foreign>pāda</foreign> six more syllables are necessary, and 16 more for <foreign>pādas</foreign> c and d.</note>
+           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- Update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
                </listApp>         
          </div>
@@ -103,12 +101,12 @@
          </div>
          <div type="commentary">
             <p>
-              Lines 1-3 of face A appear to reflect a separate inscription that ends in one of the typical Sanskrit imprecation <foreign>ślokas</foreign>. Without consulting the stone or estampage, however, this can not be fully clearified. The editors did not mention anything about different script ductus.
+               <!-- Three times Ēḷa is very improbable. There must be misreadings in the edition (no picture published) -->
             </p>
          </div>
         <div type="bibliography">
           <p>
-           The inscription was noted in 	   
+           	   
           </p>
            <listBibl type="secondary">
               <bibl/>

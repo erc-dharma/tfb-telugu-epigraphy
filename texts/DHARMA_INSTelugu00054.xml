@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><!-- ADD TITEL HERE --></title>
+            <title>Land donation under the rule of Vijayādityasatyāśraya and Bali-Indrabāṇarāju</title>
             <respStmt>
                <resp>Creation of file</resp>
                <persName ref="part:jeth">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename">DHARMA_Telugu_Cola_SIIX603</idno>
+            <idno type="filename">DHARMA_INSTelugu00054</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -66,25 +66,35 @@
       </encodingDesc>
       <revisionDesc>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change who="part:jeth" when="2020-07-02" status="draft">Creation of the file</change>
+         <change who="part:jeth" when="2020-06-30" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-              <lb n="1"/><unclear>svasti śrī</unclear> dānasiṟla mārama <unclear>dhā</unclear>nimaṅgiyāri pa<unclear>ḷli</unclear>
-              <lb n="2"/>ceṟuvu
-              <lb n="3"/>cōḻamahādēvuḷa yiccina stānaṁbun i<unclear>cci</unclear>ri
-              <lb n="4"/><gap reason="undefined" unit="character" quantity="3" precision="low"/>vuvānṟu pañcamahāpātakunṟu
+              <milestone type="pagelike" unit="face" n="A"/>
+               <lb n="1"/><gap reason="undefined" unit="line" quantity="1"/>
+               <lb n="2"/><gap reason="undefined" unit="character" quantity="3" precision="low"/>bhadi maṟutuḍlu Icciri svadattaṁ <unclear>paradattaṁ vā</unclear>
+               <lb n="3"/>yō ha<gap reason="undefined" unit="character" quantity="9" precision="low"/>
+            </p>
+            <p>
+               <lb n="4"/>svasti śrī vijayādityasatyāśraya śrī prithuvīvallabha mahārājādhirā<lb n="5" break="no"/>ja-paramēśvara-bhaṭāra<unclear>ḷa</unclear>ku vijayarājyasa<unclear>ṁ</unclear>vatsaraṁbuḷ irubādi<unclear>mūṁ</unclear>ḍu prava<lb n="6" break="no"/><unclear>r</unclear>ttilla balikulatilaka narasiṁhabāṇādhirājapri<unclear>ya</unclear>nuta-vikramā<lb n="7" break="no"/>ditya-bali-I<unclear>ndra</unclear>bāṇarāju<unclear>la</unclear> turumaraviṣayaṁbu yēḷuvāri <unclear>māmōri</unclear>
+              <milestone type="pagelike" unit="face" n="B"/>
+               <lb n="8"/><gap reason="undefined" unit="line" quantity="1"/>
+               <lb n="9"/><gap reason="undefined" unit="line" quantity="1"/>
+               <lb n="10"/><gap reason="undefined" unit="line" quantity="1"/>
+               <lb n="11"/><gap reason="undefined" unit="line" quantity="1"/>
+               <lb n="12"/>pullagiceṟuna cika<unclear>ṭṭa</unclear> pulla<unclear>ṁ</unclear>buna rācamāna<unclear>ṁ</unclear>buna
+               <lb n="13"/>U<gap reason="undefined" unit="character" quantity="1" precision="low"/>lu kōvubōḷu Anantaśōbhuḷu <unclear>tyā</unclear>valla kāma<gap reason="undefined" unit="character" quantity="4" precision="low"/>
+               <lb n="14"/><gap reason="undefined" unit="line" quantity="1"/>
             </p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- Update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+               <listApp>
+                  <app loc="3">
+                     <lem>yō ha<gap reason="undefined" unit="character" quantity="9" precision="low"/></lem>
+                     <note>The number of dots does not reflect the actual number of necessary characters. For the completion of the second <foreign>pāda</foreign> six more syllables are necessary, and 16 more for <foreign>pādas</foreign> c and d.</note>
                   </app>
                </listApp>         
          </div>
@@ -93,17 +103,16 @@
          </div>
          <div type="commentary">
             <p>
-              The editor states that the inscription is <cit><quote>[u]nintelligible</quote><bibl rend="omitname"><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">332</citedRange></bibl></cit> but does not make clear how big the missing parts might be (confer line 2). The number of missing characters follows the number of dots in the edition.
+              Lines 1-3 of face A appear to reflect a separate inscription that ends in one of the typical Sanskrit imprecation <foreign>ślokas</foreign>. Without consulting the stone or estampage, however, this can not be fully clearified. The editors did not mention anything about different script ductus.
             </p>
          </div>
         <div type="bibliography">
           <p>
-           The inscription was noted in A. R. No. 396 of 1904 <!-- has to be adjusted to the @tqrget --> and first edited by J. Ramayya Pantulu without translation and picture (<bibl rend="omitname"><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">332</citedRange><citedRange unit="item">603</citedRange></bibl>). K. M. Sastri re-edited this edition and provided a summary of the content: <cit><quote>Refers to the endowment of a tank. A Cōḻamahādēvi is mentioned</quote><bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">333</citedRange></bibl></cit>.
+           The inscription was noted in 	   
           </p>
            <listBibl type="secondary">
-              <bibl>A. R. No. 396 of 1904 <!-- has to be adjusted to the @tqrget --></bibl>
-              <bibl><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">332</citedRange><citedRange unit="item">603</citedRange></bibl>
-              <bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">333</citedRange><citedRange unit="item">68</citedRange></bibl>
+              <bibl/>
+              <bibl/>
            </listBibl>
         </div>
       </body>

@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Berlin</pubPlace>
-            <idno type="filename"><!--- add title ---></idno>
+            <idno type="filename">DHARMA_INSTelugu00056</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -66,25 +66,17 @@
       </encodingDesc>
       <revisionDesc>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change who="part:jeth" when="2020-06-26" status="draft">Creation of the file</change>
+         <change who="part:jeth" when="2020-07-02" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-               <milestone type="pagelike" unit="face" n="A"/>
-               <lb n="1A"/><gap reason="undefined" unit="line" quantity="1"/>
-               <lb n="2A"/><gap reason="undefined" unit="line" quantity="1"/>
-               <lb n="3A"/><gap reason="undefined" unit="line" quantity="1"/>
-               <lb n="4A"/><gap reason="undefined" unit="character" quantity="2" precision="low"/>r<unclear>ā</unclear>ju<gap reason="undefined" unit="character" quantity="2" precision="low"/><lb n="5A" break="no"/>ṇḍu Ēḷa Int<unclear>e</unclear><lb n="6A" break="no"/>ddivāḍi Eriga<lb n="7A" break="no"/>llu mutt<unclear>u</unclear>rāju
-               <lb n="8A"/>Ēḷa kaṅgaḷūnṟu Ē<lb n="9A" break="no"/>ḷa cōḻamahā<lb n="10A" break="no"/>rājula tēvuḶ ma<lb n="11A" break="no"/><choice><orig>ṁkhi</orig><reg>ñci</reg></choice><unclear>po</unclear>ṟṟi<lb n="12A" break="no"/>yāru <unclear>U</unclear>ṇḍē<lb n="13A" break="no"/>lu Ujjayi<lb n="14A" break="no"/>ni Icci<supplied reason="undefined">na</supplied> pannavī<lb n="15A" break="no"/><gap reason="undefined" unit="character" quantity="2" precision="low"/>ga<unclear>ṁ</unclear>ji<unclear>pā</unclear>ṟa mā<lb n="16A" break="no"/><gap reason="undefined" unit="character" quantity="2" precision="low"/>ḍiyāriki tēni<lb n="17A" break="no"/><supplied reason="undefined">ni</supplied>ki <gap reason="undefined" unit="character" quantity="2" precision="low"/>nṟugō
-               <lb n="18A"/><unclear>ṇḍapu</unclear><gap reason="undefined" unit="character" quantity="2" precision="low"/><unclear>lva</unclear>
-               <milestone type="pagelike" unit="face" n="B"/>
-               <lb n="1B"/><gap reason="undefined" unit="line" quantity="1"/>
-               <lb n="2B"/>kaḷuñje
-               <lb n="3B"/><unclear>t</unclear>tēni ḻaccuvā<lb n="4B" break="no"/><unclear>ḍi</unclear>valvar-āca<unclear>ndrā</unclear><lb n="5B" break="no"/>diṟṟu bāraṇā<lb n="6B" break="no"/>si vēvura vadhi<lb n="7B" break="no"/>sina vānṟu <choice><orig>Āḷu</orig><reg>bā</reg></choice><lb n="8B" break="no"/>pasiṇḍi miṟe
-               <lb n="9B"/>koḻoce
+              <lb n="1"/><unclear>svasti śrī</unclear> dānasiṟla mārama <unclear>dhā</unclear>nimaṅgiyāri pa<unclear>ḷli</unclear>
+              <lb n="2"/>ceṟuvu
+              <lb n="3"/>cōḻamahādēvuḷa yiccina stānaṁbun i<unclear>cci</unclear>ri
+              <lb n="4"/><gap reason="undefined" unit="character" quantity="3" precision="low"/>vuvānṟu pañcamahāpātakunṟu
             </p>
          </div>
          <div type="apparatus">
@@ -101,16 +93,17 @@
          </div>
          <div type="commentary">
             <p>
-               <!-- Three times Ēḷa is very improbable. There must be misreadings in the edition (no picture published) -->
+              The editor states that the inscription is <cit><quote>[u]nintelligible</quote><bibl rend="omitname"><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">332</citedRange></bibl></cit> but does not make clear how big the missing parts might be (confer line 2). The number of missing characters follows the number of dots in the edition.
             </p>
          </div>
         <div type="bibliography">
           <p>
-           	   
+           The inscription was noted in A. R. No. 396 of 1904 <!-- has to be adjusted to the @tqrget --> and first edited by J. Ramayya Pantulu without translation and picture (<bibl rend="omitname"><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">332</citedRange><citedRange unit="item">603</citedRange></bibl>). K. M. Sastri re-edited this edition and provided a summary of the content: <cit><quote>Refers to the endowment of a tank. A Cōḻamahādēvi is mentioned</quote><bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">333</citedRange></bibl></cit>.
           </p>
            <listBibl type="secondary">
-              <bibl/>
-              <bibl/>
+              <bibl>A. R. No. 396 of 1904 <!-- has to be adjusted to the @tqrget --></bibl>
+              <bibl><ptr target="bib:RamayyaPantulu1948_01"/><citedRange unit="page">332</citedRange><citedRange unit="item">603</citedRange></bibl>
+              <bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">333</citedRange><citedRange unit="item">68</citedRange></bibl>
            </listBibl>
         </div>
       </body>
