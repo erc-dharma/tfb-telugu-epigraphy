@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Kalamalla grant of Erikalmudurāju Dhanañjayunṟu</title>
             <respStmt>
-              <resp>Encoding template for inscription</resp>
+               <resp>Encoding template for inscription</resp>
                <persName ref="part:jeth">
                   <forename>Jens Christian</forename>
                   <surname>Thomas</surname>
@@ -36,27 +36,29 @@
             </availability>
             <date from="2019" to="2025">2019-2025</date>
          </publicationStmt>
-        <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-          <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-            <msIdentifier>
-              <repository>DHARMAbase</repository>
-              <idno/><!-- don't modify this -->
-            </msIdentifier>
-            <msContents><!-- describe the intellectual content of an inscription -->
-              <summary>The inscription possibly refers to a donation that was made at the instance of Rēvaṇakālu from Ciṟuṃbūru during the reign of Erikalmudurāju Dhanañjayunṟu over Rēnāṇḍu. The details are lost.</summary> <!-- offers the possibility to give a summary of the inscription's content -->
-            </msContents>
-            <physDesc>
-              <handDesc>
-                <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary>The inscription possibly refers to a donation that was made at the instance of Rēvaṇakālu from Ciṟuṃbūru during the reign of Erikalmudurāju Dhanañjayunṟu over Rēnāṇḍu. The details are lost.</summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-              </handDesc>
-            </physDesc>
-          </msDesc>
-        </sourceDesc>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
@@ -83,8 +85,9 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-        <change who="part:jeth" when="2021-02-19" status="draft">Adding lacking entries of template v03, changing file name, adding primary bibliography</change> 
-        <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change><!-- this did not happen in a lot of the files -->
+         <change who="part:jeth" when="2021-02-19" status="draft">Adding lacking entries of template v03, changing file name, adding primary bibliography</change>
+         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
+         <!-- this did not happen in a lot of the files -->
          <change who="part:jeth" when="2020-05-18" status="draft">Creation of the file</change>
          <change who="part:jeth" when="2020-05-26" status="draft">text and apparatus</change>
       </revisionDesc>
@@ -101,9 +104,7 @@
               <lb n="12"/><gap reason="illegible" unit="character" quantity="5"/>
               <lb n="13"/><gap reason="illegible" unit="character" quantity="5" precision="low"/>
               <lb n="14"/><gap reason="illegible" unit="character" quantity="4" precision="low"/>
-              <lb n="15"/><gap reason="lost" unit="character" quantity="3" precision="low"/>pañca<supplied reason="omitted">ma</supplied><lb 
-                  n="16" break="no"/>hāpātaka<unclear>sa</unclear><lb 
-                  n="17" break="no"/><unclear>ka</unclear><gap reason="illegible" unit="character" quantity="1"/>
+              <lb n="15"/><gap reason="lost" unit="character" quantity="3" precision="low"/>pañca<supplied reason="omitted">ma</supplied><lb n="16" break="no"/>hāpātaka<unclear>sa</unclear><lb n="17" break="no"/><unclear>ka</unclear><gap reason="illegible" unit="character" quantity="1"/>
             </p>
             <p>
              <milestone type="pagelike" unit="faces" n="B"/>
