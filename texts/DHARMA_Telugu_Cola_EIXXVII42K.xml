@@ -74,7 +74,7 @@
          <div type="edition" xml:lang="tel-Latn">
             <p>
               <milestone type="pagelike" unit="face" n="A"/>
-               <lb n="A1"/><supplied reason="lost">svasti śrī prithivi-va</supplied><lb n="A2" break="no"/><supplied reason="lost">llava-vijayāditya</supplied><lb n="A3" break="no"/><supplied reason="lost">cōḻa-rājuḶ Iru</supplied><lb n="A4" break="no"/><supplied reason="lost">vā</supplied>d<supplied reason="lost">i</supplied>r<supplied reason="lost">e</supplied>ṅdu ca<supplied reason="lost">ṁ</supplied>va<lb n="A5" break="no"/>ccaraṁbuḶ pravartta<lb n="a6" break="no"/>llaN vāṇarājuL pā<lb n="A7" break="no"/><unclear>bu</unclear>ḻigga Ēḷucu palla<lb n="A8" break="no"/>vādi<supplied reason="omitted" cert="unknown">tya</supplied>rājula kūcapō<!-- or is it pā? --><lb n="A9" break="no"/>ṟa<!-- or is it ṟi? -->yāri tāṁbuL cō<lb n="A10" break="no"/>ḻa mahārājula Amma<milestone type="pagelike" unit="face" n="B"/><lb n="B1"/><gap reason="lost" unit="character" quantity="1"/><unclear>m</unclear>ukha<!-- the following akṣaras have to read yet -->
+               <lb n="A1"/><supplied reason="lost">svasti śrī prithivi-va</supplied><lb n="A2" break="no"/><supplied reason="lost">llava-vijayāditya</supplied><lb n="A3" break="no"/><supplied reason="lost">cōḻa-rājuḶ Iru</supplied><lb n="A4" break="no"/><supplied reason="lost">vā</supplied>d<supplied reason="lost">i</supplied>r<supplied reason="lost">e</supplied>ṅdu ca<supplied reason="lost">ṁ</supplied>va<lb n="A5" break="no"/>ccaraṁbuḶ pravartta<lb n="a6" break="no"/>llaN vāṇarājuL pā<lb n="A7" break="no"/><unclear>bu</unclear>ḻigga Ēḷucu palla<lb n="A8" break="no"/>vādi<supplied reason="omitted" cert="low">tya</supplied>rājula kūcapō<!-- or is it pā? --><lb n="A9" break="no"/>ṟa<!-- or is it ṟi? -->yāri tāṁbuL cō<lb n="A10" break="no"/>ḻa mahārājula Amma<milestone type="pagelike" unit="face" n="B"/><lb n="B1"/><gap reason="lost" unit="character" quantity="1"/><unclear>m</unclear>ukha<!-- the following akṣaras have to read yet -->
                <lb n="B2"/>ḻaḷu<unclear>ru</unclear> kucapā<!-- or is it pō --><unclear>ṟa</unclear>ki   
                <lb n="B3"/>natū Icci ttra
                <lb n="B4"/>rāca<unclear>m</unclear><supplied reason="lost">ā</supplied><lb n="B5" break="no"/><supplied reason="lost">na</supplied><unclear>ṁ</unclear>bunaN Ēbhādi maṟu<lb n="B6" break="no"/>ntuṟlu nēla Alaghacinta U<lb n="B7" break="no"/><unclear>ttara</unclear>ṁbun ka<!-- the akṣara nka is seldom but is attested (see indoskript) -->ṭṭu<!-- the element kaṭṭu appears at least twice in other names -->  ṇṭ lya gōtrasya p<choice><sic>a</sic><orig>e</orig></choice><lb n="B8" break="no"/>nbāṟa <!-- some akṣaras are lacking here -->
@@ -84,6 +84,7 @@
          <div type="apparatus">
                <listApp>
                   <app loc="1">
+                     <lem></lem>
                      <note>The line break of the supplied lines is approximate. The text is supplied according to the notes of Colin Mackenzie (a picture of which is given in: <bibl><ptr target="bib:NilakantaSastri+Venkataramayya1956_01"/><citedRange unit="item">42 K</citedRange></bibl>).</note>
                   </app>
                   <app loc="5">
