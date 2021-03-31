@@ -101,7 +101,7 @@
           </p>
            <listBibl type="secondary">
               <bibl>A. R. No. 108 A of 1893<!-- has to be adjusted to the @target --></bibl>
-              <bibl><ptr target="bib:KrishnaSastri1923_03"/><citedRange unit="page">299</citedRange><citedRange unit="item">922</citedRange></bibl>
+              <bibl><ptr target="bib:KrishnaSastri1923_01"/><citedRange unit="page">299</citedRange><citedRange unit="item">922</citedRange></bibl>
            </listBibl>
         </div>
       </body>
