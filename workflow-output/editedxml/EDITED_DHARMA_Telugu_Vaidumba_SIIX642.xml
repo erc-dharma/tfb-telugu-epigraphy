@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -69,7 +69,7 @@
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -82,7 +82,7 @@
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-              <lb n="1"/>svasty anēkasamaraśaṁghaṭṭōpa<unclear>labdha</unclear>jaya<lb n="2" break="n"/>lakṣmīsamalliṁgitavakṣasthaḷa-śrī-ma<lb n="3" break="no"/>nuje-trinētra-vaidumbā-mahārā<lb n="4" break="no"/>ja-palava-mahārāju pritivirājya<lb n="5" break="no"/>ñ cēya vāṇarāju pai vō<unclear>yi</unclear> poḍici raṇamo<lb n="6" break="no"/>khadhōrtthra sakkarurēḷaṟemma poḍici sūralōkaṁb ēṁ<lb n="7" break="no"/>ge kōṟajamaśrī
+              <lb n="1"/>svasty anēkasamaraśaṁghaṭṭōpa<unclear>labdha</unclear>jaya<lb n="2" break="no"/>lakṣmīsamalliṁgitavakṣasthaḷa-śrī-ma<lb n="3" break="no"/>nuje-trinētra-vaidumbā-mahārā<lb n="4" break="no"/>ja-palava-mahārāju pritivirājya<lb n="5" break="no"/>ñ cēya vāṇarāju pai vō<unclear>yi</unclear> poḍici raṇamo<lb n="6" break="no"/>khadhōrtthra sakkarurēḷaṟemma poḍici sūralōkaṁb ēṁ<lb n="7" break="no"/>ge kōṟajamaśrī
             </p>
          </div>
          <div type="apparatus">
@@ -123,7 +123,7 @@
                         <unclear>khadhātri</unclear><gap reason="undefined" unit="character" quantity="1" precision="low"/>kuru<unclear>reḷa</unclear>°
                      </rdg>
                   </app>
-                  <app>
+                  <app loc="7">
                      <lem>ge kōṟajamaśrī</lem>
                      <rdg source="bib:RamayyaPantulu1948_01">
                         ge<gap reason="undefined" unit="character" quantity="4" precision="low"/>
