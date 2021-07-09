@@ -106,12 +106,12 @@
                <listApp>
                   <app loc="1">
                      <lem><supplied reason="lost" cert="low">śrī</supplied> <supplied reason="lost">c</supplied>ōḻamahār<choice><orig>a</orig><reg>ā</reg></choice>j<unclear>u</unclear>l<unclear>la</unclear></lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01"><supplied reason="lost">c</supplied>ōḻa-mahārāju<unclear>ṟla</unclear></rdg>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1947-1948_01"><supplied reason="lost">c</supplied>ōḻa-mahārāju<unclear>ṟla</unclear></rdg>
                      <note>I can not see a 〈ṟ〉 but only have the picture of the estampage of the edition at my disposal. Other inscriptions show 〈la〉 or 〈lla〉, and there is no etymological justification for /ṟla/ at this place. Confer infra.</note>
                   </app>
                   <app loc="2">
                      <lem><supplied reason="lost">Ē</supplied><unclear>ḷa</unclear></lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01"><unclear>Ēḷa</unclear></rdg>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1947-1948_01"><unclear>Ēḷa</unclear></rdg>
                      <note>The 〈Ē〉 is not visible on the picture in the edition.</note>
                   </app>
                   <app loc="2">
@@ -120,35 +120,35 @@
                   </app>
                   <app loc="2">
                      <lem>tugu<lb n="3" break="no"/><supplied reason="lost">rāju</supplied>lla</lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">tuga<lb n="3" break="no"/><unclear>rā</unclear>juṟla</rdg>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1947-1948_01">tuga<lb n="3" break="no"/><unclear>rā</unclear>juṟla</rdg>
                      <note>What especially sets 〈ṟla〉 apart from reading it as the common ligature 〈lla〉 is the 90° edge on the upper right corner. This might be due to the ductus which is full of verve; but I could not find any other instance of such a 〈la〉. On the other hand there is a curved line below the right angle. Prima facie it is not possible to decide what is the intended line and what a damage or slip of the chisel. In order to avoid a reading that is not attested elsewhere and that is etymologically problematic I read〈lla〉.</note>
                   </app>
                   <app loc="4">
                      <lem>Ēṁba<unclear>d</unclear><supplied reason="lost">i</supplied></lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">Ēbadi</rdg>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1947-1948_01">Ēbadi</rdg>
                      <note>The <foreign>anusvāra</foreign> is written above the <foreign>akṣara</foreign> 〈ba〉 as in <foreign>rācamānaṁbuna</foreign>. This is a common practice in Telugu inscriptions.</note>
                   </app>
                   <app loc="5">
                      <lem>tirumu<unclear>ḷa</unclear></lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">tiruvuḷa</rdg>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1947-1948_01">tiruvuḷa</rdg>
                      <note>The decision between 〈vu〉 and 〈mu〉 depends on whether the right stroke on top of the <foreign>akṣara</foreign> is interpreted as a damage or as part of the character. All the other occurrences of 〈va〉 (lines 6-7) have a different shape each as have all the occurrences of 〈ma〉 (lines 1, 4, 7). This diversity does not clarify the reading.</note>
                   </app>
                   <app loc="5">
                      <lem>Iccina</lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">Icci<unclear>na</unclear></rdg>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1947-1948_01">Icci<unclear>na</unclear></rdg>
                   </app>
                   <app loc="6">
                      <lem>va<choice><orig>kru</orig><reg>kraṁ</reg></choice>bu</lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">vakraṁ<unclear>bu</unclear></rdg>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1947-1948_01">vakraṁ<unclear>bu</unclear></rdg>
                      <note>The first <foreign>akṣara</foreign> seems to open up on the right side and thus looks like a 〈da〉 or 〈ḍa〉. Yet, this might be caused by a damage on the surface. The akṣara 〈bu〉 is clearly visible on the picture of the estampage in the edition.</note>
                   </app>
                   <app loc="7">
                      <lem>vacinavanṟu</lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">vacinavānṟu</rdg>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1947-1948_01">vacinavānṟu</rdg>
                   </app>
                   <app loc="8">
                      <lem>°pātakun<supplied reason="lost">ṟ</supplied>u</lem>
-                     <rdg source="bib:NilakantaSastri+Venkataramayya1956_01">°pātaku</rdg>
+                     <rdg source="bib:NilakantaSastri+Venkataramayya1947-1948_01">°pātaku</rdg>
                   </app>
                </listApp>         
          </div>
@@ -171,7 +171,7 @@
           <p>
            The inscription was noted in the Annual Report and first edited by Nilakanta Sastri and Venkataramayya with a picture and annotations. Based on this edition K. M. Sastri republished the inscription and provided a translation.           </p>
            <listBibl type="primary">
-				<bibl n="NS+V"><ptr target="bib:NilakantaSastri+Venkataramayya1956_01"/><citedRange unit="page">228-229</citedRange><citedRange unit="item">42 C</citedRange></bibl>
+				<bibl n="NS+V"><ptr target="bib:NilakantaSastri+Venkataramayya1947-1948_01"/><citedRange unit="page">228-229</citedRange><citedRange unit="item">42 C</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:ARIE1934-1935"/><citedRange unit="appendix">B/1935-36</citedRange><citedRange unit="page">40</citedRange><citedRange unit="item">330</citedRange></bibl>

@@ -104,35 +104,35 @@
                <listApp>
                   <app loc="2">
                      <lem>843</lem>
-                     <rdg source="bib:Desai1958_2">893</rdg>
+                     <rdg source="bib:Desai1949-1950_01">893</rdg>
                   </app>
                   <app loc="s">
                      <lem>Aṣada</lem>
-                     <rdg source="bib:Desai1958_2">Aṣa<unclear>ḍha</unclear></rdg>
+                     <rdg source="bib:Desai1949-1950_01">Aṣa<unclear>ḍha</unclear></rdg>
                   </app>
                   <app loc="2">
                      <lem>guruvāraṁbugā</lem>
-                     <rdg source="bib:Desai1958_2">guruvāraṁbugā<unclear>ṁ</unclear></rdg>
+                     <rdg source="bib:Desai1949-1950_01">guruvāraṁbugā<unclear>ṁ</unclear></rdg>
                   </app>
                   <app loc="3">
                      <lem>aṟtiṟa<unclear>v</unclear>ula</lem>
-                     <rdg source="bib:Desai1958_2">aṟtiṟēvula</rdg>
+                     <rdg source="bib:Desai1949-1950_01">aṟtiṟēvula</rdg>
                   </app>
                   <app loc="3">
                      <lem><unclear cert="low">santimi</unclear>tra</lem>
-                     <rdg source="bib:Desai1958_2"><unclear>sannimi</unclear>tra</rdg>
+                     <rdg source="bib:Desai1949-1950_01"><unclear>sannimi</unclear>tra</rdg>
                   </app>
                   <app loc="6">
                      <lem>kucibhaḍā<unclear>r</unclear>lu</lem>
-                     <rdg source="bib:Desai1958_2">kucibhaḍālu</rdg>
+                     <rdg source="bib:Desai1949-1950_01">kucibhaḍālu</rdg>
                   </app>
                   <app loc="6">
                      <lem>jāḍavvari<lb n="7" break="no"/>ki</lem>
-                     <rdg source="bib:Desai1958_2">bācavvari<lb n="7" break="no"/>ki</rdg>
+                     <rdg source="bib:Desai1949-1950_01">bācavvari<lb n="7" break="no"/>ki</rdg>
                   </app>
                   <app loc="7">
                      <lem>dhammavugān</lem>
-                     <rdg source="bib:Desai1958_2">dharmmavugān</rdg>
+                     <rdg source="bib:Desai1949-1950_01">dharmmavugān</rdg>
                   </app>
                </listApp>         
          </div>
@@ -166,7 +166,7 @@
          </div>
         <div type="bibliography">
           <p>
-           The inscription was noted in A. R. No. 7 of 1935-1936<!-- has to be adjusted to the @target --> and published by P. B. Desai (<bibl rend="omitname"><ptr target="bib:Desai1958_2"/><citedRange unit="page">67-70</citedRange><citedRange unit="item">12</citedRange></bibl>) with a picture and annotations. 
+           The inscription was noted in A. R. No. 7 of 1935-1936<!-- has to be adjusted to the @target --> and published by P. B. Desai (<bibl rend="omitname"><ptr target="bib:Desai1949-1950_01"/><citedRange unit="page">67-70</citedRange><citedRange unit="item">12</citedRange></bibl>) with a picture and annotations. 
            It was re-edited by K. M. Sastri together with a translation (<bibl rend="omitname"><ptr target="bib:Sastri1969_01"/><citedRange unit="page">321-322</citedRange><citedRange unit="item">48</citedRange></bibl>).
           </p>
            <listBibl type="primary">
@@ -174,7 +174,7 @@
 			</listBibl>
            <listBibl type="secondary">
               <bibl>A. R. No. 7 of 1935-1936<!-- has to be adjusted to the @target --></bibl>
-              <bibl><ptr target="bib:Desai1958_2"/><citedRange unit="page">67-70</citedRange><citedRange unit="item">12</citedRange></bibl>
+              <bibl><ptr target="bib:Desai1949-1950_01"/><citedRange unit="page">67-70</citedRange><citedRange unit="item">12</citedRange></bibl>
               <bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">321-322</citedRange><citedRange unit="item">48</citedRange></bibl>
            </listBibl>
         </div>
