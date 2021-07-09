@@ -97,7 +97,7 @@
                <listApp>
                   <app loc="1">
                      <lem></lem>
-                     <note>The line break of the supplied lines is approximate. The text is supplied according to the notes of Colin Mackenzie (a picture of which is given in: <bibl><ptr target="bib:NilakantaSastri+Venkataramayya1956_01"/><citedRange unit="item">42 K</citedRange></bibl>).</note>
+                     <note>The line break of the supplied lines is approximate. The text is supplied according to the notes of Colin Mackenzie (a picture of which is given in: <bibl><ptr target="bib:NilakantaSastri+Venkataramayya1947-1948_01"/><citedRange unit="item">42 K</citedRange></bibl>).</note>
                   </app>
                   <app loc="5">
                      <lem>pravartta<lb n="6" break="no"/>llaN</lem>

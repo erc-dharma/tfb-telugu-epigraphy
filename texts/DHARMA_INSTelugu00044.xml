@@ -101,11 +101,11 @@
          </div>
         <div type="bibliography">
           <p>
-           	 The inscription was noted in A. R. No. 14 of 1947-1948<!-- has to be adjusted to the @target --> and first published by P. B. Desai with a commentary and picture but without translation (<bibl rend="omitname"><ptr target="bib:Desai1953-1954_02"/><citedRange unit="page">69-71</citedRange><citedRange unit="item">14</citedRange></bibl>).
+           	 The inscription was noted in A. R. No. 14 of 1947-1948<!-- has to be adjusted to the @target --> and first published by P. B. Desai with a commentary and picture but without translation (<bibl rend="omitname"><ptr target="bib:Desai1949-1950_01"/><citedRange unit="page">69-71</citedRange><citedRange unit="item">14</citedRange></bibl>).
           </p>
            <listBibl type="secondary">
               <bibl>A. R. No. 14 of 1947-1948<!-- has to be adjusted to the @target --></bibl>
-              <bibl><ptr target="bib:Desai1953-1954_02"/><citedRange unit="page">69-71</citedRange><citedRange unit="item">14</citedRange></bibl>
+              <bibl><ptr target="bib:Desai1949-1950_01"/><citedRange unit="page">69-71</citedRange><citedRange unit="item">14</citedRange></bibl>
            </listBibl>
         </div>
       </body>
