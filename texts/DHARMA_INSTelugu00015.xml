@@ -65,6 +65,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change when="2021-08-31" who="part:jeth">Changing the translation</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:jeth" when="2020-06-23" status="draft">Creation of the file</change>
       </revisionDesc>
@@ -121,7 +122,7 @@
          </div>
          <div type="translation" resp="part:jeth">
  	        <p>
- 	           Svasti! A pannasa given by Erigal Dugarāju to the brahmin Rēvasarmma of Kocci while Śrī Cōḻamahārāju was ruling. Who (so ever) annuls it will have (the outcome of) the five great sins.
+ 	           Svasti! A pannasa given by Erigal Dugarāju to the brahmin Rēvasarmma of Kocci while Śrī Cōḻamahārāju was ruling. Who (so ever) annuls it deserves to have (the outcome of) the five great sins. Written (by) Asibhairuvu. <!-- The translation 'deserves to have' might be quite good insofar it renders both meanings of yukta-, that are attested in Te as well, namely 'being fit or worthy of sth' and 'being connected to something'. It also sort of conveys the non-past agu. -->
  	        </p>
          </div>
          <div type="commentary">
