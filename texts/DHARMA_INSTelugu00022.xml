@@ -73,7 +73,7 @@
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-               <milestone unit="faces" n="A"/>
+               <milestone unit="faces" n="A"/><!-- Radha Krishna's reading shoudl be taken. The place name Sauḷūri could be a misreading for Sauḍūri -->
                <lb n="1"/>mahārājā<lb n="2" break="no"/>dhirāja pa<unclear>ra</unclear><lb n="3" break="no"/><unclear>mē</unclear>śvara bha<unclear>ṭṭā</unclear><lb n="4" break="no"/>rala<gap reason="undefined" unit="character" quantity="3" precision="low"/>
                <lb n="5"/><gap reason="undefined" unit="character" quantity="1" precision="low"/>rājula
                <lb n="6"/><gap reason="undefined" unit="character" quantity="1" precision="low"/>ḷūricca
