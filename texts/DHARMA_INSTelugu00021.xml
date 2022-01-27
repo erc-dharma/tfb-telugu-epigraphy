@@ -72,7 +72,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="tel-Latn">
+         <div type="edition" xml:lang="tel-Latn"><!-- the Sanskrit language protion has to be marked -->
             <p>
                <lb n="1"/><gap reason="undefined" unit="character" quantity="2" precision="low"/>gommalōviḍi samudraṁbu ni<unclear>lpi</unclear> mahimindamaṟipo<gap reason="undefined" unit="character" quantity="1" precision="low"/>ma<gap reason="undefined" unit="character" quantity="4" precision="low"/>
                <lb n="2"/><gap reason="undefined" unit="character" quantity="3" precision="low"/>peru veḷpu guḍlu nandavanaṁbu<gap reason="undefined" unit="character" quantity="1" precision="low"/>ndiṟlu pēvu vēvura<gap reason="undefined" unit="character" quantity="1" precision="low"/><unclear>gha</unclear>rmma<gap reason="undefined" unit="character" quantity="2" precision="low"/>
@@ -81,7 +81,7 @@
                <lb n="5"/><unclear>śrī śi</unclear>lāviśālavipula<gap reason="undefined" unit="character" quantity="4" precision="low"/>saṁpūrṇṇagāṁ<unclear>bhī</unclear><gap reason="undefined" unit="character" quantity="2" precision="low"/>
                <lb n="6"/><unclear>śu</unclear>bhradabhra<unclear>śu</unclear>śaucyassa<gap reason="undefined" unit="character" quantity="1" precision="low"/>jananuta<gap reason="undefined" unit="character" quantity="2" precision="low"/>vartti<gap reason="undefined" unit="character" quantity="2" precision="low"/>
                <lb n="7"/>ptānasapra<gap reason="undefined" unit="character" quantity="1" precision="low"/>svasu<gap reason="undefined" unit="character" quantity="3" precision="low"/><gap reason="undefined" unit="character" quantity="3" precision="low"/>lasadbhitticitra<unclear>vi</unclear>rā<unclear>ja</unclear><lb n="8" break="no"/><gap reason="undefined" unit="character" quantity="1" precision="low"/>dhi<unclear>ṣṭhā</unclear>vā<unclear>sa</unclear>bhadrasakalavā<gap reason="undefined" unit="character" quantity="1" precision="low"/><unclear>yu</unclear>ta<unclear>n ni</unclear>rmmitan ni<unclear>rvvartta</unclear>na
-               <lb n="9"/>śrīsalaku Iru vuṭṭi Āḍḷapaṭṭu kuṟiti yī <unclear>Ū</unclear>ḍlaṁdu
+               <lb n="9"/>śrīsalaku Iru vuṭṭi Āḍḷapaṭṭu kuṟiti yī <unclear>Ū</unclear>ḍlaṁdu<!-- from here a second inscription starts that does not seem to be related to the first one -->
                <lb n="10"/>Ēnu vuṭlu Āḍḷa paṭṭu<gap reason="undefined" unit="character" quantity="1" precision="low"/>bu cēnu śrī vitpaṟti<gap reason="undefined" unit="character" quantity="2" precision="low"/>
                <lb n="11"/>ndrātityala kalayanta <unclear>gāla</unclear>ṁbuga naḍiya vālu<gap reason="undefined" unit="character" quantity="2" precision="low"/>
                <lb n="12"/><gap reason="undefined" unit="character" quantity="2" precision="low"/>kavula Āyaṁbu dīniki vakraṁbuvaccina
