@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Hero stone of Gaṇḍamaykaliyya (Vaidumba?)</title>
+            <title>Hero stone of Gaṇḍamaykaliyya</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:jeth">
@@ -99,7 +99,7 @@
                   <rdg source="bib:RamayyaPantulu1948_01">goccicopatiya</rdg>
                </app>
                <app loc="4">
-                  <lem>viṟu<lb n="5" break="no"/>ga<supplied reason="undefined">mba</supplied>di</lem>
+                  <lem>viṟu<lb n="5" break="no"/>ga<supplied reason="undefined">mba</supplied>ḍi</lem>
                   <rdg source="bib:RamayyaPantulu1948_01">viṟu<lb n="5" break="no"/>ga<gap reason="undefined" quantity="2" unit="character" precision="low"/><unclear>hi</unclear></rdg>
                </app>
             </listApp>
