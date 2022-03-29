@@ -158,13 +158,18 @@
                   </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="jeth">
  	<!--translation encoded as per EGD §9.2 -->
+             <p>
+                 Svasti! While Cōḻa-Mahārāja was ruling, a pannasa given to the great brahmin (<foreign>pen-pāṟa</foreign>) Īśaṟēnṟu by Aṇapōtulu, Rēvaṇakālu and Puddaṇakālu (inhabitants) of this city.<!-- The city should be added in brackets; Poṭladurti or Mālepāḍu --> 
+                 Whoever impedes<!-- lit. destroys; better translation? --> it will be (guilty) of the five great sins. Written by Asivairuvu.
+             </p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
              <p>
-                 The inscription was published twice by Sōmaśēkhara Śarma whose second edition I could not obtain. The text as published by Radha Krishna, however, may reflect this second edition that seems to basically only differ in the correct representation of the <foreign>akṣara</foreign> ⟨ḻ⟩ as opposed to the edition in Vyāsasaṁgrahamu. Since the <foreign>akṣara</foreign> ⟨ḻ⟩ is clearly written in the inscription and does not at all resemble ⟨ṣj⟩ the latter spelling might have been chosen due to the lack of a proper printing option at the time. The reading as presented here is my own based on the picture ni Vyāsasaṁgrahamu, the deviating readings as published by Radha Krishna have been assigned to him although they may reflect the readings in Sōmaśēkhara Śarma’s second edition.                  <!-- MORE -->
+                 The inscription was published twice by Sōmaśēkhara Śarma whose second edition I could not obtain. The text as published by Radha Krishna, however, may reflect this second edition that seems to basically only differ in the correct representation of the <foreign>akṣara</foreign> ⟨ḻ⟩ as opposed to the edition in Vyāsasaṁgrahamu. Since the <foreign>akṣara</foreign> ⟨ḻ⟩ is clearly written in the inscription and does not at all resemble ⟨ṣj⟩ the latter spelling might have been chosen due to the lack of a proper printing option at the time. 
+                 The reading as presented here is my own based on the picture in Vyāsasaṁgrahamu. The deviating readings as published by Radha Krishna have been assigned to him although they may reflect the readings in Sōmaśēkhara Śarma’s second edition.                  <!-- MORE -->
                  Another inscription that mentions the rule of Cōḻa-Mahārāja and the scribe Asivairuvu is DHARMA_INSTelugu00015.
              </p>
          </div>
@@ -176,7 +181,7 @@
         	<listBibl type="primary">
 	<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
         	<bibl n="MS"><ptr target="bib:SomasekharaSarma1933_01"/><citedRange unit="page">301-310</citedRange></bibl>
-        	    <!-- The Andhra Patrika volume has to be added here -->
+        	    <!-- !!!!!!!!The Andhra Patrika volume has to be added here!!!!!!!! -->
         	<bibl n="RK"><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">5</citedRange><citedRange unit="item">8</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
