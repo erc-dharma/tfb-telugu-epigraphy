@@ -98,10 +98,12 @@
          <div type="edition" xml:lang="tel-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
              <p><!-- the picture has to be seen regarding halantas etc. -->
+                 <milestone unit="face" type="facelike" n="A"/>
                  <lb n="1"/>svasti śrī sōḻa-mahārājull ēḷaN In-puḻōli
                  <lb n="2"/>Aṇapōtulu rēvaṇakālu puddaṇakālu Iccina pa<lb break="no"
                        n="3"/>nnasa pen-pāṟa IśaṟēnikiN tēni ḻaccinavānṟu <unclear>pa</unclear><lb break="no"
                        n="4"/><supplied reason="lost">ñca</supplied>mahāpā<unclear>ta</unclear>kunṟ akuN
+                 <milestone unit="face" type="facelike" n="B"/>
                  <lb n="5"/>Asivairuvu likitaM
              </p>
          </div>
@@ -161,8 +163,9 @@
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
              <p>
-                 The inscription was published twice by Sōmaśēkhara Śarma whose second edition I could not obtain. The text as published by Radha Krishna, however, may reflect this second edition that seems to basically only differ in the correct representation of the <foreign>akṣara</foreign> ⟨ḻ⟩ as opposed to the edition in Vyāsasaṁgrahamu. Since the <foreign>akṣara</foreign> ⟨ḻ⟩ is clearly written in the inscription and does not at all resemble ⟨ṣj⟩ the latter spelling might have been chosen due to the lack of a proper printing option at the time.<!-- what does MS say on that? --> 
-                 The reading as presented here is my own based on the picture in Vyāsasaṁgrahamu. The deviating readings as published by Radha Krishna have been assigned to him although they may reflect the readings in Sōmaśēkhara Śarma's second edition.
+                 The inscription was published twice by Sōmaśēkhara Śarma whose second edition I could not obtain. The text as published by Radha Krishna, however, may reflect this second edition that seems to basically only differ in the correct representation of the <foreign>akṣara</foreign> ⟨ḻ⟩ as opposed to the edition in Vyāsasaṁgrahamu. The <foreign>akṣara</foreign> ⟨ḻ⟩ is clearly written in the inscription. Sōmaśēkhara Śarma refers to Tamil when dealing with this <foreign>akṣara</foreign> and hence the latter spelling must have been chosen due to the lack of a proper printing option at the time.
+                 The reading as presented here is my own based on the picture in Vyāsasaṁgrahamu. The deviating readings as published by Radha Krishna have been assigned to himself although they may reflect the readings in Sōmaśēkhara Śarma's second edition.
+                 Lines 1-4 are written on the broader and polished side of the "red stone" (యెర్రరాయి) and line 5 on the side of the stone (<bibl><ptr target="bib:SomasekharaSarma1933_01"/><citedRange unit="page">301, 304</citedRange></bibl>).
                  <!-- MORE -->
                  Another inscription that mentions the rule of Cōḻa-Mahārāja and the scribe Asivairuvu is DHARMA_INSTelugu00015.
              </p>
