@@ -23,8 +23,10 @@
                     <resp>intellectual authorship of edition</resp>
                     <!-- This may be the same as the creator of the file -->
                     <!-- Update the id -->
-                        <forename>Mallampalli</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                        <persName>
+                            <forename>Mallampalli</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                         <surname>Sōmaśēkhara Śarma</surname>
+                        </persName>
                     
                 </respStmt>
             </titleStmt>
@@ -153,7 +155,7 @@
                   </app>
                </listApp>
          </div>
-         <div type="translation" resp="jeth">
+         <div type="translation" resp="part:jeth">
  	<!--translation encoded as per EGD §9.2 -->
              <p>
                  Svasti! While Cōḻa-Mahārāja was ruling, a pannasa given to the great brahmin (<foreign>pen-pāṟa</foreign>) Īśaṟēnṟu by Aṇapōtulu, Rēvaṇakālu and Puddaṇakālu (inhabitants) of this city.<!-- The city should be added in brackets; Poṭladurti or Mālepāḍu --> 
