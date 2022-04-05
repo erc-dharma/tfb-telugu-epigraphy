@@ -8,14 +8,14 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Early Telugu inscription from Amarāvati</title>
+            <title>Encoding template for inscription</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <!-- Work done in the file, e.g. editor ...-->
                <persName ref="part:jeth"><!-- Update the id -->
-                  <forename>Jens</forename>
+                  <forename>Jens Christian</forename>
                   <!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
                   <surname>Thomas</surname>
                </persName>
@@ -23,17 +23,17 @@
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <!-- This may be the same as the creator of the file -->
-               <persName>
-                  <forename>Vēṭūri</forename>
+               <persName><!-- Update the id -->
+                  <forename>Mallampalli</forename>
                   <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
-                  <surname>Prabhākaraśāstri</surname>
+                  <surname>Sōmaśēkhara Śarma</surname>
                </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-            <idno type="filename">DHARMA_INSTelugu00098</idno>
+            <idno type="filename">DHARMA_INSTelugu00100</idno>
             <!-- Replace by filename, e.g. Pallava00001 -->
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -61,7 +61,9 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. -->
+                            The inscription was published without picture.
+                            </p>
                      <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -94,7 +96,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change when="2022-03-28" who="part:jeth">Initial encoding of the file</change>
+         <change when="2022-04-02" who="part:jeth">Initial encoding of the file</change>
          <change who="part:axja" when="2020-10-12">Version 3.2 : movinng the xml:lang to the root</change>
          <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
          <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
@@ -108,7 +110,14 @@
          <div type="edition" xml:lang="tel-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
              <p>
-                 <lb n="1"/>nāgabu
+                 <lb n="1"/>svasti śrī-sakalalōkāśraya-<lb break="no" n="2"/>śrī-jayasiṁghavallabha-mahā<lb break="no" n="3"/>rājulāku pravarddhamāna-vi<lb break="no" n="4"/><supplied reason="undefined">jaya</supplied><unclear>rā</unclear>jya-saṁvatsaraṁbu<lb break="no" n="5"/>ll eṇbodi Annēṇṭan paḷḷināṇṭi
+                 <lb n="6"/>dayāvesanu
+                 <lb n="7"/>prithivīdēśa-raṭṭaguḷḷa
+                 <lb n="8"/>muṭḷu danyavesanu prithivīdēśa-<lb break="no" n="9"/>raṭṭaguḷḷuvāriki muṭḷu kalyāṇa-da<lb break="no" n="10"/>sanula Icciri Arahanta-bhaṭā<lb break="no" n="11"/>raḷāku Āṟu puṭḷu
+                 <lb n="12"/>Āṟḷa paṭṭu sukṣētraṁbu
+                 <lb n="13"/>dēni tloṁṟūri raṭṭaguḷḷa Anva<lb break="no" n="14"/>yaṁbuna-vār evvaraiyumu rakṣimpan uṁna
+                 <lb n="15"/>paṁnu vḷāyuṁ dēniki Ahitaṁbu cintiñcu-<lb break="no" n="16"/><unclear>vāru</unclear>pañca-mahā-pātaka-saṁyuttu<gap reason="undefined" extent="unknown"/>
+                 <lb n="17"/><gap reason="undefined" quantity="1" unit="line"/>
              </p>
          </div>
          <div type="apparatus">
@@ -118,32 +127,25 @@
                      <lem><!-- fill in a lemma here --></lem>
                      <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
+                  <app loc="5">
+                      <lem>paḷḷināṇṭi</lem>
+                      <note>In Sōmaśēkhara Śarma’s Telugu edition the district is spelled <foreign>paḷlināṇṭi</foreign>. This is the way double ⟨ḷḷ⟩ is spelled in modern Telugu wherefore I presume that the inscription really shows ⟨ḷḷ⟩ since ⟨ḷl⟩ does not occur in the inscriptions that I could se a picture of. This ought to be the case in all the instances. Sometimes, however, Sōmaśēkhara Śarma’s edition indeed shows ⟨ḷḷ⟩ (e. g. line 8)</note>
+                  </app>
                </listApp>
          </div>
-         <div type="translation" resp="part:jeth">
+         <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
-             <p>
-                 snake
-             </p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-             <p>
-                 The inscription consists of the Sanskrit word <foreign>nāga-</foreign> “snake” with the Telugu suffix -<hi rend="italic">mbu</hi>. This suffix is typical for Telugu and is attached to <foreign>tatsama</foreign> words. There is no trace of an <foreign>anusvāra</foreign>. Prabhākaraśāstri explains this as a form of haplography or the loss of the first consonant respectively (పూర్వహల్లోపము). 
-                 Ramāprasād Canda edited the word as <hi rend="italic">nāga-bu</hi> so as if two words were involved and stated that <cit><quote>[t]his is probably the name of the stone-mason</quote><bibl rend="omitname"><citedRange unit="page">268</citedRange></bibl></cit>. According to Prabhākaraśāstri the stone is damaged but traces of a sculpture are still visible: <cit><quote>The damaged upper sculpture is a big snake (విఱుగఁగొట్టఁబడిన మీఁది శిల్పచిత్రము గొప్ప సర్పమై యుండును)</quote><bibl rend="omitname"><citedRange unit="page">934</citedRange></bibl></cit>. The stone does not bear any other inscriptions.
-             </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography -->
-           The inscription was noted in ARIE together with other (Prākṛt) inscriptions from Amarāvati that were found in the Central Museum of Madras. These inscriptions were published by Ramaprasad Chandra who added translations or short notes (the Telugu inscription has the number 30). The inscription was again published by Vēṭūri Prabhākaraśāstri together with a picture and a discussion.            </p>
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-        	 <bibl n="RC"><ptr target="bib:Chanda1919-1920_01"/><citedRange unit="page">258-275</citedRange><citedRange unit="item">13</citedRange></bibl>
-	<bibl n="VP"><ptr target="bib:Prabhākaraśāstri1928_01"/><citedRange unit="page">933-949</citedRange><citedRange unit="item">1</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
-	</listBibl>
+				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
            <listBibl type="secondary">
-               <bibl><ptr target="bib:ARIE1911-1914"/><citedRange unit="page">54</citedRange><citedRange unit="appendix">B/1913</citedRange><citedRange unit="item">499</citedRange></bibl>
-               <bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">1</citedRange><citedRange unit="item">1</citedRange></bibl>
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
