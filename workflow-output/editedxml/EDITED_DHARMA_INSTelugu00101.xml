@@ -23,9 +23,10 @@
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <!-- This may be the same as the creator of the file -->
-               <forename>Vēṭūri</forename>
-               <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
-               <surname>Prabhākaraśāstri</surname>
+               <persName ref="part:jeth">
+                  <forename>Jens Christian</forename>
+                  <surname>Thomas</surname>
+               </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -103,8 +104,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="tel-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
-            <!--edition encoded as per EGD §§2−7-->
+         <div type="edition" xml:lang="tel-Latn"><!-- This is the edition of Prabhākaraśāstri; however, there are several mistakes in his edition so that my own edition should replace his one -->
             <p xml:lang="tel-Latn">
                 <milestone unit="face" type="facelike" n="A"/>
              <lb n="1"/>svasti śrī magidogarajula muḍlu
@@ -200,7 +200,7 @@
                    </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:jeth">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="translation" source="bib:Sastri1969_01">
@@ -216,6 +216,7 @@
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
 				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+        	    <bibl n="PS"><ptr target="bib:Prabhākaraśāstri1928_01"/><citedRange unit="page">933-949</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
