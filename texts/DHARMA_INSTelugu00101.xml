@@ -15,17 +15,15 @@
                     <resp>EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
                     <persName ref="part:jeth"><!-- Update the id -->
-                        <forename>Jens</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                        <forename>Jens Christian</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
                         <surname>Thomas</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <!-- This may be the same as the creator of the file -->
-                    <persName ref="part:jodo"><!-- Update the id -->
-                        <forename>John</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
-                        <surname>Doe</surname>
-                    </persName>
+                        <forename>Vēṭūri</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Prabhākaraśāstri</surname>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -40,8 +38,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by John
-                            Doe.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                        <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -83,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change when="2022-04-06" who="part:jeth">Initial encoding of the file</change>
             <change who="part:axja" when="2020-10-12">Version 3.2 : movinng the xml:lang to the root</change>
             <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
@@ -93,7 +91,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+         <div type="edition" xml:lang="tel-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
          </div>
          <div type="apparatus">
