@@ -93,13 +93,44 @@
       <body>
          <div type="edition" xml:lang="tel-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
-            <p>
+            <p xml:lang="tel-Latn">
                 <milestone unit="face" type="facelike" n="A"/>
              <lb n="1"/>svasti śrī magidogarajula muḍlu
              <lb n="2"/>viṭṟajula pratama-rā<lb break="no" 
                    n="3"/>jyaṁbuna kaḍuvaṁ<unclear>ḍlu</unclear><lb break="no" 
-                   n="4"/>la 
-            </p>         
+                   n="4"/>la Iccina renḍuvaṭi
+             <lb n="5"/>miriyampu bōḷa<lb break="no" 
+                   n="6"/>jaku ṟeṁgari pe<lb break="no" 
+                   n="7"/>ḍaśina renḍuvaṭṭi
+             <lb n="8"/>padēnduṁbu Āḍlu pa<lb break="no" 
+                   n="9"/>ṭṭu druggādēvi nēlayu
+             <lb n="10"/>Uṟuvuṭuri bōḷa
+             <lb n="11"/>renḍuṭṭiyu tūṟpu
+                <milestone unit="face" type="facelike" n="B"/>
+             <lb n="12"/>ī renḍuṭṭi ḻacuvaru
+             <lb n="13"/>kaḷarēni bāranāsi
+             <lb n="14"/>vēgavilāḷu vēḍlu<lb break="no" 
+                   n="15"/>mu vēśeṟuvuḷu
+             <lb n="16"/>vēvuru paṟānu
+             <lb n="17"/>campinacannaṁgu
+             <lb n="18"/><gap reason="lost" unit="line" quantity="1"/>
+            </p> 
+            <p xml:lang="san-Latn">
+             <lb n="19"/>
+               <lg n="1" met="anuṣṭubh"><note>The śloka is not complete. The two <foreign>pādas</foreign> mentioned here normally form <foreign>pādas</foreign> 3 and 4 of a typical Sanskrit imprecation śloka. The next śloka is incomplete as well. This time because the last two <foreign>pādas</foreign> are missing. From the picture as published in the edition it is not possible to say whether there was more room on top of the stone for the effaced rest of the śloka (because the inscription is written from the bottom to the top), or whether the stone is broken on top. Regarding the overall bad writing of the Sanskrit lines it is also possible that the scribe wanted to write only one single śloka but mixed up two <foreign>pādas</foreign> of different ślokas each. The way these two parts a put together does not form a coherent thought and hence must have been a mistake.</note>
+                 <l n="c">yaśya yaśya ya<lb break="no" 
+                   n="20"/>tā bhūmi</l>
+                 <l n="d">taśya<lb 
+                   n="21"/>taśya tadhā palaṁ</l>
+             </lg>
+             <lb n="22"/>
+                <lg n="2" met="anuṣṭubh">
+                 <l n="a">svadattā parada<lb break="no" 
+                   n="23"/>tā vā</l> <l 
+                      n="b">yō<gap reason="lost" extent="unknown"></gap>
+                <lb n="24"/>pavaśundarā</l>
+             </lg>
+            </p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
@@ -110,20 +141,70 @@
                   </app>
                   <app loc="1">
                       <lem>magidogarajula</lem>
-                      <note>Prabhākaraśāstri states in a note that it should be <foreign>maṁgi</foreign>.</note>
+                      <note>Prabhākaraśāstri states in note no. 1 that it should be <foreign>maṁgi</foreign>.</note>
                   </app>
                    <app loc="1">
                        <lem>muḍlu</lem>
-                       <note>Prabhākaraśāstri remarks in a note that also <foreign>muṭlu</foreign> could be read. As far as I can say from the picture published in Prabhākaraśāstri's edition the <foreign>akṣara</foreign> resembles ⟨ṭ⟩ in line 4. Other instances of the word in question show ⟨ṭ⟩.</note>
+                       <note>Prabhākaraśāstri remarks in note no. 2 that also <foreign>muṭlu</foreign> could be read. As far as I can say from the picture published in Prabhākaraśāstri's edition the <foreign>akṣara</foreign> resembles ⟨ṭ⟩ in line 4. Other instances of the word in question show ⟨ṭ⟩.</note>
                    </app>
                    <app loc="3">
                        <lem>kaḍuvaṁ<unclear>ḍlu</unclear><lb break="no" n="4"/>la</lem>
-                       <note>Prabhākaraśāstri notes that ⟨du⟩ could be read as well, and that the reading of ⟨ḍlu⟩ is uncertain and also could be ⟨jlu⟩ (As far as I can say from my bad scan of Prabhākaraśāstri's article ⟨jlu⟩ is printed).</note>
+                       <note>Prabhākaraśāstri notes that ⟨du⟩ could be read as well, and that the reading of ⟨ḍlu⟩ is uncertain and also could be ⟨jlu⟩ (As far as I can say from my bad scan of Prabhākaraśāstri's article ⟨jlu⟩ is printed) (notes nos. 3-4).</note>
+                   </app>
+                   <app loc="5">
+                       <lem>bōḷa<lb break="no" n="6"/>jaku</lem>
+                       <note>Prabhākaraśāstri says in note no. 5 that it could also be ⟨kku⟩ instead of ⟨jaku⟩.</note>
+                   </app>
+                   <app loc="6">
+                       <lem>pe<lb break="no" n="7"/>ḍaśina</lem>
+                       <note>According to Prabhākaraśāstri the spelling should be ⟨pa⟩ (note no. 6); the respective verb would be <foreign>paḍayu</foreign>.</note>
+                   </app>
+                   <app loc="8">
+                      <lem>Āḍlu</lem>
+                      <note>Prabhākaraśāstri notes (no. 7) that on the left upper side of the <foreign>akṣara</foreign> ⟨Ā⟩ a line like the vowel sign ⟨°e⟩ is visible. This seems to me to be a mere damage on the stone.</note>
+                   </app>
+                   <app loc="11">
+                      <lem>renḍuṭṭiyu</lem>
+                      <note>In Prabhākaraśāstri's edition <foreign>renṭuṭḍiyu</foreign> is printed but that seems to be a mere misprint.</note>
+                   </app>
+                   <app loc="12">
+                       <lem>ḻacuvaru</lem>
+                       <note>Prabhākaraśāstri notes (note no. 8) that the form should be <foreign>ḻaccu</foreign>.</note>
+                   </app>
+                   <app loc="14">
+                       <lem>vēḍlu<lb break="no" n="15"/>mu</lem>
+                       <note>Prabhākaraśāstri states that it should be <foreign>vēguḍlu</foreign> (note 9).</note>
+                   </app>
+                   <app loc="16">
+                       <lem>paṟānu</lem>
+                       <note>Prabhākaraśāstri states in note no. 10 that it should be written <foreign>pāṟanu</foreign>.</note>
+                   </app>
+                   <app loc="17">
+                       <lem>cannaṁgu</lem>
+                       <note>According to Prabhākaraśāstri (note no. 11) the reading is unclear and also <foreign>canvaṁ</foreign> and <foreign>candhaṁ</foreign> are possible according to him (I have cited the alternative forms from the bad scan at my disposal).
+                       However, what is to be expected and what is written according to the picture of the estampage is <foreign>vanṟ agu</foreign> "he will be". The only odd thing is that the scribe forgot to write the horizontal line inside the <foreign>akṣara</foreign> ⟨ṟa⟩ so that it is an empty oval and thus resembles a ⟨dha⟩ or ⟨va⟩.</note>
+                   </app>
+                   <app loc="18">
+                       <lem><gap reason="lost" unit="line" quantity="1"/></lem>
+                       <note>According to Prabhākaraśāstri (note no. 12) this line is effaced. However, it seems to me that this line was intentionally left blank since the Telugu imprecation is not followed by a Sanskrit imprecation. The Telugu imprecation forms a complete sentence so that no further information is lacking.</note>
+                   </app>
+                   <app loc="20">
+                       <lem>taśya</lem>
+                       <note>Prabhākaraśāstri reads <foreign>taśyaśya</foreign>. The scan of Prabhākaraśāstri's article at my disposal is of a bad quality. On the picture I can see a shade of what could be interpreted as a ⟨śa⟩ but I can not see traces of subscript ⟨ya⟩. However, Prabhākaraśāstri may be right that the <foreign>akṣara</foreign> ⟨śa⟩ was written twice by mistake.</note>
+                   </app>
+                   <app loc="24">
+                       <lem>pavaśundarā</lem>
+                       <note>There is still space in this line but no <foreign>akṣara</foreign> seems to be written there. Hence, the scribe must have deemed his work finished. Prabhākaraśāstri read the first <foreign>akṣara</foreign> of this line as ⟨pa⟩ but in my opinion it more resembles ⟨ṣa⟩. I think that this ⟨ṣa⟩ is the first <foreign>akṣara</foreign> of the third <foreign>pāda</foreign> of the respective <foreign>śloka</foreign> the first two <foreign>pādas</foreign> of which have been encarved on the stone. This corroborates my idea that the scribe mixed up two different <foreign>ślokas</foreign> and made the best out of it.</note>
                    </app>
                </listApp>
          </div>
          <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="translation" source="bib:Sastri1969_01">
+             <p>
+                 Hail! In the first year of the reign of Viṭrajulu, officer of Magi Dogarajulu, Ṟengari having obtained two <hi rend="italic">puṭṭis</hi> of land sowable with fifteen <hi rend="italic">tūmus</hi> of paddy in the village of Kaḍavaṁḍlu, granted (it) to Miriyampu bōḷaja. The land belonging to Durgādēvi, and the two <hi rend="italic">puṭṭis</hi> of land of Uṟuvuṭūri bōḷa (i.e. the bōḷa of Uṟuvuṭūru) are (the boundaries) on the east. If there are any who obstruct (the grant of) these two <hi rend="italic">puṭṭis</hi> (<hi rend="italic">paṭṭi ?</hi>) (they will suffer) in the manner (of those) who killed a thousand cows, destroyed a thousand temples, and a thousand tanks, and killed a thousand brahmins in Bāranāsi.<note>K. M. Sastri left out the Sanskrit part in both his translation and re-edition of the text.</note>
+             </p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -136,6 +217,7 @@
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+               <bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">294-295</citedRange><citedRange unit="item">20</citedRange></bibl>
            </listBibl>
         </div>
       </body>
