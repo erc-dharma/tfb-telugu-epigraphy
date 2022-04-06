@@ -59,7 +59,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <p>The inscription is written from the bottom to the top. <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                      <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -105,6 +105,11 @@
       <body>
          <div type="edition" xml:lang="tel-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
+            <p>
+                <milestone unit="face" type="facelike" n="A"/>
+             <lb n="1"/>svasti śrī magidogarajula muḍlu
+             <lb n="2"/>viṭṟajula pratama-rā<lb break="no" n="3"/>jyaṁbuna kaḍuvaṁ<unclear>ḍlu</unclear><lb break="no" n="4"/>la 
+            </p>         
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
@@ -113,6 +118,18 @@
                      <lem><!-- fill in a lemma here --></lem>
                      <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
+                  <app loc="1">
+                      <lem>magidogarajula</lem>
+                      <note>Prabhākaraśāstri states in a note that it should be <foreign>maṁgi</foreign>.</note>
+                  </app>
+                   <app loc="1">
+                       <lem>muḍlu</lem>
+                       <note>Prabhākaraśāstri remarks in a note that also <foreign>muṭlu</foreign> could be read. As far as I can say from the picture published in Prabhākaraśāstri’s edition the <foreign>akṣara</foreign> resembles ⟨ṭ⟩ in line 4. Other instances of the word in question show ⟨ṭ⟩.</note>
+                   </app>
+                   <app loc="3">
+                       <lem>kaḍuvaṁ<unclear>ḍlu</unclear><lb break="no" n="4"/>la</lem>
+                       <note>Prabhākaraśāstri notes that ⟨du⟩ could be read as well, and that the reading of ⟨ḍlu⟩ is uncertain and also could be ⟨jlu⟩ (As far as I can say from my bad scan of Prabhākaraśāstri’s article ⟨jlu⟩ is printed).</note>
+                   </app>
                </listApp>
          </div>
          <div type="translation">
