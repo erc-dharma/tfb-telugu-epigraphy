@@ -189,7 +189,13 @@
                        <note>According to Prabhākaraśāstri (note no. 12) this line is effaced. However, it seems to me that this line was intentionally left blank since the Telugu imprecation is now followed by a Sanskrit imprecation. The Telugu imprecation forms a complete sentence so that no further information is lacking.</note>
                    </app>
                    <app loc="19">
-                       <lem>yaśya</lem>
+                       <lem>
+               <lg n="1" met="anuṣṭubh">
+                 <l n="c">yaśya yaśya ya<lb break="no" 
+                   n="20"/>tā bhūmi</l>
+                 <l n="d">taśya<lb 
+                   n="21"/>taśya tadhā palaṁ</l>
+             </lg></lem>
                        <note>The śloka is not complete. The two <foreign>pādas</foreign> mentioned here normally form <foreign>pādas</foreign> 3 and 4 of a typical Sanskrit imprecation śloka. The next śloka is incomplete as well. This time because the last two <foreign>pādas</foreign> are missing. From the picture as published in the edition it is not possible to say whether there was more room on top of the stone for the effaced rest of the śloka (because the inscription is written from the bottom to the top), or whether the stone is broken on top. Regarding the overall bad writing of the Sanskrit lines it is also possible that the scribe wanted to write only one single śloka but mixed up two <foreign>pādas</foreign> of different ślokas each. The way these two parts a put together does not form a coherent thought and hence must have been a mistake.</note>
                    </app>
                    <app loc="20">
