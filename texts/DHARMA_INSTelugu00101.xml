@@ -14,9 +14,9 @@
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:jodo"><!-- Update the id -->
-                        <forename>John</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
-                        <surname>Doe</surname>
+                    <persName ref="part:jeth"><!-- Update the id -->
+                        <forename>Jens</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Thomas</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
