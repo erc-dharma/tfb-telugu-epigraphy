@@ -10,14 +10,14 @@
          <titleStmt>
             <title>Grant of the paḍuvāraṁbu to three villages by Kalimuḍirāju</title>
             <respStmt>
-               <resp>Creation of file</resp>
+               <resp>EpiDoc Encoding</resp>
                <persName ref="part:jeth">
                   <forename>Jens Christian</forename>
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp>intellectual authorship of edition</resp><!-- should be added to Aiyer with my changes in the notes -->
                <persName ref="part:jeth">
                   <forename>Jens Christian</forename>
                   <surname>Thomas</surname>
@@ -75,8 +75,17 @@
          <div type="edition" xml:lang="tel-Latn">
             <p>
                <milestone type="pagelike" unit="face" n="A"/>
-              <lb n="1"/>svasti śrimaT sakalalōkāśrayajayasiṁgha<lb n="2" break="no"/>vallabhamahārājulākuN pravarddhamānavijayarā<lb n="3" break="no"/>jyasaṁvatsaraṁbuḶ Eṇuṁbodi Ann-ēṇṭi Armmapūṇṇa<lb n="4" break="no"/>ma nāṇḍuṁ mlāviṁḍirājula muṭḷu kalimuḍirājuL
-              <lb n="5"/>mlāviṁḍi samudrarakṣanāku baṇi sēsina kalvavī<lb n="6" break="no"/>ḻa kuṟla maddikāḍu mūṭiki vitpaṟti uttaraṁbuna pulo<lb n="7" break="no"/>ṁbuna ceṟuvu paḍumāṟi kō<surplus>r</surplus>ṭa Eṇuṁbodi puṭḷu Ā<lb n="8" break="no"/>ṟla paṭṭu sēnu tūrppuna kōṭi tā<unclear>ḻu</unclear>tōṁṭaḷāyu paḍuvā<lb n="9" break="no"/>raṁbu icciri pāṟa paḍuvāraṁbu mlāvi<unclear>ṁ</unclear>ḍīśvaraṁbuna kaḷā<lb n="10" break="no"/>kaṇḍugum icci kuḍucuvāru yiṟla kānu Ē-veṟuguvā<lb n="11" break="no"/>ru vitpaṟti gāṇaṁbu<unclear>n dho</unclear>lgoṭṭu<unclear>na</unclear>ṁ gāṇaṁbu cuvvuṭūru gāṇaṁbu
+              <lb n="1"/>svasti śrimaT sakalalōkāśrayajayasiṁgha<lb break="no" 
+                  n="2"/>vallabhamahārājulākuN pravarddhamānavijayarā<lb break="no" 
+                  n="3"/>jyasaṁvatsaraṁbuḶ Eṇuṁbodi Ann-ēṇṭi Armmapūṇṇa<lb break="no" 
+                  n="4"/>ma nāṇḍuṁ mlāviṁḍirājula muṭḷu kalimuḍirājuL
+              <lb n="5"/>mlāviṁḍi samudrarakṣanāku baṇi sēsina kalvavī<lb break="no" 
+                  n="6"/>ḻa kuṟla maddikāḍu mūṭiki vitpaṟti uttaraṁbuna pulo<lb break="no" 
+                  n="7"/>ṁbuna ceṟuvu paḍumāṟi kō<surplus>r</surplus>ṭa Eṇuṁbodi puṭḷu Ā<lb break="no" 
+                  n="8"/>ṟla paṭṭu sēnu tūrppuna kōṭi tā<unclear>ḻu</unclear>tōṁṭaḷāyu paḍuvā<lb break="no" 
+                  n="9"/>raṁbu icciri pāṟa paḍuvāraṁbu mlāvi<unclear>ṁ</unclear>ḍīśvaraṁbuna kaḷā<lb break="no" 
+                  n="10"/>kaṇḍugum icci kuḍucuvāru yiṟla kānu Ē-veṟuguvā<lb break="no" 
+                  n="11"/>ru vitpaṟti gāṇaṁbu<unclear>n dho</unclear>lgoṭṭu<unclear>na</unclear>ṁ gāṇaṁbu cuvvuṭūru gāṇaṁbu
               <lb n="12"/><gap reason="undefined" unit="character" quantity="10" precision="low"/><unclear>vra</unclear>ccinavāru bārāṇasi vēvru<!-- Here and in the following lines the missing words have to be added. If this is done delete app @12 -->
               <lb n="13"/><gap reason="undefined" unit="character" quantity="10" precision="low"/>līḍisa <unclear>sa</unclear>mudraṁbu malā
               <lb n="14"/><gap reason="undefined" unit="character" quantity="11" precision="low"/>ḍisenavadiki
@@ -208,30 +217,29 @@
  	   Having given the <foreign>paḍuvāraṁbu</foreign> for the brahmins and sixteen <foreign>khaṇḍukas</foreign> (i. e. a grain measure) at Mlāviṁḍīśvaraṁbu (i. e. probably a temple) 
  	   they may enjoy (the remaining income). Those who know that these (terms) are like this are the communities of Vitpaṟṟu, Dholgoṭṭu and Cuvvuṭūru.
  	  
- 	  (Who so ever) impedes (it has quasi killed) thousand (brahmins at) Varāṇasi. [...] <!-- if the lines can be reconstructed a translation should be possible -->
+ 	  (Who so ever) impedes (it has quasi killed) thousand (brahmins at) Varāṇasi. [...]</p> <!-- if the lines can be reconstructed a translation should be possible -->
  	  
- 	  Many kings bestowed a grant /
- 	  And many had it well protected /
- 	  Who so ever owns the land /
- 	  Will have profit get extracted //1//
+ 	  <p rend="stanza" n="1">Many kings bestowed a grant /
+ 	  <lb/>And many had it well protected /
+ 	  <lb/>Who so ever owns the land /
+ 	  <lb/>Will have profit get extracted //1//</p>
  	  
- 	  What he gave or someone else /
- 	  Who acts to its detriment /
- 	  For sixty thousand years as worm /
- 	  Will be born in excrement //2//
+ 	  <p rend="stanza" n="2">What he gave or someone else /
+ 	  <lb/>Who acts to its detriment /
+ 	  <lb/>For sixty thousand years as worm /
+ 	  <lb/>Will be born in excrement //2//</p>
  	  
- 	  The grant of land, a gift that grand /
- 	  Neither was nor will there be /
- 	  And viler deed as to impede /
- 	  Neither was nor will there be //3//
+ 	  <p rend="stanza" n="3">The grant of land, a gift that grand /
+ 	  <lb/>Neither was nor will there be /
+ 	  <lb/>And viler deed as to impede /
+ 	  <lb/>Neither was nor will there be //3//</p>
  	  
- 	  Brahmins' posessions of poisonous essence /
- 	  Who confiscates, oh king o'the world /
- 	  [...] /
- 	  [...] //4//
+ 	  <p rend="stanza" n="4">Brahmins' posessions of poisonous essence /
+ 	  <lb/>Who confiscates, oh king o'the world /
+ 	  <lb/>[...] /
+ 	  <lb/>[...] //4//</p>
  	  
  	  <!-- can the missing lines be restored?  -->
- 	   </p>
          </div>
          <div type="commentary">
             <p>
@@ -244,7 +252,7 @@
               The Sanskrit imprecation verses are well known from other inscriptions apart from verse no. 4 that I could not find in the material at my disposal. The basic idea may be found in other verses where it is said that a brahmin's possession (<foreign>brahmasvaṁ</foreign>) is like poison (<foreign>viṣa</foreign>-). Yet, the phrasing as can be found in this inscription seems to be rare (or unique) wherefore the missing parts could not be filled in.
             </p>
          </div>
-        <div type="bibliography">
+        <div type="bibliography"><!-- FURTHERMORE HTL PP. 1307-1309; this was overlooked by Radha Krishna -->
           <p>
            The inscription was noted in A. R. No. 147 of 1899 <!-- has to be adjusted to the @target -->and first published by Subrahmanya Aiyer without picture and without translation (<bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1928_01"/><citedRange unit="page">208-209</citedRange><citedRange unit="item">584</citedRange></bibl>). K. M. Sastri re-edits the same text and provides a translation (<bibl rend="omitname"><ptr target="bib:Sastri1969_01"/><citedRange unit="page">286</citedRange><citedRange unit="item">10</citedRange></bibl>). He regards <bibl rend="omitname"><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> nos. 584 and 585 to form one inscription. 
           </p>
