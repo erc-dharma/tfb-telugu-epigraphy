@@ -60,7 +60,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>The inscription is written from the bottom to the top. The <foreign>anusvāra</foreign> is placed on top of the <foreign>akṣara</foreign> that it is pronounced before, e. g. lines 3 and 8 ⟨ṁbu⟩ (written as if denoting ⟨buṁ⟩). This is a feature that can be observed in several early Telugu inscriptions. <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <p>The inscription is written from the bottom to the top. The <foreign>anusvāra</foreign> is placed on top of the <foreign>akṣara</foreign> that it is pronounced before, e. g. lines 3 and 8 ⟨ṁbu⟩ (written as if denoting ⟨buṁ⟩). This is a feature that can be observed in several early Telugu inscriptions. The head of the <foreign>akṣaras</foreign> is often written in an ornate manner in form of a little circle.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                      <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -108,11 +108,11 @@
             <p xml:lang="tel-Latn">
                 <milestone unit="face" type="facelike" n="A"/>
              <lb n="1"/>svasti śrī magidogarajula muṭlu
-             <lb n="2"/>viṭṟajula pratama-rā<lb break="no" n="3"/>jyaṁbuna kaḍuvaṁ<unclear>ḍlu</unclear><lb break="no" n="4"/>la Iccina renḍuvaṭi
-             <lb n="5"/>miriyampu bōḷa<lb break="no" n="6"/>jaku ṟeṁgari pe<lb break="no" n="7"/>ḍaśina renḍuvaṭṭi
-             <lb n="8"/>padēnduṁbu Āḍlu pa<lb break="no" n="9"/>ṭṭu druggādēvi nēlayu
+             <lb n="2"/>viṭṟajula pratama-rā<lb break="no" n="3"/>jyaṁbuna kaḍu<unclear>mallu</unclear><lb break="no" n="4"/>la Iccina reṇḍu vaṭi<!-- THIS COULD BE A PAḌI "A MEASURE OF CAPACITY CONTAINING A SEER AND A HALF" (PERCIVAL) -->
+             <lb n="5"/>miriyampu<!-- PLACES STARTING WITH MIRIYA- CAN BE FOUND AROUND LAKṢMĪPURAM --> bōḷa<lb break="no" n="6"/>jakkuṟe<unclear>ṁ</unclear>gari<!-- THIS COULD BE ṟē- "ruler" + gāru honorific suffix; jakku would be left as name then; it could be identical with the jakkulu "demi-gods" < Sanskrit yakṣa-; jakkaṟē- would hence be yakṣarāja- = Kubēra. --> pa<lb break="no" n="7"/>ḍaśina renḍu vaṭṭi<!-- VAṬṬI = PAṬṬĪ "A PLOT OF LAND" (SIRCAR 1966: 246 AD EI 9 & 4 INDICES; the grammatical form here could be a genitive qualifying padēnduṁbu; or: an appositive phrase) -->
+             <lb n="8"/>padēnduṁbu Āḍlu pa<lb break="no" n="9"/>ṭṭu druggādēvi<!-- It seems odd to name the land after a deity and call it a name at this position anyway; perhaps it is something else --> nēlayu
              <lb n="10"/>Uṟuvuṭuri bōḷa
-             <lb n="11"/>renḍuṭṭiyu tūṟpu
+             <lb n="11"/>renḍuṭṭiyu<!-- seems to be reṇḍūṭṭi; in this case probably from < reṇḍuvaṭṭi --> tūṟpu
                 <milestone unit="face" type="facelike" n="B"/>
              <lb n="12"/>ī renḍuṭṭi ḻacuvaru
              <lb n="13"/>kaḷarēni bāranāsi
@@ -151,16 +151,23 @@
                        <note>Prabhākaraśāstri remarks in note no. 2 that also <foreign>muṭlu</foreign> could be read. As far as I can say from the picture published in Prabhākaraśāstri’s edition the <foreign>akṣara</foreign> resembles ⟨ṭ⟩ in line 4. Other instances of the word in question show ⟨ṭ⟩.</note>
                    </app>
                    <app loc="3">
-                       <lem>kaḍuvaṁ<unclear>ḍlu</unclear><lb break="no" n="4"/>la</lem>
-                       <note>Prabhākaraśāstri notes that ⟨du⟩ could be read as well, and that the reading of ⟨ḍlu⟩ is uncertain and also could be ⟨jlu⟩ (As far as I can say from my bad scan of Prabhākaraśāstri’s article ⟨jlu⟩ is printed) (notes nos. 3-4).</note>
+                       <lem>kaḍu<unclear>mallu</unclear><lb break="no" n="4"/>la</lem>
+                       <rdg source="bib:Prabhākaraśāstri1928_01">kaḍuvaṁ<unclear>ḍlu</unclear><lb break="no" n="4"/>la</rdg>
+                       <note>Prabhākaraśāstri notes that ⟨du⟩ could be read as well, and that the reading of ⟨ḍlu⟩ is uncertain and also could be ⟨jlu⟩ (notes nos. 3-4). The <foreign>akṣara</foreign> in question indeed looks like ⟨jlu⟩. As far as I can say from my bad scan the <foreign>akṣara</foreign> that was read as ⟨va⟩ by Prabhākara Śāstri could also be ⟨ma⟩. The following <foreign>akṣara</foreign> could be ⟨lla⟩ as spelled in the Zulakallu plates of Vijayāditya I (line 17) (<bibl><ptr target="bib:Gai1965-1966_01"/></bibl>), i. e. with the right upward line of the superscript ⟨l⟩ drawn downwards on the left side ending into subscript ⟨l⟩. The single ⟨la⟩ is written in its fuller form in line 4 of our Telugu inscription but also occurs in a slightly more advanced form in line 14.</note>
                    </app>
-                   <app loc="5">
-                       <lem>bōḷa<lb break="no" n="6"/>jaku</lem>
-                       <note>Prabhākaraśāstri says in note no. 5 that it could also be ⟨kku⟩ instead of ⟨jaku⟩.</note>
+                   <app loc="4">
+                       <lem>reṇḍu</lem>
+                       <rdg source="bib:Prabhākaraśāstri1928_01">renḍu</rdg>
                    </app>
                    <app loc="6">
-                       <lem>pe<lb break="no" n="7"/>ḍaśina</lem>
-                       <note>According to Prabhākaraśāstri the spelling should be ⟨pa⟩ (note no. 6); the respective verb would be <foreign>paḍayu</foreign>.</note>
+                       <lem>jakkuṟe<unclear>ṁ</unclear>gari</lem>
+                       <rdg source="bib:Prabhākaraśāstri1928_01">jaku ṟeṁgari</rdg>
+                       <note>Prabhākaraśāstri says in note no. 5 that it could also be ⟨kku⟩ instead of ⟨ku⟩. <foreign>Jakkuṟe</foreign>- seems to me to be one word consisting of two elements in which the <foreign>anusvāra</foreign> would be superfluous (see commentary). However, a dot can be seen on top of the <foreign>akṣara</foreign> ⟨ga⟩ that may also be a damage on the stone though.</note>
+                   </app>
+                   <app loc="6">
+                       <lem>pa<lb break="no" n="7"/>ḍaśina</lem>
+                       <rdg source="bib:Prabhākaraśāstri1928_01">pe<lb break="no" n="7"/>ḍaśina</rdg>
+                       <note>According to Prabhākaraśāstri the spelling should be ⟨pa⟩ (note no. 6); the respective verb would be <foreign>paḍayu</foreign>. The line that Prabhākaraśāstri read as the vowel sign ⟨°e⟩ starts on the left side from the middle of the <foreign>akṣara</foreign> ⟨pa⟩. That would be very unusual because this vowel is normally written on the upper left line of the <foreign>akṣara</foreign>. The alleged vowel sign may therefore be simply a damage on the stone.</note>
                    </app>
                    <app loc="8">
                       <lem>Āḍlu</lem>
