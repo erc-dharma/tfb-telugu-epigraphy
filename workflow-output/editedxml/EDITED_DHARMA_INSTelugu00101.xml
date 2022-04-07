@@ -60,7 +60,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>The inscription is written from the bottom to the top. <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <p>The inscription is written from the bottom to the top. The <foreign>anusvāra</foreign> is placed on top of the <foreign>akṣara</foreign> that it is pronounced before, e. g. lines 3 and 8 ⟨ṁbu⟩ (written as if denoting ⟨buṁ⟩). This is a feature that can be observed in several early Telugu inscriptions. <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                      <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -107,7 +107,7 @@
          <div type="edition" xml:lang="tel-Latn"><!-- This is the edition of Prabhākaraśāstri; however, there are several mistakes in his edition so that my own edition should replace his one -->
             <p xml:lang="tel-Latn">
                 <milestone unit="face" type="facelike" n="A"/>
-             <lb n="1"/>svasti śrī magidogarajula muḍlu
+             <lb n="1"/>svasti śrī magidogarajula muṭlu
              <lb n="2"/>viṭṟajula pratama-rā<lb break="no" n="3"/>jyaṁbuna kaḍuvaṁ<unclear>ḍlu</unclear><lb break="no" n="4"/>la Iccina renḍuvaṭi
              <lb n="5"/>miriyampu bōḷa<lb break="no" n="6"/>jaku ṟeṁgari pe<lb break="no" n="7"/>ḍaśina renḍuvaṭṭi
              <lb n="8"/>padēnduṁbu Āḍlu pa<lb break="no" n="9"/>ṭṭu druggādēvi nēlayu
@@ -146,7 +146,8 @@
                       <note>Prabhākaraśāstri states in note no. 1 that it should be <foreign>maṁgi</foreign>.</note>
                   </app>
                    <app loc="1">
-                       <lem>muḍlu</lem>
+                       <lem>muṭlu</lem>
+                       <rdg source="bib:Prabhākaraśāstri1928_01">muḍlu</rdg>
                        <note>Prabhākaraśāstri remarks in note no. 2 that also <foreign>muṭlu</foreign> could be read. As far as I can say from the picture published in Prabhākaraśāstri’s edition the <foreign>akṣara</foreign> resembles ⟨ṭ⟩ in line 4. Other instances of the word in question show ⟨ṭ⟩.</note>
                    </app>
                    <app loc="3">
@@ -218,6 +219,9 @@
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+             <p>
+               My own reading is based on the picture in Prabhākara Śāstri’s edition. I only had acces to a bad scan. That is why my reading might be faulty in one or other place.
+             </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
