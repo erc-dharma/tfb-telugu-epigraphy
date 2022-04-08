@@ -55,7 +55,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>The inscription is written from the bottom to the top. The <foreign>anusvāra</foreign> is placed on top of the <foreign>akṣara</foreign> that it is pronounced before, e. g. lines 3 and 8 ⟨ṁbu⟩ (written as if denoting ⟨buṁ⟩). This is a feature that can be observed in several early Telugu inscriptions. The head of the <foreign>akṣaras</foreign> is often written in an ornate manner in form of a little circle. There <hi rend="italic">may</hi> be one <foreign>halanta</foreign> in line 11 (⟨N⟩), written very small and without "head".<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <p>The inscription is written from the bottom to the top. The <foreign>anusvāra</foreign> is placed on top of the <foreign>akṣara</foreign> that it is pronounced before, e. g. lines 3 and 8 ⟨ṁbu⟩ (written as if denoting ⟨buṁ⟩). This is a feature that can be observed in several early Telugu inscriptions. The head of the <foreign>akṣaras</foreign> is often, but not always, written in an ornate manner in form of a little circle. There <hi rend="italic">may</hi> be one <foreign>halanta</foreign> in line 11 (⟨N⟩), written very small and without "head".<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                             <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -219,7 +219,19 @@
          </div>
          <div type="translation" resp="part:jeth">
  	<!--translation encoded as per EGD §9.2 -->
+             <p>
+                 Svasti! 
+             </p>
          </div>
+          <div type="translation" source="bib:Prabhākaraśāstri1928_01">
+            <p>
+                <note>Prabhākaraśāstri does not give a translation proper but rather a paraphrase in the form of an annotated translation. He later discusses each word separately and extensively. This annotated translation, however, is very valuable and briefly shows his interpretation of the inscription.</note>
+              తూర్పు చాళుక్యరాజగు మంగియువరాజు రాజ్యమేలుచుండఁగా నాతని క్రింది చిన్ని యేలికయో, మండలాధిపుఁడో, యుద్యోగియో అగు విట్రాజురాజ్యమున కడవండ్లులగ్రామమున మిరియంపు బోళజయనువానికొఱకయి ఱెంగఱియనువాఁడు పదునేదుము ఆళ్లవిత్తనాలు పట్టునట్టి రెండుపట్ల భూమిని పడసెననియు ఆభూమికిఁదూర్పు సీమాచిహ్నములు దుర్గాదేవి నేలయను, ఉఱువుటూరి బోలరెండుట్టి (రెండుపట్ల భూమిని)యు ననియు ఈ రెండుపట్ల భూమిని జెఱచువారు కలరేని వారు వారణాశిలో వేయి కపిలగోవులను, వేయిగుళ్లను, వేయిచెఱువులను, వేవురు బ్రాహ్మణులను జంపినపాపమును గుడుతురనియు, శాసనార్థముగా నాకుఁదోఁచివది. 'యస్య యస్య యదా భూమి' రిత్యాది సర్వశాసన సాధారణశ్లోకము కడపటి నున్నది.  
+            </p>
+            <p>
+                ['While Mangiyuvarāju, ruler of the eastern Calukyas, was exerting (his) rule, during the rule of Viṭrāju, being either a small ruler under him (i. e. Mangiyuvarāju), a head of a district (<foreign>maṅgalādhipa</foreign>-), or an official', a person called Ṟeṁgaṟi acquired for the sake of the person called Mariyaṁpu Bōḷaja in a village called Kaḍavaṁḍlula land of two <foreign>paṭṭis</foreign><note>Prabhākaraśāstri states that the meaning of <foreign>reṁḍuvaṭi</foreign> (being a <foreign>dvigu</foreign>) is unclear but that the following ideas could match: it could denote a landscape, a donation, a land size, or a specific type of land. Prabhākaraśāstri uses "land of two <foreign>paṭṭis</foreign>" without changing the term much or paraphrasing it (<bibl rend="omitname"><citedRange unit="page">940-941</citedRange></bibl>). That is why I kept it untranslated in the translation of Prabhākaraśāstri's text.</note> that contain (పట్టునట్టి) grains of millet of fifteen <foreign>tūmu</foreign>. To the east of that land the signs of the border (are) the land of the goddess Durgā and the (land) of Uṟuvuṭūri Bōla of two <foreign>paṭṭis</foreign>. If someone spoils this land of two <foreign>paṭṭis</foreign> he will experience (కుడుతురు) the sins of having killed thousand cows<note>The Telugu text has two words here, the first being that of the inscription and the second an explanation (కపిలగోవులను)</note> thousand temples, thousand tanks and thousand brahmins in Vārāṇasī. That seems to me to be the meaning of the inscription. The <foreign>śloka</foreign> '<foreign>yasya yasya yadā bhūmir</foreign>' etc. that is common to all inscriptions is at the end. (translation by Jens Christian Thomas)]
+            </p>
+          </div>
          <div type="translation" source="bib:Sastri1969_01">
              <p>
                  Hail! In the first year of the reign of Viṭrajulu, officer of Magi Dogarajulu, Ṟengari having obtained two <hi rend="italic">puṭṭis</hi> of land sowable with fifteen <hi rend="italic">tūmus</hi> of paddy in the village of Kaḍavaṁḍlu, granted (it) to Miriyampu bōḷaja. The land belonging to Durgādēvi, and the two <hi rend="italic">puṭṭis</hi> of land of Uṟuvuṭūri bōḷa (i.e. the bōḷa of Uṟuvuṭūru) are (the boundaries) on the east. If there are any who obstruct (the grant of) these two <hi rend="italic">puṭṭis</hi> (<hi rend="italic">paṭṭi ?</hi>) (they will suffer) in the manner (of those) who killed a thousand cows, destroyed a thousand temples, and a thousand tanks, and killed a thousand brahmins in Bāranāsi.<note>K. M. Sastri left out the Sanskrit part in both his translation and re-edition of the text.</note>
@@ -228,12 +240,19 @@
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
              <p>
-               My own reading is based on the picture in Prabhākara Śāstri's edition. I only had acces to a bad scan. That is why my reading might be faulty in one or other place.
+               I have to stress that my own reading is based on the picture in Prabhākaraśāstri's edition. I only had access to a bad scan. That is why my reading might be faulty in one or the other place and I apologize if I mistakingly "correct" Prabhākaraśāstri's edition for the bad.
+               
+               Prabhākaraśāstri interprets <foreign>kaḍuvaṁ<unclear>ḍlu</unclear>la</foreign>, as he reads it, in lines 3-4 as the name of a village in the locative (<cit><quote>కడువండ్లులగ్రామమున [kaḍuvaṁḍlulagrāmamuna]</quote><bibl rend="omitname"><citedRange unit="page">937</citedRange></bibl></cit>). He regards <foreign>miriyampu bōḷaja</foreign> (with the dative suffix -<foreign>ku</foreign>) as the donée and <foreign>ṟeṁgari</foreign> as the donor (<bibl rend="omitname"><citedRange unit="page">937-937</citedRange></bibl>).
+                 
+                 
+                 Nārāyaṇarāvu does not give a translation but provides short word explanations that sometimes differ from Prabhākaraśāstri. 
              </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography -->
+           The inscription was edited by V. Prabhākaraśāstri together with a picture, a paraphrased translation and a detailed discussion. The inscription was re-edited by C. Nārāyaṇarāvu who added a short word explanation, by K. M. Sastri who added a translation, and by B. Radha Krishna. The latter three referred to the text as edited by Prabhākaraśāstri. 
+           </p>
         	<listBibl type="primary">
 				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
         	    <bibl n="PS"><ptr target="bib:Prabhākaraśāstri1928_01"/><citedRange unit="page">933-949</citedRange></bibl>
