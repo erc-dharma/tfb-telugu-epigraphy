@@ -92,7 +92,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="tel-Latn"><!-- This is the edition of Prabhākaraśāstri; however, there are several mistakes in his edition so that my own edition should replace his one -->
+         <div type="edition" xml:lang="tel-Latn">
             <p xml:lang="tel-Latn">
                 <milestone unit="face" type="facelike" n="A"/>
              <lb n="1"/>svasti śrī magidogarajula muṭlu
@@ -100,7 +100,7 @@
                    n="3"/>jyaṁbuna kaḍu<unclear>mallu</unclear><lb break="no" 
                    n="4"/>la Iccina reṇḍu vaṭi<!-- THIS COULD BE A PAḌI "A MEASURE OF CAPACITY CONTAINING A SEER AND A HALF" (PERCIVAL) or already paṭṭī "a plot of land" -->
              <lb n="5"/>miriyampu<!-- PLACES STARTING WITH MIRIYA- CAN BE FOUND AROUND LAKṢMĪPURAM --> bōḷa<lb break="no" 
-                   n="6"/>jakkuṟe<unclear>ṁ</unclear>gari<!-- THIS COULD BE ṟē- "ruler" + gāru honorific suffix; jakku would be left as name then; it could be identical with the jakkulu "demi-gods" < Sanskrit yakṣa-; jakkaṟē- would hence be yakṣarāja- = Kubēra. --> pa<lb break="no" 
+                   n="6"/>jakkuṟēgari<!-- THIS COULD BE ṟē- "ruler" + gāru honorific suffix; jakku would be left as name then; it could be identical with the jakkulu "demi-gods" < Sanskrit yakṣa-; jakkaṟē- would hence be yakṣarāja- = Kubēra. --> pa<lb break="no" 
                    n="7"/>ḍaśina reṇḍu vaṭṭi<!-- reṇḍu VAṬṬI = PAṬṬĪ "A PLOT OF LAND" (SIRCAR 1966: 246 AD EI 9 & 4 INDICES; the grammatical form here could be a genitive qualifying padēnduṁbu; or: an appositive phrase) -->
              <lb n="8"/>padēnduṁbu Āḍlu pa<lb break="no" 
                    n="9"/>ṭṭu druggādēvi<!-- with metathesis from durggā; double gg is not the reflex of the written form of the doubled consonant after repha but retains the phonotactic structure of the word --> nēlayu
@@ -119,16 +119,16 @@
              <lb n="19"/>
                <lg n="1" met="anuṣṭubh">
                  <l n="c">ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<lb break="no" 
-                   n="20"/><choice><orig>t</orig><reg>d</reg></choice>ā bhūmi<supplied reason="omitted">ḥ</supplied></l>
-                 <l n="d">ta<choice><orig>ś</orig><reg>s</reg></choice>ya<lb 
-                   n="21"/>ta<choice><orig>ś</orig><reg>s</reg></choice>ya ta<choice><orig>dh</orig><reg>d</reg></choice>ā <choice><orig>p</orig><reg>ph</reg></choice>alaṁ</l>
+                   n="20"/><choice><orig>t</orig><reg>d</reg></choice>ā bhūmi<supplied reason="omitted">s</supplied></l>
+                 <l n="d">ta<choice><orig>ś</orig><reg>s</reg></choice>ya <surplus><unclear>śa</unclear></surplus><lb 
+                   n="21"/>ta<choice><orig>ś</orig><reg>s</reg></choice>ya ta<choice><orig>th</orig><reg>d</reg></choice>ā <choice><orig>p</orig><reg>ph</reg></choice>a<unclear>la</unclear><supplied reason="lost">ṁ</supplied></l>
              </lg>
              <lb n="22"/>
                 <lg n="2" met="anuṣṭubh">
-                 <l n="a">svadattā parada<lb break="no" 
-                   n="23"/>tā vā</l> <l 
-                      n="b">yō<gap reason="lost" extent="unknown"></gap>
-                <lb n="24"/>pavaśundarā</l>
+                 <l n="a">svadat<unclear>ā</unclear> pa<unclear>ra</unclear>da<lb break="no" 
+                   n="23"/>tā va</l> <l 
+                      n="b">yō <supplied reason="lost">ha</supplied><unclear>r</unclear><supplied reason="lost">ē</supplied><unclear>t</unclear><supplied reason="lost">i</supplied>
+                <lb n="24"/><surplus>ṣa</surplus> vaśundara <unclear>ṣṭhi</unclear></l>
              </lg>
             </p>
          </div>
@@ -159,9 +159,9 @@
                        <rdg source="bib:Prabhākaraśāstri1928_01">renḍu</rdg>
                    </app>
                    <app loc="6">
-                       <lem>jakkuṟe<unclear>ṁ</unclear>gari</lem>
+                       <lem>jakkuṟēgari</lem>
                        <rdg source="bib:Prabhākaraśāstri1928_01">jaku ṟeṁgari</rdg>
-                       <note>Prabhākaraśāstri says in note no. 5 that it could also be ⟨kku⟩ instead of ⟨ku⟩. <foreign>Jakkuṟe</foreign>- seems to me to be one word consisting of two elements in which the <foreign>anusvāra</foreign> would be superfluous (see commentary). However, a dot can be seen on top of the <foreign>akṣara</foreign> ⟨ga⟩ that may also be a damage on the stone though.</note>
+                       <note>Prabhākaraśāstri says in note no. 5 that it could also be ⟨kku⟩ instead of ⟨ku⟩. <foreign>Jakkuṟē</foreign>- seems to me to be one word consisting of two elements in which the <foreign>anusvāra</foreign> would be superfluous (see commentary). However, a dot can be seen on top of the <foreign>akṣara</foreign> ⟨ga⟩ that may be a damage on the stone though.</note>
                    </app>
                    <app loc="6">
                        <lem>pa<lb break="no" n="7"/>ḍaśina</lem>
@@ -215,22 +215,29 @@
                        <note>According to Prabhākaraśāstri (note no. 12) this line is effaced. However, it seems to me that this line was intentionally left blank since the Telugu imprecation is now followed by a Sanskrit imprecation. The Telugu imprecation ends in its typical way so that no information is lacking that could have been given in line 18.</note>
                    </app>
                    <app loc="19">
-                       <lem></lem>
-                       <rdg source=""><lg n="1" met="anuṣṭubh">
+                       <lem><lg n="1" met="anuṣṭubh">
+                 <l n="c">ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<lb break="no" 
+                   n="20"/><choice><orig>t</orig><reg>d</reg></choice>ā bhūmi<supplied reason="omitted">s</supplied></l>
+                 <l n="d">ta<choice><orig>ś</orig><reg>s</reg></choice>ya <surplus><unclear>śa</unclear></surplus><lb 
+                   n="21"/>ta<choice><orig>ś</orig><reg>s</reg></choice>ya ta<choice><orig>th</orig><reg>d</reg></choice>ā <choice><orig>p</orig><reg>ph</reg></choice>a<unclear>la</unclear><supplied reason="lost">ṁ</supplied></l>
+             </lg></lem>
+                       <rdg source="bib:Prabhākaraśāstri1928_01"><lg n="1" met="anuṣṭubh"><!-- NOTES ON STANZAS IN THE COMMENTARY, NOT IN THE APPARATUS -->
                  <l n="c">yaśya yaśya ya<lb break="no" 
                    n="20"/>tā bhūmi</l>
-                 <l n="d">taśya<lb 
-                   n="21"/>taśya tadhā palaṁ</l><!-- THE REGULAR STANZAS SHOULD BE ADDED IN THE NOTE -->
+                 <l n="d">taśyaśya<lb 
+                   n="21"/>taśya tadhā palaṁ</l>
              </lg></rdg>
-                       <note>The <foreign>śloka</foreign> is not complete. The two <foreign>pādas</foreign> mentioned here normally form <foreign>pādas</foreign> 3 and 4 of a typical Sanskrit imprecation <foreign>śloka</foreign>. The next <foreign>śloka</foreign> is incomplete as well. This time because the last two <foreign>pādas</foreign> are missing. From the picture as published in the edition it is not possible to say whether there was more room on top of the stone for the effaced rest of the <foreign>śloka</foreign> (because the inscription is written from the bottom to the top), or whether the stone is broken on top. Regarding the overall bad writing of the Sanskrit lines it is also possible that the scribe wanted to write only one single <foreign>śloka</foreign> but mixed up two <foreign>pādas</foreign> of different <foreign>ślokas</foreign> each. The way these two parts are put together does not form a coherent thought and hence must have been a mistake.</note>
+                       <note><p>Prabhākaraśāstri reads <foreign>taśyaśya</foreign> in line 20. The scan of Prabhākaraśāstri's article at my disposal is of a bad quality. On the picture I can see a shade of what could be interpreted as a ⟨śa⟩ but I can not see traces of subscript ⟨°ya⟩. However, Prabhākaraśāstri may be right that the <foreign>akṣara</foreign> ⟨śa⟩ or ⟨śya⟩ was written twice by mistake.</p>
+                           <p>The <foreign>śloka</foreign> is not complete. The two <foreign>pādas</foreign> mentioned here normally form <foreign>pādas</foreign> 3 and 4 of a typical Sanskrit imprecation <foreign>śloka</foreign>:
+                               <lb/>bahubhir vvasudhā dattā
+                               <lb/>bahubhiś cānupālitā
+                               <lb/>yasya yasya yadā bhūmiḥ
+                               <lb/>tasya tasya tadā phalaṁ</p>
+                           <p>The next <foreign>śloka</foreign> is not incomplete as well. This time because the last two <foreign>pādas</foreign> are missing. From the picture as published in the edition it is not possible to say whether there was more room on top of the stone for the effaced rest of the second <foreign>śloka</foreign> (because the inscription is written from the bottom to the top), or whether the stone is broken on top. Regarding the overall bad writing of the Sanskrit lines it is also possible that the scribe wanted to write only one single <foreign>śloka</foreign> but mixed up two <foreign>pādas</foreign> of different <foreign>ślokas</foreign> each. The misspelling in line 24 may corroborate this idea. The way these two parts are put together does not form a coherent thought and hence must have been a mistake.</p></note>
                    </app>
-                   <app loc="20">
-                       <lem>taśya</lem>
-                       <note>Prabhākaraśāstri reads <foreign>taśyaśya</foreign>. The scan of Prabhākaraśāstri's article at my disposal is of a bad quality. On the picture I can see a shade of what could be interpreted as a ⟨śa⟩ but I can not see traces of subscript ⟨°ya⟩. However, Prabhākaraśāstri may be right that the <foreign>akṣara</foreign> ⟨śa⟩ was written twice by mistake.</note>
-                   </app>
-                   <app>
+                   <app loc="22">
                        <lem></lem>
-                       <rdg source=""><lg n="2" met="anuṣṭubh">
+                       <rdg source="bib:Prabhākaraśāstri1928_01"><lg n="2" met="anuṣṭubh">
                  <l n="a">svadattā parada<lb break="no" 
                    n="23"/>tā vā</l> <l 
                       n="b">yō<gap reason="lost" extent="unknown"></gap>
@@ -239,6 +246,7 @@
                    </app>
                    <app loc="24">
                        <lem>pavaśundarā</lem>
+                       <rdg source=""></rdg>
                        <note>There is still space in this line but no <foreign>akṣara</foreign> seems to be written there. Hence, the scribe must have deemed his work finished. Prabhākaraśāstri read the first <foreign>akṣara</foreign> of this line as ⟨pa⟩ but in my opinion it more resembles ⟨ṣa⟩. I think that this ⟨ṣa⟩ is the first <foreign>akṣara</foreign> of the third <foreign>pāda</foreign> of the respective <foreign>śloka</foreign> the first two <foreign>pādas</foreign> of which have been encarved on the stone. This corroborates my idea that the scribe mixed up two different <foreign>ślokas</foreign> and made the best out of it.</note>
                    </app>
                </listApp>
