@@ -120,10 +120,6 @@
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
-                  </app>
                   <app loc="5">
                       <lem>paḷḷināṇṭi</lem>
                       <note>In Sōmaśēkhara Śarma's Telugu edition the district is spelled <foreign>paḷlināṇṭi</foreign>. This is the way double ⟨ḷḷ⟩ is spelled in modern Telugu wherefore I presume that the inscription really shows ⟨ḷḷ⟩ since ⟨ḷl⟩ does not occur in the inscriptions that I could see pictures of. This ought to be the case in all of these instances. Sometimes, however, Sōmaśēkhara Śarma's edition indeed shows ⟨ḷḷ⟩ (e. g. line 8)</note>

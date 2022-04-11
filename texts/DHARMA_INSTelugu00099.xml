@@ -112,10 +112,6 @@
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
-                  </app>
                   <app loc="1">
                      <lem>sōḻa</lem>
                      <rdg source="bib:SomasekharaSarma1933_01">sōṣja</rdg>
