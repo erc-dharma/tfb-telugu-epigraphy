@@ -9,21 +9,15 @@
       <fileDesc>
          <titleStmt>
             <title>Donation of a <foreign>pannasa</foreign> to the great brahmin Īśarēnṟu</title>
-            <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-            <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
                <resp>EpiDoc Encoding</resp>
-               <!-- Work done in the file, e.g. editor ...-->
-               <persName ref="part:jeth"><!-- Update the id -->
+               <persName ref="part:jeth">
                   <forename>Jens Christian</forename>
-                  <!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
-               <!-- This may be the same as the creator of the file -->
-               <!-- Update the id -->
                <persName>
                   <forename>Mallampalli</forename>
                   <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
@@ -33,9 +27,8 @@
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
-            <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+            <pubPlace>Berlin</pubPlace>
             <idno type="filename">DHARMA_INSTelugu00099</idno>
-            <!-- Replace by filename, e.g. Pallava00001 -->
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -44,7 +37,6 @@
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
                   <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
-                  <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -103,13 +95,11 @@
          <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
          <change who="part:axja" when="2019-12-18" status="draft">Creation of the
                 template</change>
-         <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="tel-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
-            <!--edition encoded as per EGD §§2−7-->
+         <div type="edition" xml:lang="tel-Latn">
              <p><!-- the picture has to be seen regarding halantas etc. -->
                  <milestone unit="face" type="facelike" n="A"/>
                  <lb n="1"/>svasti śrī sōḻa-mahārājull ēḷaN In-puḻōli
@@ -119,12 +109,7 @@
              </p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
-                  </app>
+               <listApp>
                   <app loc="1">
                      <lem>sōḻa</lem>
                      <rdg source="bib:SomasekharaSarma1933_01">sōṣja</rdg>
@@ -163,7 +148,6 @@
                </listApp>
          </div>
          <div type="translation" resp="part:jeth">
- 	<!--translation encoded as per EGD §9.2 -->
              <p>
                  Svasti! While Cōḻa-Mahārāja was ruling, a pannasa given to the great brahmin (<foreign>pen-pāṟa</foreign>) Īśaṟēnṟu by Aṇapōtulu, Rēvaṇakālu and Puddaṇakālu (inhabitants) of this city.<!-- The city should be added in brackets; Poṭladurti or Mālepāḍu --> 
                  Whoever impedes<!-- lit. destroys; better translation? --> it will be (guilty) of the five great sins. Written by Asivairuvu.
@@ -182,7 +166,6 @@
              </p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
              <p>
                  The inscription was published twice by Sōmaśēkhara Śarma whose second edition I could not obtain. The text as published by Radha Krishna, however, may reflect this second edition that seems to basically only differ in the correct representation of the <foreign>akṣara</foreign> ⟨ḻ⟩ as opposed to the edition in Vyāsasaṁgrahamu. The <foreign>akṣara</foreign> ⟨ḻ⟩ is clearly written in the inscription. The spelling ⟨ṣja⟩ in Sōmaśēkhara Śarma’s first edition must have been chosen due to the lack of a proper printing option at the time.
                  The reading as presented here is my own based on the picture in Vyāsasaṁgrahamu. The deviating readings as published by Radha Krishna have been assigned to himself although they may reflect the readings in Sōmaśēkhara Śarma’s second edition.                  Lines 1-4 are written on the broader and polished side of the “red stone” (యెర్రరాయి) and line 5 on either side of the stone (<bibl><ptr target="bib:SomasekharaSarma1933_01"/><citedRange unit="page">301, 304</citedRange></bibl>).
@@ -194,17 +177,16 @@
              </p>
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography -->
+           <p>
                The inscription was published by Sōmaśēkhara Śarma in Vyāsa-Saṁgrahamu together with a picture, a discussion and a translation into modern Telugu. The same author later published another article on the inscription in Āndhra Patrika. I could not obtain this latter article. The inscription was re-published by K. M. Sastri, who added an English translation, and B. Radha Krishna.
            </p>
         	<listBibl type="primary">
-	<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+	<bibl n="siglum"/>
         	<bibl n="MS"><ptr target="bib:SomasekharaSarma1933_01"/><citedRange unit="page">301-310</citedRange></bibl>
         	<bibl n="RK"><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">5</citedRange><citedRange unit="item">8</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl/>
               <bibl><ptr target="bib:SomasekharaSarma1941-1942_01"/><citedRange unit="page">5-15</citedRange></bibl>
               <bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">285-286</citedRange><citedRange unit="item">9</citedRange></bibl>
            </listBibl>
