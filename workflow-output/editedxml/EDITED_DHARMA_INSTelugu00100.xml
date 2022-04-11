@@ -9,32 +9,25 @@
       <fileDesc>
          <titleStmt>
             <title>Land grant to Arahanta-Bhaṭāraḷu under the rule of Jayasiṁhavallabha</title>
-            <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-            <!-- Add your name in the respStmt matching your involvement -->
             <respStmt>
                <resp>EpiDoc Encoding</resp>
-               <!-- Work done in the file, e.g. editor ...-->
-               <persName ref="part:jeth"><!-- Update the id -->
+               <persName ref="part:jeth">
                   <forename>Jens Christian</forename>
-                  <!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
-               <!-- This may be the same as the creator of the file -->
-               <persName><!-- Update the id -->
+               <persName>
                   <forename>Mallampalli</forename>
-                  <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
                   <surname>Sōmaśēkhara Śarma</surname>
                </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
-            <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+            <pubPlace>Berlin</pubPlace>
             <idno type="filename">DHARMA_INSTelugu00100</idno>
-            <!-- Replace by filename, e.g. Pallava00001 -->
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -43,7 +36,6 @@
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
                   <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
-                  <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -102,13 +94,11 @@
          <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
          <change who="part:axja" when="2019-12-18" status="draft">Creation of the
                 template</change>
-         <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="tel-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
-            <!--edition encoded as per EGD §§2−7-->
+         <div type="edition" xml:lang="tel-Latn">
              <p>
                  <lb n="1"/>svasti śrī-sakalalōkāśraya-<lb break="no" n="2"/>śrī-jayasiṁghavallabha-mahā<lb break="no" n="3"/>rājulāku pravarddhamāna-vi<lb break="no" n="4"/><supplied reason="undefined">jaya</supplied><unclear>rā</unclear>jya-saṁvatsaraṁbu<lb break="no" n="5"/>ll eṇbodi Annēṇṭan paḷḷināṇṭi
                  <lb n="6"/>dayāvesanu
@@ -121,12 +111,7 @@
              </p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
-                  </app>
+               <listApp>
                   <app loc="5">
                       <lem>paḷḷināṇṭi</lem>
                       <note>In Sōmaśēkhara Śarma’s Telugu edition the district is spelled <foreign>paḷlināṇṭi</foreign>. This is the way double ⟨ḷḷ⟩ is spelled in modern Telugu wherefore I presume that the inscription really shows ⟨ḷḷ⟩ since ⟨ḷl⟩ does not occur in the inscriptions that I could see pictures of. This ought to be the case in all of these instances. Sometimes, however, Sōmaśēkhara Śarma’s edition indeed shows ⟨ḷḷ⟩ (e. g. line 8)</note>
@@ -158,24 +143,19 @@
              <p>
                  Hail! In the eighth year of the increasing victorious reign of the illustrious sakalōkāśraya Jayasiṁghavallabha mahārāja, Dayāvesanu of Paḷḷināṇḍu, Danyavesanu officer of Prithivīdēśa Raṭṭaguḷḷu (and) Kalyāṇa Dasanulu, (another) officer of Prithivīdēśa Raṭṭaguḷḷu gave to Arahanta bhaṭāra fertile excellent land sowable with six <hi rend="italic">puṭṭis</hi> of paddy. Whoever of the descendants of family [sic!] of Tloṁṟūri Raṭṭaguḷḷu, protects this (gift) will be free from taxes. Those who think of obstructing it will incur the five great sins. 
              </p>
- 	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
              <p>
                  The names of the donors are Prakrit names. Regarding -<foreign>nu</foreign> in °<foreign>vēsanu</foreign> there are two possibilities: 1. it is a Kannaḍa masculine ending, or 2. it is the conjunctive particle. In the latter case the names would not have an ending which would be exceptional. The respective word seems to be Prakrit <foreign>vēsa</foreign>- “dress/appearance”, e. g. <foreign>dayāvēsa</foreign>- “whose appearence is compassion”. Sōmaśēkhara Śarma suggested that they are Prakrit forms of <foreign>vacanu</foreign> or <foreign>vyasanu</foreign>; in this case, however, there would be no ending as well. The donée is <foreign>Arahanta-bhaṭāra</foreign> which probably refers to a single person with a honorific plural suffix. It could be the Buddha or the Jina. In this context the names of the donors appear to be secondary names, adopted later in a religious connection, or pious names given in a Jaina or Bauddha family. 
                  Sōmaśēkhara Śarma states that the part between <foreign>evvaraiyumu</foreign> and <foreign>dēniki</foreign> was obscure to him (<bibl rend="omitname"><ptr target="bib:SomasekharaSarma1946_01"/><citedRange unit="page">186</citedRange></bibl>). K. M. Sastri refers to this passage in his grammar section regarding the usage of the infinitive with an auxiliary verb that conveys “the idea of futurity”. In this connection he translates the passage a little bit differently than in his translation of the whole inscription: <cit><quote>if any of those belonging to the family of raṭṭaguḍis is going to protect this (gift i.e. in the future)</quote><bibl rend="omitname"><citedRange unit="page">211</citedRange></bibl></cit>. This is the only example of such a construction. Sastri thereby tacitly also explains the form <foreign>uṁna</foreign> in line 14 as a conditional in -<foreign>inan</foreign> (hence <foreign>unnan</foreign>). Sastri’s explanation is intriguing. However, according to my knowledge this construction is not used to denote a future. Rather, a similar construction is used to <cit><quote>express readiness</quote><bibl><ptr target="bib:Arden1937_01"/><citedRange unit="page">230</citedRange><citedRange unit="item">481</citedRange></bibl></cit>. The example given is వాడు ఆ పని చెయ్యనయి ఉన్నాడు [<foreign>vāḍu ā pani ceyyanayi unnāḍu</foreign>]. <hi rend="italic">He is ready to do that work</hi> (ibidem); so, the construction entails <foreign>ayi + uṇḍu</foreign> (lit. “having become be”, hence a perfect) and therefore is not completely identical either. However, in this case we could assume <foreign>uṁna</foreign> to also be an infinitive. The mere infinitive could be used for forming a subclause indicating simultaneity as in the often used phrase <foreign>X ēḷan</foreign> “while X was ruling”. Therefore, <foreign>rakṣimpan uṁna</foreign> <hi rend="italic">might</hi> mean “while/as long as being ready to protect”. In this case the tax exemption would temporally coincide with the actual protection.                  K. M. Sastri notes that the reading <foreign>paṁnu vḷāyuṁ</foreign> in line 15 <cit><quote>[m]ay be a scribal error for <hi rend="italic">pannuḷ vāyum</hi></quote><bibl rend="omitname"><ptr target="bib:Sastri1969_01"/><citedRange unit="page">288</citedRange><citedRange unit="note">1</citedRange></bibl></cit>. That means that <foreign>pannu</foreign> “tax” would be in the plural and the respective verb is <foreign>pāyu</foreign> “to leave, quit”. Apart from this good idea subscript ⟨°ḷ⟩ may have been a damage that Sōmaśēkhara Śarma interpreted as part of the <foreign>akṣara</foreign>. The original must be consulted to clearify this. The grammatical form <foreign>pāyun(u)</foreign> can be both singular and plural with an inanimate subject.
              </p>
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography -->The inscription was published by Sōmaśēkhara Śarma together with a discussion but without a picture. According to him a picture of the estampage should have been published in one of the upcoming volumes of South Indian Inscriptions. However, I could not verify this and the picture may have never been published. Sōmaśēkhara Śarma states that he encountered the inscription in the enclosure of the taluk’s office and that it had not been noted in ARIE at that point (<bibl rend="omitname"><ptr target="bib:SomasekharaSarma1946_01"/><citedRange unit="page">182</citedRange></bibl>). The inscription was re-published by K. M. Sastri together with a translation and by B. Radha Krishna. Both do not mention any entry in ARIE.</p>
-        	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
-	<bibl n="SS"><ptr target="bib:SomasekharaSarma1946_01"/><citedRange unit="page">182-186</citedRange></bibl>
-        	</listBibl>
+           <p>The inscription was published by Sōmaśēkhara Śarma together with a discussion but without a picture. According to him a picture of the estampage should have been published in one of the upcoming volumes of South Indian Inscriptions. However, I could not verify this and the picture may have never been published. Sōmaśēkhara Śarma states that he encountered the inscription in the enclosure of the taluk’s office and that it had not been noted in ARIE at that point (<bibl rend="omitname"><ptr target="bib:SomasekharaSarma1946_01"/><citedRange unit="page">182</citedRange></bibl>). The inscription was re-published by K. M. Sastri together with a translation and by B. Radha Krishna. Both do not mention any entry in ARIE.</p>
+           <listBibl type="primary">
+	         <bibl n="SS"><ptr target="bib:SomasekharaSarma1946_01"/><citedRange unit="page">182-186</citedRange></bibl>
+           </listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
                <bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">287-288</citedRange><citedRange unit="item">11</citedRange></bibl>
                <bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">12</citedRange><citedRange unit="item">15</citedRange></bibl>
            </listBibl>
