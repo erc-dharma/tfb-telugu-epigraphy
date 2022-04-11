@@ -98,14 +98,14 @@
              <lb n="1"/>svasti śrī magidogarajula muṭlu
              <lb n="2"/>viṭṟajula pratama-rā<lb break="no" 
                    n="3"/>jyaṁbuna kaḍu<unclear>mallu</unclear><lb break="no" 
-                   n="4"/>la Iccina reṇḍu vaṭi<!-- THIS COULD BE A PAḌI "A MEASURE OF CAPACITY CONTAINING A SEER AND A HALF" (PERCIVAL) or already paṭṭī "a plot of land" -->
-             <lb n="5"/>miriyampu<!-- PLACES STARTING WITH MIRIYA- CAN BE FOUND AROUND LAKṢMĪPURAM --> bōḷa<lb break="no" 
-                   n="6"/>jakkuṟēgari<!-- THIS COULD BE ṟē- "ruler" + gāru honorific suffix; jakku would be left as name then; it could be identical with the jakkulu "demi-gods" < Sanskrit yakṣa-; jakkaṟē- would hence be yakṣarāja- = Kubēra. --> pa<lb break="no" 
-                   n="7"/>ḍaśina reṇḍu vaṭṭi<!-- reṇḍu VAṬṬI = PAṬṬĪ "A PLOT OF LAND" (SIRCAR 1966: 246 AD EI 9 & 4 INDICES; the grammatical form here could be a genitive qualifying padēnduṁbu; or: an appositive phrase) -->
+                   n="4"/>la Iccina reṇḍu vaṭi
+             <lb n="5"/>miriyampu bōḷa<lb break="no" 
+                   n="6"/>jakkuṟēgari pa<lb break="no" 
+                   n="7"/>ḍaśina reṇḍu vaṭṭi
              <lb n="8"/>padēnduṁbu Āḍlu pa<lb break="no" 
-                   n="9"/>ṭṭu druggādēvi<!-- with metathesis from durggā; double gg is not the reflex of the written form of the doubled consonant after repha but retains the phonotactic structure of the word --> nēlayu
+                   n="9"/>ṭṭu druggādēvi nēlayu
              <lb n="10"/>Uṟuvuṭuri bōḷa
-             <lb n="11"/>reṇḍūṭṭiyu<!-- seems to be reṇḍūṭṭi; in this case probably from < reṇḍuvaṭṭi --> tūṟpuN<!-- There is still space left in the line and it is possible that a very faint halanta N is written at the end of the line. It would have been written very small and without a "head". Hence tūṟpuN "in the east". -->
+             <lb n="11"/>reṇḍūṭṭiyu tūṟpuN<!-- There is still space left in the line and it is possible that a very faint halanta N is written at the end of the line. It would have been written very small and without a "head". Hence tūṟpuN "in the east". -->
                 <milestone unit="face" type="facelike" n="B"/>
              <lb n="12"/>I reṇḍ<supplied reason="lost">ū</supplied><unclear>ṭ</unclear>i ḻacuvaru
              <lb n="13"/>kaḷarēni bāranāsi
@@ -215,46 +215,28 @@
                        <note>According to Prabhākaraśāstri (note no. 12) this line is effaced. However, it seems to me that this line was intentionally left blank since the Telugu imprecation is now followed by a Sanskrit imprecation. The Telugu imprecation ends in its typical way so that no information is lacking that could have been given in line 18.</note>
                    </app>
                    <app loc="19">
-                       <lem><lg n="1" met="anuṣṭubh">
-                 <l n="c">ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<lb break="no" 
-                   n="20"/><choice><orig>t</orig><reg>d</reg></choice>ā bhūmi<supplied reason="omitted">s</supplied></l>
-                 <l n="d">ta<choice><orig>ś</orig><reg>s</reg></choice>ya <surplus><unclear>śa</unclear></surplus><lb 
-                   n="21"/>ta<choice><orig>ś</orig><reg>s</reg></choice>ya ta<choice><orig>th</orig><reg>d</reg></choice>ā <choice><orig>p</orig><reg>ph</reg></choice>a<unclear>la</unclear><supplied reason="lost">ṁ</supplied></l>
-             </lg></lem>
-                       <rdg source="bib:Prabhākaraśāstri1928_01"><lg n="1" met="anuṣṭubh"><!-- NOTES ON STANZAS IN THE COMMENTARY, NOT IN THE APPARATUS -->
-                 <l n="c">yaśya yaśya ya<lb break="no" 
-                   n="20"/>tā bhūmi</l>
-                 <l n="d">taśyaśya<lb 
-                   n="21"/>taśya tadhā palaṁ</l>
-             </lg></rdg>
-                       <note><p>Prabhākaraśāstri reads <foreign>taśyaśya</foreign> in line 20. The scan of Prabhākaraśāstri's article at my disposal is of a bad quality. On the picture I can see a shade of what could be interpreted as a ⟨śa⟩ but I can not see traces of subscript ⟨°ya⟩. However, Prabhākaraśāstri may be right that the <foreign>akṣara</foreign> ⟨śa⟩ or ⟨śya⟩ was written twice by mistake.</p>
-                           <p>The <foreign>śloka</foreign> is not complete. The two <foreign>pādas</foreign> mentioned here normally form <foreign>pādas</foreign> 3 and 4 of a typical Sanskrit imprecation <foreign>śloka</foreign>:
-                               <lb/>bahubhir vvasudhā dattā
-                               <lb/>bahubhiś cānupālitā
-                               <lb/>yasya yasya yadā bhūmiḥ
-                               <lb/>tasya tasya tadā phalaṁ</p>
-                           <p>The next <foreign>śloka</foreign> is not incomplete as well. This time because the last two <foreign>pādas</foreign> are missing. From the picture as published in the edition it is not possible to say whether there was more room on top of the stone for the effaced rest of the second <foreign>śloka</foreign> (because the inscription is written from the bottom to the top), or whether the stone is broken on top. Regarding the overall bad writing of the Sanskrit lines it is also possible that the scribe wanted to write only one single <foreign>śloka</foreign> but mixed up two <foreign>pādas</foreign> of different <foreign>ślokas</foreign> each. The misspelling in line 24 may corroborate this idea. The way these two parts are put together does not form a coherent thought and hence must have been a mistake.</p></note>
+                       <lem>ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<lb break="no" 
+                   n="20"/><choice><orig>t</orig><reg>d</reg></choice>ā bhūmi<supplied reason="omitted">s</supplied> ta<choice><orig>ś</orig><reg>s</reg></choice>ya <surplus><unclear>śa</unclear></surplus><lb 
+                   n="21"/>ta<choice><orig>ś</orig><reg>s</reg></choice>ya ta<choice><orig>th</orig><reg>d</reg></choice>ā <choice><orig>p</orig><reg>ph</reg></choice>a<unclear>la</unclear><supplied reason="lost">ṁ</supplied></lem>
+                       <rdg source="bib:Prabhākaraśāstri1928_01">yaśya yaśy ya<lb break="no" 
+                   n="20"/>tā bhūmi taśyaśya<lb 
+                   n="21"/>taśya tadhā palaṁ</rdg>
+                       <note>The scan of Prabhākaraśāstri's article at my disposal is of a bad quality. On the picture I can see a shade of what could be interpreted as a ⟨śa⟩ but I can not see traces of subscript ⟨°ya⟩ in line 20. However, Prabhākaraśāstri may be right that the <foreign>akṣara</foreign> ⟨śa⟩ or ⟨śya⟩ was written twice by mistake. These two <foreign>pādas</foreign> normally are <foreign>pāda</foreign> 3 and 4 of a standard imprecation <foreign>śloka</foreign>. See commentary.</note>
                    </app>
                    <app loc="22">
-                       <lem></lem>
-                       <rdg source="bib:Prabhākaraśāstri1928_01"><lg n="2" met="anuṣṭubh">
-                 <l n="a">svadattā parada<lb break="no" 
-                   n="23"/>tā vā</l> <l 
-                      n="b">yō<gap reason="lost" extent="unknown"></gap>
-                <lb n="24"/>pavaśundarā</l>
-             </lg></rdg>
-                   </app>
-                   <app loc="24">
-                       <lem>pavaśundarā</lem>
-                       <rdg source=""></rdg>
-                       <note>There is still space in this line but no <foreign>akṣara</foreign> seems to be written there. Hence, the scribe must have deemed his work finished. Prabhākaraśāstri read the first <foreign>akṣara</foreign> of this line as ⟨pa⟩ but in my opinion it more resembles ⟨ṣa⟩. I think that this ⟨ṣa⟩ is the first <foreign>akṣara</foreign> of the third <foreign>pāda</foreign> of the respective <foreign>śloka</foreign> the first two <foreign>pādas</foreign> of which have been encarved on the stone. This corroborates my idea that the scribe mixed up two different <foreign>ślokas</foreign> and made the best out of it.</note>
+                       <lem>svadat<unclear>ā</unclear> pa<unclear>ra</unclear>da<lb break="no" 
+                   n="23"/>tā va yō <supplied reason="lost">ha</supplied><unclear>r</unclear><supplied reason="lost">ē</supplied><unclear>t</unclear><supplied reason="lost">i</supplied>
+                <lb n="24"/><surplus>ṣa</surplus> vaśundara <unclear>ṣṭhi</unclear></lem>
+                       <rdg source="bib:Prabhākaraśāstri1928_01">svadattā parada<lb break="no" n="23"/>tā vā yō<gap reason="lost" extent="unknown"></gap><lb n="24"/>pavaśundarā</rdg>
+                       <note>Prabhākaraśāstri read the first <foreign>akṣara</foreign> of line 24 as ⟨pa⟩ but in my opinion it more resembles ⟨ṣa⟩. I think that this ⟨ṣa⟩ is the first <foreign>akṣara</foreign> of the third <foreign>pāda</foreign> of the respective <foreign>śloka</foreign> the first two <foreign>pādas</foreign> of which have been encarved on the stone. The last <foreign>akṣara</foreign> of line 24 normally is the second <foreign>akṣara</foreign> of the third pāda 3 (together <foreign>ṣaṣṭhi</foreign>). See commentary.</note>
                    </app>
                </listApp>
          </div>
          <div type="translation" resp="part:jeth">
  	<!--translation encoded as per EGD §9.2 -->
              <p>
-                 Svasti! 
+                 Svasti! In the inital reign of Viṭṟāju, officer of Śrī Maṅgiyuvarāja: two plots of land (<foreign>paṭṭi</foreign>) given by Kaḍumallu, two plots of land obtained by Bōḷa Jakkuṟēgāru of Mariyampu; twelve <foreign>tūmu</foreign>, "handfull"/produce<!-- the exact meaning has to be clearified --> of millet.<note>The syntax is sort of technical. But there are other inscriptions that exhibit a similar style, e. g. INSTelugu00008.</note> The land of the goddess Durgā and the two plots of the Bōḷa of Uṟuvuṭūru (are) in the east.
+                 <lb/>If someone interferes with<!-- probably a better verb can be found --> these two plots of land, he will have killed<note>The semantic oddity of killing temples and tanks </note> thousand cows, thousand temples, thousand tanks and thousand brahmins of Vārāṇasī.
              </p>
          </div>
           <div type="translation" source="bib:Prabhākaraśāstri1928_01">
@@ -273,14 +255,25 @@
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-             <p>
-               I have to stress that my own reading is based on the picture in Prabhākaraśāstri's edition. I only had access to a bad scan. That is why my reading might be faulty in one or the other place and I apologize if I mistakingly "correct" Prabhākaraśāstri's edition for the bad.
-               
-               Prabhākaraśāstri interprets <foreign>kaḍuvaṁ<unclear>ḍlu</unclear>la</foreign>, as he reads it, in lines 3-4 as the name of a village in the locative (<cit><quote>కడువండ్లులగ్రామమున [kaḍuvaṁḍlulagrāmamuna]</quote><bibl rend="omitname"><citedRange unit="page">937</citedRange></bibl></cit>). He regards <foreign>miriyampu bōḷaja</foreign> (with the dative suffix -<foreign>ku</foreign>) as the donée and <foreign>ṟeṁgari</foreign> as the donor (<bibl rend="omitname"><citedRange unit="page">937-937</citedRange></bibl>).
-                 
-                 
-                 Nārāyaṇarāvu does not give a translation but provides short word explanations that sometimes differ from Prabhākaraśāstri. 
-             </p>
+             <p n="1-18">
+               I have to stress that my own reading is based on the picture in Prabhākaraśāstri's edition. I only had access to a bad scan. That is why my reading might be faulty in one or the other place and I apologize if I mistakingly "corrected" Prabhākaraśāstri's edition for the bad. 
+               <lb/>Prabhākaraśāstri interprets <foreign>kaḍuvaṁ<unclear>ḍlu</unclear>la</foreign>, as he reads it, in lines 3-4 as the name of a village in the locative (<cit><quote>కడువండ్లులగ్రామమున [kaḍuvaṁḍlulagrāmamuna]</quote><bibl rend="omitname"><citedRange unit="page">937</citedRange></bibl></cit>). He regards <foreign>miriyampu bōḷaja</foreign> (with the dative suffix -<foreign>ku</foreign>) as the donée and <foreign>ṟeṁgari</foreign> as the donor (<bibl rend="omitname"><citedRange unit="page">937-937</citedRange></bibl>). The semantics of <foreign>paḍayu</foreign> ("to obtain, possess"), however, are problematic in my opinion. According to my reading <foreign>kaḍumallu</foreign> is a person's name which means something like "strong wrestler" (<foreign>kaḍu</foreign> + <foreign>mallu</foreign>). Since <foreign>bōḷaja</foreign> does not seem to make sense and double ⟨kku⟩ is written in line 6 I would rather separate the usual designation <foreign>bōḷa</foreign> from the actual name that follows. The suffix -<foreign>gari</foreign> (i. e. -<foreign>gāri</foreign>) is the genitive of the honorific suffix -<foreign>g/vāru</foreign>. What remains is <foreign>jakkuṟē</foreign>- which consists of <foreign>ṟē</foreign>- "ruler" and <foreign>jakku</foreign> "yakṣa". Hence, <foreign>jakkuṟē</foreign>- means "ruler of the yakṣas" = Kubera. 
+                 <lb/>The two words <foreign>reṇḍuvaṭi</foreign> and <foreign>reṇḍuvaṭṭi</foreign> seem to refer to the same thing. The spelling <foreign>vaṭi</foreign> seems to be a haplography of the fuller <foreign>vaṭṭi</foreign> which, in my opinion, corresponds to Sanskrit <foreign>paṭṭī</foreign> "a plot of land" (p > v / V(#)_ is a normal sandhi). The contracted form <foreign>reṇḍūṭṭi</foreign> is unusual. However, similar contractions sometimes occur, e. g. <foreign>pandumbu</foreign> from <foreign>paḍudumbu</foreign>.
+                 <lb/>The spelling <foreign>druggādēvi</foreign> seems to be a (spontaneous) metathesis of <foreign>Durgādēvi</foreign> "the goddess Durgā". The retainment of double ⟨gg⟩ rather serves to preserve the phonotactic structure of the word than simply being a remainder of the usual doubling of a consonant after <foreign>repha</foreign> because the preservation of the original phonotactic structure also seems to be the goal of vowel lengthening and consonant doubling after the usual metathesis in Telugu.</p>
+                 <p n="19-21">Ad lines 19-21: The <foreign>śloka</foreign> is not complete. The two <foreign>pādas</foreign> mentioned here normally form <foreign>pādas</foreign> 3 and 4 of a typical Sanskrit imprecation <foreign>śloka</foreign> one of several variants of which is:
+                               <lb/>bahubhir vvasudhā dattā
+                               <lb/>bahubhiś cānupālitā
+                               <lb/>yasya yasya yadā bhūmiḥ
+                               <lb/>tasya tasya tadā phalaṁ
+                 </p>
+                 <p n="22-24">The next <foreign>śloka</foreign> is not incomplete as well. This time because the last two <foreign>pādas</foreign> are missing. From the picture as published in the edition it is not possible to say whether there was more room on top of the stone for the effaced rest of the second <foreign>śloka</foreign> (because the inscription is written from the bottom to the top), or whether the stone is broken on top. Regarding the overall bad writing of the Sanskrit lines it is also possible that the scribe wanted to write only one single <foreign>śloka</foreign> but mixed up two <foreign>pādas</foreign> of different <foreign>ślokas</foreign> each. The misspelling in line 24 may corroborate this idea since the superfluous first and last <foreign>akṣaras</foreign> of the line together seem to form the first word of what should be the third <foreign>pāda</foreign> of this <foreign>śloka</foreign>: <foreign>ṣaṣṭhi</foreign> (this spelling, albeit wrong, occurs sometimes in other inscriptions, conf. INSTelugu00018, INSTelugu00027). The standard śloka would be:
+                     <lb/>svadattāṁ paradattāṁ vā
+                     <lb/>yo hareta vasundharāṁ
+                     <lb/>ṣaṣṭirvvarṣa-sahasrāṇi
+                     <lb/>viṣṭhāyāṁ jāyate kṛmiḥ</p>
+             
+                 <p>I have edited these two <foreign>śloka</foreign>-parts as two different defective verses although they metrically form a single <foreign>śloka</foreign> because they do not form a coherent thought. The superfluous spellings of ⟨ṣa⟩ and ⟨ṣṭhi⟩ indicate that the scribe had the next lines of the second <foreign>śloka</foreign> at his disposal and seems to have intended to at least fill the line. That is why I think that the Sanskrit imprecation was mistakingly written as it is. 
+                 </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
@@ -293,7 +286,9 @@
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+               <bibl><ptr target="bib:Nārāyaṇarāvu1937_01"/><citedRange unit="page">1309-1310</citedRange></bibl>
                <bibl><ptr target="bib:Sastri1969_01"/><citedRange unit="page">294-295</citedRange><citedRange unit="item">20</citedRange></bibl>
+               <bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">15-16</citedRange><citedRange unit="item">19</citedRange></bibl>
            </listBibl>
         </div>
       </body>
