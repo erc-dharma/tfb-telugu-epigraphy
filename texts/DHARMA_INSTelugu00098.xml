@@ -9,30 +9,25 @@
         <fileDesc>
             <titleStmt>
                 <title>Early Telugu inscription from Amarāvati</title>
-                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-                <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
-                    <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:jeth"><!-- Update the id -->
-                        <forename>Jens</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                    <persName ref="part:jeth">
+                        <forename>Jens Christian</forename>
                         <surname>Thomas</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
-                    <!-- This may be the same as the creator of the file -->
                         <persName>
-                            <forename>Vēṭūri</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                            <forename>Vēṭūri</forename>
                         <surname>Prabhākaraśāstri</surname>
                         </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
-                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <pubPlace>Berlin</pubPlace>
                 <idno type="filename">DHARMA_INSTelugu00098</idno>
-                <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -40,7 +35,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                        <p>Copyright (c) 2019-2025 by Jens Christian Thomas.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -88,48 +83,37 @@
             <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
             <change who="part:axja" when="2019-12-18" status="draft">Creation of the
                 template</change>
-            <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="tel-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
-            <!--edition encoded as per EGD §§2−7-->
+         <div type="edition" xml:lang="tel-Latn">
              <p>
                  <lb n="1"/>nāgabu
              </p>
          </div>
-         <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-               </listApp>
-         </div>
          <div type="translation" resp="part:jeth">
- 	<!--translation encoded as per EGD §9.2 -->
              <p>
                  snake
              </p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
              <p>
                  The inscription consists of the Sanskrit word <foreign>nāga-</foreign> "snake" with the Telugu suffix -<hi rend="italic">mbu</hi>. This suffix is typical for Telugu and is attached to <foreign>tatsama</foreign> words. There is no trace of an <foreign>anusvāra</foreign>. Prabhākaraśāstri explains this as a form of haplography or the loss of the first consonant respectively (పూర్వహల్లోపము). 
                  Ramāprasād Canda edited the word as <hi rend="italic">nāga-bu</hi> so as if two words were involved and stated that <cit><quote>[t]his is probably the name of the stone-mason</quote><bibl rend="omitname"><citedRange unit="page">268</citedRange></bibl></cit>. According to Prabhākaraśāstri the stone is damaged but traces of a sculpture are still visible: <cit><quote>విఱుగఁగొట్టఁబడిన మీఁది శిల్పచిత్రము గొప్ప సర్పమై యుండును [The damaged upper sculpture is a big snake (translation by Jens Thomas)]</quote><bibl rend="omitname"><citedRange unit="page">934</citedRange></bibl></cit>. The stone does not bear any other inscriptions.
              </p>
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography -->
+           <p>
            The inscription was noted in ARIE together with other (Prākṛt) inscriptions from Amarāvati that were found in the Central Museum of Madras. These inscriptions were published by Ramaprasad Chandra who added translations or short notes (the Telugu inscription has the number 30). The inscription was again published by Vēṭūri Prabhākaraśāstri together with a picture and a discussion.
            </p>
         	<listBibl type="primary">
         	 <bibl n="RC"><ptr target="bib:Chanda1919-1920_01"/><citedRange unit="page">258-275</citedRange><citedRange unit="item">13</citedRange></bibl>
-	<bibl n="VP"><ptr target="bib:Prabhākaraśāstri1928_01"/><citedRange unit="page">933-949</citedRange><citedRange unit="item">1</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+	<bibl n="VP"><ptr target="bib:Prabhākaraśāstri1928_01"/><citedRange unit="page">933-949</citedRange><citedRange unit="item">1</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
                <bibl><ptr target="bib:ARIE1911-1914"/><citedRange unit="page">54</citedRange><citedRange unit="appendix">B/1913</citedRange><citedRange unit="item">499</citedRange></bibl>
                <bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange unit="page">1</citedRange><citedRange unit="item">1</citedRange></bibl>
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>
