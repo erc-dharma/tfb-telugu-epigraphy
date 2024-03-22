@@ -88,12 +88,12 @@
                <listApp>
                   <app loc="1">
                      <lem>śrīmat<lb n="2" break="no"/>vikramā°</lem>
-                     <note>The editors did not publish a picture of the edition. A ⟨t⟩ with <foreign>virāma</foreign>, however, is used in the Telugu edition of Ramayya Pantulu.</note>
+                     <note>The editors did not publish a picture of the edition. A ⟨t⟩ with <foreign>virāma</foreign>, however, is used in the Telugu edition of Ramayya Pantulu.</note>
                   </app>
                   <app loc="3">
                      <lem>°mahārā<lb n="4" break="no"/>juL ĒḷaN</lem>
                      <rdg source="bib:RamayyaPantulu1948_01">°mahārā<lb n="4" break="no"/>jula Ēḷana</rdg>
-                     <note>Nilakanta Sastri and Venkataramayya discuss the form of the halanta ⟨L⟩, namely that it could be ⟨rlu⟩ although the u-vowel was omitted, yet publish it as ⟨lē⟩. The halanta ⟨N⟩ is inferred from the edition of Ramayya Pantulu who reads ⟨°na cō°⟩. Both the halanta ⟨L⟩ and ⟨N⟩ should be easily discernible if they follow the usual graphemic practice in that the right upwards stroke of the halanta ⟨L⟩ stops as such and is not bent towards the left side and in that the ⟨N⟩ lacks the “roof”. Interestingly, the <foreign>akṣara</foreign> was read ⟨ñcō⟩ in the Annual Report of Indian Epigraphy.</note>
+                     <note>Nilakanta Sastri and Venkataramayya discuss the form of the halanta ⟨L⟩, namely that it could be ⟨rlu⟩ although the u-vowel was omitted, yet publish it as ⟨lē⟩. The halanta ⟨N⟩ is inferred from the edition of Ramayya Pantulu who reads ⟨°na cō°⟩. Both the halanta ⟨L⟩ and ⟨N⟩ should be easily discernible if they follow the usual graphemic practice in that the right upwards stroke of the halanta ⟨L⟩ stops as such and is not bent towards the left side and in that the ⟨N⟩ lacks the "roof". Interestingly, the <foreign>akṣara</foreign> was read ⟨ñcō⟩ in the Annual Report of Indian Epigraphy.</note>
                   </app>
                   <app loc="7">
                      <lem>ciṟuṁ<lb n="8" break="no"/>buru</lem>
@@ -132,7 +132,7 @@
                   <app loc="18">
                      <lem>Aḻikō<gap reason="undefined" unit="character" quantity="6" precision="low"/>ri<lb n="19" break="no"/>kki</lem>
                      <rdg source="bib:RamayyaPantulu1948_01">Aḻi<gap reason="undefined" unit="character" quantity="4" precision="low"/><lb n="19" break="no"/>kki</rdg>
-                     <note>Nilakanta Sastri and Venkataramayya write ri<lb n="19" break="no"/>ikki which is phonotactically impossible and contradicts Ramayya Pantulu’s edition. It may be a misprint.</note>
+                     <note>Nilakanta Sastri and Venkataramayya write ri<lb n="19" break="no"/>ikki which is phonotactically impossible and contradicts Ramayya Pantulu’s edition. It may be a misprint.</note>
                   </app>
                   <app loc="19">
                      <lem>prasāda</lem>
@@ -145,7 +145,7 @@
                   <app loc="21">
                      <lem>tēni ḻaccu<gap reason="undefined" unit="character" quantity="2" precision="low"/></lem>
                      <rdg source="bib:RamayyaPantulu1948_01"><choice><orig>tē</orig><reg>dī</reg></choice>ni ḻaccu<gap reason="undefined" unit="character" quantity="4" precision="low"/></rdg>
-                     <note>Ramayya Pantulu marks the normalization in the same way as he would do with unclear characters so that one could interprete his edition as saying that after ⟨tē⟩ there is another ⟨dī⟩ written in the inscription. This, however, contradicts the edition of Nilakanta Sastri and Venkataramayya and does not render a meaningful word. I therefore regard it as a normalization that is, however, unnecessary since the interrogative pronoun often occurs in this position..</note>
+                     <note>Ramayya Pantulu marks the normalization in the same way as he would do with unclear characters so that one could interprete his edition as saying that after ⟨tē⟩ there is another ⟨dī⟩ written in the inscription. This, however, contradicts the edition of Nilakanta Sastri and Venkataramayya and does not render a meaningful word. I therefore regard it as a normalization that is, however, unnecessary since the interrogative pronoun often occurs in this position..</note>
                   </app>
                   <app loc="22">
                      <lem>hāpāta<unclear>ka</unclear><gap reason="undefined" unit="character" quantity="2" precision="low"/><unclear>gu</unclear></lem>

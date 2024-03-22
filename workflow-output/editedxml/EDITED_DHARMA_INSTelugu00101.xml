@@ -167,17 +167,17 @@
                    <app loc="11">
                       <lem>reṇḍūṭṭiyu</lem>
                       <rdg source="bib:Prabhākaraśāstri1928_01">renḍuṭṭiyu</rdg>
-                      <note>In Prabhākaraśāstri’s edition <foreign>renṭuṭḍiyu</foreign> is printed but that seems to be a mere misprint. The vowel sign is written to the left side and has a hook on top drooping towards the left. Therefore, the vowel seems to be long /uː/ seems to be written. The form appears to be a contraction of /uva/ to /uː/ of the already mentioned <foreign>reṇḍuvaṭṭi</foreign> (i. e. reṇḍuvaṭṭi &gt; reṇḍūṭṭi)</note>
+                      <note>In Prabhākaraśāstri’s edition <foreign>renṭuṭḍiyu</foreign> is printed but that seems to be a mere misprint. The vowel sign is written to the left side and has a hook on top drooping towards the left. Therefore, the vowel seems to be long /uː/ seems to be written. The form appears to be a contraction of /uva/ to /uː/ of the already mentioned <foreign>reṇḍuvaṭṭi</foreign> (i. e. reṇḍuvaṭṭi &gt; reṇḍūṭṭi)</note>
                    </app>
                    <app loc="11">
                        <lem>tūṟpuN</lem>
                        <rdg source="bib:Prabhākaraśāstri1928_01">tūṟpu</rdg>
-                       <note>There seems to be a very faint <foreign>halanta</foreign> ⟨N⟩ written at the end of the line. It is written very small and without a “head”. This consonant forms a locative, hence “in the east”.</note>
+                       <note>There seems to be a very faint <foreign>halanta</foreign> ⟨N⟩ written at the end of the line. It is written very small and without a "head". This consonant forms a locative, hence "in the east".</note>
                    </app>
                    <app loc="12">
                        <lem>I reṇḍ<supplied reason="lost">ū</supplied><unclear>ṭ</unclear>i</lem>
                        <rdg source="bib:Prabhākaraśāstri1928_01">Ī renḍuṭṭi</rdg>
-                       <note>The akṣara ⟨I⟩ looks like ⟨I⟩ in line 4. The intended meaning, however, must be “this” (<foreign>ī</foreign>). Prabhākaraśāstri had a the original and the original estampage at his disposal wherefore his reading may be correct. However, I cannot see any vowel sign on ⟨ṇḍ⟩ and it seems that the vowel simply was forgotten. On the other hand, the lower part of ⟨ṭi⟩ seems to be damaged on the scan available to me so that it is also possible that the vowel sign of ⟨ṇḍ⟩ may have been lost due to damage. I supplied a long ⟨°ū⟩ due to the reading <foreign>reṇḍūṭṭi</foreign>- in line 11.</note>
+                       <note>The akṣara ⟨I⟩ looks like ⟨I⟩ in line 4. The intended meaning, however, must be "this" (<foreign>ī</foreign>). Prabhākaraśāstri had a the original and the original estampage at his disposal wherefore his reading may be correct. However, I cannot see any vowel sign on ⟨ṇḍ⟩ and it seems that the vowel simply was forgotten. On the other hand, the lower part of ⟨ṭi⟩ seems to be damaged on the scan available to me so that it is also possible that the vowel sign of ⟨ṇḍ⟩ may have been lost due to damage. I supplied a long ⟨°ū⟩ due to the reading <foreign>reṇḍūṭṭi</foreign>- in line 11.</note>
                    </app>
                    <app loc="12">
                        <lem>ḻacuvaru</lem>
@@ -199,7 +199,7 @@
                    <app loc="18">
                        <lem/>
                        <rdg source="bib:Prabhākaraśāstri1928_01"><gap reason="lost" unit="line" quantity="1"/></rdg>
-                       <note>According to Prabhākaraśāstri (note no. 12) this line is effaced. However, it seems to me that this line was intentionally left blank since the Telugu imprecation is now followed by a Sanskrit imprecation. The Telugu imprecation ends in its typical way so that no information is lacking that could have been given in line 18.</note>
+                       <note>According to Prabhākaraśāstri (note no. 12) this line is effaced. However, it seems to me that this line was intentionally left blank since the Telugu imprecation is now followed by a Sanskrit imprecation. The Telugu imprecation ends in its typical way so that no information is lacking that could have been given in line 18.</note>
                    </app>
                    <app loc="19">
                        <lem>ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<lb break="no" n="20"/><choice><orig>t</orig><reg>d</reg></choice>ā bhūmi<supplied reason="omitted">s</supplied> ta<choice><orig>ś</orig><reg>s</reg></choice>ya <surplus><unclear>śa</unclear></surplus><lb n="21"/>ta<choice><orig>ś</orig><reg>s</reg></choice>ya ta<choice><orig>th</orig><reg>d</reg></choice>ā <choice><orig>p</orig><reg>ph</reg></choice>a<unclear>la</unclear><supplied reason="lost">ṁ</supplied></lem>
@@ -264,7 +264,7 @@
          </div>
         <div type="bibliography">
            <p>
-           The inscription was edited by V. Prabhākaraśāstri together with a picture, a paraphrased translation and a detailed discussion. The inscription was re-edited by C. Nārāyaṇarāvu who added a short word explanation, by K. M. Sastri who added a translation, and by B. Radha Krishna. The latter three referred to the text as edited by Prabhākaraśāstri. 
+           The inscription was edited by V. Prabhākaraśāstri together with a picture, a paraphrased translation and a detailed discussion. The inscription was re-edited by C. Nārāyaṇarāvu who added a short word explanation, by K. M. Sastri who added a translation, and by B. Radha Krishna. The latter three referred to the text as edited by Prabhākaraśāstri. 
            </p>
         	<listBibl type="primary">
         	  <bibl n="PS"><ptr target="bib:Prabhākaraśāstri1928_01"/><citedRange unit="page">933-949</citedRange></bibl>
