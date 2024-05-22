@@ -76,7 +76,7 @@
          <div type="edition" xml:lang="tel-Latn">
             <p>
              <milestone type="pagelike" n="A" unit="face"/> 
-               <lb n="1" rend="large"/>svasti bha<lb n="2" break="no"/>gavad-arhatām pa<lb n="3" break="no"/>rama-bhaṭṭ<choice><sic>a</sic><corr>ā</corr></choice>rakasya <unclear>p</unclear><choice><orig>a</orig><reg>ā</reg></choice><lb n="4" break="no"/>d<choice><sic>a</sic><corr>ā</corr></choice>nudhy<choice><sic>a</sic><corr>ā</corr></choice>ta-parama-mā<lb n="5" break="no"/>hēśvara-para<supplied reason="lost">mē</supplied>śvara-pa<lb n="6" break="no"/>llavāditya <orig>śṛ<unclear>ī</unclear></orig> b<choice><unclear>ā</unclear><unclear>o</unclear></choice>di<lb n="7" break="no"/>rājula Andu paḷḷe<lb n="8" break="no"/>yari koḍuk<unclear>u</unclear> b<unclear>ā</unclear>di<unclear>rā</unclear><lb n="9" break="no"/>j ēnvānṟu r<unclear>ā</unclear>jam<unclear>ā</unclear><supplied reason="lost">naṁ</supplied><lb n="10" break="no"/>bu mūnṟu vuṭṭḷu Āṟla
+               <lb n="1" rend="large"/>svasti bha<lb n="2" break="no"/>gavad-arhatām pa<lb n="3" break="no"/>rama-bhaṭṭ<choice><sic>a</sic><corr>ā</corr></choice>rakasya <unclear>p</unclear><choice><orig>a</orig><reg>ā</reg></choice><lb n="4" break="no"/>d<choice><sic>a</sic><corr>ā</corr></choice>nudhy<choice><sic>a</sic><corr>ā</corr></choice>ta-parama-mā<lb n="5" break="no"/>hēśvara-para<supplied reason="lost">mē</supplied>śvara-pa<lb n="6" break="no"/>llavāditya <orig>śr̥<unclear>ī</unclear></orig> b<choice><unclear>ā</unclear><unclear>o</unclear></choice>di<lb n="7" break="no"/>rājula Andu paḷḷe<lb n="8" break="no"/>yari koḍuk<unclear>u</unclear> b<unclear>ā</unclear>di<unclear>rā</unclear><lb n="9" break="no"/>j ēnvānṟu r<unclear>ā</unclear>jam<unclear>ā</unclear><supplied reason="lost">naṁ</supplied><lb n="10" break="no"/>bu mūnṟu vuṭṭḷu Āṟla
                <lb n="11"/><choice><unclear>v</unclear><unclear>p</unclear></choice>aṭṭu kṣētra<supplied reason="lost">ṁ</supplied>bu pa<seg type="akṣara"><unclear>ṟ</unclear><supplied reason="lost">i</supplied></seg><lb n="12" break="no"/>si paḷḷeyāri <gap reason="lost" quantity="1" unit="character"/><!-- it has to be ascertained what character could have been written here. Master suggests [dā] which would entail a misspelling of *dānam as *dāyanam. Also to be added in the apparatus --><lb n="13" break="no"/>yana<unclear>ṁ</unclear>bunāku Icce
             </p>
             <p>
@@ -120,7 +120,7 @@
                      </rdg>
                   </app>
                   <app loc="6">
-                     <lem><orig>śṛ<unclear>ī</unclear></orig> b<choice><unclear>ā</unclear><unclear>o</unclear></choice>di<lb n="7" break="no"/>rājula</lem>
+                     <lem><orig>śr̥<unclear>ī</unclear></orig> b<choice><unclear>ā</unclear><unclear>o</unclear></choice>di<lb n="7" break="no"/>rājula</lem>
                      <rdg source="bib:Butterworth+VenugopaulChetty1990_02">
                         śrī bōḍi<lb n="7" break="no"/>rājula
                      </rdg>
@@ -241,7 +241,7 @@
                Radha Krishna erroneously states that <cit><quote>[t]he text of the ins. upto rājula in the 7th line is engraved in the Dēvanāgarī Script.</quote><bibl><ptr target="bib:Radhakrishna1971_01"/><citedRange>62 n. 101</citedRange></bibl></cit>
                Butterworth and Venugopaul Chetty edited the first part of the inscription up to line 7 in Devanagari script because the inscription contains Sanskrit forms. The following lines are given in Telugu script. 
                That might have caused the confusion although a picture of the squeeze is given in <bibl rend="omitname"><ptr target="bib:Master1947-1948_01"/><citedRange unit="item">38</citedRange></bibl> by Master (whom Radha Krishna cites).
-               As for the spelling of <foreign>ṛ</foreign> in <foreign>śṛī</foreign> in line 6 compare the spelling of the <foreign>akṣara</foreign> <foreign>dṛ</foreign> in <bibl><ptr target="bib:NilakantaSastri+Venkataramayya1947-1948_01"/><citedRange unit="plate">G</citedRange><citedRange unit="line">5</citedRange></bibl>.
+               As for the spelling of <foreign>r̥</foreign> in <foreign>śr̥ī</foreign> in line 6 compare the spelling of the <foreign>akṣara</foreign> <foreign>dr̥</foreign> in <bibl><ptr target="bib:NilakantaSastri+Venkataramayya1947-1948_01"/><citedRange unit="plate">G</citedRange><citedRange unit="line">5</citedRange></bibl>.
             </p>
          </div>
         <div type="bibliography">

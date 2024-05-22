@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The name Paradaraśukṛdan</title>
+           <title>The name Paradaraśukr̥dan</title>
             <respStmt>
                <resp>Creation of file</resp>
                <persName ref="part:jeth">
@@ -73,7 +73,7 @@
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-              <lb n="1"/>paradaraśukṛdaN 
+              <lb n="1"/>paradaraśukr̥daN 
             </p>
          </div>
          <div type="apparatus">        
@@ -82,7 +82,7 @@
          </div>
          <div type="commentary">
             <p>
-              It is not quite clear from the edition but the last <foreign>akṣara</foreign> seems to be <foreign>halanta</foreign>. The suffix is not Telugu "proper" but appears to be a Kannaḍa or Tamiḻ (like) suffix in -n. The name consists of two Sanskrit elements which in normalized spelling probably are <foreign>paratara</foreign>-, the comparative of <foreign>para</foreign>-, and <foreign>sukṛta</foreign>- 'good deed; virtuous'. Hence, the name's meaning might have been 'the utmost virtuous one' or 'he whose good deeds are the best'.
+              It is not quite clear from the edition but the last <foreign>akṣara</foreign> seems to be <foreign>halanta</foreign>. The suffix is not Telugu "proper" but appears to be a Kannaḍa or Tamiḻ (like) suffix in -n. The name consists of two Sanskrit elements which in normalized spelling probably are <foreign>paratara</foreign>-, the comparative of <foreign>para</foreign>-, and <foreign>sukr̥ta</foreign>- 'good deed; virtuous'. Hence, the name's meaning might have been 'the utmost virtuous one' or 'he whose good deeds are the best'.
             </p>
          </div>
         <div type="bibliography">
