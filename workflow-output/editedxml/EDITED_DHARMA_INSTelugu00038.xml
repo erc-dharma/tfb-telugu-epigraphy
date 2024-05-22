@@ -73,12 +73,12 @@
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-               <lb n="1"/>svasti śrī vinayā<lb break="no" n="2"/>ditya-satyāśraya śrī pṛthi<lb break="no" n="3"/>vī-vallabha-mahārājādhirā<lb break="no" n="4"/>ja-par<unclear>ā</unclear>mēśvara-bhaṭarāḷa <unclear>v</unclear>i<lb break="no" n="5"/>jayarājya-sa<unclear>ṁ</unclear>vatsaraṁbuḶ pa<lb break="no" n="6"/>di Agun-ēṇḍu v<unclear>ā</unclear>ṇarājul va<supplied reason="lost">ṁ</supplied>g<unclear>ā</unclear><lb break="no" n="7"/>nūr nn<unclear>ā</unclear>ṇḍ ēḷaN chāḷkiḷēṁṟurāju<lb n="8" break="no"/>L niṭūraN E<unclear>ṁ</unclear>ka<unclear>pa</unclear>ṁmi-pāṟa ko<supplied reason="lost">ṁ</supplied><lb n="9" break="no"/>ṟuṟēniki paśc<supplied reason="lost">i</supplied>ma-diś<unclear>ā</unclear>N pañc<unclear>ā</unclear><lb n="10" break="no"/>śat-kṣētraṁb icciri dāniki sākṣi
+               <lb n="1"/>svasti śrī vinayā<lb break="no" n="2"/>ditya-satyāśraya śrī pr̥thi<lb break="no" n="3"/>vī-vallabha-mahārājādhirā<lb break="no" n="4"/>ja-par<unclear>ā</unclear>mēśvara-bhaṭarāḷa <unclear>v</unclear>i<lb break="no" n="5"/>jayarājya-sa<unclear>ṁ</unclear>vatsaraṁbuḶ pa<lb break="no" n="6"/>di Agun-ēṇḍu v<unclear>ā</unclear>ṇarājul va<supplied reason="lost">ṁ</supplied>g<unclear>ā</unclear><lb break="no" n="7"/>nūr nn<unclear>ā</unclear>ṇḍ ēḷaN chāḷkiḷēṁṟurāju<lb n="8" break="no"/>L niṭūraN E<unclear>ṁ</unclear>ka<unclear>pa</unclear>ṁmi-pāṟa ko<supplied reason="lost">ṁ</supplied><lb n="9" break="no"/>ṟuṟēniki paśc<supplied reason="lost">i</supplied>ma-diś<unclear>ā</unclear>N pañc<unclear>ā</unclear><lb n="10" break="no"/>śat-kṣētraṁb icciri dāniki sākṣi
                <lb n="11"/>vaḍlapāl<unclear>mu</unclear>siyya muḷugu I<lb n="12" break="no"/>ḷūñca<unclear>vā</unclear>ri bōḷu val<unclear>edo</unclear>ṟa
-               <lb n="13"/>bōḷu n<unclear>ā</unclear>nṟu mah<unclear>ā</unclear>janaṁbu śu<supplied reason="lost">bhaṁ</supplied><lb n="14" break="no"/>bu vṛddhiyu <supplied reason="omitted">A</supplied>ku
+               <lb n="13"/>bōḷu n<unclear>ā</unclear>nṟu mah<unclear>ā</unclear>janaṁbu śu<supplied reason="lost">bhaṁ</supplied><lb n="14" break="no"/>bu vr̥ddhiyu <supplied reason="omitted">A</supplied>ku
             </p> 
             <p xml:lang="san-Latn">
-                                  <lg n="1" met="anuṣṭubh"><l n="a">svadat<supplied reason="omitted">t</supplied>ā<supplied reason="lost">ṁ</supplied> parada<lb n="15" break="no"/>ttāṁ vā</l><l n="b"> yō harēta vas<supplied reason="lost">u</supplied><lb n="16" break="no"/><supplied reason="undefined">ndharāṁ</supplied></l><l n="c"><supplied reason="undefined">ṣaṣṭiṁ varṣasahasrāṇi</supplied></l><l n="c"> <supplied reason="undefined">viṣṭāyāṁ jāyatē kṛmiḥ</supplied></l>
+                                  <lg n="1" met="anuṣṭubh"><l n="a">svadat<supplied reason="omitted">t</supplied>ā<supplied reason="lost">ṁ</supplied> parada<lb n="15" break="no"/>ttāṁ vā</l><l n="b"> yō harēta vas<supplied reason="lost">u</supplied><lb n="16" break="no"/><supplied reason="undefined">ndharāṁ</supplied></l><l n="c"><supplied reason="undefined">ṣaṣṭiṁ varṣasahasrāṇi</supplied></l><l n="c"> <supplied reason="undefined">viṣṭāyāṁ jāyatē kr̥miḥ</supplied></l>
            </lg>
             </p>
          </div>
@@ -130,14 +130,14 @@
                      <rdg source="bib:Ramesh+RamachandraMurthy1969-1970_04"><unclear>śubhaṁ</unclear></rdg>
                   </app>
                   <app loc="14">
-                     <lem>vṛddhiyu <supplied reason="omitted">A</supplied>ku</lem>
-                     <rdg source="bib:Ramesh+RamachandraMurthy1969-1970_04">vṛddhiyuṁkā</rdg>
+                     <lem>vr̥ddhiyu <supplied reason="omitted">A</supplied>ku</lem>
+                     <rdg source="bib:Ramesh+RamachandraMurthy1969-1970_04">vr̥ddhiyuṁkā</rdg>
                   </app>
                </listApp>         
          </div>
          <div type="translation" resp="part:jeth">
  	  <p>
- 	   Svasti! In the tenth year in the era of the victorious reign of Śrī Vinayāditya-Satyāśraya Śrī Pṛthivī-Vallabha-Mahārājādhirāja-Paramēśvara-bhaṭarāḷu, when Bāṇarājul reigned over Vaṁganūr-Nāṇḍu, Cālukya-Ḷēṁṟurāju gave, in Niṭūru in the western direction, a field (as a) pannasa (grant) to Koṁṟuṟēṇḍu, brahmin of Eṁkapaṁm(u). The witness(es) to that (are): the<!-- has to be clarified whether this is a title or not --> muḷugu of Vaḍlapālmusi, the bōḷu of Iḷūñcavāru, (and) the bōḷu in Valedoṟu. May there be welfare and prosperity of the country and the people!
+ 	   Svasti! In the tenth year in the era of the victorious reign of Śrī Vinayāditya-Satyāśraya Śrī Pr̥thivī-Vallabha-Mahārājādhirāja-Paramēśvara-bhaṭarāḷu, when Bāṇarājul reigned over Vaṁganūr-Nāṇḍu, Cālukya-Ḷēṁṟurāju gave, in Niṭūru in the western direction, a field (as a) pannasa (grant) to Koṁṟuṟēṇḍu, brahmin of Eṁkapaṁm(u). The witness(es) to that (are): the<!-- has to be clarified whether this is a title or not --> muḷugu of Vaḍlapālmusi, the bōḷu of Iḷūñcavāru, (and) the bōḷu in Valedoṟu. May there be welfare and prosperity of the country and the people!
  	  </p>
          </div>
          <div type="commentary">

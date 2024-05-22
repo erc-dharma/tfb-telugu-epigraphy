@@ -118,7 +118,7 @@
                    <app loc="4">
                        <lem>sē<unclear>nu peda</unclear><lb n="5" break="no"/><unclear>ku</unclear>ḻ eṟayurāju<unclear>L</unclear></lem>
                        <rdg source="bib:Butterworth+VenugopaulChetty1990_02">sē<unclear>penuda</unclear><lb n="5" break="no"/><unclear>ku</unclear> ḻeṟayurāju<unclear>L</unclear></rdg>
-                       <rdg source="bib:Sastri1969_01">sēnu <unclear>peda</unclear><lb n="5" break="no"/>ru ṛeṟayurāju<unclear>L</unclear></rdg>
+                       <rdg source="bib:Sastri1969_01">sēnu <unclear>peda</unclear><lb n="5" break="no"/>ru ṛeṟayurāju<unclear>L</unclear><!--daba20240522: ru ṛeṟayurāju may be an exact reproduction of Sastri's printed reading, or a typo for ru ṟeṟayurāju.--></rdg>
                    </app>
                    <app loc="6">
                        <lem>Immaḷūri</lem>

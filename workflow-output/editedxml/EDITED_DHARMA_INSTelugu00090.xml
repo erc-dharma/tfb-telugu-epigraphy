@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Hero stone of Vīrāmahārāju’s eldest son during the rule of Triṅētṛṇḍu</title>
+            <title>Hero stone of Vīrāmahārāju’s eldest son during the rule of Triṅētr̥ṇḍu</title>
             <!-- The title could be changed regarding the interpretation of the inscription -->
             <respStmt>
                <resp>EpiDoc encoding</resp>
@@ -105,8 +105,8 @@
          <div type="edition" xml:lang="tel-Latn">
             <p>
               <lb n="1"/>svasti <unclear>A</unclear>nēkasamaraśaṁghaṭṭaṇōpaladdhajaya<lb n="2" break="no"/>lakṣamīsamāliṁgitavakṣastala-kalige-triṇē<supplied reason="undefined">tra-</supplied>
-              <lb n="3"/>śrī-cavamākulasēnāpati vīrāmāhārāju ya<orig>gṛi</orig>sutunṟu
-              <lb n="4"/>cānda Iti putṛ<unclear>malla</unclear>dēvumāganṟu <unclear>sagaladēse mēgi</unclear>
+              <lb n="3"/>śrī-cavamākulasēnāpati vīrāmāhārāju ya<orig>gr̥i</orig>sutunṟu
+              <lb n="4"/>cānda Iti putr̥<unclear>malla</unclear>dēvumāganṟu <unclear>sagaladēse mēgi</unclear>
               <lb n="5"/><unclear>Ē</unclear>ḻupakāla Ēḷuvā<orig>nḍu</orig> poḍici paḍiye
             </p>
          </div>
@@ -115,7 +115,7 @@
                   <app loc="2">
                      <lem>kalige-triṇē<supplied reason="undefined">tra</supplied></lem>
                      <rdg source="bib:RamayyaPantulu1948_01">
-                       <unclear>ra</unclear>triṇētṛṇḍu 
+                       <unclear>ra</unclear>triṇētr̥ṇḍu 
                      </rdg>
                   </app>
                   <app loc="3">
@@ -131,9 +131,9 @@
                      </rdg>
                   </app>
                   <app loc="4">
-                     <lem>cānda Iti putṛ</lem>
+                     <lem>cānda Iti putr̥</lem>
                      <rdg source="bib:RamayyaPantulu1948_01">
-                       nā<unclear>nda</unclear><gap reason="undefined" unit="character" quantity="1" precision="low"/>putṛ 
+                       nā<unclear>nda</unclear><gap reason="undefined" unit="character" quantity="1" precision="low"/>putr̥ 
                      </rdg>
                   </app>
                   <app loc="4">
