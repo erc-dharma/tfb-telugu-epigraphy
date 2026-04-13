@@ -85,8 +85,8 @@
                
                <milestone type="pagelike" unit="face" n="B"/>
               <lb n="16"/><gap reason="undefined" unit="character" quantity="2" precision="low"/></p>
-                         <p xml:lang="san-Latn">
-                            <lg n="1" met="anuṣṭubh">
+                         
+                            <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
                                <l n="a"><unclear>bahubhi</unclear>r vvasu<unclear>dhā</unclear> dat<unclear>tā</unclear></l>
               <lb n="17"/>
                                <l n="b">bahubhiś cānupālitā</l> 
@@ -97,10 +97,10 @@
                                <l n="a">svadatt<choice><orig>a</orig><reg>ā</reg></choice>ṁ paradatt<choice><orig>a</orig><reg>ā</reg></choice>ṁ vā</l> 
                                <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> va<supplied reason="undefined">sundharāṁ</supplied></l>
               <lb n="20"/>
-                               <l n="c">ṣaṣ<choice><sic>ṭhi</sic><corr>ṭi</corr></choice><choice><orig><unclear>ṁ</unclear><reg>r</reg></orig></choice> varṣasahasrāṇi</l> 
+                               <l n="c">ṣaṣ<choice><sic>ṭhi</sic><corr>ṭi</corr></choice><choice><orig><unclear>ṁ</unclear></orig><reg>r</reg></choice> varṣasahasrāṇi</l> 
                                <l n="d">viṣṭhāyāṁ jāya<supplied reason="undefined">te kr̥miḥ</supplied></l></lg>
               <lb n="21"/>
-                            <lg n="3" met="anuṣṭubh">
+                            <lg n="3" met="anuṣṭubh" xml:lang="san-Latn">
                                <l n="a"><unclear>bhū</unclear>midānāT paran dānaṁ</l> 
                                <l n="b">na bhūtan na bhaviṣya<unclear>ti</unclear></l>
               <lb n="22"/>
@@ -113,7 +113,7 @@
               <lb n="24"/>
                                <l n="c">teṣāṁ <supplied reason="undefined" cert="unknown">havir na vai</supplied> medhya<supplied reason="undefined" cert="unknown">ṁ</supplied></l> 
                                <l n="d"><gap reason="undefined" unit="character" quantity="3" precision="low"/>mēdhya<gap reason="undefined" unit="character" quantity="4" precision="low"/></l></lg>
-              <lb n="25"/><gap reason="undefined" extent="unknown" unit="line"/></p>
+              <lb n="25"/><gap reason="undefined" extent="unknown" unit="line"/>
                
                <p xml:lang="tel"><milestone type="pagelike" unit="face" n="C"/>
               <lb n="26"/>maḷavivisva<lb n="27" break="no"/>ṁbu sadāmavī<lb n="28" break="no"/>sainyamākaḷi

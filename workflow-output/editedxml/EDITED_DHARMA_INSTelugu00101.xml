@@ -113,18 +113,18 @@
              <lb n="17"/>campinavanṟ agu
              <lb n="18"/>            
             </p> 
-            <p xml:lang="san-Latn">
-             <lb n="19"/>
-               <lg n="1" met="anuṣṭubh">
-                 <l n="c">ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<lb break="no" n="20"/><choice><orig>t</orig><reg>d</reg></choice>ā bhūmi<supplied reason="omitted">s</supplied></l>
+            
+             
+               <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
+                 <l n="c"><lb n="19"/>ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<lb break="no" n="20"/><choice><orig>t</orig><reg>d</reg></choice>ā bhūmi<supplied reason="omitted">s</supplied></l>
                  <l n="d">ta<choice><orig>ś</orig><reg>s</reg></choice>ya <surplus><unclear>śa</unclear></surplus><lb n="21"/>ta<choice><orig>ś</orig><reg>s</reg></choice>ya ta<choice><orig>th</orig><reg>d</reg></choice>ā <choice><orig>p</orig><reg>ph</reg></choice>a<unclear>la</unclear><supplied reason="lost">ṁ</supplied></l>
              </lg>
-             <lb n="22"/>
-                <lg n="2" met="anuṣṭubh">
-                 <l n="a">svadat<unclear>ā</unclear> pa<unclear>ra</unclear>da<lb break="no" n="23"/>tā va</l> <l n="b">yō <supplied reason="lost">ha</supplied><unclear>r</unclear><supplied reason="lost">ē</supplied><unclear>t</unclear><supplied reason="lost">i</supplied>
+             
+                <lg n="2" met="anuṣṭubh" xml:lang="san-Latn">
+                 <l n="a"><lb n="22"/>svadat<unclear>ā</unclear> pa<unclear>ra</unclear>da<lb break="no" n="23"/>tā va</l> <l n="b">yō <supplied reason="lost">ha</supplied><unclear>r</unclear><supplied reason="lost">ē</supplied><unclear>t</unclear><supplied reason="lost">i</supplied>
                 <lb n="24"/><surplus>ṣa</surplus> vaśundara <unclear>ṣṭhi</unclear></l>
              </lg>
-            </p>
+            
          </div>
          <div type="apparatus">
                <listApp>
