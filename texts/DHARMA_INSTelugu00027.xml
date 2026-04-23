@@ -46,19 +46,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -73,7 +67,7 @@
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p>
-               <milestone unit="face" n="a"/><lb n="1"/><g type="spiralR"/> svasti śrīmaT <g type="dandaHooked"/> satyāśraya<milestone unit="face" n="b" break="no"/>-śrī-<sic>pr̥i</sic>thivī<milestone unit="face" n="a" break="no"/><lb n="2" break="no"/>-vallabha-mahārājādhirāja-vi<milestone unit="face" n="b" break="no"/>kramāditya-paramē<milestone unit="face" n="a" break="no"/><lb n="3" break="no"/>śvara-bhaṭaruḷāku<unclear>N</unclear> śrīmad-unnata-prava<milestone unit="face" n="b" break="no"/>rddhamāna-vijaya<milestone unit="face" n="a" break="no"/><lb n="4" break="no"/>rājya-saṁvatsaraṁbuḶ Ācandratāra<milestone unit="face" n="b" break="no"/>purassaraM<milestone unit="face" n="a" break="no"/><lb n="5"/>dvitīya-varṣam-prava<add place="below">rta</add>mānaṁ kānu goggi<milestone unit="face" n="b" break="no"/>-bhaṭaraḷa dakṣiṇa<milestone unit="face" n="a" break="no"/><lb n="6" break="no"/>bhujāyamānuṁṟ<!-- it seems to be a denominal derivation from bhuja- 'arm'; quasi "holding the south in his arm/grip" --> ayina ālakuma<unclear>ra</unclear><!-- I cannot see any ⟨ra⟩ --><milestone unit="face" n="b" break="no"/>priya-tana<choice><orig>yi</orig><reg>yu</reg></choice>ṁṟ ayina
+               <milestone unit="face" n="a"/><lb n="1"/><g ref="sym:spiral-right" type="symbol">*</g> svasti śrīmaT <g ref="sym:bar-hooked" type="punctuation">.</g> satyāśraya<milestone unit="face" n="b" break="no"/>-śrī-<sic>pr̥i</sic>thivī<milestone unit="face" n="a" break="no"/><lb n="2" break="no"/>-vallabha-mahārājādhirāja-vi<milestone unit="face" n="b" break="no"/>kramāditya-paramē<milestone unit="face" n="a" break="no"/><lb n="3" break="no"/>śvara-bhaṭaruḷāku<unclear>N</unclear> śrīmad-unnata-prava<milestone unit="face" n="b" break="no"/>rddhamāna-vijaya<milestone unit="face" n="a" break="no"/><lb n="4" break="no"/>rājya-saṁvatsaraṁbuḶ Ācandratāra<milestone unit="face" n="b" break="no"/>purassaraM<milestone unit="face" n="a" break="no"/><lb n="5"/>dvitīya-varṣam-prava<add place="below">rta</add>mānaṁ kānu goggi<milestone unit="face" n="b" break="no"/>-bhaṭaraḷa dakṣiṇa<milestone unit="face" n="a" break="no"/><lb n="6" break="no"/>bhujāyamānuṁṟ<!-- it seems to be a denominal derivation from bhuja- 'arm'; quasi "holding the south in his arm/grip" --> ayina ālakuma<unclear>ra</unclear><!-- I cannot see any ⟨ra⟩ --><milestone unit="face" n="b" break="no"/>priya-tana<choice><orig>yi</orig><reg>yu</reg></choice>ṁṟ ayina
                <lb n="7"/>Ujēnīpiśāca-nāmadhē<choice><orig>yi</orig><reg>yu</reg></choice>ṁṟu <unclear>tuṟu</unclear>-taṭāka-nāmābhi<lb n="8" break="no"/>dhāna-naga<choice><orig>radhī</orig><reg>rādhi</reg></choice>ṣṭhāṇuṁṟ ayi Ēṟuva-<unclear>viṣa</unclear>yaṁb ēḷan<!-- halanta? --> tasya
                <lb n="9"/>mā<choice><sic>tā</sic><corr>trā</corr></choice> dattaṁ gōvr̥ṣāṇa-bhaṭṭārahō śata-paṁcāśat kṣētram<!-- halanta? -->
                <lb n="10"/>svadattāṁ paradattāṁ vā yō harē<choice><sic>ti</sic><corr>ta</corr></choice> vasuṁdharā<unclear>M</unclear>
@@ -83,7 +77,7 @@
          <div type="apparatus">
                <listApp>
                   <app loc="1">
-                     <lem><g type="spiralR"/></lem>
+                     <lem><g ref="sym:spiral-right" type="symbol">*</g></lem>
                      <rdg source="bib:Narasimhaswami1951-1952_01">ōṁ</rdg>
                      <note>The reading of the editor is an interpretation of the symbol.</note>
                   </app>

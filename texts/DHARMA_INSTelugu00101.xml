@@ -89,21 +89,15 @@
             <p xml:lang="tel-Latn">
                 <milestone unit="face" type="facelike" n="A"/>
              <lb n="1"/>svasti śrī magidogarajula muṭlu
-             <lb n="2"/>viṭṟajula pratama-rā<lb break="no" 
-                   n="3"/>jyaṁbuna kaḍu<unclear>mallu</unclear><lb break="no" 
-                   n="4"/>la Iccina reṇḍu vaṭi
-             <lb n="5"/>miriyampu bōḷa<lb break="no" 
-                   n="6"/>jakkuṟēgari pa<lb break="no" 
-                   n="7"/>ḍaśina reṇḍu vaṭṭi
-             <lb n="8"/>padēnduṁbu Āḍlu pa<lb break="no" 
-                   n="9"/>ṭṭu druggādēvi nēlayu
+             <lb n="2"/>viṭṟajula pratama-rā<lb break="no" n="3"/>jyaṁbuna kaḍu<unclear>mallu</unclear><lb break="no" n="4"/>la Iccina reṇḍu vaṭi
+             <lb n="5"/>miriyampu bōḷa<lb break="no" n="6"/>jakkuṟēgari pa<lb break="no" n="7"/>ḍaśina reṇḍu vaṭṭi
+             <lb n="8"/>padēnduṁbu Āḍlu pa<lb break="no" n="9"/>ṭṭu druggādēvi nēlayu
              <lb n="10"/>Uṟuvuṭuri bōḷa
              <lb n="11"/>reṇḍūṭṭiyu tūṟpuN
                 <milestone unit="face" type="facelike" n="B"/>
              <lb n="12"/>I reṇḍ<supplied reason="lost">ū</supplied><unclear>ṭ</unclear>i ḻacuvaru
              <lb n="13"/>kaḷarēni bāranāsi
-             <lb n="14"/>vēgavilāḷu vē<supplied reason="omitted">gu</supplied>ḍlu<lb break="no" 
-                   n="15"/>mu vēśeṟuvuḷu
+             <lb n="14"/>vēgavilāḷu vē<supplied reason="omitted">gu</supplied>ḍlu<lb break="no" n="15"/>mu vēśeṟuvuḷu
              <lb n="16"/>vēvuru paṟānu
              <lb n="17"/>campinavanṟ agu
              <lb n="18"/>            
@@ -111,16 +105,12 @@
             
              
                <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
-                 <l n="c"><lb n="19"/>ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<lb break="no" 
-                   n="20"/><choice><orig>t</orig><reg>d</reg></choice>ā bhūmi<supplied reason="omitted">s</supplied></l>
-                 <l n="d">ta<choice><orig>ś</orig><reg>s</reg></choice>ya <surplus><unclear>śa</unclear></surplus><lb 
-                   n="21"/>ta<choice><orig>ś</orig><reg>s</reg></choice>ya ta<choice><orig>th</orig><reg>d</reg></choice>ā <choice><orig>p</orig><reg>ph</reg></choice>a<unclear>la</unclear><supplied reason="lost">ṁ</supplied></l>
+                 <l n="c"><lb n="19"/>ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<lb break="no" n="20"/><choice><orig>t</orig><reg>d</reg></choice>ā bhūmi<supplied reason="omitted">s</supplied></l>
+                 <l n="d">ta<choice><orig>ś</orig><reg>s</reg></choice>ya <surplus><unclear>śa</unclear></surplus><lb n="21"/>ta<choice><orig>ś</orig><reg>s</reg></choice>ya ta<choice><orig>th</orig><reg>d</reg></choice>ā <choice><orig>p</orig><reg>ph</reg></choice>a<unclear>la</unclear><supplied reason="lost">ṁ</supplied></l>
              </lg>
              
                 <lg n="2" met="anuṣṭubh" xml:lang="san-Latn">
-                 <l n="a"><lb n="22"/>svadat<unclear>ā</unclear> pa<unclear>ra</unclear>da<lb break="no" 
-                   n="23"/>tā va</l> <l 
-                      n="b">yō <supplied reason="lost">ha</supplied><unclear>r</unclear><supplied reason="lost">ē</supplied><unclear>t</unclear><supplied reason="lost">i</supplied>
+                 <l n="a"><lb n="22"/>svadat<unclear>ā</unclear> pa<unclear>ra</unclear>da<lb break="no" n="23"/>tā va</l> <l n="b">yō <supplied reason="lost">ha</supplied><unclear>r</unclear><supplied reason="lost">ē</supplied><unclear>t</unclear><supplied reason="lost">i</supplied>
                 <lb n="24"/><surplus>ṣa</surplus> vaśundara <unclear>ṣṭhi</unclear></l>
              </lg>
             
@@ -137,8 +127,7 @@
                        <note>Prabhākaraśāstri remarks in note no. 2 that also <foreign>muṭlu</foreign> could be read. As far as I can say from the picture published in Prabhākaraśāstri's edition the <foreign>akṣara</foreign> resembles ⟨ṭ⟩ in line 4. Other instances of the word in question show ⟨ṭ⟩.</note>
                    </app>
                    <app loc="3">
-                       <lem>kaḍu<unclear>mallu</unclear><lb break="no" 
-                   n="4"/>la</lem>
+                       <lem>kaḍu<unclear>mallu</unclear><lb break="no" n="4"/>la</lem>
                        <rdg source="bib:Prabhākaraśāstri1928_01">kaḍuvaṁ<unclear>ḍlu</unclear><lb break="no" n="4"/>la</rdg>
                        <note>Prabhākaraśāstri notes that ⟨du⟩ could be read as well, and that the reading of ⟨ḍlu⟩ is uncertain and also could be ⟨jlu⟩ (notes nos. 3-4). The <foreign>akṣara</foreign> in question indeed looks like ⟨jlu⟩. As far as I can say from my bad scan the <foreign>akṣara</foreign> that was read as ⟨va⟩ by Prabhākara Śāstri could also be ⟨ma⟩. The following <foreign>akṣara</foreign> could be ⟨lla⟩ as spelled in the Zulakallu plates of Vijayāditya I (line 17) (<bibl><ptr target="bib:Gai1965-1966_01"/></bibl>), i. e. with the right upward line of the superscript ⟨l⟩ drawn downwards on the left side ending into subscript ⟨l⟩. The single ⟨la⟩ is written in its fuller form in line 4 of our Telugu inscription but also occurs in a slightly more advanced form in line 14.</note>
                    </app>
@@ -157,7 +146,7 @@
                        <note>According to Prabhākaraśāstri the spelling should be ⟨pa⟩ (note no. 6); the respective verb would be <foreign>paḍayu</foreign>. The line that Prabhākaraśāstri read as the vowel sign ⟨°e⟩ starts on the left side from the middle of the <foreign>akṣara</foreign> ⟨pa⟩. That would be very unusual because this vowel is normally written on the upper left line of the <foreign>akṣara</foreign>. The alleged vowel sign may therefore be simply a damage on the stone.</note>
                    </app>
                    <app loc="7">
-                       <lem></lem>
+                       <lem/>
                        <rdg source="bib:Prabhākaraśāstri1928_01">renḍu</rdg>
                    </app>
                    <app loc="8">
@@ -167,7 +156,7 @@
                    <app loc="11">
                       <lem>reṇḍūṭṭiyu</lem>
                       <rdg source="bib:Prabhākaraśāstri1928_01">renḍuṭṭiyu</rdg>
-                      <note>In Prabhākaraśāstri's edition <foreign>renṭuṭḍiyu</foreign> is printed but that seems to be a mere misprint. The vowel sign is written to the left side and has a hook on top drooping towards the left. Therefore, the vowel seems to be long /uː/ seems to be written. The form appears to be a contraction of /uva/ to /uː/ of the already mentioned <foreign>reṇḍuvaṭṭi</foreign> (i. e. reṇḍuvaṭṭi > reṇḍūṭṭi)</note>
+                      <note>In Prabhākaraśāstri's edition <foreign>renṭuṭḍiyu</foreign> is printed but that seems to be a mere misprint. The vowel sign is written to the left side and has a hook on top drooping towards the left. Therefore, the vowel seems to be long /uː/ seems to be written. The form appears to be a contraction of /uva/ to /uː/ of the already mentioned <foreign>reṇḍuvaṭṭi</foreign> (i. e. reṇḍuvaṭṭi &gt; reṇḍūṭṭi)</note>
                    </app>
                    <app loc="11">
                        <lem>tūṟpuN</lem>
@@ -184,8 +173,7 @@
                        <note>Prabhākaraśāstri notes (note no. 8) that the form should be <foreign>ḻaccu</foreign>.</note>
                    </app>
                    <app loc="14">
-                       <lem>vē<supplied reason="omitted">gu</supplied>ḍlu<lb break="no" 
-                   n="15"/>mu</lem>
+                       <lem>vē<supplied reason="omitted">gu</supplied>ḍlu<lb break="no" n="15"/>mu</lem>
                        <note>Prabhākaraśāstri edits the text as it is written but states that it should be <foreign>vēguḍlu</foreign> (note 9).</note>
                    </app>
                    <app loc="16">
@@ -198,24 +186,19 @@
                        <note>According to Prabhākaraśāstri (note no. 11) the reading is unclear and also <foreign>canvaṁ</foreign> and <foreign>candhaṁ</foreign> are possible according to him (his alternative readings are very blurred in the bad scan at my disposal).The <foreign>akṣara</foreign> ⟨va⟩ is written in a little bit more elongated form than in e. g. line 14. The scribe forgot to write the horizontal line inside the <foreign>akṣara</foreign> ⟨ṟa⟩ so that it is an empty oval and thus resembles a ⟨dha⟩ or ⟨va⟩. The reading <foreign>vanṟ agu</foreign> is what to be expected as can be seen from other inscriptions.</note>
                    </app>
                    <app loc="18">
-                       <lem></lem>
+                       <lem/>
                        <rdg source="bib:Prabhākaraśāstri1928_01"><gap reason="lost" unit="line" quantity="1"/></rdg>
                        <note>According to Prabhākaraśāstri (note no. 12) this line is effaced. However, it seems to me that this line was intentionally left blank since the Telugu imprecation is now followed by a Sanskrit imprecation. The Telugu imprecation ends in its typical way so that no information is lacking that could have been given in line 18.</note>
                    </app>
                    <app loc="19">
-                       <lem>ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<lb break="no" 
-                   n="20"/><choice><orig>t</orig><reg>d</reg></choice>ā bhūmi<supplied reason="omitted">s</supplied> ta<choice><orig>ś</orig><reg>s</reg></choice>ya <surplus><unclear>śa</unclear></surplus><lb 
-                   n="21"/>ta<choice><orig>ś</orig><reg>s</reg></choice>ya ta<choice><orig>th</orig><reg>d</reg></choice>ā <choice><orig>p</orig><reg>ph</reg></choice>a<unclear>la</unclear><supplied reason="lost">ṁ</supplied></lem>
-                       <rdg source="bib:Prabhākaraśāstri1928_01">yaśya yaśy ya<lb break="no" 
-                   n="20"/>tā bhūmi taśyaśya<lb 
-                   n="21"/>taśya tadhā palaṁ</rdg>
+                       <lem>ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<choice><orig>ś</orig><reg>s</reg></choice>ya ya<lb break="no" n="20"/><choice><orig>t</orig><reg>d</reg></choice>ā bhūmi<supplied reason="omitted">s</supplied> ta<choice><orig>ś</orig><reg>s</reg></choice>ya <surplus><unclear>śa</unclear></surplus><lb n="21"/>ta<choice><orig>ś</orig><reg>s</reg></choice>ya ta<choice><orig>th</orig><reg>d</reg></choice>ā <choice><orig>p</orig><reg>ph</reg></choice>a<unclear>la</unclear><supplied reason="lost">ṁ</supplied></lem>
+                       <rdg source="bib:Prabhākaraśāstri1928_01">yaśya yaśy ya<lb break="no" n="20"/>tā bhūmi taśyaśya<lb n="21"/>taśya tadhā palaṁ</rdg>
                        <note>The scan of Prabhākaraśāstri's article at my disposal is of a bad quality. On the picture I can see a shade of what could be interpreted as a ⟨śa⟩ but I can not see traces of subscript ⟨°ya⟩ in line 20. However, Prabhākaraśāstri may be right that the <foreign>akṣara</foreign> ⟨śa⟩ or ⟨śya⟩ was written twice by mistake. These two <foreign>pādas</foreign> normally are <foreign>pāda</foreign> 3 and 4 of a standard imprecation <foreign>śloka</foreign>. See commentary.</note>
                    </app>
                    <app loc="22">
-                       <lem>svadat<unclear>ā</unclear> pa<unclear>ra</unclear>da<lb break="no" 
-                   n="23"/>tā va yō <supplied reason="lost">ha</supplied><unclear>r</unclear><supplied reason="lost">ē</supplied><unclear>t</unclear><supplied reason="lost">i</supplied>
+                       <lem>svadat<unclear>ā</unclear> pa<unclear>ra</unclear>da<lb break="no" n="23"/>tā va yō <supplied reason="lost">ha</supplied><unclear>r</unclear><supplied reason="lost">ē</supplied><unclear>t</unclear><supplied reason="lost">i</supplied>
                 <lb n="24"/><surplus>ṣa</surplus> vaśundara <unclear>ṣṭhi</unclear></lem>
-                       <rdg source="bib:Prabhākaraśāstri1928_01">svadattā parada<lb break="no" n="23"/>tā vā yō<gap reason="lost" extent="unknown"></gap><lb n="24"/>pavaśundarā</rdg>
+                       <rdg source="bib:Prabhākaraśāstri1928_01">svadattā parada<lb break="no" n="23"/>tā vā yō<gap reason="lost" extent="unknown"/><lb n="24"/>pavaśundarā</rdg>
                        <note>Prabhākaraśāstri read the first <foreign>akṣara</foreign> of line 24 as ⟨pa⟩ but in my opinion it more resembles ⟨ṣa⟩. I think that this ⟨ṣa⟩ is the first <foreign>akṣara</foreign> of the third <foreign>pāda</foreign> of the respective <foreign>śloka</foreign> the first two <foreign>pādas</foreign> of which have been encarved on the stone. The last <foreign>akṣara</foreign> of line 24 normally is the second <foreign>akṣara</foreign> of the third pāda 3 (together <foreign>ṣaṣṭhi</foreign>). See commentary.</note>
                    </app>
                </listApp>
@@ -247,7 +230,7 @@
              <p n="1-18">
                I have to stress that my own reading is based on the picture in Prabhākaraśāstri's edition. I only had access to a bad scan. That is why my reading might be faulty in one or the other place and I apologize if I mistakingly "corrected" Prabhākaraśāstri's edition for the bad.</p> 
                <p>Prabhākaraśāstri interprets <foreign>kaḍuvaṁ<unclear>ḍlu</unclear>la</foreign>, as he reads it, in lines 3-4 as the name of a village in the locative (<cit><quote>కడువండ్లులగ్రామమున [kaḍuvaṁḍlulagrāmamuna]</quote><bibl rend="omitname"><ptr target="bib:Prabhākaraśāstri1928_01"/><citedRange unit="page">937</citedRange></bibl></cit>). He regards <foreign>miriyampu bōḷaja</foreign> (with the dative suffix -<foreign>ku</foreign>) as the donée and <foreign>ṟeṁgari</foreign> as the donor (<bibl rend="omitname"><ptr target="bib:Prabhākaraśāstri1928_01"/><citedRange unit="page">937-937</citedRange></bibl>). The semantics of <foreign>paḍayu</foreign> ("to obtain, possess"), however, are problematic in my opinion. According to my reading <foreign>kaḍumallu</foreign> is a person's name which means something like "strong wrestler" (<foreign>kaḍu</foreign> + <foreign>mallu</foreign>). Prabhākaraśāstri interprets <foreign>bōḷaja </foreign> as consisting of <foreign>bōḷa</foreign> and an abbreviated Prakrit form of <foreign>ajja</foreign> (from <foreign>ārya</foreign>) (<bibl rend="omitname"><ptr target="bib:Prabhākaraśāstri1928_01"/><citedRange unit="page">942</citedRange></bibl>). However, since double ⟨kku⟩ is written in line 6, which therefore can not be the dative suffix being written with a single ⟨k⟩, I would rather separate the usual designation <foreign>bōḷa</foreign> from the actual name that follows. The suffix -<foreign>gari</foreign> (i. e. -<foreign>gāri</foreign>) is the genitive of the honorific suffix -<foreign>g/vāru</foreign>. What remains is <foreign>jakkuṟē</foreign>- which consists of <foreign>ṟē</foreign>- "ruler" and <foreign>jakku</foreign> "yakṣa". Hence, <foreign>jakkuṟē</foreign>- means "ruler of the yakṣas" = Kubera.</p> 
-                 <p>The two words <foreign>reṇḍuvaṭi</foreign> and <foreign>reṇḍuvaṭṭi</foreign> seem to refer to the same thing. The spelling <foreign>vaṭi</foreign> seems to be a haplography of the fuller <foreign>vaṭṭi</foreign> which, in my opinion, corresponds to Sanskrit <foreign>paṭṭī</foreign> "a plot of land" (p > v / V(#)_ is a normal sandhi). The contracted form <foreign>reṇḍūṭṭi</foreign> is unusual. However, similar contractions sometimes occur, e. g. <foreign>pandumbu</foreign> from <foreign>paḍudumbu</foreign>.</p>
+                 <p>The two words <foreign>reṇḍuvaṭi</foreign> and <foreign>reṇḍuvaṭṭi</foreign> seem to refer to the same thing. The spelling <foreign>vaṭi</foreign> seems to be a haplography of the fuller <foreign>vaṭṭi</foreign> which, in my opinion, corresponds to Sanskrit <foreign>paṭṭī</foreign> "a plot of land" (p &gt; v / V(#)_ is a normal sandhi). The contracted form <foreign>reṇḍūṭṭi</foreign> is unusual. However, similar contractions sometimes occur, e. g. <foreign>pandumbu</foreign> from <foreign>paḍudumbu</foreign>.</p>
                  <p>The spelling <foreign>druggādēvi</foreign> seems to be a (spontaneous) metathesis of <foreign>Durgādēvi</foreign> "the goddess Durgā". The retainment of double ⟨gg⟩ rather serves to preserve the phonotactic structure of the word than simply being a remainder of the usual doubling of a consonant after <foreign>repha</foreign> because the preservation of the original phonotactic structure also seems to be the goal of vowel lengthening and consonant doubling after the usual metathesis in Telugu. Another example involving a loan word is uramu ~ rommu "chest, breast" (three morae each). Prabhākaraśāstri gives some more examples (<bibl rend="omitname"><ptr target="bib:Prabhākaraśāstri1928_01"/><citedRange unit="page">943-944</citedRange></bibl>).</p>
                   <p>
                       The place name <foreign>Uṟuvuṭuri</foreign> (obl.) is identified by Prabhākaraśāstri with the modern village Uruṭūru, near Guḍivāḍa to the north of the Kr̥ṣṇā river (<bibl rend="omitname"><ptr target="bib:Prabhākaraśāstri1928_01"/><citedRange unit="page">945</citedRange></bibl>).

@@ -94,9 +94,7 @@
              <p><!-- the picture has to be seen regarding halantas etc. -->
                  <milestone unit="face" type="facelike" n="A"/>
                  <lb n="1"/>svasti śrī sōḻa-mahārājull ēḷaN In-puḻōli
-                 <lb n="2"/>Aṇapōtulu rēvaṇakālu puddaṇakālu Iccina pa<lb break="no"
-                       n="3"/>nnasa pen-pāṟa IśaṟēnikiN tēni ḻaccinavānṟu <unclear>pa</unclear><lb break="no"
-                       n="4"/><supplied reason="lost">ñca</supplied>mahāpā<unclear>ta</unclear>kunṟ akuN
+                 <lb n="2"/>Aṇapōtulu rēvaṇakālu puddaṇakālu Iccina pa<lb break="no" n="3"/>nnasa pen-pāṟa IśaṟēnikiN tēni ḻaccinavānṟu <unclear>pa</unclear><lb break="no" n="4"/><supplied reason="lost">ñca</supplied>mahāpā<unclear>ta</unclear>kunṟ akuN
                  <milestone unit="face" type="facelike" n="B"/>
                  <lb n="5"/>Asivairuvu likitaM
              </p>
@@ -117,8 +115,7 @@
                      <rdg source="bib:SomasekharaSarma1933_01">Inpuṣjōli</rdg>
                   </app>
                   <app loc="2">
-                     <lem>pa<lb break="no"
-                       n="3"/>nnasa</lem>
+                     <lem>pa<lb break="no" n="3"/>nnasa</lem>
                      <note>The picture of the estampage even may show ⟨pā⟩.</note>
                   </app>
                   <app loc="2">
@@ -136,8 +133,7 @@
                      <rdg source="bib:SomasekharaSarma1933_01">ṣjaccinavānṟu</rdg>
                   </app>
                   <app loc="3">
-                     <lem><unclear>pa</unclear><lb break="no"
-                       n="4"/><supplied reason="lost">ñca</supplied></lem>
+                     <lem><unclear>pa</unclear><lb break="no" n="4"/><supplied reason="lost">ñca</supplied></lem>
                      <note>The <foreign>akṣara</foreign> ⟨ñca⟩ was written under ⟨nna⟩ of line 3 so that the top of ⟨ñca⟩ was written on the bottom line of ⟨ma⟩. The estampage does not cover the space that the <foreign>akṣara</foreign> seems to have been written in.</note>
                   </app>
                </listApp>

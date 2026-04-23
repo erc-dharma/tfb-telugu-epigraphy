@@ -19,8 +19,8 @@
                 <respStmt>
                     <resp>intellectual authorship of edition</resp><!-- Or the editor if only minor adjustments have been made -->
                     <persName>
-                        <forename></forename><!-- NOT YET CLEAR WHOSE EDITION WILL FORM THE BASIS -->
-                        <surname></surname>
+                        <forename/><!-- NOT YET CLEAR WHOSE EDITION WILL FORM THE BASIS -->
+                        <surname/>
                     </persName>
                 </respStmt>
             </titleStmt>
@@ -85,20 +85,11 @@
          <div type="edition" xml:lang="tel-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <p>
                 <milestone type="pagelike" unit="face" n="A"/>
-                <lb n="1"/>śrī niravadyuṇḍu<lb 
-                    n="2"/>sitta<unclear>jāta</unclear> samuṇḍu śiva<lb 
-                    n="3"/>padavara<unclear>bhakta</unclear> sēviUṇḍ<!-- the original edition has to be checked! The picture in NI seems to show sēvitu° so that it might simply be a printing mistake in Radhakrishna --> a<lb 
-                    n="4"/>khiluṇḍ anrata ripu ba<lb 
-                    n="5"/>luṇḍ āhavarā dharaṇḍ a<lb 
-                    n="6"/>yōgya sighasanuṇḍ a<lb 
-                    n="7"/>gaṇita <choice><orig>da</orig><reg>dā</reg></choice>nā sanaṇḍu ga<unclear>ja</unclear>
+                <lb n="1"/>śrī niravadyuṇḍu<lb n="2"/>sitta<unclear>jāta</unclear> samuṇḍu śiva<lb n="3"/>padavara<unclear>bhakta</unclear> sēviUṇḍ<!-- the original edition has to be checked! The picture in NI seems to show sēvitu° so that it might simply be a printing mistake in Radhakrishna --> a<lb n="4"/>khiluṇḍ anrata ripu ba<lb n="5"/>luṇḍ āhavarā dharaṇḍ a<lb n="6"/>yōgya sighasanuṇḍ a<lb n="7"/>gaṇita <choice><orig>da</orig><reg>dā</reg></choice>nā sanaṇḍu ga<unclear>ja</unclear>
                 <milestone type="pagelike" unit="face" n="B"/>
                 <lb n="8"/><gap reason="undefined" unit="line" quantity="1"/>
-                <lb n="9"/>layuṇḍu <gap reason="undefined" quantity="1" unit="character"/><!-- this might not be correct! But the edition is followed here for now. This holds good for all the gap-instances --> hagaṇḍ<!-- this reading seems to be wrong --> a<lb 
-                    n="10"/>na paṇḍuraṁgu vvi<gap reason="undefined" quantity="1" unit="character"/>Aṇiyu<!-- on the picture there is no trace of ⟨A⟩! --> gānci<lb 
-                    n="11"/>koladi lēni koṭṭaṁbul vo<choice><orig>di</orig><reg>ḍi</reg></choice>ci
-                <lb n="12"/>goṇake nalāta pakṣapāti<lb 
-                    n="13"/>salalita<gap reason="undefined" unit="character" quantity="1"/>padarga
+                <lb n="9"/>layuṇḍu <gap reason="undefined" quantity="1" unit="character"/><!-- this might not be correct! But the edition is followed here for now. This holds good for all the gap-instances --> hagaṇḍ<!-- this reading seems to be wrong --> a<lb n="10"/>na paṇḍuraṁgu vvi<gap reason="undefined" quantity="1" unit="character"/>Aṇiyu<!-- on the picture there is no trace of ⟨A⟩! --> gānci<lb n="11"/>koladi lēni koṭṭaṁbul vo<choice><orig>di</orig><reg>ḍi</reg></choice>ci
+                <lb n="12"/>goṇake nalāta pakṣapāti<lb n="13"/>salalita<gap reason="undefined" unit="character" quantity="1"/>padarga
                 <milestone type="pagelike" unit="face" n="C"/>
                 <lb n="14"/><gap reason="undefined" unit="character" quantity="3"/>na<gap reason="undefined" unit="character" quantity="1"/>
                 <lb n="15"/>tārōṇa vi<unclear>da</unclear><!-- the editors also reckon ⟨ḍa⟩ to be an option -->na goravla vra   
@@ -133,7 +124,7 @@
         	    <!-- has to be completed -->
 			</listBibl>
            <listBibl type="secondary">
-              <bibl></bibl><!-- has to be completed: Sastri, Radha Krishna etc. -->
+              <bibl/><!-- has to be completed: Sastri, Radha Krishna etc. -->
            </listBibl>
         </div>
       </body>
