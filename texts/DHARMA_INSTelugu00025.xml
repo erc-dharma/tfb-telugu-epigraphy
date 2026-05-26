@@ -89,7 +89,7 @@
             <p>
               <milestone unit="face" type="pagelike" n="A"/>
                <lb n="1"/><g ref="sym:spiral-left" type="symbol">*</g>svasti śri cōḻa-ma<lb n="2" break="no"/>hārājādhirāja-pa<lb n="3" break="no"/>ramēśvara-vikramādi<lb n="4" break="no"/>tya-śakri<!-- or kti? conf. the Jain story of Meghakumāra (śakri = megha)  -->komara-vi<lb n="5" break="no"/>kramādityala koḍuk<unclear>u</unclear><lb n="6" break="no"/>X<!-- this akṣara could be ḷa --> kāśyapagō<!-- or is it gē -->tru<!-- or: tra; the ending nṟu should be there in the next line -->
-               <lb n="7"/>śaty<unclear>ā</unclear>ditunṟu śiddhi<lb n="8" break="no"/><!-- something missing here -->yu rēnāṇḍu Ēḷuv<supplied reason="lost">ē</supplied><lb n="9" break="no"/><supplied reason="lost">lu</supplied> Ēḷucu<choice><sic><seg type="akṣara">nṟui</seg></sic><corr>nṟi</corr></choice> ko<unclear>ma</unclear><lb n="10" break="no"/>ṟi<!-- unclear! --> pāṟa rēvaśa<lb n="11" break="no"/>r<unclear>mma</unclear> kāśyapagō<lb n="12" break="no"/>triniki Iccina
+               <lb n="7"/>śaty<unclear>ā</unclear>ditunṟu śiddhi<lb n="8" break="no"/><!-- something missing here -->yu rēnāṇḍu Ēḷuv<supplied reason="lost">ē</supplied><lb n="9" break="no"/><supplied reason="lost">lu</supplied> Ēḷucu<choice><sic><seg type="aksara">nṟui</seg></sic><corr>nṟi</corr></choice> ko<unclear>ma</unclear><lb n="10" break="no"/>ṟi<!-- unclear! --> pāṟa rēvaśa<lb n="11" break="no"/>r<unclear>mma</unclear> kāśyapagō<lb n="12" break="no"/>triniki Iccina
                <lb n="13"/><supplied reason="lost">di</supplied> <unclear>c</unclear>iḻuṁbūri<!-- confer EI XXVII, 42A: ciṟuṁbūri which this mmay have been aimed at to denote --> Utta<supplied reason="lost">ra</supplied><lb n="14" break="no"/><supplied reason="lost">di</supplied>śa tū<unclear>r</unclear>punaṁ diśa
                <lb n="15"/><gap reason="lost" unit="character" quantity="1"/>ḍujuggi<!-- strange name --> pola<unclear>garu</unclear>
                <lb n="16"/><unclear>su</unclear> da<unclear>k</unclear>ṣ<supplied reason="lost">i</supplied>ṇa-diśaN
@@ -111,7 +111,7 @@
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- Update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                     <note></note>
                   </app>
                </listApp>         
          </div>

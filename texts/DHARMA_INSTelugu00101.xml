@@ -87,14 +87,14 @@
       <body>
          <div type="edition" xml:lang="tel-Latn">
             <p xml:lang="tel-Latn">
-                <milestone unit="face" type="facelike" n="A"/>
+                <milestone unit="face" type="pagelike" n="A"/>
              <lb n="1"/>svasti śrī magidogarajula muṭlu
              <lb n="2"/>viṭṟajula pratama-rā<lb break="no" n="3"/>jyaṁbuna kaḍu<unclear>mallu</unclear><lb break="no" n="4"/>la Iccina reṇḍu vaṭi
              <lb n="5"/>miriyampu bōḷa<lb break="no" n="6"/>jakkuṟēgari pa<lb break="no" n="7"/>ḍaśina reṇḍu vaṭṭi
              <lb n="8"/>padēnduṁbu Āḍlu pa<lb break="no" n="9"/>ṭṭu druggādēvi nēlayu
              <lb n="10"/>Uṟuvuṭuri bōḷa
              <lb n="11"/>reṇḍūṭṭiyu tūṟpuN
-                <milestone unit="face" type="facelike" n="B"/>
+                <milestone unit="face" type="pagelike" n="B"/>
              <lb n="12"/>I reṇḍ<supplied reason="lost">ū</supplied><unclear>ṭ</unclear>i ḻacuvaru
              <lb n="13"/>kaḷarēni bāranāsi
              <lb n="14"/>vēgavilāḷu vē<supplied reason="omitted">gu</supplied>ḍlu<lb break="no" n="15"/>mu vēśeṟuvuḷu
