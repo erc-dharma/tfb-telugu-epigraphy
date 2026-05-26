@@ -78,7 +78,7 @@
                <lb n="13"/>bōḷu n<unclear>ā</unclear>nṟu mah<unclear>ā</unclear>janaṁbu śu<supplied reason="lost">bhaṁ</supplied><lb n="14" break="no"/>bu vr̥ddhiyu <supplied reason="omitted">A</supplied>ku
             </p> 
             
-                                  <lg n="1" met="anuṣṭubh" xml:lang="san-Latn"><l n="a">svadat<supplied reason="omitted">t</supplied>ā<supplied reason="lost">ṁ</supplied> parada<lb n="15" break="no"/>ttāṁ vā</l><l n="b"> yō harēta vas<supplied reason="lost">u</supplied><lb n="16" break="no"/><supplied reason="undefined">ndharāṁ</supplied></l><l n="c"><supplied reason="undefined">ṣaṣṭiṁ varṣasahasrāṇi</supplied></l><l n="c"> <supplied reason="undefined">viṣṭāyāṁ jāyatē kr̥miḥ</supplied></l>
+                                  <lg n="1" met="anuṣṭubh" xml:lang="san-Latn"><l n="a">svadat<supplied reason="omitted">t</supplied>ā<supplied reason="lost">ṁ</supplied> parada<lb n="15" break="no"/>ttāṁ vā</l><l n="b"> yō harēta vas<supplied reason="lost">u</supplied><lb n="16" break="no"/><supplied reason="undefined">ndharāṁ</supplied></l><l n="c"><supplied reason="undefined">ṣaṣṭiṁ varṣasahasrāṇi</supplied></l><l n="d"> <supplied reason="undefined">viṣṭāyāṁ jāyatē kr̥miḥ</supplied></l>
            </lg>
             
          </div>
@@ -156,7 +156,7 @@
           </p>
            <listBibl type="secondary">
               <bibl>A. R. No. B 26 of 1958-1959 <!-- has to be adjusted to the @target --></bibl>
-              <bibl><ptr target="bib:Ramesh+RamachandraMurthy1969-1970_04"/><citedRange unit="page">333</citedRange><citedRange unit="item">56 A</citedRange></bibl>
+              <bibl n="RRM"><ptr target="bib:Ramesh+RamachandraMurthy1969-1970_04"/><citedRange unit="page">333</citedRange><citedRange unit="item">56 A</citedRange></bibl>
            </listBibl>
         </div>
       </body>

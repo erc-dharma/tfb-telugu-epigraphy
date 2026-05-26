@@ -101,10 +101,10 @@
       <body>
          <div type="edition" xml:lang="tel-Latn">
              <p><!-- the picture has to be seen regarding halantas etc. -->
-                 <milestone unit="face" type="facelike" n="A"/>
+                 <milestone unit="face" type="pagelike" n="A"/>
                  <lb n="1"/>svasti śrī sōḻa-mahārājull ēḷaN In-puḻōli
                  <lb n="2"/>Aṇapōtulu rēvaṇakālu puddaṇakālu Iccina pa<lb break="no" n="3"/>nnasa pen-pāṟa IśaṟēnikiN tēni ḻaccinavānṟu <unclear>pa</unclear><lb break="no" n="4"/><supplied reason="lost">ñca</supplied>mahāpā<unclear>ta</unclear>kunṟ akuN
-                 <milestone unit="face" type="facelike" n="B"/>
+                 <milestone unit="face" type="pagelike" n="B"/>
                  <lb n="5"/>Asivairuvu likitaM
              </p>
          </div>
