@@ -111,7 +111,7 @@
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- Update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <note></note>
+                     <note/>
                   </app>
                </listApp>         
          </div>
