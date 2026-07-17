@@ -10,14 +10,14 @@
          <titleStmt>
             <title>Grant of a certain geographical property under the rule of Vaidumba-Mutturāju</title>
             <respStmt>
-               <resp>EpiDoc Encoding</resp>
+               <resp key="contributor">EpiDoc Encoding</resp>
                <persName ref="part:jeth">
                   <forename>Jens Christian</forename>
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName>
                   <forename>J.</forename>
                   <surname>Ramayya Pantulu</surname>

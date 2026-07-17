@@ -11,14 +11,14 @@
             <title>Hero stone of Arivarajamunṟu (Vaidumba?)</title>
             <!-- It has yet to be ascertained whether he is the one who died -->
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp key="creator">EpiDoc encoding</resp>
                <persName ref="part:jeth">
                   <forename>Jens Christian</forename>
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of the edition (re-reading)</resp>
+               <resp key="contributor">intellectual authorship of the edition (re-reading)</resp>
                <persName>
                   <forename>N.</forename>
                   <surname>Lakshminarayan Rao</surname>
@@ -26,7 +26,7 @@
                </persName>
             </respStmt>
             <respStmt>
-               <resp>editorial basis for the re-reading by N. Lakshminarayab Rao</resp>
+               <resp key="contributor">editorial basis for the re-reading by N. Lakshminarayab Rao</resp>
                <persName>
                   <forename>J.</forename>
                   <surname>Ramayya Pantulu</surname>

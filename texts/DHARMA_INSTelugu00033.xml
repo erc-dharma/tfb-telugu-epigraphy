@@ -10,14 +10,14 @@
          <titleStmt>
             <title>Names of donors?</title>
             <respStmt>
-               <resp>Creation of file</resp>
+               <resp key="contributor">Creation of file</resp>
                <persName ref="part:jeth">
                   <forename>Jens Christian</forename>
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName>
                   <forename>J.</forename>
                   <surname>Ramayya Pantulu</surname>

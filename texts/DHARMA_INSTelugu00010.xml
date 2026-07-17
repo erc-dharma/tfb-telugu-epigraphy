@@ -8,14 +8,14 @@
          <titleStmt>
             <title>The work of Kuṟuvadi Ācaṟlu</title>
             <respStmt>
-               <resp>EpiDoc Encoding</resp>
+               <resp key="contributor">EpiDoc Encoding</resp>
                <persName ref="part:jeth">
                   <forename>Jens Christian</forename>
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <!-- Or the editor if only minor adjustments have been made -->
                <persName>
                   <forename>J.</forename>

@@ -10,14 +10,14 @@
             <titleStmt>
                 <title><!-- ADD TITLE HERE --></title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp key="contributor">EpiDoc Encoding</resp>
                     <persName ref="part:jeth">
                         <forename>Jens Christian</forename>
                         <surname>Thomas</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp><!-- HAS TO BE CHANGED IF ANOTHER EDITION IS TAKEN AS A BASIS -->
+                    <resp key="creator">intellectual authorship of edition</resp><!-- HAS TO BE CHANGED IF ANOTHER EDITION IS TAKEN AS A BASIS -->
                     <persName>
                         <forename>K. V.</forename>
                         <surname>Lakshmana Rao</surname>

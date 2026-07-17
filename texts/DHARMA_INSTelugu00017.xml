@@ -10,21 +10,21 @@
          <titleStmt>
             <title>Land grant of Atiśayaraṭṭakūṭṭa during the reign of Erikal-Muturāju</title>
             <respStmt>
-               <resp>Creation of file</resp>
+               <resp key="contributor">Creation of file</resp>
                <persName ref="part:jeth">
                   <forename>Jens Christian</forename>
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>tentative restauration of the lacunae</resp>
+               <resp key="contributor">tentative restauration of the lacunae</resp>
                <persName ref="part:jeth">
                   <forename>Jens Christian</forename>
                   <surname>Thomas</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName>
                   <forename>K. A.</forename>
                   <surname>Nilakanta Sastri</surname>
